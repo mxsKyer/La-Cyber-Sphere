@@ -47,4 +47,4 @@ jobs:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
           channelId: live
-          projectId: REMPLACE-PAR-L-ID-DE-TON-PROJET-FIREBASE
+          projectId: la-cyber-sphere
