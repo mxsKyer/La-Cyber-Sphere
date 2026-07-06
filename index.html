@@ -1,0 +1,1121 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>La Cyber Sphère — Bulletin de veille cyber</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#FAF8F4;
+    --paper-alt:#F1ECE3;
+    --ink:#201E1A;
+    --ink-secondary:#5C574C;
+    --ink-dim:#9B9384;
+    --rule:#DCD5C6;
+    --rule-strong:#C7BEA9;
+    --accent:#8F2A24;
+    --sev-critical:#8F2A24;
+    --sev-high:#9C5B1E;
+    --sev-medium:#856E1A;
+    --sev-low:#3D6B52;
+    --font-serif:'Fraunces',serif;
+    --font-sans:'Inter',sans-serif;
+    --font-mono:'IBM Plex Mono',monospace;
+  }
+  html[data-theme="dark"]{
+    --paper:#17140F;
+    --paper-alt:#201B13;
+    --ink:#EDE7D9;
+    --ink-secondary:#B3AA95;
+    --ink-dim:#786F5C;
+    --rule:#332D1E;
+    --rule-strong:#453D28;
+    --accent:#DB6459;
+    --sev-critical:#DB6459;
+    --sev-high:#D99548;
+    --sev-medium:#CBB24A;
+    --sev-low:#63AF8C;
+  }
+  html{transition:background-color 0.2s ease;}
+  body{transition:background-color 0.2s ease, color 0.2s ease;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{
+    background:var(--paper);
+    color:var(--ink);
+    font-family:var(--font-sans);
+    line-height:1.5;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:inherit;text-decoration:none;}
+  .wrap{max-width:1180px;margin:0 auto;padding:0 32px;}
+  .smallcaps{
+    font-family:var(--font-sans);font-size:11.5px;font-weight:600;
+    letter-spacing:0.09em;text-transform:uppercase;color:var(--ink-dim);
+  }
+
+  .theme-toggle{
+    display:flex;align-items:center;gap:6px;font-family:var(--font-sans);font-size:12.5px;
+    color:var(--ink-secondary);border:1px solid var(--rule-strong);padding:5px 10px;background:transparent;
+    cursor:pointer;
+  }
+  .theme-toggle:hover{color:var(--ink);border-color:var(--ink);}
+  .theme-toggle svg{width:13px;height:13px;stroke:currentColor;fill:none;stroke-width:1.6;}
+
+  .byline-strip{border-bottom:1px solid var(--rule);background:var(--paper-alt);}
+  .byline-strip .wrap{display:flex;align-items:center;gap:12px;height:46px;}
+  .byline-avatar{
+    width:26px;height:26px;border-radius:50%;background:var(--ink);color:var(--paper);
+    display:flex;align-items:center;justify-content:center;font-family:var(--font-serif);
+    font-weight:700;font-size:11.5px;flex-shrink:0;
+  }
+  .byline-strip .text{font-size:12.5px;color:var(--ink-secondary);}
+  .byline-strip .text strong{color:var(--ink);font-weight:600;}
+
+  /* ---------- TOUCHES CYBER DISCRÈTES ---------- */
+  .corner-frame{
+    position:relative;background-color:var(--paper-alt);
+    background-image:
+      linear-gradient(var(--accent),var(--accent)),linear-gradient(var(--accent),var(--accent)),
+      linear-gradient(var(--accent),var(--accent)),linear-gradient(var(--accent),var(--accent)),
+      linear-gradient(var(--accent),var(--accent)),linear-gradient(var(--accent),var(--accent)),
+      linear-gradient(var(--accent),var(--accent)),linear-gradient(var(--accent),var(--accent));
+    background-repeat:no-repeat;
+    background-size:1px 9px,9px 1px,1px 9px,9px 1px,1px 9px,9px 1px,1px 9px,9px 1px;
+    background-position:0 0,0 0, 100% 0,100% 0, 0 100%,0 100%, 100% 100%,100% 100%;
+    opacity:0.92;
+  }
+  @keyframes signalsweep{0%{background-position:200% 0;}100%{background-position:-200% 0;}}
+  .sig-tag{
+    display:flex;align-items:center;gap:6px;font-family:var(--font-mono);font-size:10px;
+    letter-spacing:0.06em;color:var(--ink-dim);
+  }
+  .sig-tag .pulse{
+    width:5px;height:5px;border-radius:50%;background:var(--sev-low);flex-shrink:0;
+    box-shadow:0 0 0 3px rgba(61,220,151,0.16), 0 0 6px 1px rgba(61,220,151,0.35);
+    animation:pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.35;}}
+  @media (prefers-reduced-motion: reduce){ .sig-tag .pulse{animation:none;} }
+
+  /* bandeau défilant */
+  .ticker-strip{
+    position:relative;border-bottom:1px solid var(--rule);background:var(--paper-alt);overflow:hidden;
+    white-space:nowrap;
+  }
+  .ticker-strip::before{
+    content:'';position:absolute;top:0;left:0;right:0;height:1px;
+    background:linear-gradient(90deg,transparent,var(--accent) 50%,transparent);
+    background-size:200% 100%;animation:signalsweep 8s linear infinite;opacity:0.45;
+  }
+  @media (prefers-reduced-motion: reduce){ .ticker-strip::before{animation:none;} }
+  .ticker-track{
+    display:inline-flex;gap:48px;padding:9px 0;
+    font-family:var(--font-mono);font-size:11.5px;letter-spacing:0.03em;color:var(--ink-secondary);
+    animation:ticker 32s linear infinite;
+  }
+  .ticker-track .accent-num{color:var(--accent);font-weight:600;}
+  @keyframes ticker{0%{transform:translateX(0);}100%{transform:translateX(-50%);}}
+  @media (prefers-reduced-motion: reduce){ .ticker-track{animation:none;} }
+
+  /* balayage du panneau d'indice */
+  .index-card{position:relative;overflow:hidden;transition:box-shadow .25s ease, transform .25s ease;}
+  .index-card:hover{box-shadow:0 8px 24px -12px rgba(32,30,26,0.18);transform:translateY(-2px);}
+  html[data-theme="dark"] .index-card:hover{box-shadow:0 8px 28px -10px rgba(0,0,0,0.5);}
+  .index-card::before{
+    content:'';position:absolute;left:0;right:0;height:40px;top:-40px;
+    background:linear-gradient(180deg, transparent, rgba(143,42,36,0.08), transparent);
+    animation:scan 5s ease-in-out infinite;pointer-events:none;
+  }
+  html[data-theme="dark"] .index-card::before{
+    background:linear-gradient(180deg, transparent, rgba(219,100,89,0.14), transparent);
+  }
+  @keyframes scan{0%{top:-40px;}100%{top:100%;}}
+  @media (prefers-reduced-motion: reduce){ .index-card::before{animation:none;display:none;} }
+
+  /* lueur discrète sur les éléments interactifs */
+  .btn-primary,.subscribe-btn,.cta-btn{transition:box-shadow .25s ease;}
+  .btn-primary:hover,.subscribe-btn:hover,.cta-btn:hover{box-shadow:0 0 0 1px var(--accent), 0 0 14px 1px rgba(143,42,36,0.3);}
+  html[data-theme="dark"] .btn-primary:hover,html[data-theme="dark"] .subscribe-btn:hover,html[data-theme="dark"] .cta-btn:hover{
+    box-shadow:0 0 0 1px var(--accent), 0 0 16px 2px rgba(219,100,89,0.4);
+  }
+
+  .cursor-blink{
+    display:inline-block;color:var(--accent);font-weight:400;
+    animation:blink 1.1s step-end infinite;margin-left:2px;
+  }
+  @keyframes blink{0%,100%{opacity:1;}50%{opacity:0;}}
+  @media (prefers-reduced-motion: reduce){ .cursor-blink{animation:none;} }
+
+  .status-tag{
+    display:flex;align-items:center;gap:6px;font-family:var(--font-mono);font-size:11px;
+    letter-spacing:0.05em;color:var(--ink-dim);
+  }
+  .status-tag .pulse{
+    width:5px;height:5px;border-radius:50%;background:var(--sev-low);flex-shrink:0;
+    animation:pulse 2.4s ease-in-out infinite;
+  }
+  @media (prefers-reduced-motion: reduce){ .status-tag .pulse{animation:none;} }
+
+  .reading-progress{
+    position:fixed;top:0;left:0;height:2px;background:var(--accent);
+    width:0%;z-index:100;transition:width .1s linear;
+  }
+  @media (prefers-reduced-motion: reduce){ .reading-progress{transition:none;} }
+
+  .back-to-top{
+    position:fixed;bottom:24px;right:24px;width:42px;height:42px;
+    background:var(--ink);color:var(--paper);border:none;border-radius:50%;
+    display:flex;align-items:center;justify-content:center;cursor:pointer;
+    opacity:0;pointer-events:none;transition:opacity .25s ease, transform .25s ease, background-color .25s ease;
+    z-index:90;
+  }
+  .back-to-top.show{opacity:1;pointer-events:auto;}
+  .back-to-top:hover{background:var(--accent);transform:translateY(-2px);}
+  .back-to-top svg{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2;}
+
+  .section-nav a.nav-active{color:var(--accent);border-color:var(--accent);}
+
+  /* ---------- UTILITY BAR ---------- */
+  .utility{border-bottom:1px solid var(--rule);}
+  .utility .wrap{
+    display:flex;justify-content:space-between;align-items:center;height:42px;
+    font-family:var(--font-sans);font-size:12.5px;color:var(--ink-secondary);
+  }
+  .utility a{border-bottom:1px solid var(--rule-strong);padding-bottom:1px;}
+  .utility a:hover{color:var(--accent);border-color:var(--accent);}
+
+  .prefs-panel{
+    max-height:0;overflow:hidden;border-bottom:0 solid var(--rule);background:var(--paper-alt);
+    transition:max-height .3s ease, border-color .3s ease;
+  }
+  .prefs-panel.open{max-height:220px;border-bottom-width:1px;}
+  .prefs-inner{display:flex;gap:40px;flex-wrap:wrap;padding:20px 0;}
+  .prefs-label{font-size:11px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;color:var(--ink-dim);margin-bottom:10px;}
+  .prefs-row{display:flex;gap:8px;flex-wrap:wrap;}
+  .prefs-option{
+    font-family:var(--font-sans);font-size:12.5px;color:var(--ink-secondary);
+    border:1px solid var(--rule-strong);padding:7px 12px;background:transparent;cursor:pointer;
+  }
+  .prefs-option.active{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+  .prefs-option:hover:not(.active){border-color:var(--ink);color:var(--ink);}
+  .prefs-note{width:100%;font-size:11.5px;color:var(--ink-dim);margin-top:6px;line-height:1.5;}
+
+  /* ---------- MASTHEAD ---------- */
+  .masthead{text-align:center;padding:58px 0 34px;border-bottom:3px solid var(--ink);}
+  .masthead .kicker{margin-bottom:16px;}
+  .masthead h1{
+    font-family:var(--font-serif);font-weight:700;font-size:56px;
+    letter-spacing:-0.02em;line-height:0.98;
+  }
+  .masthead .tagline{
+    font-family:var(--font-serif);font-style:italic;font-weight:500;
+    color:var(--ink-secondary);font-size:16.5px;margin-top:16px;
+  }
+
+  nav.section-nav{border-bottom:1px solid var(--rule);}
+  nav.section-nav .wrap{
+    display:flex;justify-content:center;gap:40px;height:52px;align-items:center;
+    font-size:13.5px;font-weight:500;
+  }
+  nav.section-nav a{padding:6px 0;border-bottom:2px solid transparent;}
+  nav.section-nav a:hover{border-color:var(--accent);color:var(--accent);}
+
+  /* ---------- LEAD STORY ---------- */
+  .lead{padding:56px 0 48px;border-bottom:1px solid var(--rule);}
+  .lead-grid{display:grid;grid-template-columns:1fr 300px;gap:56px;align-items:start;}
+  .lead .dateline{
+    font-family:var(--font-sans);font-size:11.5px;font-weight:700;letter-spacing:0.1em;
+    text-transform:uppercase;color:var(--sev-critical);margin-bottom:18px;
+  }
+  .lead h2{
+    font-family:var(--font-serif);font-weight:700;font-size:44px;line-height:1.06;
+    letter-spacing:-0.015em;margin-bottom:20px;
+  }
+  .lead .dek{
+    font-family:var(--font-serif);font-style:italic;font-size:19.5px;line-height:1.52;
+    color:var(--ink-secondary);max-width:600px;margin-bottom:20px;
+  }
+  .lead .byline{font-size:13px;color:var(--ink-dim);margin-bottom:6px;}
+  .lead .byline a{border-bottom:1px solid var(--rule-strong);}
+  .lead .byline a:hover{color:var(--accent);border-color:var(--accent);}
+
+  .index-card{
+    border:1px solid var(--rule);padding:22px 22px 20px;
+  }
+  .index-card.corner-frame{border:none;}
+  .index-card .smallcaps{margin-bottom:4px;}
+  .index-card .index-value{
+    font-family:var(--font-serif);font-weight:700;font-size:40px;margin:8px 0 2px;letter-spacing:-0.01em;
+  }
+  .index-card .index-delta{font-size:13px;color:var(--sev-high);margin-bottom:16px;}
+  #riskline{display:block;width:100%;height:64px;}
+  .index-card .index-foot{
+    font-size:12px;color:var(--ink-dim);margin-top:12px;padding-top:12px;
+    border-top:1px solid var(--rule);line-height:1.55;
+  }
+
+  /* ---------- BRIEFING LIST ---------- */
+  .briefing{padding:52px 0 60px;}
+  .briefing-grid{display:grid;grid-template-columns:1fr 300px;gap:56px;align-items:start;}
+  .section-title{
+    font-family:var(--font-serif);font-weight:600;font-size:22px;
+    padding-bottom:14px;border-bottom:2px solid var(--ink);margin-bottom:6px;
+  }
+  .story{
+    padding:26px 20px;margin:0 -20px;border-bottom:1px solid var(--rule);border-radius:4px;
+    display:grid;grid-template-columns:84px 1fr;gap:20px;
+    transition:background-color .25s ease, transform .25s ease;
+    opacity:0;transform:translateY(14px);
+  }
+  .story.in-view{opacity:1;transform:translateY(0);}
+  .story:hover{background-color:var(--paper-alt);}
+  @media (prefers-reduced-motion: reduce){
+    .story{opacity:1;transform:none;transition:none;}
+  }
+  .story:first-of-type{padding-top:20px;}
+  .story-icon{
+    width:84px;height:84px;flex-shrink:0;
+    display:flex;align-items:center;justify-content:center;
+    transition:transform .25s ease;
+  }
+  .story:hover .story-icon{transform:scale(1.05);}
+  .story-icon svg{width:38px;height:38px;fill:none;stroke-width:1.4;}
+  .sev-critical .story-icon svg{stroke:var(--sev-critical);}
+  .sev-high .story-icon svg{stroke:var(--sev-high);}
+  .sev-medium .story-icon svg{stroke:var(--sev-medium);}
+  .sev-low .story-icon svg{stroke:var(--sev-low);}
+  .sev-dot{width:8px;height:8px;border-radius:50%;display:inline-block;}
+  .sev-critical .sev-dot{background:var(--sev-critical);}
+  .sev-high .sev-dot{background:var(--sev-high);}
+  .sev-medium .sev-dot{background:var(--sev-medium);}
+  .sev-low .sev-dot{background:var(--sev-low);}
+  .story-label{
+    font-size:11.5px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;
+  }
+  .sev-critical .story-label{color:var(--sev-critical);}
+  .sev-high .story-label{color:var(--sev-high);}
+  .sev-medium .story-label{color:var(--sev-medium);}
+  .sev-low .story-label{color:var(--sev-low);}
+  .story-meta{display:flex;gap:10px;align-items:center;margin-bottom:8px;}
+  .story-meta .dot-sep{color:var(--ink-dim);}
+  .story-source{font-size:12.5px;color:var(--ink-secondary);}
+  .story-time{font-family:var(--font-mono);font-size:11.5px;color:var(--ink-dim);}
+  .story h3{
+    font-family:var(--font-serif);font-weight:600;font-size:21px;line-height:1.28;
+    margin-bottom:8px;letter-spacing:-0.005em;
+  }
+  .story p{font-size:14.5px;color:var(--ink-secondary);line-height:1.62;max-width:600px;margin-bottom:10px;}
+  .story .read-link{
+    font-size:13px;font-weight:500;border-bottom:1px solid var(--rule-strong);padding-bottom:1px;
+  }
+  .story .read-link:hover{color:var(--accent);border-color:var(--accent);}
+  .copy-link-btn{
+    font-family:var(--font-sans);font-size:12px;color:var(--ink-dim);background:none;border:none;
+    cursor:pointer;margin-left:14px;padding:0;border-bottom:1px dashed var(--ink-dim);
+  }
+  .copy-link-btn:hover{color:var(--accent);border-color:var(--accent);}
+  .copy-link-btn.copied{color:var(--sev-low);border-color:var(--sev-low);}
+
+  .more-link{
+    display:block;text-align:center;margin-top:26px;padding-top:22px;border-top:1px solid var(--rule);
+    font-size:13.5px;font-weight:500;
+  }
+  .more-link:hover{color:var(--accent);}
+
+  /* ---------- SIDEBAR ---------- */
+  .side-block{padding:24px 0;border-bottom:1px solid var(--rule);}
+  .side-block:first-child{padding-top:0;}
+  .side-title{
+    font-family:var(--font-sans);font-size:12px;font-weight:600;letter-spacing:0.07em;
+    text-transform:uppercase;color:var(--ink);margin-bottom:16px;
+  }
+  .cve-line{display:flex;justify-content:space-between;align-items:baseline;padding:9px 0;border-top:1px solid var(--rule);}
+  .cve-line:first-of-type{border-top:none;}
+  .cve-id{font-family:var(--font-mono);font-size:12.5px;}
+  .cve-product{font-size:12px;color:var(--ink-secondary);flex:1;padding:0 10px;}
+  .cve-score{font-family:var(--font-mono);font-size:12.5px;font-weight:500;}
+  .cve-score.crit{color:var(--sev-critical);}
+  .cve-score.high{color:var(--sev-high);}
+
+  .stat-line{display:flex;justify-content:space-between;padding:10px 0;border-top:1px solid var(--rule);font-size:13.5px;}
+  .stat-line:first-of-type{border-top:none;}
+  .stat-line .num{font-family:var(--font-serif);font-weight:700;font-size:15px;}
+
+  .source-list{columns:2;column-gap:18px;font-size:13px;color:var(--ink-secondary);}
+  .source-list div{padding:5px 0;break-inside:avoid;}
+  .source-list a:hover{color:var(--accent);}
+
+  .subscribe-box{background:var(--paper-alt);padding:24px;border:1px solid var(--rule);transition:box-shadow .25s ease, transform .25s ease;}
+  .subscribe-box:hover{box-shadow:0 8px 24px -12px rgba(32,30,26,0.18);transform:translateY(-2px);}
+  html[data-theme="dark"] .subscribe-box:hover{box-shadow:0 8px 28px -10px rgba(0,0,0,0.5);}
+  .subscribe-box.corner-frame{border:none;}
+  .subscribe-box p.lead-in{font-family:var(--font-serif);font-style:italic;font-size:15px;margin-bottom:14px;line-height:1.5;}
+  .subscribe-box input{
+    width:100%;background:var(--paper);border:1px solid var(--rule-strong);
+    padding:10px 12px;font-family:var(--font-sans);font-size:13.5px;color:var(--ink);
+    margin-bottom:10px;
+  }
+  .subscribe-box input:focus{outline:none;border-color:var(--ink);}
+  .subscribe-btn{
+    display:block;text-align:center;background:var(--ink);color:var(--paper);
+    padding:11px;font-size:13.5px;font-weight:500;
+  }
+  .subscribe-btn:hover{background:var(--accent);}
+  .subscribe-box .fine{font-size:11.5px;color:var(--ink-dim);margin-top:10px;line-height:1.5;}
+
+  /* ---------- FORMATIONS ---------- */
+  .formations{padding:56px 0 60px;border-top:1px solid var(--rule);}
+  .formations-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;}
+  .formations-head .section-title{margin-bottom:0;flex:1;}
+  .formations-head .smallcaps{white-space:nowrap;margin-left:20px;}
+  .formations-sub{font-family:var(--font-serif);font-style:italic;color:var(--ink-secondary);font-size:15px;margin:14px 0 30px;max-width:640px;}
+  .course-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--rule);border:1px solid var(--rule);}
+  .course-card{background:var(--paper);padding:26px;display:grid;grid-template-columns:56px 1fr;gap:18px;}
+  .course-icon{width:56px;height:56px;flex-shrink:0;}
+  .course-icon svg{width:100%;height:100%;fill:none;stroke:var(--ink);stroke-width:1.3;}
+  .course-meta{display:flex;gap:10px;margin-bottom:8px;}
+  .course-tag{
+    font-size:11px;font-weight:600;letter-spacing:0.06em;text-transform:uppercase;
+    color:var(--ink-secondary);border:1px solid var(--rule-strong);padding:2px 8px;
+  }
+  .course-card h4{font-family:var(--font-serif);font-weight:600;font-size:18px;margin-bottom:7px;line-height:1.25;}
+  .course-card p{font-size:13.5px;color:var(--ink-secondary);line-height:1.58;margin-bottom:10px;}
+  .course-card .read-link{font-size:13px;font-weight:500;border-bottom:1px solid var(--rule-strong);padding-bottom:1px;}
+  .course-card .read-link:hover{color:var(--accent);border-color:var(--accent);}
+
+  .feed-controls{display:flex;gap:10px;margin-bottom:22px;flex-wrap:wrap;}
+  .feed-search{
+    flex:1;min-width:160px;background:var(--paper);border:1px solid var(--rule-strong);
+    padding:9px 12px;font-family:var(--font-sans);font-size:13px;color:var(--ink);
+  }
+  .feed-search:focus{outline:none;border-color:var(--ink);}
+  .feed-filter{
+    font-family:var(--font-sans);font-size:12.5px;font-weight:500;color:var(--ink-secondary);
+    border:1px solid var(--rule-strong);padding:9px 13px;background:transparent;cursor:pointer;
+  }
+  .feed-filter.active{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+  .feed-filter:hover:not(.active){border-color:var(--ink);color:var(--ink);}
+  .feed-empty{padding:32px 0;text-align:center;color:var(--ink-dim);font-size:13.5px;display:none;}
+  .feed-empty.show{display:block;}
+
+  /* ---------- INTERÉTATIQUE ---------- */
+  .geopolitics{padding:56px 0 60px;border-top:1px solid var(--rule);}
+  .geopolitics-sub{font-family:var(--font-serif);font-style:italic;color:var(--ink-secondary);font-size:15px;margin:14px 0 8px;max-width:680px;line-height:1.55;}
+  .geopolitics-note{font-size:12.5px;color:var(--ink-dim);margin-bottom:28px;max-width:680px;line-height:1.6;}
+  .geo-table{width:100%;border-collapse:collapse;font-size:13.5px;}
+  .geo-table th{
+    text-align:left;font-family:var(--font-sans);font-size:11px;font-weight:600;letter-spacing:0.06em;
+    text-transform:uppercase;color:var(--ink-dim);padding:0 14px 10px 0;border-bottom:2px solid var(--ink);
+  }
+  .geo-table td{padding:14px 14px 14px 0;border-bottom:1px solid var(--rule);vertical-align:top;transition:background-color .2s ease;}
+  .geo-table tbody tr:hover td{background-color:var(--paper-alt);}
+  .geo-table tr:last-child td{border-bottom:none;}
+  .geo-actor{font-family:var(--font-mono);font-size:12.5px;color:var(--ink);}
+  .geo-origin{white-space:nowrap;color:var(--ink-secondary);}
+  .geo-sev{
+    font-family:var(--font-mono);font-size:10.5px;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;
+    padding:2px 8px;border:1px solid;white-space:nowrap;
+  }
+  .geo-sev.crit{color:var(--sev-critical);border-color:var(--sev-critical);}
+  .geo-sev.high{color:var(--sev-high);border-color:var(--sev-high);}
+  .geo-source{font-family:var(--font-mono);font-size:11px;color:var(--ink-dim);white-space:nowrap;}
+  .geo-source a{color:var(--accent);}
+  .geo-source a:hover{text-decoration:underline;}
+  .confidence{
+    font-family:var(--font-sans);font-size:11px;font-weight:500;white-space:nowrap;
+    display:inline-flex;align-items:center;gap:5px;
+  }
+  .confidence::before{content:'';width:6px;height:6px;border-radius:50%;}
+  .confidence.conf-high{color:var(--sev-low);}
+  .confidence.conf-high::before{background:var(--sev-low);}
+  .confidence.conf-medium{color:var(--sev-medium);}
+  .confidence.conf-medium::before{background:var(--sev-medium);}
+  .confidence.conf-single{color:var(--ink-dim);}
+  .confidence.conf-single::before{background:var(--ink-dim);}
+  @media(max-width:820px){
+    .geo-table{display:block;overflow-x:auto;white-space:nowrap;}
+  }
+
+  /* ---------- METHODOLOGY ---------- */
+  .methodology{background:var(--paper-alt);border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:64px 0;}
+  .method-inner{display:grid;grid-template-columns:0.9fr 1.1fr;gap:64px;align-items:start;}
+  .methodology .smallcaps{margin-bottom:14px;}
+  .methodology h2{
+    font-family:var(--font-serif);font-weight:600;font-size:30px;letter-spacing:-0.01em;line-height:1.15;
+  }
+  .method-list{display:flex;flex-direction:column;gap:26px;}
+  .method-item{display:grid;grid-template-columns:34px 1fr;gap:16px;}
+  .method-item .index{font-family:var(--font-serif);font-weight:600;font-size:19px;color:var(--ink-dim);}
+  .method-item h4{font-size:15.5px;font-weight:600;margin-bottom:6px;}
+  .method-item p{font-size:14px;color:var(--ink-secondary);line-height:1.62;}
+
+  /* ---------- À PROPOS ---------- */
+  .about{padding:64px 0;text-align:center;}
+  .about-inner{max-width:640px;margin:0 auto;}
+  .about h2{font-family:var(--font-serif);font-weight:600;font-size:28px;letter-spacing:-0.01em;margin:14px 0 18px;}
+  .about p{font-size:15px;color:var(--ink-secondary);line-height:1.7;margin-bottom:14px;}
+
+  /* ---------- FOOTER ---------- */
+  footer{padding:40px 0;}
+  .footer-row{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:16px;}
+  .footer-mark{font-family:var(--font-serif);font-weight:700;font-size:17px;}
+  .footer-links{display:flex;gap:24px;font-size:13px;color:var(--ink-secondary);}
+  .footer-links a:hover{color:var(--accent);}
+  .footer-note{font-size:12px;color:var(--ink-dim);margin-top:22px;line-height:1.7;max-width:760px;}
+
+  @media(max-width:960px){
+    .lead-grid,.briefing-grid,.method-inner{grid-template-columns:1fr;}
+    .masthead h1{font-size:38px;}
+    nav.section-nav .wrap{gap:22px;font-size:12.5px;overflow-x:auto;}
+    .course-grid{grid-template-columns:1fr;}
+    .story{grid-template-columns:64px 1fr;gap:14px;}
+    .story-icon{width:64px;height:64px;}
+    .story-icon svg{width:30px;height:30px;}
+  }
+
+  @media print{
+    .utility, .prefs-panel, .ticker-strip, nav.section-nav, .reading-progress,
+    .back-to-top, .feed-controls, .feed-empty, .subscribe-box, .hero-actions,
+    .copy-link-btn{ display:none !important; }
+    body{background:#fff;color:#000;}
+    .story{opacity:1 !important;transform:none !important;break-inside:avoid;}
+    a{color:#000;text-decoration:underline;}
+    .index-card::before{display:none;}
+  }
+</style>
+</head>
+<body>
+
+<div class="reading-progress" id="readingProgress"></div>
+<button class="back-to-top" id="backToTop" aria-label="Revenir en haut de page">
+  <svg viewBox="0 0 24 24"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+</button>
+
+<div class="utility">
+  <div class="wrap">
+    <span id="fulldate">Lundi 6 juillet 2026</span>
+    <div style="display:flex;align-items:center;gap:18px;">
+      <span class="status-tag"><span class="pulse"></span>DPS · NODE-04 EN LIGNE</span>
+      <a href="#abonnement">Recevoir le bulletin par e-mail</a>
+      <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
+        <span>Préférences</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="prefs-panel" id="prefsPanel">
+  <div class="wrap prefs-inner">
+    <div class="prefs-col">
+      <div class="prefs-label">Apparence</div>
+      <div class="prefs-row">
+        <button class="prefs-option" data-theme-choice="light">Clair</button>
+        <button class="prefs-option" data-theme-choice="dark">Sombre</button>
+        <button class="prefs-option" data-theme-choice="auto">Auto (système)</button>
+      </div>
+    </div>
+    <div class="prefs-col">
+      <div class="prefs-label">Seuil d'alerte e-mail</div>
+      <div class="prefs-row">
+        <button class="prefs-option" data-threshold="critical">Critique seul</button>
+        <button class="prefs-option" data-threshold="high">Critique + Élevé</button>
+        <button class="prefs-option" data-threshold="all">Tous les signaux</button>
+      </div>
+    </div>
+    <div class="prefs-col">
+      <div class="prefs-label">Fréquence du résumé</div>
+      <div class="prefs-row">
+        <button class="prefs-option" data-frequency="instant">Temps réel</button>
+        <button class="prefs-option" data-frequency="daily">Résumé quotidien</button>
+        <button class="prefs-option" data-frequency="weekly">Résumé hebdomadaire</button>
+      </div>
+    </div>
+    <p class="prefs-note">Ces préférences sont enregistrées dans ce navigateur uniquement. Aucune donnée n'est transmise tant qu'aucune adresse e-mail n'est renseignée.</p>
+  </div>
+</div>
+
+<div class="byline-strip">
+  <div class="wrap">
+    <div class="byline-avatar">J</div>
+    <div class="text">Bulletin rédigé et vérifié par <strong>Joze</strong> — néophyte en cybersécurité, curieux de sécurité mobile</div>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="kicker smallcaps">Édition quotidienne — n° 214</div>
+    <h1>La Cyber Sphère</h1>
+    <p class="tagline">Le bulletin qui suit chaque signal, avant qu'il ne devienne une brèche<span class="cursor-blink">_</span></p>
+  </div>
+</header>
+<div class="ticker-strip">
+  <div class="ticker-track" id="tickerTrack">
+    <span id="attackCount" class="accent-num">182</span>&nbsp;cyberattaques recensées en France hier<span id="yestDate"></span>
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">182</span>&nbsp;cyberattaques recensées en France hier<span id="yestDate2"></span>
+  </div>
+</div>
+
+<nav class="section-nav">
+  <div class="wrap">
+    <a href="#briefing">Le briefing</a>
+    <a href="#cve">Vulnérabilités</a>
+    <a href="archives.html">Archives</a>
+    <a href="quiz.html">Quiz du jour</a>
+    <a href="#geopolitique">Interétatique</a>
+    <a href="#methodologie">Méthodologie</a>
+    <a href="#apropos">À propos</a>
+    <a href="#sources">Sources suivies</a>
+    <a href="#abonnement">S'abonner</a>
+  </div>
+</nav>
+
+<section class="lead">
+  <div class="wrap lead-grid">
+    <div>
+      <div style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
+        <div class="story-icon corner-frame" style="width:52px;height:52px;">
+          <svg viewBox="0 0 48 48" style="width:26px;height:26px;fill:none;stroke:var(--sev-critical);stroke-width:1.4;">
+            <rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/>
+          </svg>
+        </div>
+        <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
+      </div>
+      <h2>Une faille activement exploitée dans une passerelle VPN largement déployée pousse la CISA à fixer un délai de correction contraint</h2>
+      <p class="dek">L'agence américaine a inscrit la vulnérabilité à son catalogue des failles connues et exploitées, signe d'une exploitation déjà observée sur le terrain plutôt que théorique.</p>
+      <div class="byline">Source : <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA — Catalogue KEV</a> · Il y a 41 minutes</div>
+    </div>
+    <div class="index-card corner-frame">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+        <div class="smallcaps">Indice de tension cyber</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 072</div>
+      </div>
+      <div class="index-value">72<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta">▲ 6 points sur 7 jours</div>
+      <canvas id="riskline"></canvas>
+      <div class="index-foot">Calculé à partir du volume et de la sévérité des signaux détectés sur la semaine glissante.</div>
+    </div>
+  </div>
+</section>
+
+<section class="briefing" id="briefing">
+  <div class="wrap briefing-grid">
+    <div>
+      <div class="section-title">Le briefing du jour</div>
+      <div class="feed-controls">
+        <input type="text" class="feed-search" id="feedSearch" placeholder="Rechercher un mot-clé, une source, un CVE…">
+        <button class="feed-filter active" data-sev="all">Tout</button>
+        <button class="feed-filter" data-sev="sev-critical">Critique</button>
+        <button class="feed-filter" data-sev="sev-high">Élevé</button>
+        <button class="feed-filter" data-sev="sev-medium">Moyen</button>
+        <button class="feed-filter" data-sev="sev-low">Faible</button>
+      </div>
+      <div class="feed-empty" id="feedEmpty">Aucun signal ne correspond à cette recherche.</div>
+
+      
+      <article class="story sev-high" id="story-1">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 4l16 6v12c0 11-7 18-16 22C15 40 8 33 8 22V10z"/><path d="M24 14v8M24 26v2M17 17l3 3M31 17l-3 3M14 24h4M30 24h4M17 31l3-3M31 31l-3-3"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">Il y a 1h12</span><span class="dot-sep">·</span><span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Un collectif se réclamant d'Anonymous revendique une opération contre un portail institutionnel européen</h3>
+          <p>Le groupe affirme avoir rendu le site indisponible par déni de service distribué. L'organisme visé n'a pas encore confirmé officiellement l'incident.</p>
+          <a href="https://www.zataz.com" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-2">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">CERT-FR</span><span class="dot-sep">·</span>
+            <span class="story-time">Il y a 2h05</span><span class="dot-sep">·</span><span class="confidence conf-high">Élevée</span>
+          </div>
+          <h3>Recrudescence de rançongiciels visant des hébergeurs de messagerie mutualisée en France</h3>
+          <p>Le centre gouvernemental signale des intrusions exploitant des identifiants administrateur compromis pour déployer un chiffreur sur des serveurs partagés.</p>
+          <a href="https://www.cert.ssi.gouv.fr" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-medium" id="story-3">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">Il y a 3h20</span><span class="dot-sep">·</span><span class="confidence conf-medium">Modérée</span>
+          </div>
+          <h3>Une bibliothèque JavaScript très répandue corrige une faille de désérialisation</h3>
+          <p>Les mainteneurs ont publié un correctif après la découverte d'un vecteur d'exécution de code dans certaines configurations serveur. Aucune exploitation réelle rapportée pour l'instant.</p>
+          <a href="https://thehackernews.com" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-4">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Krebs on Security</span><span class="dot-sep">·</span>
+            <span class="story-time">Il y a 4h48</span><span class="dot-sep">·</span><span class="confidence conf-medium">Modérée</span>
+          </div>
+          <h3>Fuite de données chez un courtier en assurance après la compromission d'un prestataire tiers</h3>
+          <p>Des informations personnelles et des documents d'identité auraient été exposés. L'entreprise a engagé une procédure de notification des personnes concernées.</p>
+          <a href="https://krebsonsecurity.com" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-5">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">Il y a 6h02</span><span class="dot-sep">·</span><span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Une campagne de phishing usurpe l'identité visuelle d'une plateforme de covoiturage</h3>
+          <p>Les messages redirigent vers un formulaire imitant l'interface officielle pour capter des coordonnées bancaires. La plateforme a été alertée.</p>
+          <a href="https://www.bleepingcomputer.com" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
+        </div>
+      </article>
+
+      
+
+      <a href="#" class="more-link">Voir le briefing des jours précédents →</a>
+    </div>
+
+    <aside>
+      <div class="side-block" id="cve">
+        <div class="side-title">Vulnérabilités à surveiller</div>
+        <div class="cve-line"><span class="cve-id">CVE-2026-3311</span><span class="cve-product">Passerelle VPN</span><span class="cve-score crit">9.8</span></div>
+        <div class="cve-line"><span class="cve-id">CVE-2026-2984</span><span class="cve-product">Serveur mail</span><span class="cve-score crit">9.1</span></div>
+        <div class="cve-line"><span class="cve-id">CVE-2026-2790</span><span class="cve-product">Framework web</span><span class="cve-score high">8.2</span></div>
+        <div class="cve-line"><span class="cve-id">CVE-2026-2601</span><span class="cve-product">Routeur SOHO</span><span class="cve-score high">7.6</span></div>
+      </div>
+
+      <div class="side-block">
+        <div class="side-title">La semaine en chiffres</div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">312</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">14</span></div>
+        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">63</span></div>
+        <div class="stat-line"><span>Délai moyen de détection</span><span class="num">8 min</span></div>
+      </div>
+
+      <div class="side-block" id="sources">
+        <div class="side-title">Sources suivies</div>
+        <div class="source-list">
+          <div><a href="https://www.cert.ssi.gouv.fr" target="_blank" rel="noopener">CERT-FR</a></div><div><a href="https://www.ssi.gouv.fr" target="_blank" rel="noopener">ANSSI</a></div>
+          <div><a href="https://www.cisa.gov" target="_blank" rel="noopener">CISA</a></div><div><a href="https://www.enisa.europa.eu" target="_blank" rel="noopener">ENISA</a></div>
+          <div><a href="https://nvd.nist.gov" target="_blank" rel="noopener">NVD / MITRE</a></div><div><a href="https://www.bleepingcomputer.com" target="_blank" rel="noopener">BleepingComputer</a></div>
+          <div><a href="https://thehackernews.com" target="_blank" rel="noopener">The Hacker News</a></div><div><a href="https://www.zataz.com" target="_blank" rel="noopener">ZATAZ</a></div>
+          <div><a href="https://krebsonsecurity.com" target="_blank" rel="noopener">Krebs on Security</a></div><div><a href="https://abuse.ch" target="_blank" rel="noopener">abuse.ch</a></div>
+          <div><a href="https://otx.alienvault.com" target="_blank" rel="noopener">AlienVault OTX</a></div>
+        </div>
+      </div>
+
+      <div class="side-block" id="abonnement" style="border-bottom:none;">
+        <div class="subscribe-box corner-frame">
+          <p class="lead-in">Le briefing critique, une fois par jour, dans votre messagerie.</p>
+          <form onsubmit="return false;">
+            <input type="email" placeholder="adresse@etablissement.fr">
+            <a href="#" class="subscribe-btn">S'abonner</a>
+          </form>
+          <p class="fine">Uniquement les signaux Critique et Élevé. Désabonnement en un clic.</p>
+        </div>
+      </div>
+    </aside>
+  </div>
+</section>
+
+<section class="geopolitics" id="geopolitique">
+  <div class="wrap">
+    <div class="section-title">Cyberconflits interétatiques</div>
+    <p class="geopolitics-sub">Les opérations attribuées à des groupes liés à des États, telles que documentées publiquement par les agences gouvernementales et les éditeurs de sécurité.</p>
+    <p class="geopolitics-note">Ces attributions reposent sur des analyses techniques publiques (infrastructures, modes opératoires, code) et restent des probabilités formulées par des agences et des chercheurs — pas des certitudes judiciaires. Un désaccord entre sources sur une attribution donnée n'est pas rare ; la colonne source renvoie au rapport public le plus récent sur lequel s'appuie chaque ligne.</p>
+    <table class="geo-table">
+      <thead>
+        <tr>
+          <th>Acteur attribué</th>
+          <th>Origine présumée</th>
+          <th>Cible / activité récente</th>
+          <th>Secteur</th>
+          <th>Type d'opération</th>
+          <th>Sévérité</th>
+          <th>Confiance</th>
+          <th>Source</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="geo-actor">APT28 (Fancy Bear / Forest Blizzard)</td>
+          <td class="geo-origin">Russie — GRU, unité 26165</td>
+          <td>Détournement de DNS via des routeurs domestiques et de petites entreprises dans le monde, pour intercepter identifiants et jetons d'authentification</td>
+          <td>Infrastructure réseau</td>
+          <td>Espionnage</td>
+          <td><span class="geo-sev high">Élevé</span></td>
+          <td><span class="confidence conf-high">Élevée</span></td>
+          <td class="geo-source"><a href="https://www.ncsc.gov.uk/news/apt28-exploit-routers-to-enable-dns-hijacking-operations" target="_blank" rel="noopener">NCSC (Royaume-Uni), avr. 2026</a></td>
+        </tr>
+        <tr>
+          <td class="geo-actor">Sandworm (APT44 / Seashell Blizzard)</td>
+          <td class="geo-origin">Russie — GRU, unité 74455</td>
+          <td>Effaceur de données (DynoWiper) déployé contre un exploitant du réseau électrique polonais, dix ans jour pour jour après la première coupure de courant imputée au groupe en Ukraine</td>
+          <td>Énergie</td>
+          <td>Sabotage</td>
+          <td><span class="geo-sev crit">Critique</span></td>
+          <td><span class="confidence conf-medium">Modérée</span></td>
+          <td class="geo-source"><a href="https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/" target="_blank" rel="noopener">ESET Research, janv. 2026</a></td>
+        </tr>
+        <tr>
+          <td class="geo-actor">Lazarus Group (TraderTraitor)</td>
+          <td class="geo-origin">Corée du Nord — Bureau général de reconnaissance</td>
+          <td>Vol de 292 M$ sur le protocole Kelp DAO puis 285 M$ sur Drift Protocol, via des ponts inter-chaînes compromis</td>
+          <td>Finance / cryptomonnaies</td>
+          <td>Vol de fonds</td>
+          <td><span class="geo-sev crit">Critique</span></td>
+          <td><span class="confidence conf-medium">Modérée</span></td>
+          <td class="geo-source"><a href="https://www.upi.com/Top_News/World-News/2026/04/22/KelpDAO-LayerZero-North-Korea-crypto-hack-theft-Lazarus-Group/6151776848419/" target="_blank" rel="noopener">LayerZero / analyses on-chain, avr. 2026</a></td>
+        </tr>
+        <tr>
+          <td class="geo-actor">Acteurs APT liés à la Chine (chevauchement avec Salt Typhoon)</td>
+          <td class="geo-origin">Chine (présumée)</td>
+          <td>Accès persistant de long terme aux routeurs cœur de réseau d'opérateurs télécoms et d'infrastructures critiques dans une douzaine de pays</td>
+          <td>Télécommunications</td>
+          <td>Espionnage</td>
+          <td><span class="geo-sev crit">Critique</span></td>
+          <td><span class="confidence conf-high">Élevée</span></td>
+          <td class="geo-source"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a" target="_blank" rel="noopener">CISA / NSA / FBI, conjointement avec 12 pays partenaires, août 2025</a></td>
+        </tr>
+        <tr>
+          <td class="geo-actor">Acteurs affiliés à l'IRGC</td>
+          <td class="geo-origin">Iran — Gardiens de la révolution</td>
+          <td>Compromission d'automates programmables (PLC) utilisés dans les secteurs de l'eau, de l'énergie et de l'agroalimentaire</td>
+          <td>Eau / énergie</td>
+          <td>Sabotage potentiel d'infrastructures OT</td>
+          <td><span class="geo-sev high">Élevé</span></td>
+          <td><span class="confidence conf-high">Élevée</span></td>
+          <td class="geo-source"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a" target="_blank" rel="noopener">CISA / FBI / NSA / partenaires internationaux, 2026</a></td>
+        </tr>
+      </tbody>
+    </table>
+    <p class="geopolitics-note" style="margin-top:16px;margin-bottom:0;">
+      <span class="confidence conf-high">Élevée</span>&nbsp;— attribution officielle par une ou plusieurs agences gouvernementales, avec preuves techniques publiées.
+      &nbsp; <span class="confidence conf-medium">Modérée</span>&nbsp;— attribution par un seul éditeur de sécurité, formulée avec réserve ("confiance moyenne", "probable").
+      &nbsp; <span class="confidence conf-single">Source unique</span>&nbsp;— non recoupée à ce jour.
+    </p>
+  </div>
+</section>
+
+<section class="methodology" id="methodologie">
+  <div class="wrap method-inner">
+    <div>
+      <div class="smallcaps">Méthodologie</div>
+      <h2>Un signal, jamais une copie.</h2>
+    </div>
+    <div class="method-list">
+      <div class="method-item">
+        <div class="index">01</div>
+        <div>
+          <h4>Collecte</h4>
+          <p>Les flux officiels (CERT-FR, CISA, ENISA, NVD) et les flux RSS publics de la presse spécialisée sont interrogés en continu, dans le respect des conditions d'usage de chaque source.</p>
+        </div>
+      </div>
+      <div class="method-item">
+        <div class="index">02</div>
+        <div>
+          <h4>Résumé original</h4>
+          <p>Chaque signal est reformulé en deux phrases au maximum, sans emprunt de texte à la source. Aucun paragraphe n'est jamais reproduit, même partiellement.</p>
+        </div>
+      </div>
+      <div class="method-item">
+        <div class="index">03</div>
+        <div>
+          <h4>Scoring éditorial</h4>
+          <p>Un niveau de sévérité est attribué selon des critères objectifs — score CVSS pour les CVE, portée et confirmation pour les incidents — avant déclenchement d'une alerte.</p>
+        </div>
+      </div>
+      <div class="method-item">
+        <div class="index">04</div>
+        <div>
+          <h4>Indice de confiance</h4>
+          <p>Chaque signal affiche son niveau de corroboration : <span class="confidence conf-high">Élevée</span> quand une agence gouvernementale l'a confirmé, <span class="confidence conf-medium">Modérée</span> quand un seul éditeur de sécurité l'a documenté avec réserve, <span class="confidence conf-single">Source unique</span> quand rien ne le recoupe encore. Ce n'est jamais un verdict de vérité à 100 % — seulement le reflet honnête de ce qui est vérifiable aujourd'hui.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="about" id="apropos">
+  <div class="wrap about-inner">
+    <div class="smallcaps">À propos</div>
+    <h2>Un bulletin, pas un fil d'angoisse.</h2>
+    <p>La Cyber Sphère est née d'un constat simple : l'actualité cyber est soit noyée dans un jargon technique illisible, soit transformée en sensationnalisme pour faire du clic. Entre les deux, il manquait un endroit où suivre le signal sans le bruit — résumé, sourcé, daté, sans reproduire ce que d'autres ont écrit.</p>
+    <p>Le projet reste piloté à échelle humaine, avec l'ambition de grandir sans perdre ce qui en fait l'intérêt : la rigueur avant la vitesse, et l'attribution avant l'audience.</p>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="footer-row">
+      <div class="footer-mark">La Cyber Sphère</div>
+      <div class="footer-links">
+        <a href="#methodologie">Méthodologie</a>
+        <a href="#sources">Sources</a>
+        <a href="#geopolitique">Interétatique</a>
+        <a href="archives.html">Archives</a>
+        <a href="quiz.html">Quiz du jour</a>
+        <a href="rss.xml">Flux RSS</a>
+        <a href="mentions-legales.html">Mentions légales</a>
+        <a href="#">Contact</a>
+      </div>
+    </div>
+    <p class="footer-note">Projet pédagogique de démonstration. Les signaux affichés ici sont des exemples illustratifs et ne reflètent pas d'événements réels. Une mise en production connecterait le bulletin aux sources listées ci-dessus, via leurs API ou flux RSS publics, dans le respect de leurs conditions d'utilisation et du droit d'auteur.</p>
+  </div>
+</footer>
+
+<script>
+  const root = document.documentElement;
+  const prefsToggle = document.getElementById('prefsToggle');
+  const prefsPanel = document.getElementById('prefsPanel');
+
+  function applyTheme(t){
+    if(t === 'dark'){ root.setAttribute('data-theme','dark'); }
+    else if(t === 'light'){ root.removeAttribute('data-theme'); }
+    else {
+      const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+      if(prefersDark){ root.setAttribute('data-theme','dark'); } else { root.removeAttribute('data-theme'); }
+    }
+    document.querySelectorAll('[data-theme-choice]').forEach(b=>{
+      b.classList.toggle('active', b.dataset.themeChoice === t);
+    });
+  }
+  const savedTheme = localStorage.getItem('spectre-theme') || 'auto';
+  applyTheme(savedTheme);
+
+  document.querySelectorAll('[data-theme-choice]').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const t = btn.dataset.themeChoice;
+      applyTheme(t);
+      localStorage.setItem('spectre-theme', t);
+    });
+  });
+
+  function setActiveGroup(selector, key, storageKey){
+    const saved = localStorage.getItem(storageKey);
+    document.querySelectorAll(selector).forEach(btn=>{
+      if(saved && btn.dataset[key] === saved) btn.classList.add('active');
+      btn.addEventListener('click', ()=>{
+        document.querySelectorAll(selector).forEach(b=>b.classList.remove('active'));
+        btn.classList.add('active');
+        localStorage.setItem(storageKey, btn.dataset[key]);
+      });
+    });
+  }
+  setActiveGroup('[data-threshold]', 'threshold', 'spectre-threshold');
+  setActiveGroup('[data-frequency]', 'frequency', 'spectre-frequency');
+  // Valeurs par défaut si jamais réglées
+  if(!localStorage.getItem('spectre-threshold')){
+    document.querySelector('[data-threshold="high"]').classList.add('active');
+  }
+  if(!localStorage.getItem('spectre-frequency')){
+    document.querySelector('[data-frequency="daily"]').classList.add('active');
+  }
+
+  prefsToggle.addEventListener('click', ()=>{
+    prefsPanel.classList.toggle('open');
+  });
+
+  // Recherche et filtre du briefing
+  const feedSearch = document.getElementById('feedSearch');
+  const feedFilters = document.querySelectorAll('.feed-filter');
+  const feedEmpty = document.getElementById('feedEmpty');
+  const feedStories = document.querySelectorAll('#briefing .story');
+  let activeSev = 'all';
+
+  function applyFeedFilter(){
+    const query = feedSearch.value.trim().toLowerCase();
+    let visibleCount = 0;
+    feedStories.forEach(story=>{
+      const matchesSev = activeSev === 'all' || story.classList.contains(activeSev);
+      const matchesQuery = !query || story.textContent.toLowerCase().includes(query);
+      const show = matchesSev && matchesQuery;
+      story.style.display = show ? '' : 'none';
+      if(show) visibleCount++;
+    });
+    feedEmpty.classList.toggle('show', visibleCount === 0);
+  }
+
+  feedSearch.addEventListener('input', applyFeedFilter);
+  feedFilters.forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      feedFilters.forEach(b=>b.classList.remove('active'));
+      btn.classList.add('active');
+      activeSev = btn.dataset.sev;
+      applyFeedFilter();
+    });
+  });
+
+  // Apparition progressive des articles au défilement
+  const revealObserver = new IntersectionObserver((entries)=>{
+    entries.forEach(entry=>{
+      if(entry.isIntersecting){
+        entry.target.classList.add('in-view');
+        revealObserver.unobserve(entry.target);
+      }
+    });
+  }, {threshold:0.1, rootMargin:'0px 0px -40px 0px'});
+  feedStories.forEach((story, i)=>{
+    story.style.transitionDelay = (i * 40) + 'ms';
+    revealObserver.observe(story);
+  });
+
+  // Barre de progression de lecture + bouton retour en haut
+  const readingProgress = document.getElementById('readingProgress');
+  const backToTop = document.getElementById('backToTop');
+  function onScroll(){
+    const scrollTop = window.scrollY;
+    const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    const pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+    readingProgress.style.width = pct + '%';
+    backToTop.classList.toggle('show', scrollTop > 600);
+  }
+  window.addEventListener('scroll', onScroll, {passive:true});
+  onScroll();
+  backToTop.addEventListener('click', ()=>{
+    window.scrollTo({top:0, behavior:'smooth'});
+  });
+
+  // Navigation active selon la section visible
+  const navLinks = document.querySelectorAll('nav.section-nav a[href^="#"]');
+  const navSections = Array.from(navLinks).map(a=>document.querySelector(a.getAttribute('href'))).filter(Boolean);
+  function updateActiveNav(){
+    let current = null;
+    navSections.forEach(sec=>{
+      if(sec.getBoundingClientRect().top <= 120) current = sec;
+    });
+    navLinks.forEach(a=>{
+      const target = document.querySelector(a.getAttribute('href'));
+      a.classList.toggle('nav-active', target === current);
+    });
+  }
+  window.addEventListener('scroll', updateActiveNav, {passive:true});
+  updateActiveNav();
+
+  // Raccourci clavier "/" pour la recherche
+  document.addEventListener('keydown', (e)=>{
+    if(e.key === '/' && document.activeElement !== feedSearch && document.activeElement.tagName !== 'INPUT'){
+      e.preventDefault();
+      feedSearch.focus();
+    }
+  });
+
+  // Copier le lien direct vers un article
+  document.querySelectorAll('.copy-link-btn').forEach(btn=>{
+    btn.addEventListener('click', ()=>{
+      const target = btn.dataset.copyTarget;
+      const url = window.location.origin + window.location.pathname + target;
+      navigator.clipboard.writeText(url).then(()=>{
+        const original = btn.textContent;
+        btn.textContent = 'Lien copié ✓';
+        btn.classList.add('copied');
+        setTimeout(()=>{ btn.textContent = original; btn.classList.remove('copied'); }, 2000);
+      }).catch(()=>{});
+    });
+  });
+</script>
+
+<script>
+  const months = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  const days = ['dimanche','lundi','mardi','mercredi','jeudi','vendredi','samedi'];
+  const d = new Date();
+  document.getElementById('fulldate').textContent =
+    days[d.getDay()].charAt(0).toUpperCase()+days[d.getDay()].slice(1)+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear();
+
+  const yesterday = new Date(d);
+  yesterday.setDate(d.getDate()-1);
+  const yestText = ' ('+yesterday.getDate()+' '+months[yesterday.getMonth()]+')';
+  document.getElementById('yestDate').textContent = yestText;
+  document.getElementById('yestDate2').textContent = yestText;
+
+  const canvas = document.getElementById('riskline');
+  const ctx = canvas.getContext('2d');
+  function draw(){
+    const rect = canvas.parentElement.getBoundingClientRect();
+    const w = rect.width - 44;
+    const h = 64;
+    canvas.width = w*devicePixelRatio; canvas.height = h*devicePixelRatio;
+    canvas.style.width = w+'px'; canvas.style.height = h+'px';
+    ctx.setTransform(devicePixelRatio,0,0,devicePixelRatio,0,0);
+    ctx.clearRect(0,0,w,h);
+
+    const accent = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#8F2A24';
+    const rule = getComputedStyle(document.documentElement).getPropertyValue('--rule').trim() || '#DCD5C6';
+
+    // grille horizontale discrète
+    ctx.strokeStyle = rule;
+    ctx.lineWidth = 1;
+    for(let i=1;i<3;i++){
+      const gy = (h/3)*i;
+      ctx.beginPath();
+      ctx.moveTo(0, gy);
+      ctx.lineTo(w, gy);
+      ctx.stroke();
+    }
+
+    const points = [38,44,41,50,55,52,60,58,66,63,70,68,72];
+    const max = 80, min = 30;
+    const coords = points.map((p,i)=>({
+      x: (i/(points.length-1))*w,
+      y: h - ((p-min)/(max-min))*h
+    }));
+
+    // aire sous la courbe
+    const gradient = ctx.createLinearGradient(0,0,0,h);
+    gradient.addColorStop(0, accent + '33');
+    gradient.addColorStop(1, accent + '00');
+    ctx.beginPath();
+    ctx.moveTo(coords[0].x, h);
+    coords.forEach(c=>ctx.lineTo(c.x, c.y));
+    ctx.lineTo(coords[coords.length-1].x, h);
+    ctx.closePath();
+    ctx.fillStyle = gradient;
+    ctx.fill();
+
+    // ligne
+    ctx.beginPath();
+    coords.forEach((c,i)=>{ if(i===0) ctx.moveTo(c.x,c.y); else ctx.lineTo(c.x,c.y); });
+    ctx.strokeStyle = accent;
+    ctx.lineWidth = 1.8;
+    ctx.stroke();
+
+    const lastC = coords[coords.length-1];
+    ctx.beginPath();
+    ctx.arc(lastC.x-1.8, lastC.y, 3, 0, Math.PI*2);
+    ctx.fillStyle = accent;
+    ctx.fill();
+  }
+  draw();
+  window.addEventListener('resize', draw);
+  const themeObserver = new MutationObserver(draw);
+  themeObserver.observe(document.documentElement, {attributes:true, attributeFilter:['data-theme']});
+</script>
+
+</body>
+</html>

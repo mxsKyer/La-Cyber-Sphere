@@ -1,0 +1,50 @@
+name: Mise à jour et déploiement de La Cyber Sphère
+
+on:
+  schedule:
+    # Toutes les 30 minutes. Adapte selon le rythme voulu (respecte les
+    # conditions d'utilisation de chaque source — pas plus fréquent que
+    # nécessaire).
+    - cron: '*/30 * * * *'
+  workflow_dispatch: {}   # permet de le lancer manuellement depuis GitHub
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Installer les dépendances
+        run: pip install -r backend/requirements.txt --break-system-packages
+
+      - name: Lancer la collecte
+        working-directory: backend
+        run: python3 collector.py
+
+      - name: Régénérer les pages du site
+        working-directory: backend
+        run: python3 generate.py
+
+      - name: Valider les changements dans le dépôt
+        run: |
+          git config user.name "la-cyber-sphere-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add la_cyber_sphere.html index.html archives.html rss.xml backend/spectre.db
+          git diff --quiet && git diff --staged --quiet || git commit -m "Mise à jour automatique du bulletin"
+          git push
+
+      - name: Déployer sur Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          channelId: live
+          projectId: REMPLACE-PAR-L-ID-DE-TON-PROJET-FIREBASE
