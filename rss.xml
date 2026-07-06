@@ -6,6 +6,52 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Vietnam arrests suspects behind HiAnime anime piracy service</title>
+    <link>https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/</link>
+    <description>​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 06 Jul 2026 14:25:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake IT support calls on Microsoft Teams push EtherRAT malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/</link>
+    <description>Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 06 Jul 2026 16:23:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Phishing poses as big-brand job interview to steal Google accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/</link>
+    <description>A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 06 Jul 2026 16:27:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure</title>
+    <link>https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html</link>
+    <description>Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig.
+
+The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 06 Jul 2026 21:58:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems</title>
+    <link>https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html</link>
+    <description>A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it.
+
+Dubbed 'Januscape' and tracked as&amp;nbsp;CVE-2026-53359, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 06 Jul 2026 23:07:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations</title>
+    <link>https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html</link>
+    <description>An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 07 Jul 2026 00:04:26 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-28318 — SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-28318</link>
     <description>SolarWinds Serv-U contains an uncontrolled resource consumption vulnerability that allows specially crafted POST requests using the Content-Encoding: deflate header to crash the Serv-U service without authentication.</description>
