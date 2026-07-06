@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>La Cyber Sphère — Bulletin de veille cyber</title>
+  <link>https://example.com/la_cyber_sphere.html</link>
+  <description>Alertes critiques et élevées, résumées et sourcées.</description>
+  <language>fr-fr</language>
+
+  <item>
+    <title>[Élevé] Un collectif se réclamant d'Anonymous revendique une opération contre un portail institutionnel européen</title>
+    <link>https://www.zataz.com</link>
+    <description>Le groupe affirme avoir rendu le site indisponible par déni de service distribué. L'organisme visé n'a pas encore confirmé officiellement l'incident.</description>
+    <source>ZATAZ</source>
+  </item>
+
+  <item>
+    <title>[Critique] Recrudescence de rançongiciels visant des hébergeurs de messagerie mutualisée en France</title>
+    <link>https://www.cert.ssi.gouv.fr</link>
+    <description>Le centre gouvernemental signale des intrusions exploitant des identifiants administrateur compromis pour déployer un chiffreur sur des serveurs partagés.</description>
+    <source>CERT-FR</source>
+  </item>
+
+  <item>
+    <title>[Moyen] Une bibliothèque JavaScript très répandue corrige une faille de désérialisation</title>
+    <link>https://thehackernews.com</link>
+    <description>Les mainteneurs ont publié un correctif après la découverte d'un vecteur d'exécution de code dans certaines configurations serveur.</description>
+    <source>The Hacker News</source>
+  </item>
+
+</channel>
+</rss>

@@ -1,0 +1,12 @@
+# Base de données locale générée par le collecteur — ne doit pas être versionnée
+# telle quelle si elle grossit trop, mais on l'inclut ici volontairement dans le
+# workflow pour que le job GitHub Actions garde son historique entre deux runs.
+# Si tu préfères ne pas la versionner, retire la ligne correspondante dans
+# .github/workflows/update-and-deploy.yml (git add ...) et ajoute-la ici.
+
+*.log
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+.firebase/
