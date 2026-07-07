@@ -6,6 +6,55 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Un ado de 15 ans accusé d’attaque cyber contre Bandai Channel</title>
+    <link>https://www.zataz.com/un-ado-de-15-ans-accuse-dattaque-cyber-contre-bandai-channel/</link>
+    <description>Un lycéen arrêté après une attaque ayant annulé 46 812 abonnements Bandai Channel. Il a utilisé ChatGPT pour créer son outil pirate.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 06 Jul 2026 21:59:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft testing new Cloud Rebuild Windows 11 recovery feature</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/</link>
+    <description>Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 07 Jul 2026 03:37:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] BeyondTrust warns of critical flaws in remote access software</title>
+    <link>https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/</link>
+    <description>BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 07 Jul 2026 04:12:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft to enable Windows settings backup by default for orgs</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/</link>
+    <description>Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 07 Jul 2026 05:41:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA</title>
+    <link>https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html</link>
+    <description>BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 07 Jul 2026 10:46:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</title>
+    <link>https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html</link>
+    <description>Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 07 Jul 2026 12:10:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities</title>
+    <link>https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html</link>
+    <description>A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 07 Jul 2026 14:40:51 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Vietnam arrests suspects behind HiAnime anime piracy service</title>
     <link>https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/</link>
     <description>​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]</description>
