@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] CISA orders feds to patch max severity ColdFusion flaw by Friday</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 03:16:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV</title>
+    <link>https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The vulnerabilities…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 11:03:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros</title>
+    <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
+    <description>Researchers at&amp;nbsp;Nebula Security&amp;nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&amp;nbsp;root&amp;nbsp;control of a machine that has not been…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 11:46:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-48282 — Adobe ColdFusion Path Traversal Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-48282</link>
     <description>Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user.</description>
