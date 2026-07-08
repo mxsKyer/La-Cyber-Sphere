@@ -6,6 +6,129 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Réseaux sociaux : Bruxelles recadre la loi mineurs</title>
+    <link>https://www.zataz.com/reseaux-sociaux-bruxelles-recadre-la-loi-mineurs/</link>
+    <description>Bruxelles valide la liste noire sénatoriale, en ciblant les pouvoirs de l’Arcom sur les réseaux sociaux.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 08 Jul 2026 14:33:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LHDN : 10 millions de dossiers fiscaux en vente</title>
+    <link>https://www.zataz.com/lhdn-10-millions-de-dossiers-fiscaux-en-vente/</link>
+    <description>Données fiscales en vente : 10 millions de dossiers fiscaux revendiqués, risque cyber critique.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 08 Jul 2026 15:09:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Sauvegardes et rançongiciels : le 3-2-1 dépassé ?</title>
+    <link>https://www.zataz.com/sauvegardes-et-rancongiciels-le-3-2-1-depasse/</link>
+    <description>Pourquoi la règle 3-2-1 reste utile face aux rançongiciels, et pourquoi elle doit évoluer.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 08 Jul 2026 15:25:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] InTruth veut vérifier les politiques en direct</title>
+    <link>https://www.zataz.com/intruth-veut-verifier-les-politiques-en-direct/</link>
+    <description>InTruth utilise l’IA pour vérifier en direct les déclarations politiques et limiter l’impact des fausses informations.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 08 Jul 2026 15:40:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
+    <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
+    <description>A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Ubiquiti warns of new max severity  UniFi OS vulnerability</title>
+    <link>https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/</link>
+    <description>Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 04:15:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA orders feds to prioritize patching Langflow auth bypass flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 05:58:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Telco giant KDDI says data breach affects over 12 million people</title>
+    <link>https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/</link>
+    <description>Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 07:24:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DuckDuckGo browser now blocks YouTube video ads</title>
+    <link>https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/</link>
+    <description>DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 08:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 3 Ways AI Powers Service Desk Attacks and How to Prevent Them</title>
+    <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/</link>
+    <description>Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware</title>
+    <link>https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html</link>
+    <description>A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.
+
+According to findings from…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 14:34:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code</title>
+    <link>https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html</link>
+    <description>An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 16:51:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Verification Step Is the New ATO Battleground in 2026</title>
+    <link>https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html</link>
+    <description>For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures</title>
+    <link>https://thehackernews.com/2026/07/github-verified-commits-can-be.html</link>
+    <description>New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 17:21:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users</title>
+    <link>https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html</link>
+    <description>A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.
+
+The activity cluster, tracked by Elastic Security Labs under…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 18:22:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Ghost Phishing Wave Is Breaking Traditional Email Security</title>
+    <link>https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html</link>
+    <description>A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 18:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS</title>
+    <link>https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html</link>
+    <description>Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 08 Jul 2026 20:08:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] CISA orders feds to patch max severity ColdFusion flaw by Friday</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by…</description>
@@ -168,55 +291,6 @@ From there, they could…</description>
     <description>A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 07 Jul 2026 22:40:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un ado de 15 ans accusé d’attaque cyber contre Bandai Channel</title>
-    <link>https://www.zataz.com/un-ado-de-15-ans-accuse-dattaque-cyber-contre-bandai-channel/</link>
-    <description>Un lycéen arrêté après une attaque ayant annulé 46 812 abonnements Bandai Channel. Il a utilisé ChatGPT pour créer son outil pirate.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 06 Jul 2026 21:59:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft testing new Cloud Rebuild Windows 11 recovery feature</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/</link>
-    <description>Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 07 Jul 2026 03:37:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] BeyondTrust warns of critical flaws in remote access software</title>
-    <link>https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/</link>
-    <description>BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 07 Jul 2026 04:12:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft to enable Windows settings backup by default for orgs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/</link>
-    <description>Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 07 Jul 2026 05:41:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA</title>
-    <link>https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html</link>
-    <description>BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 07 Jul 2026 10:46:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware</title>
-    <link>https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html</link>
-    <description>Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 07 Jul 2026 12:10:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities</title>
-    <link>https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html</link>
-    <description>A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 07 Jul 2026 14:40:51 +0530</pubDate>
   </item>
 </channel>
 </rss>
