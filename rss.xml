@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Injective SDK on npm infected with cryptocurrency wallet stealer</title>
+    <link>https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/</link>
+    <description>Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 16:10:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenMandriva Linux says contributor tried to sabotage the project</title>
+    <link>https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/</link>
+    <description>The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 18:14:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
+    <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
+    <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs</title>
+    <link>https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html</link>
+    <description>Datadog Security Labs is warning of "several overlapping campaigns" that are systematically enumerating corporate GitHub organizations, repositories, and user accounts through the GitHub&amp;nbsp;API.
+
+"Operators rely on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 00:08:49 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] FFE : une nouvelle fuite massive à la veille des Championnats de France</title>
     <link>https://www.zataz.com/ffe-une-nouvelle-fuite-massive-a-la-veille-des-championnats-de-france/</link>
     <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
@@ -156,45 +186,6 @@ This week is full of that kind of damage. Not…</description>
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Entra passkey enrollment vishing targets Microsoft 365 users</title>
-    <link>https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/</link>
-    <description>A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 12:47:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers exploit Roundcube flaw to spy on academic researchers</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/</link>
-    <description>A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 14:56:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/</link>
-    <description>Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 15:54:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware</title>
-    <link>https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html</link>
-    <description>AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist.
-
-New research, which its authors…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 20:37:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers</title>
-    <link>https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html</link>
-    <description>Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders.
-
-The agents are not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 22:32:12 +0530</pubDate>
   </item>
 </channel>
 </rss>
