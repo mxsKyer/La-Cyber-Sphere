@@ -6,6 +6,158 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FFE : une nouvelle fuite massive à la veille des Championnats de France</title>
+    <link>https://www.zataz.com/ffe-une-nouvelle-fuite-massive-a-la-veille-des-championnats-de-france/</link>
+    <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 09 Jul 2026 16:48:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Mount Royal University confirms breach as hackers claim attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/</link>
+    <description>Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 08 Jul 2026 17:26:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft patches RoguePlanet Defender zero-day vulnerability</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/</link>
+    <description>Microsoft has released a security patch to address a Defender zero-day vulnerability known as "RoguePlanet," disclosed after the June 2026 Patch Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 01:42:49 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] AssuranceAmerica data breach exposes records of 6.9 million drivers</title>
+    <link>https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/</link>
+    <description>American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 03:47:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police arrests 5,800 suspects in global anti-fraud crackdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/</link>
+    <description>Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 05:47:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft to retire the OWA Light client in Exchange Server</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/</link>
+    <description>Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 07:00:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Hidden Security Risks of Reduced Summer IT Coverage</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/</link>
+    <description>Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Forg365 phishing platform uses AI to target Microsoft 365 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/</link>
+    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 10:39:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft expects more Windows security updates from AI-discovered flaws</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/</link>
+    <description>Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 13:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Helix vishing group emerges in SharePoint data theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/</link>
+    <description>A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 13:08:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes</title>
+    <link>https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</link>
+    <description>Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 09:31:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents</title>
+    <link>https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html</link>
+    <description>Researchers at&amp;nbsp;Wiz&amp;nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 09:57:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It</title>
+    <link>https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html</link>
+    <description>Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.
+
+That is the finding in a&amp;nbsp;proof-of-concept published Wednesday&amp;nbsp;by the AI…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 10:45:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images</title>
+    <link>https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html</link>
+    <description>Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.
+
+"You can also @-mention Instagram…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 12:51:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges</title>
+    <link>https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html</link>
+    <description>Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.
+
+The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 14:18:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses</title>
+    <link>https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html</link>
+    <description>Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.
+
+According to a new report…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 16:13:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Summer of Clearinghouses</title>
+    <link>https://thehackernews.com/2026/07/summer-of-clearinghouses.html</link>
+    <description>Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 16:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up</title>
+    <link>https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html</link>
+    <description>AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 17:56:58 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories</title>
+    <link>https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</link>
+    <description>Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&amp;nbsp;it.
+
+This week is full of that kind of damage. Not…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 20:39:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
+    <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
+    <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Entra passkey enrollment vishing targets Microsoft 365 users</title>
     <link>https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/</link>
     <description>A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]</description>
@@ -43,180 +195,6 @@ New research, which its authors…</description>
 The agents are not…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 08 Jul 2026 22:32:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Réseaux sociaux : Bruxelles recadre la loi mineurs</title>
-    <link>https://www.zataz.com/reseaux-sociaux-bruxelles-recadre-la-loi-mineurs/</link>
-    <description>Bruxelles valide la liste noire sénatoriale, en ciblant les pouvoirs de l’Arcom sur les réseaux sociaux.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 08 Jul 2026 14:33:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LHDN : 10 millions de dossiers fiscaux en vente</title>
-    <link>https://www.zataz.com/lhdn-10-millions-de-dossiers-fiscaux-en-vente/</link>
-    <description>Données fiscales en vente : 10 millions de dossiers fiscaux revendiqués, risque cyber critique.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 08 Jul 2026 15:09:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Sauvegardes et rançongiciels : le 3-2-1 dépassé ?</title>
-    <link>https://www.zataz.com/sauvegardes-et-rancongiciels-le-3-2-1-depasse/</link>
-    <description>Pourquoi la règle 3-2-1 reste utile face aux rançongiciels, et pourquoi elle doit évoluer.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 08 Jul 2026 15:25:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] InTruth veut vérifier les politiques en direct</title>
-    <link>https://www.zataz.com/intruth-veut-verifier-les-politiques-en-direct/</link>
-    <description>InTruth utilise l’IA pour vérifier en direct les déclarations politiques et limiter l’impact des fausses informations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 08 Jul 2026 15:40:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Felons, Fraudsters Flog Offensive Cybersecurity Startup</title>
-    <link>https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/</link>
-    <description>A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 08 Jul 2026 12:31:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Ubiquiti warns of new max severity  UniFi OS vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/</link>
-    <description>Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 04:15:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA orders feds to prioritize patching Langflow auth bypass flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 05:58:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Telco giant KDDI says data breach affects over 12 million people</title>
-    <link>https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/</link>
-    <description>Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 07:24:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DuckDuckGo browser now blocks YouTube video ads</title>
-    <link>https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/</link>
-    <description>DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 08:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 3 Ways AI Powers Service Desk Attacks and How to Prevent Them</title>
-    <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/</link>
-    <description>Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware</title>
-    <link>https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html</link>
-    <description>A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices.
-
-According to findings from…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 14:34:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code</title>
-    <link>https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html</link>
-    <description>An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 16:51:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Verification Step Is the New ATO Battleground in 2026</title>
-    <link>https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html</link>
-    <description>For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures</title>
-    <link>https://thehackernews.com/2026/07/github-verified-commits-can-be.html</link>
-    <description>New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 17:21:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users</title>
-    <link>https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html</link>
-    <description>A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures.
-
-The activity cluster, tracked by Elastic Security Labs under…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 18:22:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Ghost Phishing Wave Is Breaking Traditional Email Security</title>
-    <link>https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html</link>
-    <description>A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 18:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS</title>
-    <link>https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html</link>
-    <description>Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 20:08:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA orders feds to patch max severity ColdFusion flaw by Friday</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 03:16:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV</title>
-    <link>https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The vulnerabilities…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 11:03:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] 15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros</title>
-    <link>https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html</link>
-    <description>Researchers at&amp;nbsp;Nebula Security&amp;nbsp;have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full&amp;nbsp;root&amp;nbsp;control of a machine that has not been…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 08 Jul 2026 11:46:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-48282 — Adobe ColdFusion Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-48282</link>
-    <description>Adobe ColdFusion contains a path traversal vulnerability that could lead to arbitrary code execution in the context of the current user.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-07</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nayax visée par un « Syndicate » du cybercrime</title>
-    <link>https://www.zataz.com/nayax-visee-par-un-syndicate-du-cybercrime/</link>
-    <description>Nayax visée par une revendication pirate massive : données de paiement, clients et risque cyber sous surveillance. 1 milliard de CB concernées ?</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 07 Jul 2026 19:30:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chinese hackers develop LONGLEASH malware to expand ORB network</title>
-    <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/</link>
-    <description>Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 07 Jul 2026 14:52:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Accenture confirms breach after hacker offers stolen data for sale</title>
-    <link>https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/</link>
-    <description>IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 07 Jul 2026 18:06:07 -0400</pubDate>
   </item>
 </channel>
 </rss>
