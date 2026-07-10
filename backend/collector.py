@@ -31,6 +31,10 @@ RSS_SOURCES = [
     {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
     {"name": "Krebs on Security","url": "https://krebsonsecurity.com/feed/"},
     {"name": "ZATAZ",            "url": "https://www.zataz.com/feed/"},
+    # Observatoire indépendant, spécialisé dans les fuites de données et
+    # attaques revendiquées touchant des organisations françaises — URL de
+    # flux standard WordPress, à vérifier une fois en conditions réelles.
+    {"name": "Cyberattaque.org", "url": "https://www.cyberattaque.org/feed/"},
 ]
 
 # CISA publie son catalogue KEV en JSON plutôt qu'en RSS classique.

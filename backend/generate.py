@@ -129,7 +129,7 @@ def row_to_story(row):
         "confidence_class": "conf-single",
     }
 
-FRANCE_SOURCES = {"CERT-FR", "ANSSI", "ZATAZ"}
+FRANCE_SOURCES = {"CERT-FR", "ANSSI", "ZATAZ", "Cyberattaque.org"}
 FRANCE_KEYWORDS = [
     "france", "français", "française", "hexagone", "hexagonal",
     # grandes villes françaises, pour repérer des cibles sans le mot "France" explicite
