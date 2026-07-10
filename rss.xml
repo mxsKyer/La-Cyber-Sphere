@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Zimbra urges customers to patch critical web client XSS flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/</link>
+    <description>The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 07:47:38 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Former ransomware negotiator gets 4 years for BlackCat attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/</link>
     <description>A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]</description>
