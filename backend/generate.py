@@ -72,6 +72,46 @@ DAYS = ["lundi","mardi","mercredi","jeudi","vendredi","samedi","dimanche"]
 def french_date(dt):
     return f"{DAYS[dt.weekday()]} {dt.day} {MONTHS[dt.month-1]} {dt.year}".capitalize()
 
+from email.utils import parsedate_to_datetime
+
+def format_relative_time(raw):
+    """
+    Les dates viennent de sources très hétérogènes (RFC 822 pour la plupart
+    des flux RSS, ISO pour le JSON de la CISA...). On essaie plusieurs
+    formats, et on retombe sur un texte cours neutre si rien ne marche —
+    jamais la chaîne brute telle quelle, qui casse la mise en page.
+    """
+    if not raw:
+        return "date inconnue"
+    dt = None
+    for parser in (
+        lambda s: parsedate_to_datetime(s),
+        lambda s: datetime.fromisoformat(s.replace("Z", "+00:00")),
+    ):
+        try:
+            dt = parser(raw)
+            if dt.tzinfo is None:
+                dt = dt.replace(tzinfo=timezone.utc)
+            break
+        except Exception:
+            continue
+    if dt is None:
+        return "date inconnue"
+
+    delta = datetime.now(timezone.utc) - dt
+    minutes = int(delta.total_seconds() // 60)
+    if minutes < 1:
+        return "à l'instant"
+    if minutes < 60:
+        return f"il y a {minutes} min"
+    hours = minutes // 60
+    if hours < 24:
+        return f"il y a {hours} h"
+    days = hours // 24
+    if days < 7:
+        return f"il y a {days} j"
+    return dt.strftime("%d/%m/%Y")
+
 def row_to_story(row):
     _, source, title, summary, link, severity, published_at, collected_at = row
     return {
@@ -80,7 +120,8 @@ def row_to_story(row):
         "severity_label": SEVERITY_LABELS.get(severity, severity),
         "severity_class": SEVERITY_CLASS.get(severity, "sev-medium"),
         "icon": ICONS[guess_category(title, summary)],
-        "published_at": published_at,
+        "published_at": format_relative_time(published_at),
+        "published_at_raw": published_at,
         # Par défaut : source unique. Un vrai calcul de corroboration nécessiterait
         # de regrouper les signaux par similarité de titre à travers les sources
         # (ex. rapprochement par mots-clés ou embeddings) — non implémenté ici.
@@ -145,8 +186,12 @@ def fetch_archive(conn):
     """).fetchall()
     groups = {}
     for r in rows:
+        collected_at = r[7]
         story = row_to_story(r)
-        day = story["published_at"][:10] if story["published_at"] else "inconnue"
+        try:
+            day = datetime.fromisoformat(collected_at).date().isoformat()
+        except Exception:
+            day = "inconnue"
         groups.setdefault(day, []).append(story)
     return groups
 
@@ -160,7 +205,7 @@ def generate_rss(stories):
     <link>{saxutils.escape(s['link'])}</link>
     <description>{saxutils.escape(s['summary'])}</description>
     <source>{saxutils.escape(s['source'])}</source>
-    <pubDate>{saxutils.escape(s['published_at'])}</pubDate>
+    <pubDate>{saxutils.escape(s['published_at_raw'] or '')}</pubDate>
   </item>""")
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
