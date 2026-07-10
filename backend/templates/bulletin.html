@@ -257,6 +257,8 @@
     border-top:1px solid var(--rule);line-height:1.55;
   }
 
+  .lead-icon svg{width:26px !important;height:26px !important;}
+
   /* ---------- BRIEFING LIST ---------- */
   .briefing{padding:52px 0 60px;}
   .briefing-grid{display:grid;grid-template-columns:1fr 300px;gap:56px;align-items:start;}
@@ -567,7 +569,7 @@
 
 <header class="masthead">
   <div class="wrap">
-    <div class="kicker smallcaps">Édition quotidienne — n° 214</div>
+    <div class="kicker smallcaps">Édition quotidienne — n° {{ edition_number }}</div>
     <h1>La Cyber Sphère</h1>
     <p class="tagline">Le bulletin qui suit chaque signal, avant qu'il ne devienne une brèche<span class="cursor-blink">_</span></p>
   </div>
@@ -596,17 +598,21 @@
 <section class="lead">
   <div class="wrap lead-grid">
     <div>
-      <div style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
-        <div class="story-icon corner-frame" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48" style="width:26px;height:26px;fill:none;stroke:var(--sev-critical);stroke-width:1.4;">
-            <rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/>
-          </svg>
+      {% if lead %}
+      <div class="{{ lead.severity_class }}" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
+        <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
+          {{ lead.icon }}
         </div>
-        <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
+        <div class="dateline" style="margin-bottom:0;">À la une — niveau {{ lead.severity_label|lower }}</div>
       </div>
-      <h2>Une faille activement exploitée dans une passerelle VPN largement déployée pousse la CISA à fixer un délai de correction contraint</h2>
-      <p class="dek">L'agence américaine a inscrit la vulnérabilité à son catalogue des failles connues et exploitées, signe d'une exploitation déjà observée sur le terrain plutôt que théorique.</p>
-      <div class="byline">Source : <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA — Catalogue KEV</a> · Il y a 41 minutes</div>
+      <h2>{{ lead.title }}</h2>
+      <p class="dek">{{ lead.summary }}</p>
+      <div class="byline">Source : <a href="{{ lead.link }}" target="_blank" rel="noopener">{{ lead.source }}</a> · {{ lead.published_at }}</div>
+      {% else %}
+      <div class="dateline">À la une</div>
+      <h2>Aucun signal majeur détecté sur les dernières 24 heures</h2>
+      <p class="dek">La collecte est active, mais aucun signal Critique ou Élevé n'a été identifié récemment. Consultez le briefing complet ci-dessous.</p>
+      {% endif %}
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">

@@ -16,6 +16,26 @@ from urllib.parse import urlparse
 from jinja2 import Environment, FileSystemLoader
 
 DB_PATH = "spectre.db"
+# Date du tout premier déploiement réel du site — sert de point de départ
+# pour numéroter les éditions. À ne pas changer une fois en production.
+LAUNCH_DATE = datetime(2026, 7, 6, tzinfo=timezone.utc).date()
+
+def compute_edition_number():
+    days_since_launch = (datetime.now(timezone.utc).date() - LAUNCH_DATE).days
+    return max(1, days_since_launch + 1)
+
+SEVERITY_RANK = {"critique": 0, "eleve": 1, "moyen": 2, "faible": 3}
+
+def pick_lead_story(stories):
+    """
+    Choisit l'article vedette : le plus sévère parmi les signaux du jour.
+    fetch_today() renvoie déjà les signaux triés du plus récent au plus
+    ancien, donc en cas d'égalité de sévérité, min() conserve naturellement
+    le plus récent (premier rencontré).
+    """
+    if not stories:
+        return None
+    return min(stories, key=lambda s: SEVERITY_RANK.get(s["severity"], 9))
 OUTPUT_DIR = "../"          # écrit à côté des pages existantes du site
 TEMPLATES_DIR = "templates"
 
@@ -159,12 +179,19 @@ def main():
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
 
     today_stories = fetch_today(conn)
+    lead = pick_lead_story(today_stories)
+    # Le briefing du dessous n'inclut pas l'article déjà mis à la une, pour
+    # éviter de le lire deux fois sur la même page.
+    briefing_stories = [s for s in today_stories if s is not lead]
+    edition_number = compute_edition_number()
+
     france_alerts = fetch_recent_france_alerts(conn, hours=24)
     france_count = len(france_alerts)
     bulletin_tpl = env.get_template("bulletin.html")
     rendered_bulletin = bulletin_tpl.render(
-        stories=today_stories, count=len(today_stories),
-        france_count=france_count, france_alerts=france_alerts
+        stories=briefing_stories, count=len(today_stories),
+        france_count=france_count, france_alerts=france_alerts,
+        lead=lead, edition_number=edition_number
     )
     with open(f"{OUTPUT_DIR}la_cyber_sphere.html", "w", encoding="utf-8") as f:
         f.write(rendered_bulletin)
