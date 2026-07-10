@@ -520,7 +520,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DPS · NODE-04 EN LIGNE</span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="{{ last_sync or '' }}">—</span></span>
       <a href="#abonnement">Recevoir le bulletin par e-mail</a>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
@@ -1000,6 +1000,24 @@
   const d = new Date();
   document.getElementById('fulldate').textContent =
     days[d.getDay()].charAt(0).toUpperCase()+days[d.getDay()].slice(1)+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear();
+
+  // Temps écoulé depuis la dernière collecte réussie (vraie donnée, calculée
+  // par generate.py — pas une valeur décorative).
+  function updateLastSync(){
+    const el = document.getElementById('lastSyncText');
+    const raw = el.dataset.sync;
+    if(!raw){ el.textContent = 'inconnue'; return; }
+    const synced = new Date(raw);
+    const diffMin = Math.round((Date.now() - synced.getTime()) / 60000);
+    let text;
+    if(diffMin < 1) text = "à l'instant";
+    else if(diffMin < 60) text = `il y a ${diffMin} min`;
+    else if(diffMin < 60*24) text = `il y a ${Math.round(diffMin/60)} h`;
+    else text = `il y a ${Math.round(diffMin/1440)} j`;
+    el.textContent = text;
+  }
+  updateLastSync();
+  setInterval(updateLastSync, 30000);
 
   const canvas = document.getElementById('riskline');
   const ctx = canvas.getContext('2d');

@@ -357,6 +357,10 @@ def compute_geopolitics(conn, days=30, limit=6):
                     return result
     return result
 
+def compute_last_sync(conn):
+    row = conn.execute("SELECT MAX(collected_at) FROM alerts").fetchone()
+    return row[0] if row and row[0] else None
+
 def main():
     conn = sqlite3.connect(DB_PATH)
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
@@ -375,6 +379,7 @@ def main():
     cve_watch = compute_cve_watch(conn)
     week_stats = compute_week_stats(conn)
     geopolitics = compute_geopolitics(conn)
+    last_sync = compute_last_sync(conn)
 
     bulletin_tpl = env.get_template("bulletin.html")
     rendered_bulletin = bulletin_tpl.render(
@@ -382,7 +387,7 @@ def main():
         france_count=france_count, france_alerts=france_alerts,
         lead=lead, edition_number=edition_number,
         risk=risk, categories=categories, cve_watch=cve_watch,
-        week_stats=week_stats, geopolitics=geopolitics
+        week_stats=week_stats, geopolitics=geopolitics, last_sync=last_sync
     )
     with open(f"{OUTPUT_DIR}la_cyber_sphere.html", "w", encoding="utf-8") as f:
         f.write(rendered_bulletin)
