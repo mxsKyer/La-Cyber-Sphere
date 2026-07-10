@@ -6,6 +6,55 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] AssuranceAmerica : 6,99 millions de clients exposés</title>
+    <link>https://www.zataz.com/assuranceamerica-699-millions-de-clients-exposes/</link>
+    <description>Un important assureur confirme une fuite touchant 6,99 millions de personnes et des permis de conduire exposés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 10 Jul 2026 17:12:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ryuk operator pleads guilty; Blackcat/AlphV conspirator gets nearly 6-year sentence</title>
+    <link>https://therecord.media/ryuk-operator-pleads-guilty-alphv-conspirator-sentenced</link>
+    <description>One man accused of deploying Ryuk ransomware pleaded guilty Wednesday in an Oregon federal court to conspiracy and computer fraud, while another man received a 70-month federal prison sentence in a Florida court for…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 10 Jul 2026 17:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Monero tracé dans une opération menée contre le dark web</title>
+    <link>https://www.zataz.com/monero-trace-dans-une-operation-menee-contre-le-dark-web/</link>
+    <description>La police relie des paiements Monero à 28 suspects arrêtés dans sept pays lors d’une opération internationale contre le dark web.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 10 Jul 2026 16:53:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] License plate cameras may be next target after Supreme Court reins in location tracking</title>
+    <link>https://therecord.media/license-plate-cameras-may-be-next-target-after-supreme-court-reins-in-location-tracking</link>
+    <description>If a warrant is ultimately needed for ALPR searches, experts say, it would radically limit how the networks of cameras can be used and would change modern policing.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 10 Jul 2026 16:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un détenu accusé d’avoir détourné des cryptomonnaies saisies</title>
+    <link>https://www.zataz.com/un-detenu-accuse-davoir-detourne-des-cryptomonnaies-saisies/</link>
+    <description>Un détenu est accusé d’avoir blanchi 290 000 $ en cryptomonnaies déjà confisquées par la justice américaine.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 10 Jul 2026 16:46:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Police suspects Dutch hackers were involved in Odido breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/</link>
+    <description>The Dutch National Police (Politie) says it has found "strong indications" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 12:37:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Progress urges ShareFile admins to shut down servers over “credible” threat</title>
+    <link>https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/</link>
+    <description>Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a "credible external security threat" targeting the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 12:26:10 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Hackers exploit critical auth bypass in Gitea Docker image</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/</link>
     <description>Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]</description>
@@ -120,6 +169,20 @@ FoxIO researcher Sébastien…</description>
     <description>A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 10 Jul 2026 13:40:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-48939 — iCagenda Unrestricted Upload of File with Dangerous Type Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-48939</link>
+    <description>iCagenda contains an unrestricted upload of file with dangerous type vulnerability that allows the upload of arbitrary files in the file attachment feature, ultimately resulting in PHP code upload and execution.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-56291 — Balbooa Forms Unrestricted Upload of File with Dangerous Type Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-56291</link>
+    <description>Balbooa Forms contains an unrestricted upload of file with dangerous type vulnerability that allows an unauthenticated arbitrary file upload which could allow uploading of executable files leading to full RCE.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-10</pubDate>
   </item>
   <item>
     <title>[Faible] Dutch police trace Odido telco cyberattack to suspected local accomplice</title>
@@ -237,36 +300,6 @@ L’article École Supérieure de Génie Informatique : 26 451 dossiers étudian
     <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Helix vishing group emerges in SharePoint data theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/</link>
-    <description>A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 13:08:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft expects more Windows security updates from AI-discovered flaws</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/</link>
-    <description>Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 13:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
-    <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
-    <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FFE : une nouvelle fuite massive à la veille des Championnats de France</title>
-    <link>https://www.zataz.com/ffe-une-nouvelle-fuite-massive-a-la-veille-des-championnats-de-france/</link>
-    <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 09 Jul 2026 16:48:57 +0000</pubDate>
   </item>
 </channel>
 </rss>
