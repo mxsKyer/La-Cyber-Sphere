@@ -6,289 +6,6 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
-    <title>[Élevé] Pro-Russia hacktivist activity continues to target UK organisations</title>
-    <link>https://www.ncsc.gov.uk/news/pro-russia-hacktivist-activity-continues-to-target-uk-organisations</link>
-    <description>The NCSC encourages local government and critical infrastructure operators to harden their ‘denial of service’ (DoS) defences</description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] NCSC issues warning over hacktivist groups disrupting UK organisations and online services</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-issues-warning-over-hacktivist-groups-disrupting-uk-organisations-online-services</link>
-    <description>Russian‑aligned hacktivist groups continue to target UK organisations with disruptive cyber attacks</description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 19 Jan 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Exploitation of Cisco Catalyst SD-WAN</title>
-    <link>https://www.ncsc.gov.uk/news/exploitation-cisco-catalyst-sd-wans</link>
-    <description>Agencies strongly encourage immediate investigation of potential compromise of Cisco Catalyst SD-WAN.</description>
-    <source>NCSC UK</source>
-    <pubDate>Wed, 25 Feb 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alert: NCSC advises UK organisations to take action following conflict in the Middle East</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-advises-uk-organisations-take-action-following-conflict-in-middle-east</link>
-    <description>In response to the evolving events in the Middle East, the NCSC is advising that UK organisations review their cyber security posture.</description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 02 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] International security chiefs to convene in Glasgow for flagship CYBERUK conference</title>
-    <link>https://www.ncsc.gov.uk/news/international-security-chiefs-convene-glasgow-flagship-cyberuk-conference</link>
-    <description>CYBERUK will be delivered by the NCSC and sponsors across four distinct tracks of activity: Resilience, Technology, Threat, and Ecosystem.</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 12 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC CEO: Seize 'disruptive' vibe coding opportunity to make software more secure</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-ceo-seize-disruptive-vibe-coding-opportunity-to-make-software-more-secure</link>
-    <description>Dr Richard Horne delivered a keynote about cyber risks and opportunities at the RSAC Conference in San Francisco</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 24 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway</title>
-    <link>https://www.ncsc.gov.uk/news/vulnerabilities-affecting-citrix-netscaler-adc-gateway</link>
-    <description>UK organisations encouraged to take immediate action to mitigate two recently disclosed vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway.</description>
-    <source>NCSC UK</source>
-    <pubDate>Wed, 25 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Vulnerability affecting F5 BIG-IP APM</title>
-    <link>https://www.ncsc.gov.uk/news/vulnerability-affecting-f5-big-ip-apm</link>
-    <description>The NCSC is encouraging UK organisations to mitigate an unauthenticated remote code execution vulnerability affecting F5 BIG-IP Access Policy Manager.</description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 30 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC warns of messaging app targeting</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-warns-of-messaging-app-targeting</link>
-    <description>The NCSC has issued actions for individuals at risk of targeted attacks against messaging apps.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 31 Mar 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] APT28 exploit routers to enable DNS hijacking operations</title>
-    <link>https://www.ncsc.gov.uk/news/apt28-exploit-routers-to-enable-dns-hijacking-operations</link>
-    <description>Russian cyber actor APT28 exploit vulnerable routers to hijack DNS, enabling adversary‑in‑the‑middle attacks and theft of passwords and authentication tokens.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK exposes Russian military intelligence hijacking vulnerable routers for cyber attacks</title>
-    <link>https://www.ncsc.gov.uk/news/uk-exposes-russian-military-intelligence-hijacking-vulnerable-routers-for-cyber-attacks</link>
-    <description>New advisory warns cyber threat group APT28 have exploited vulnerable edge devices to support malicious operations.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 07 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber chief: UK faces "perfect storm" for cyber security</title>
-    <link>https://www.ncsc.gov.uk/news/cyber-chief-uk-faces-perfect-storm-for-cyber-security</link>
-    <description>As the technology landscape develops, the definition of cyber security is expanding with it.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 21 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] World-first NCSC-engineered device secures vulnerable display links</title>
-    <link>https://www.ncsc.gov.uk/news/world-first-ncsc-engineered-device-secures-vulnerable-display-links</link>
-    <description>SilentGlass, a plug-and-play device, actively blocks any unexpected or malicious HDMI and Display Port connections.</description>
-    <source>NCSC UK</source>
-    <pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] International cyber agencies share fresh advice to defend against China-linked covert networks</title>
-    <link>https://www.ncsc.gov.uk/news/international-cyber-agencies-fresh-advice-defend-against-china-linked-covert-networks</link>
-    <description>New advisory highlights how to defend against attacker tactics believed to be used by China-linked actors to hide malicious cyber activity.</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC: Leave passwords in the past - passkeys are the future</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-leave-passwords-in-the-past-passkeys-are-the-future</link>
-    <description>Passkeys are the more secure and user-friendly login method and should be the default authentication option for consumers.</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Defending against China-nexus covert networks of compromised devices</title>
-    <link>https://www.ncsc.gov.uk/news/defending-against-china-nexus-covert-networks-of-compromised-devices</link>
-    <description>Explaining the widespread shift in tactics, techniques and procedures (TTPs) towards networks of compromised infrastructure, and how to defend against it</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Executive Summary: Defending against China-nexus covert networks of compromised devices</title>
-    <link>https://www.ncsc.gov.uk/news/executive-summary-defending-against-china-nexus-covert-networks-of-compromised-devices</link>
-    <description>Organisations should map and baseline their edge device traffic, especially VPN and remote access connections, and adopt dynamic threat feed filtering that includes known covert network indicators.</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 23 Apr 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC CEO: Hostile states linked to three-quarters of cyber attacks affecting UK's critical systems</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-ceo-hostile-states-linked-to-three-quarters-of-cyber-attacks</link>
-    <description>Dr Richard Horne highlighted the scale of cyber threats against the UK’s critical infrastructure at RUSI’s Annual Security Lecture.</description>
-    <source>NCSC UK</source>
-    <pubDate>Wed, 17 Jun 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alert: NCSC issues advice following global targeting of Fortinet firewalls and VPN gateways</title>
-    <link>https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways</link>
-    <description>Organisations using Fortinet services are being urged to take action following a campaign affecting firewalls and VPN gateways.</description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 18 Jun 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The AI shift in cyber risk: why leaders must act now</title>
-    <link>https://www.ncsc.gov.uk/news/the-ai-shift-in-cyber-risk-why-leaders-must-act-now</link>
-    <description></description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 22 Jun 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cash App owner to pay $45 million to settle allegations of lax security</title>
-    <link>https://therecord.media/cash-app-owner-to-pay-45-million-security-allegations</link>
-    <description>State attorneys general announced the bipartisan agreement with Block, Inc. on Wednesday, saying that the company incorrectly promised users that Cash App offered the same protections as a bank.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 08 Jul 2026 20:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Greek victims file lawsuit against Intellexa over Predator spyware</title>
-    <link>https://therecord.media/greek-victims-file-lawsuit-against-intellexa-spyware</link>
-    <description>The use of the spyware came to light in 2022, with traces of Predator found on dozens of phones. The scandal led to the resignation of Greece’s intelligence service chief and the prime minister’s chief of staff.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 08 Jul 2026 20:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] EU takes member states to court over unimplemented cybersecurity law</title>
-    <link>https://therecord.media/eu-cyber-filing-ireland-spain-france-netherlands-nis2</link>
-    <description>Ireland, Spain, France and the Netherlands are more than 20 months late in transposing the NIS2 Directive for the cybersecurity of critical infrastructure.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 13:10:02 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NSA revives 'Tailored Access Operations' name for elite hacking unit</title>
-    <link>https://therecord.media/nsa-revives-tao-name-for-elite-hacking-unit</link>
-    <description>NSA last week changed the moniker of its Office of Computer Network Operations (CNO) back to Tailored Access Operations (TAO), a name that is sure to elicit nostalgia among the broader digital community for a group with…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 13:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Latvian forestry company still restoring systems weeks after ransomware attack</title>
-    <link>https://therecord.media/latvia-state-owned-foresty-company-lvm-ransomware</link>
-    <description>A foreign, financially motivated group was responsible for a cyberattack on state-owned forestry company Latvijas Valsts Mezi (LVM), officials said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 14:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite</title>
-    <link>https://www.cyberattaque.org/ecole-superieure-de-genie-informatique-26-451-dossiers-etudiants-en-fuite/</link>
-    <description>Une fuite de données attribuée à l’ESGI, l’École Supérieure de Génie Informatique, a été revendiquée sur un forum...
-L’article École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:27:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services</title>
-    <link>https://www.cyberattaque.org/pays-du-mont-blanc-une-cyberattaque-chez-son-operateur-paralyse-les-services/</link>
-    <description>La Communauté de Communes Pays du Mont-Blanc (CCPMB) a confirmé être touchée par les conséquences d’une cyberattaque de...
-L’article Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:38:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après une faille IDOR</title>
-    <link>https://www.cyberattaque.org/atout-france-plus-de-400-000-comptes-et-plusieurs-acces-administrateurs-revendiques-apres-une-faille-idor/</link>
-    <description>Une fuite de données attribuée à Atout France, l’agence chargée du développement touristique de la France, a été...
-L’article Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:41:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque chez Onfido</title>
-    <link>https://www.cyberattaque.org/spiko-pieces-didentite-et-selfies-de-clients-exposes-apres-une-cyberattaque-chez-onfido/</link>
-    <description>Spiko informe certains de ses clients d’une potentielle violation de données personnelles liée à Onfido, désormais intégré à...
-L’article Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:46:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et numéros de Sécurité sociale exposés</title>
-    <link>https://www.cyberattaque.org/vaccination-scolaire-en-auvergne-rhone-alpes-donnees-denfants-et-numeros-de-securite-sociale-exposes/</link>
-    <description>Une fuite de données touche la plateforme utilisée en Auvergne-Rhône-Alpes pour recueillir les autorisations parentales dans le cadre...
-L’article Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:50:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/snosm-11-682-fichiers-et-code-source-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une revendication particulièrement lourde vise le Système national d’observation de la sécurité en montagne (SNOSM). Publiée le 9...
-L’article SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 20:58:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/sdag-adhesifs-58-725-enregistrements-de-commandes-et-3-653-clients-dans-une-fuite-de-donnees/</link>
-    <description>Une fuite de données attribuée à Boutique SDAG a été revendiquée sur un forum cybercriminel le 8 juillet...
-L’article SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 21:03:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/federation-francaise-handisport-pres-de-60-000-licencies-exposes-apres-une-cyberattaque/</link>
-    <description>Une fuite de données attribuée à la Fédération Française Handisport a été revendiquée sur un forum cybercriminel le...
-L’article Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 21:09:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Moove : passeports et pièces d’identité de passagers en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/moove-passeports-et-pieces-didentite-de-passagers-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une fuite de données attribuée à FlyMoove, plateforme française spécialisée dans l’aviation d’affaires et la mobilité aérienne régionale,...
-L’article Moove : passeports et pièces d’identité de passagers en fuite après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 21:15:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/association-fr-160-000-dirigeants-associatifs-et-des-iban-dans-une-fuite-de-donnees/</link>
-    <description>Une fuite de données attribuée à Association.fr, site d’information consacré au secteur associatif français et édité par HelloAsso,...
-L’article Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 09 Jul 2026 21:19:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
-    <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
-    <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 16:00:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking</title>
-    <link>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</link>
-    <description>Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 16:26:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites</title>
-    <link>https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html</link>
-    <description>A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 17:00:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale</title>
-    <link>https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html</link>
-    <description>Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 17:09:40 +0530</pubDate>
-  </item>
-  <item>
     <title>[Moyen] Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers</title>
     <link>https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html</link>
     <description>A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.
@@ -305,6 +22,41 @@ FoxIO researcher Sébastien…</description>
     <pubDate>Fri, 10 Jul 2026 07:47:38 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale</title>
+    <link>https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html</link>
+    <description>Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 17:09:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites</title>
+    <link>https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html</link>
+    <description>A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 17:00:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking</title>
+    <link>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</link>
+    <description>Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 16:26:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
+    <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
+    <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 16:00:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets</title>
+    <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
+    <description>Security firm&amp;nbsp;Coinspect&amp;nbsp;has disclosed a crypto wallet flaw it calls&amp;nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 14:30:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Former ransomware negotiator gets 4 years for BlackCat attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/</link>
     <description>A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]</description>
@@ -319,20 +71,6 @@ FoxIO researcher Sébastien…</description>
     <pubDate>Fri, 10 Jul 2026 13:40:12 +0530</pubDate>
   </item>
   <item>
-    <title>[Moyen] Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets</title>
-    <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
-    <description>Security firm&amp;nbsp;Coinspect&amp;nbsp;has disclosed a crypto wallet flaw it calls&amp;nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 14:30:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Injective SDK on npm infected with cryptocurrency wallet stealer</title>
-    <link>https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/</link>
-    <description>Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 16:10:00 -0400</pubDate>
-  </item>
-  <item>
     <title>[Faible] OpenMandriva Linux says contributor tried to sabotage the project</title>
     <link>https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/</link>
     <description>The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]</description>
@@ -340,11 +78,91 @@ FoxIO researcher Sébastien…</description>
     <pubDate>Thu, 09 Jul 2026 18:14:13 -0400</pubDate>
   </item>
   <item>
-    <title>[Critique] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
-    <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
-    <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
+    <title>[Élevé] Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/association-fr-160-000-dirigeants-associatifs-et-des-iban-dans-une-fuite-de-donnees/</link>
+    <description>Une fuite de données attribuée à Association.fr, site d’information consacré au secteur associatif français et édité par HelloAsso,...
+L’article Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:19:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Moove : passeports et pièces d’identité de passagers en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/moove-passeports-et-pieces-didentite-de-passagers-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à FlyMoove, plateforme française spécialisée dans l’aviation d’affaires et la mobilité aérienne régionale,...
+L’article Moove : passeports et pièces d’identité de passagers en fuite après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:15:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/federation-francaise-handisport-pres-de-60-000-licencies-exposes-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à la Fédération Française Handisport a été revendiquée sur un forum cybercriminel le...
+L’article Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:09:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/sdag-adhesifs-58-725-enregistrements-de-commandes-et-3-653-clients-dans-une-fuite-de-donnees/</link>
+    <description>Une fuite de données attribuée à Boutique SDAG a été revendiquée sur un forum cybercriminel le 8 juillet...
+L’article SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:03:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/snosm-11-682-fichiers-et-code-source-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une revendication particulièrement lourde vise le Système national d’observation de la sécurité en montagne (SNOSM). Publiée le 9...
+L’article SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:58:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et numéros de Sécurité sociale exposés</title>
+    <link>https://www.cyberattaque.org/vaccination-scolaire-en-auvergne-rhone-alpes-donnees-denfants-et-numeros-de-securite-sociale-exposes/</link>
+    <description>Une fuite de données touche la plateforme utilisée en Auvergne-Rhône-Alpes pour recueillir les autorisations parentales dans le cadre...
+L’article Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:50:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque chez Onfido</title>
+    <link>https://www.cyberattaque.org/spiko-pieces-didentite-et-selfies-de-clients-exposes-apres-une-cyberattaque-chez-onfido/</link>
+    <description>Spiko informe certains de ses clients d’une potentielle violation de données personnelles liée à Onfido, désormais intégré à...
+L’article Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:46:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après une faille IDOR</title>
+    <link>https://www.cyberattaque.org/atout-france-plus-de-400-000-comptes-et-plusieurs-acces-administrateurs-revendiques-apres-une-faille-idor/</link>
+    <description>Une fuite de données attribuée à Atout France, l’agence chargée du développement touristique de la France, a été...
+L’article Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:41:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services</title>
+    <link>https://www.cyberattaque.org/pays-du-mont-blanc-une-cyberattaque-chez-son-operateur-paralyse-les-services/</link>
+    <description>La Communauté de Communes Pays du Mont-Blanc (CCPMB) a confirmé être touchée par les conséquences d’une cyberattaque de...
+L’article Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:38:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite</title>
+    <link>https://www.cyberattaque.org/ecole-superieure-de-genie-informatique-26-451-dossiers-etudiants-en-fuite/</link>
+    <description>Une fuite de données attribuée à l’ESGI, l’École Supérieure de Génie Informatique, a été revendiquée sur un forum...
+L’article École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:27:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Injective SDK on npm infected with cryptocurrency wallet stealer</title>
+    <link>https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/</link>
+    <description>Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 16:10:00 -0400</pubDate>
   </item>
   <item>
     <title>[Élevé] Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs</title>
@@ -356,67 +174,11 @@ FoxIO researcher Sébastien…</description>
     <pubDate>Fri, 10 Jul 2026 00:08:49 +0530</pubDate>
   </item>
   <item>
-    <title>[Faible] FFE : une nouvelle fuite massive à la veille des Championnats de France</title>
-    <link>https://www.zataz.com/ffe-une-nouvelle-fuite-massive-a-la-veille-des-championnats-de-france/</link>
-    <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 09 Jul 2026 16:48:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mount Royal University confirms breach as hackers claim attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/</link>
-    <description>Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 08 Jul 2026 17:26:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft patches RoguePlanet Defender zero-day vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/</link>
-    <description>Microsoft has released a security patch to address a Defender zero-day vulnerability known as "RoguePlanet," disclosed after the June 2026 Patch Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 01:42:49 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] AssuranceAmerica data breach exposes records of 6.9 million drivers</title>
-    <link>https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/</link>
-    <description>American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year.  [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 03:47:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police arrests 5,800 suspects in global anti-fraud crackdown</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/</link>
-    <description>Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 05:47:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft to retire the OWA Light client in Exchange Server</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/</link>
-    <description>Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 07:00:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Hidden Security Risks of Reduced Summer IT Coverage</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/</link>
-    <description>Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Forg365 phishing platform uses AI to target Microsoft 365 accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/</link>
-    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 10:39:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft expects more Windows security updates from AI-discovered flaws</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/</link>
-    <description>Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 13:00:00 -0400</pubDate>
+    <title>[Critique] New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware</title>
+    <link>https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html</link>
+    <description>Microsoft has taken apart a destructive Windows backdoor it calls GigaWiper. What stands out is how it is built: not one tool but three older destructive programs bolted into one, offered as commands the operator can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 09 Jul 2026 23:38:07 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] New Helix vishing group emerges in SharePoint data theft attacks</title>
@@ -426,68 +188,27 @@ FoxIO researcher Sébastien…</description>
     <pubDate>Thu, 09 Jul 2026 13:08:29 -0400</pubDate>
   </item>
   <item>
-    <title>[Faible] Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes</title>
-    <link>https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 09:31:49 +0530</pubDate>
+    <title>[Faible] Microsoft expects more Windows security updates from AI-discovered flaws</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/</link>
+    <description>Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 13:00:00 -0400</pubDate>
   </item>
   <item>
-    <title>[Faible] GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents</title>
-    <link>https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html</link>
-    <description>Researchers at&amp;nbsp;Wiz&amp;nbsp;found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 09:57:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It</title>
-    <link>https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html</link>
-    <description>Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead.
+    <title>[Faible] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
+    <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
+    <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
 
-That is the finding in a&amp;nbsp;proof-of-concept published Wednesday&amp;nbsp;by the AI…</description>
+The…</description>
     <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 10:45:02 +0530</pubDate>
+    <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
   </item>
   <item>
-    <title>[Faible] Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images</title>
-    <link>https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html</link>
-    <description>Meta has announced that its new artificial intelligence (AI) model Muse Image lets people use public Instagram posts and reels to generate AI content, and it's enabled by default.
-
-"You can also @-mention Instagram…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 12:51:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges</title>
-    <link>https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html</link>
-    <description>Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public.
-
-The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 14:18:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses</title>
-    <link>https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html</link>
-    <description>Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy.
-
-According to a new report…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 16:13:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Summer of Clearinghouses</title>
-    <link>https://thehackernews.com/2026/07/summer-of-clearinghouses.html</link>
-    <description>Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up</title>
-    <link>https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html</link>
-    <description>AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 17:56:58 +0530</pubDate>
+    <title>[Faible] FFE : une nouvelle fuite massive à la veille des Championnats de France</title>
+    <link>https://www.zataz.com/ffe-une-nouvelle-fuite-massive-a-la-veille-des-championnats-de-france/</link>
+    <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 09 Jul 2026 16:48:57 +0000</pubDate>
   </item>
   <item>
     <title>[Faible] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories</title>
@@ -499,13 +220,39 @@ This week is full of that kind of damage. Not…</description>
     <pubDate>Thu, 09 Jul 2026 20:39:28 +0530</pubDate>
   </item>
   <item>
-    <title>[Faible] npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk</title>
-    <link>https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html</link>
-    <description>GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA).
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 22:19:02 +0530</pubDate>
+    <title>[Faible] New Forg365 phishing platform uses AI to target Microsoft 365 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/</link>
+    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 10:39:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Latvian forestry company still restoring systems weeks after ransomware attack</title>
+    <link>https://therecord.media/latvia-state-owned-foresty-company-lvm-ransomware</link>
+    <description>A foreign, financially motivated group was responsible for a cyberattack on state-owned forestry company Latvijas Valsts Mezi (LVM), officials said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 09 Jul 2026 14:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Hidden Security Risks of Reduced Summer IT Coverage</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/</link>
+    <description>Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 09 Jul 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NSA revives 'Tailored Access Operations' name for elite hacking unit</title>
+    <link>https://therecord.media/nsa-revives-tao-name-for-elite-hacking-unit</link>
+    <description>NSA last week changed the moniker of its Office of Computer Network Operations (CNO) back to Tailored Access Operations (TAO), a name that is sure to elicit nostalgia among the broader digital community for a group with…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 09 Jul 2026 13:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] EU takes member states to court over unimplemented cybersecurity law</title>
+    <link>https://therecord.media/eu-cyber-filing-ireland-spain-france-netherlands-nis2</link>
+    <description>Ireland, Spain, France and the Netherlands are more than 20 months late in transposing the NIS2 Directive for the cybersecurity of critical infrastructure.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 09 Jul 2026 13:10:02 GMT</pubDate>
   </item>
 </channel>
 </rss>
