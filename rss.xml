@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Former ransomware negotiator gets 4 years for BlackCat attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/</link>
+    <description>A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 04:17:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks</title>
+    <link>https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html</link>
+    <description>A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 13:40:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets</title>
+    <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
+    <description>Security firm&amp;nbsp;Coinspect&amp;nbsp;has disclosed a crypto wallet flaw it calls&amp;nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 14:30:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Injective SDK on npm infected with cryptocurrency wallet stealer</title>
     <link>https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/</link>
     <description>Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed…</description>
