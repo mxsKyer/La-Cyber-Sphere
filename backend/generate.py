@@ -74,16 +74,14 @@ def french_date(dt):
 
 from email.utils import parsedate_to_datetime
 
-def format_relative_time(raw):
+def parse_date(raw):
     """
     Les dates viennent de sources très hétérogènes (RFC 822 pour la plupart
-    des flux RSS, ISO pour le JSON de la CISA...). On essaie plusieurs
-    formats, et on retombe sur un texte cours neutre si rien ne marche —
-    jamais la chaîne brute telle quelle, qui casse la mise en page.
+    des flux RSS, ISO pour le JSON de la CISA...). Renvoie un datetime
+    conscient du fuseau horaire, ou None si rien ne marche.
     """
     if not raw:
-        return "date inconnue"
-    dt = None
+        return None
     for parser in (
         lambda s: parsedate_to_datetime(s),
         lambda s: datetime.fromisoformat(s.replace("Z", "+00:00")),
@@ -92,9 +90,14 @@ def format_relative_time(raw):
             dt = parser(raw)
             if dt.tzinfo is None:
                 dt = dt.replace(tzinfo=timezone.utc)
-            break
+            return dt
         except Exception:
             continue
+    return None
+
+def format_relative_time(raw):
+    """Convertit une date brute en texte relatif lisible ('il y a 2 h')."""
+    dt = parse_date(raw)
     if dt is None:
         return "date inconnue"
 
@@ -172,18 +175,40 @@ def fetch_recent_france_alerts(conn, hours=24):
     return matches
 
 def fetch_today(conn):
-    since = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
+    """
+    Le "briefing du jour" doit refléter ce qui vient vraiment d'être publié
+    — pas ce que le collecteur a simplement vu passer pour la première fois
+    (ce qui ferait resurgir de vieux articles dès qu'une nouvelle source est
+    ajoutée). On élargit donc la requête SQL par sécurité, puis on filtre et
+    on trie en Python sur la vraie date de publication.
+    """
+    safety_window = (datetime.now(timezone.utc) - timedelta(days=14)).isoformat()
     rows = conn.execute("""
         SELECT id, source, title, summary, link, severity, published_at, collected_at
         FROM alerts WHERE collected_at >= ? ORDER BY collected_at DESC
-    """, (since,)).fetchall()
-    return [row_to_story(r) for r in rows]
+    """, (safety_window,)).fetchall()
 
-def fetch_archive(conn):
+    now = datetime.now(timezone.utc)
+    recent = []
+    for r in rows:
+        published_at = r[6]
+        pub_dt = parse_date(published_at)
+        # Si la date de publication est illisible, on retombe sur la date
+        # de collecte plutôt que d'exclure silencieusement le signal.
+        effective_dt = pub_dt or parse_date(r[7])
+        if effective_dt and (now - effective_dt) <= timedelta(hours=24):
+            recent.append((effective_dt, r))
+
+    recent.sort(key=lambda x: x[0], reverse=True)
+    return [row_to_story(r) for _, r in recent]
+
+def fetch_archive(conn, max_days=365):
+    since = (datetime.now(timezone.utc) - timedelta(days=max_days)).isoformat()
     rows = conn.execute("""
         SELECT id, source, title, summary, link, severity, published_at, collected_at
-        FROM alerts WHERE severity IN ('critique','eleve') ORDER BY collected_at DESC LIMIT 200
-    """).fetchall()
+        FROM alerts WHERE severity IN ('critique','eleve') AND collected_at >= ?
+        ORDER BY collected_at DESC LIMIT 500
+    """, (since,)).fetchall()
     groups = {}
     for r in rows:
         collected_at = r[7]
