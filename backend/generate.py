@@ -12,10 +12,11 @@ Utilisation :
 import sqlite3
 import re
 from datetime import datetime, timedelta, timezone
+from urllib.parse import urlparse
 from jinja2 import Environment, FileSystemLoader
 
 DB_PATH = "spectre.db"
-OUTPUT_DIR = "../"
+OUTPUT_DIR = "../"          # écrit à côté des pages existantes du site
 TEMPLATES_DIR = "templates"
 
 ICONS = {
@@ -60,29 +61,54 @@ def row_to_story(row):
         "severity_class": SEVERITY_CLASS.get(severity, "sev-medium"),
         "icon": ICONS[guess_category(title, summary)],
         "published_at": published_at,
+        # Par défaut : source unique. Un vrai calcul de corroboration nécessiterait
+        # de regrouper les signaux par similarité de titre à travers les sources
+        # (ex. rapprochement par mots-clés ou embeddings) — non implémenté ici.
         "confidence_label": "Source unique",
         "confidence_class": "conf-single",
     }
 
 FRANCE_SOURCES = {"CERT-FR", "ANSSI", "ZATAZ"}
-FRANCE_KEYWORDS = ["france", "français", "française", "hexagone"]
+FRANCE_KEYWORDS = [
+    "france", "français", "française", "hexagone", "hexagonal",
+    # grandes villes françaises, pour repérer des cibles sans le mot "France" explicite
+    "paris", "lyon", "marseille", "toulouse", "bordeaux", "lille",
+    "strasbourg", "nantes", "rennes", "nice", "montpellier",
+]
 
-def fetch_yesterday_france_count(conn):
-    yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).date()
-    start = datetime.combine(yesterday, datetime.min.time(), tzinfo=timezone.utc).isoformat()
-    end = datetime.combine(yesterday, datetime.max.time(), tzinfo=timezone.utc).isoformat()
+def is_france_related(source, title, summary, link):
+    text = f"{title} {summary}".lower()
+    if source in FRANCE_SOURCES:
+        return True
+    if any(k in text for k in FRANCE_KEYWORDS):
+        return True
+    try:
+        domain = urlparse(link).netloc.lower()
+        if domain.endswith(".fr"):
+            return True
+    except Exception:
+        pass
+    return False
 
+def fetch_recent_france_alerts(conn, hours=24):
+    """
+    Renvoie la liste complète (pas seulement le nombre) des signaux des
+    dernières `hours` heures glissantes considérés comme concernant la
+    France. Fenêtre glissante plutôt que "jour calendaire" strict, pour
+    éviter les effets de bord de fuseau horaire qui sous-comptaient.
+    """
+    since = (datetime.now(timezone.utc) - timedelta(hours=hours)).isoformat()
     rows = conn.execute("""
-        SELECT source, title, summary FROM alerts
-        WHERE collected_at >= ? AND collected_at <= ?
-    """, (start, end)).fetchall()
+        SELECT id, source, title, summary, link, severity, published_at, collected_at
+        FROM alerts WHERE collected_at >= ? ORDER BY collected_at DESC
+    """, (since,)).fetchall()
 
-    count = 0
-    for source, title, summary in rows:
-        text = f"{title} {summary}".lower()
-        if source in FRANCE_SOURCES or any(k in text for k in FRANCE_KEYWORDS):
-            count += 1
-    return count
+    matches = []
+    for r in rows:
+        _, source, title, summary, link, severity, published_at, collected_at = r
+        if is_france_related(source, title, summary, link):
+            matches.append(row_to_story(r))
+    return matches
 
 def fetch_today(conn):
     since = (datetime.now(timezone.utc) - timedelta(hours=24)).isoformat()
@@ -133,11 +159,18 @@ def main():
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
 
     today_stories = fetch_today(conn)
-    france_count = fetch_yesterday_france_count(conn)
+    france_alerts = fetch_recent_france_alerts(conn, hours=24)
+    france_count = len(france_alerts)
     bulletin_tpl = env.get_template("bulletin.html")
-    rendered_bulletin = bulletin_tpl.render(stories=today_stories, count=len(today_stories), france_count=france_count)
+    rendered_bulletin = bulletin_tpl.render(
+        stories=today_stories, count=len(today_stories),
+        france_count=france_count, france_alerts=france_alerts
+    )
     with open(f"{OUTPUT_DIR}la_cyber_sphere.html", "w", encoding="utf-8") as f:
         f.write(rendered_bulletin)
+    # index.html est une copie identique — c'est le nom que cherchent par défaut
+    # la plupart des hébergeurs (Firebase, Netlify, GitHub Pages...) pour la
+    # page d'accueil, sans dépendre d'une règle de redirection.
     with open(f"{OUTPUT_DIR}index.html", "w", encoding="utf-8") as f:
         f.write(rendered_bulletin)
 

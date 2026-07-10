@@ -401,6 +401,26 @@
   .feed-empty{padding:32px 0;text-align:center;color:var(--ink-dim);font-size:13.5px;display:none;}
   .feed-empty.show{display:block;}
 
+  /* ---------- SIGNAUX FRANCE ---------- */
+  .france-signals{padding:48px 0;border-top:1px solid var(--rule);}
+  .france-signals-sub{font-family:var(--font-serif);font-style:italic;color:var(--ink-secondary);font-size:15px;margin:14px 0 26px;max-width:640px;line-height:1.55;}
+  .france-list{display:flex;flex-direction:column;}
+  .france-row{
+    display:grid;grid-template-columns:90px 1fr auto;gap:16px;align-items:baseline;
+    padding:13px 0;border-bottom:1px solid var(--rule);font-size:13.5px;
+  }
+  .france-row:last-child{border-bottom:none;}
+  .france-row .fsev{font-size:11px;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;}
+  .france-row .fsev.sev-critical{color:var(--sev-critical);}
+  .france-row .fsev.sev-high{color:var(--sev-high);}
+  .france-row .fsev.sev-medium{color:var(--sev-medium);}
+  .france-row .fsev.sev-low{color:var(--sev-low);}
+  .france-row .ftitle{color:var(--ink);}
+  .france-row .fsource{white-space:nowrap;}
+  .france-row .fsource a{color:var(--accent);font-size:12.5px;}
+  .france-row .fsource a:hover{text-decoration:underline;}
+  .france-empty{color:var(--ink-dim);font-size:13.5px;padding:20px 0;}
+
   /* ---------- INTERÉTATIQUE ---------- */
   .geopolitics{padding:56px 0 60px;border-top:1px solid var(--rule);}
   .geopolitics-sub{font-family:var(--font-serif);font-style:italic;color:var(--ink-secondary);font-size:15px;margin:14px 0 8px;max-width:680px;line-height:1.55;}
@@ -553,10 +573,10 @@
   </div>
 </header>
 <div class="ticker-strip">
-  <div class="ticker-track" id="tickerTrack">
-    <span id="attackCount" class="accent-num">{{ france_count }}</span>&nbsp;cyberattaques recensées en France hier<span id="yestDate"></span>
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">{{ france_count }}</span>&nbsp;cyberattaques recensées en France hier<span id="yestDate2"></span>
-  </div>
+  <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
+    <span id="attackCount" class="accent-num">{{ france_count }}</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">{{ france_count }}</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+  </a>
 </div>
 
 <nav class="section-nav">
@@ -681,6 +701,26 @@
         </div>
       </div>
     </aside>
+  </div>
+</section>
+
+<section class="france-signals" id="signaux-france">
+  <div class="wrap">
+    <div class="section-title">Signaux France — dernières 24h</div>
+    <p class="france-signals-sub">Le détail exact des signaux comptés dans le bandeau ci-dessus : source française reconnue (CERT-FR, ANSSI, ZATAZ), domaine en <code>.fr</code>, ou mention explicite de la France dans le texte.</p>
+    <div class="france-list">
+      {% if france_alerts %}
+        {% for a in france_alerts %}
+        <div class="france-row">
+          <span class="fsev {{ a.severity_class }}">{{ a.severity_label }}</span>
+          <span class="ftitle">{{ a.title }}</span>
+          <span class="fsource"><a href="{{ a.link }}" target="_blank" rel="noopener">{{ a.source }} →</a></span>
+        </div>
+        {% endfor %}
+      {% else %}
+        <p class="france-empty">Aucun signal identifié comme français sur les dernières 24 heures.</p>
+      {% endif %}
+    </div>
   </div>
 </section>
 
@@ -987,12 +1027,6 @@
   const d = new Date();
   document.getElementById('fulldate').textContent =
     days[d.getDay()].charAt(0).toUpperCase()+days[d.getDay()].slice(1)+' '+d.getDate()+' '+months[d.getMonth()]+' '+d.getFullYear();
-
-  const yesterday = new Date(d);
-  yesterday.setDate(d.getDate()-1);
-  const yestText = ' ('+yesterday.getDate()+' '+months[yesterday.getMonth()]+')';
-  document.getElementById('yestDate').textContent = yestText;
-  document.getElementById('yestDate2').textContent = yestText;
 
   const canvas = document.getElementById('riskline');
   const ctx = canvas.getContext('2d');
