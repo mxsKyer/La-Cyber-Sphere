@@ -6,6 +6,86 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite</title>
+    <link>https://www.cyberattaque.org/ecole-superieure-de-genie-informatique-26-451-dossiers-etudiants-en-fuite/</link>
+    <description>Une fuite de données attribuée à l’ESGI, l’École Supérieure de Génie Informatique, a été revendiquée sur un forum...
+L’article École Supérieure de Génie Informatique : 26 451 dossiers étudiants en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:27:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services</title>
+    <link>https://www.cyberattaque.org/pays-du-mont-blanc-une-cyberattaque-chez-son-operateur-paralyse-les-services/</link>
+    <description>La Communauté de Communes Pays du Mont-Blanc (CCPMB) a confirmé être touchée par les conséquences d’une cyberattaque de...
+L’article Pays du Mont-Blanc : une cyberattaque chez son opérateur paralyse les services est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:38:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après une faille IDOR</title>
+    <link>https://www.cyberattaque.org/atout-france-plus-de-400-000-comptes-et-plusieurs-acces-administrateurs-revendiques-apres-une-faille-idor/</link>
+    <description>Une fuite de données attribuée à Atout France, l’agence chargée du développement touristique de la France, a été...
+L’article Atout France : plus de 400 000 comptes et plusieurs accès administrateurs revendiqués après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:41:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque chez Onfido</title>
+    <link>https://www.cyberattaque.org/spiko-pieces-didentite-et-selfies-de-clients-exposes-apres-une-cyberattaque-chez-onfido/</link>
+    <description>Spiko informe certains de ses clients d’une potentielle violation de données personnelles liée à Onfido, désormais intégré à...
+L’article Spiko : pièces d’identité et selfies de clients exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:46:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et numéros de Sécurité sociale exposés</title>
+    <link>https://www.cyberattaque.org/vaccination-scolaire-en-auvergne-rhone-alpes-donnees-denfants-et-numeros-de-securite-sociale-exposes/</link>
+    <description>Une fuite de données touche la plateforme utilisée en Auvergne-Rhône-Alpes pour recueillir les autorisations parentales dans le cadre...
+L’article Vaccination scolaire en Auvergne-Rhône-Alpes : données d’enfants et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:50:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/snosm-11-682-fichiers-et-code-source-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une revendication particulièrement lourde vise le Système national d’observation de la sécurité en montagne (SNOSM). Publiée le 9...
+L’article SNOSM : 11 682 fichiers et code source en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 20:58:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/sdag-adhesifs-58-725-enregistrements-de-commandes-et-3-653-clients-dans-une-fuite-de-donnees/</link>
+    <description>Une fuite de données attribuée à Boutique SDAG a été revendiquée sur un forum cybercriminel le 8 juillet...
+L’article SDAG Adhésifs : 58 725 enregistrements de commandes et 3 653 clients dans une fuite de données est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:03:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/federation-francaise-handisport-pres-de-60-000-licencies-exposes-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à la Fédération Française Handisport a été revendiquée sur un forum cybercriminel le...
+L’article Fédération Française Handisport : près de 60 000 licenciés exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:09:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Moove : passeports et pièces d’identité de passagers en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/moove-passeports-et-pieces-didentite-de-passagers-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à FlyMoove, plateforme française spécialisée dans l’aviation d’affaires et la mobilité aérienne régionale,...
+L’article Moove : passeports et pièces d’identité de passagers en fuite après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:15:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/association-fr-160-000-dirigeants-associatifs-et-des-iban-dans-une-fuite-de-donnees/</link>
+    <description>Une fuite de données attribuée à Association.fr, site d’information consacré au secteur associatif français et édité par HelloAsso,...
+L’article Association.fr : 160 000 dirigeants associatifs et des IBAN dans une fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 09 Jul 2026 21:19:56 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
     <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
     <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion…</description>
