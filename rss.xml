@@ -6,6 +6,57 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Hackers exploit critical auth bypass in Gitea Docker image</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/</link>
+    <description>Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 11:48:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Money launderer accused of stealing seized crypto while in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/</link>
+    <description>A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 11:30:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched</title>
+    <link>https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html</link>
+    <description>Researchers at Ledger's&amp;nbsp;Donjon security team&amp;nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 20:21:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws</title>
+    <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</link>
+    <description>Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 19:49:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Replicant in Your Directory: AI Agents and the Identity Security Gap</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/</link>
+    <description>AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 10 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China, India ran separate spying campaigns against same Pakistani police force</title>
+    <link>https://therecord.media/china-india-ran-separate-spy-campaigns-against-same-police-force</link>
+    <description>The activity, in some cases breaching the exact same systems, ran between February 2024 and April 2026 and centered on the force responsible for the country’s southwestern province that has been the site of a…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 10 Jul 2026 13:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic</title>
+    <link>https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html</link>
+    <description>The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.
+
+Chinese cybersecurity company QiAnXin said that while the threat cluster may…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 10 Jul 2026 18:45:23 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers</title>
     <link>https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html</link>
     <description>A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.
@@ -69,6 +120,13 @@ FoxIO researcher Sébastien…</description>
     <description>A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 10 Jul 2026 13:40:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dutch police trace Odido telco cyberattack to suspected local accomplice</title>
+    <link>https://therecord.media/dutch-police-suspect-dutch-accomplice-in-odido-cyberattack</link>
+    <description>Dutch police said Thursday they had uncovered evidence suggesting that Dutch criminals were involved in the cyberattack on telecom provider Odido that exposed the personal data of more than 6 million customers earlier…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 09 Jul 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Faible] OpenMandriva Linux says contributor tried to sabotage the project</title>
@@ -209,50 +267,6 @@ The…</description>
     <description>Une revendication attribuée à un pirate vise la Fédération française d’équitation, avec des données exposées et un message politique assumé en plein Championnats de France d’équitation.</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 09 Jul 2026 16:48:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories</title>
-    <link>https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html</link>
-    <description>Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch&amp;nbsp;it.
-
-This week is full of that kind of damage. Not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 09 Jul 2026 20:39:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Forg365 phishing platform uses AI to target Microsoft 365 accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/</link>
-    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 10:39:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Latvian forestry company still restoring systems weeks after ransomware attack</title>
-    <link>https://therecord.media/latvia-state-owned-foresty-company-lvm-ransomware</link>
-    <description>A foreign, financially motivated group was responsible for a cyberattack on state-owned forestry company Latvijas Valsts Mezi (LVM), officials said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 14:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Hidden Security Risks of Reduced Summer IT Coverage</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/</link>
-    <description>Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 09 Jul 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NSA revives 'Tailored Access Operations' name for elite hacking unit</title>
-    <link>https://therecord.media/nsa-revives-tao-name-for-elite-hacking-unit</link>
-    <description>NSA last week changed the moniker of its Office of Computer Network Operations (CNO) back to Tailored Access Operations (TAO), a name that is sure to elicit nostalgia among the broader digital community for a group with…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 13:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] EU takes member states to court over unimplemented cybersecurity law</title>
-    <link>https://therecord.media/eu-cyber-filing-ireland-spain-france-netherlands-nis2</link>
-    <description>Ireland, Spain, France and the Netherlands are more than 20 months late in transposing the NIS2 Directive for the cybersecurity of critical infrastructure.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 09 Jul 2026 13:10:02 GMT</pubDate>
   </item>
 </channel>
 </rss>
