@@ -31,10 +31,13 @@ RSS_SOURCES = [
     {"name": "BleepingComputer", "url": "https://www.bleepingcomputer.com/feed/"},
     {"name": "Krebs on Security","url": "https://krebsonsecurity.com/feed/"},
     {"name": "ZATAZ",            "url": "https://www.zataz.com/feed/"},
-    # Observatoire indépendant, spécialisé dans les fuites de données et
-    # attaques revendiquées touchant des organisations françaises — URL de
-    # flux standard WordPress, à vérifier une fois en conditions réelles.
     {"name": "Cyberattaque.org", "url": "https://www.cyberattaque.org/feed/"},
+    # The Record (Recorded Future News) — bonne couverture géopolitique et
+    # étatique, complète utilement la section interétatique.
+    {"name": "The Record",       "url": "https://therecord.media/feed/"},
+    # NCSC (Royaume-Uni) — équivalent britannique de l'ANSSI, source
+    # officielle qui nomme régulièrement les groupes APT dans ses avis.
+    {"name": "NCSC UK",          "url": "https://www.ncsc.gov.uk/api/1/services/v1/news-rss-feed.xml"},
 ]
 
 # CISA publie son catalogue KEV en JSON plutôt qu'en RSS classique.
