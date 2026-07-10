@@ -617,10 +617,14 @@
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 072</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · {{ '%03d'|format(risk.value) }}</div>
       </div>
-      <div class="index-value">72<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
-      <div class="index-delta">▲ 6 points sur 7 jours</div>
+      <div class="index-value">{{ risk.value }}<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta" style="color:{{ 'var(--sev-high)' if risk.delta > 0 else ('var(--sev-low)' if risk.delta < 0 else 'var(--ink-dim)') }};">
+        {% if risk.delta > 0 %}▲ {{ risk.delta }} points sur 7 jours
+        {% elif risk.delta < 0 %}▼ {{ -risk.delta }} points sur 7 jours
+        {% else %}→ stable sur 7 jours{% endif %}
+      </div>
       <canvas id="riskline"></canvas>
       <div class="index-foot">Calculé à partir du volume et de la sévérité des signaux détectés sur la semaine glissante.</div>
     </div>
@@ -669,19 +673,22 @@
 
     <aside>
       <div class="side-block" id="cve">
-        <div class="side-title">Vulnérabilités à surveiller</div>
-        <div class="cve-line"><span class="cve-id">CVE-2026-3311</span><span class="cve-product">Passerelle VPN</span><span class="cve-score crit">9.8</span></div>
-        <div class="cve-line"><span class="cve-id">CVE-2026-2984</span><span class="cve-product">Serveur mail</span><span class="cve-score crit">9.1</span></div>
-        <div class="cve-line"><span class="cve-id">CVE-2026-2790</span><span class="cve-product">Framework web</span><span class="cve-score high">8.2</span></div>
-        <div class="cve-line"><span class="cve-id">CVE-2026-2601</span><span class="cve-product">Routeur SOHO</span><span class="cve-score high">7.6</span></div>
+        <div class="side-title">CVE mentionnées récemment</div>
+        {% if cve_watch %}
+          {% for c in cve_watch %}
+        <div class="cve-line"><span class="cve-id">{{ c.id }}</span><span class="cve-product">{{ c.context }}</span><span class="cve-score {{ 'crit' if c.severity_class == 'sev-critical' else 'high' }}">{{ c.severity_label }}</span></div>
+          {% endfor %}
+        {% else %}
+        <p style="font-size:12.5px;color:var(--ink-dim);">Aucune CVE identifiée dans les signaux des 7 derniers jours.</p>
+        {% endif %}
       </div>
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">312</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">14</span></div>
-        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">63</span></div>
-        <div class="stat-line"><span>Délai moyen de détection</span><span class="num">8 min</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">{{ week_stats.total }}</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">{{ week_stats.critical }}</span></div>
+        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">{{ week_stats.cve_count }}</span></div>
+        <div class="stat-line"><span>Délai moyen de détection</span><span class="num">{{ week_stats.avg_delay ~ ' min' if week_stats.avg_delay is not none else 'n/d' }}</span></div>
       </div>
 
       <div class="side-block" id="sources">
@@ -738,73 +745,33 @@
     <table class="geo-table">
       <thead>
         <tr>
-          <th>Acteur attribué</th>
-          <th>Origine présumée</th>
-          <th>Cible / activité récente</th>
-          <th>Secteur</th>
-          <th>Type d'opération</th>
+          <th>Acteur détecté</th>
+          <th>Origine (documentée publiquement)</th>
+          <th>Activité rapportée</th>
+          <th>Type</th>
           <th>Sévérité</th>
-          <th>Confiance</th>
           <th>Source</th>
         </tr>
       </thead>
       <tbody>
+        {% if geopolitics %}
+        {% for g in geopolitics %}
         <tr>
-          <td class="geo-actor">APT28 (Fancy Bear / Forest Blizzard)</td>
-          <td class="geo-origin">Russie — GRU, unité 26165</td>
-          <td>Détournement de DNS via des routeurs domestiques et de petites entreprises dans le monde, pour intercepter identifiants et jetons d'authentification</td>
-          <td>Infrastructure réseau</td>
-          <td>Espionnage</td>
-          <td><span class="geo-sev high">Élevé</span></td>
-          <td><span class="confidence conf-high">Élevée</span></td>
-          <td class="geo-source"><a href="https://www.ncsc.gov.uk/news/apt28-exploit-routers-to-enable-dns-hijacking-operations" target="_blank" rel="noopener">NCSC (Royaume-Uni), avr. 2026</a></td>
+          <td class="geo-actor">{{ g.actor }}</td>
+          <td class="geo-origin">{{ g.origin }}</td>
+          <td>{{ g.activity }}</td>
+          <td>{{ g.category }}</td>
+          <td><span class="geo-sev {{ 'crit' if g.severity_class == 'sev-critical' else 'high' }}">{{ g.severity_label }}</span></td>
+          <td class="geo-source"><a href="{{ g.link }}" target="_blank" rel="noopener">{{ g.source }}</a></td>
         </tr>
-        <tr>
-          <td class="geo-actor">Sandworm (APT44 / Seashell Blizzard)</td>
-          <td class="geo-origin">Russie — GRU, unité 74455</td>
-          <td>Effaceur de données (DynoWiper) déployé contre un exploitant du réseau électrique polonais, dix ans jour pour jour après la première coupure de courant imputée au groupe en Ukraine</td>
-          <td>Énergie</td>
-          <td>Sabotage</td>
-          <td><span class="geo-sev crit">Critique</span></td>
-          <td><span class="confidence conf-medium">Modérée</span></td>
-          <td class="geo-source"><a href="https://www.welivesecurity.com/en/eset-research/eset-research-sandworm-cyberattack-poland-power-grid-late-2025/" target="_blank" rel="noopener">ESET Research, janv. 2026</a></td>
-        </tr>
-        <tr>
-          <td class="geo-actor">Lazarus Group (TraderTraitor)</td>
-          <td class="geo-origin">Corée du Nord — Bureau général de reconnaissance</td>
-          <td>Vol de 292 M$ sur le protocole Kelp DAO puis 285 M$ sur Drift Protocol, via des ponts inter-chaînes compromis</td>
-          <td>Finance / cryptomonnaies</td>
-          <td>Vol de fonds</td>
-          <td><span class="geo-sev crit">Critique</span></td>
-          <td><span class="confidence conf-medium">Modérée</span></td>
-          <td class="geo-source"><a href="https://www.upi.com/Top_News/World-News/2026/04/22/KelpDAO-LayerZero-North-Korea-crypto-hack-theft-Lazarus-Group/6151776848419/" target="_blank" rel="noopener">LayerZero / analyses on-chain, avr. 2026</a></td>
-        </tr>
-        <tr>
-          <td class="geo-actor">Acteurs APT liés à la Chine (chevauchement avec Salt Typhoon)</td>
-          <td class="geo-origin">Chine (présumée)</td>
-          <td>Accès persistant de long terme aux routeurs cœur de réseau d'opérateurs télécoms et d'infrastructures critiques dans une douzaine de pays</td>
-          <td>Télécommunications</td>
-          <td>Espionnage</td>
-          <td><span class="geo-sev crit">Critique</span></td>
-          <td><span class="confidence conf-high">Élevée</span></td>
-          <td class="geo-source"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a" target="_blank" rel="noopener">CISA / NSA / FBI, conjointement avec 12 pays partenaires, août 2025</a></td>
-        </tr>
-        <tr>
-          <td class="geo-actor">Acteurs affiliés à l'IRGC</td>
-          <td class="geo-origin">Iran — Gardiens de la révolution</td>
-          <td>Compromission d'automates programmables (PLC) utilisés dans les secteurs de l'eau, de l'énergie et de l'agroalimentaire</td>
-          <td>Eau / énergie</td>
-          <td>Sabotage potentiel d'infrastructures OT</td>
-          <td><span class="geo-sev high">Élevé</span></td>
-          <td><span class="confidence conf-high">Élevée</span></td>
-          <td class="geo-source"><a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a" target="_blank" rel="noopener">CISA / FBI / NSA / partenaires internationaux, 2026</a></td>
-        </tr>
+        {% endfor %}
+        {% else %}
+        <tr><td colspan="6" style="color:var(--ink-dim);padding:20px 0;">Aucun groupe documenté publiquement n'a été mentionné dans les signaux collectés sur les 30 derniers jours.</td></tr>
+        {% endif %}
       </tbody>
     </table>
     <p class="geopolitics-note" style="margin-top:16px;margin-bottom:0;">
-      <span class="confidence conf-high">Élevée</span>&nbsp;— attribution officielle par une ou plusieurs agences gouvernementales, avec preuves techniques publiées.
-      &nbsp; <span class="confidence conf-medium">Modérée</span>&nbsp;— attribution par un seul éditeur de sécurité, formulée avec réserve ("confiance moyenne", "probable").
-      &nbsp; <span class="confidence conf-single">Source unique</span>&nbsp;— non recoupée à ce jour.
+      Cette liste ne fait remonter que des groupes déjà documentés publiquement par des agences ou des éditeurs de sécurité reconnus, mentionnés explicitement dans un article collecté. Elle ne déduit aucune attribution nouvelle et peut légitimement rester vide certains jours.
     </p>
   </div>
 </section>
@@ -1059,8 +1026,8 @@
       ctx.stroke();
     }
 
-    const points = [38,44,41,50,55,52,60,58,66,63,70,68,72];
-    const max = 80, min = 30;
+    const points = {{ risk.points|tojson }};
+    const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,
       y: h - ((p-min)/(max-min))*h

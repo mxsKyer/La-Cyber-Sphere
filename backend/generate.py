@@ -174,6 +174,189 @@ def generate_rss(stories):
 </rss>
 """
 
+CVE_PATTERN = re.compile(r"CVE-\d{4}-\d{4,7}", re.IGNORECASE)
+
+RISK_WEIGHTS = {"critique": 10, "eleve": 5, "moyen": 2, "faible": 1}
+
+def compute_risk_index(conn, days=13):
+    """
+    Indice de tension : somme pondérée des signaux par jour (Critique=10,
+    Élevé=5, Moyen=2, Faible=1), plafonnée à 100. C'est une heuristique
+    simple et documentée, pas un score scientifique — mais elle bouge
+    vraiment avec le volume et la gravité réels des signaux collectés.
+    """
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    rows = conn.execute("""
+        SELECT severity, collected_at FROM alerts WHERE collected_at >= ?
+    """, (since,)).fetchall()
+
+    daily_totals = {}
+    today = datetime.now(timezone.utc).date()
+    for i in range(days):
+        day = today - timedelta(days=days - 1 - i)
+        daily_totals[day.isoformat()] = 0
+
+    for severity, collected_at in rows:
+        try:
+            day = datetime.fromisoformat(collected_at).date().isoformat()
+        except Exception:
+            continue
+        if day in daily_totals:
+            daily_totals[day] += RISK_WEIGHTS.get(severity, 0)
+
+    points = [min(100, daily_totals[d]) for d in sorted(daily_totals.keys())]
+    current = points[-1] if points else 0
+    week_ago = points[-8] if len(points) >= 8 else (points[0] if points else 0)
+    delta = current - week_ago
+    return {"value": current, "delta": delta, "points": points or [0]}
+
+CATEGORY_LABELS = {
+    "vulnerability": "Vulnérabilités / CVE",
+    "ransomware": "Rançongiciels",
+    "hacktivism": "Hacktivisme",
+    "breach": "Fuites de données",
+    "phishing": "Phishing",
+    "other": "Autres",
+}
+
+def compute_category_breakdown(conn, days=7):
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    rows = conn.execute("""
+        SELECT title, summary FROM alerts WHERE collected_at >= ?
+    """, (since,)).fetchall()
+
+    if not rows:
+        return []
+
+    counts = {}
+    for title, summary in rows:
+        cat = guess_category(title, summary)
+        counts[cat] = counts.get(cat, 0) + 1
+
+    total = sum(counts.values())
+    breakdown = [
+        {"label": CATEGORY_LABELS.get(cat, cat), "pct": round(count / total * 100)}
+        for cat, count in counts.items()
+    ]
+    breakdown.sort(key=lambda x: x["pct"], reverse=True)
+    return breakdown
+
+def compute_cve_watch(conn, days=7, limit=4):
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    rows = conn.execute("""
+        SELECT title, summary, severity, collected_at FROM alerts
+        WHERE collected_at >= ? ORDER BY collected_at DESC
+    """, (since,)).fetchall()
+
+    seen = set()
+    result = []
+    for title, summary, severity, collected_at in rows:
+        for cve_id in CVE_PATTERN.findall(f"{title} {summary}"):
+            cve_id = cve_id.upper()
+            if cve_id in seen:
+                continue
+            seen.add(cve_id)
+            # Produit/contexte : les quelques mots autour du titre, tronqués.
+            context = title if len(title) <= 40 else title[:40].rsplit(" ", 1)[0] + "…"
+            result.append({
+                "id": cve_id, "context": context,
+                "severity_label": SEVERITY_LABELS.get(severity, severity),
+                "severity_class": SEVERITY_CLASS.get(severity, "sev-medium"),
+            })
+            if len(result) >= limit:
+                return result
+    return result
+
+def compute_week_stats(conn, days=7):
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    rows = conn.execute("""
+        SELECT title, summary, severity, published_at, collected_at FROM alerts
+        WHERE collected_at >= ?
+    """, (since,)).fetchall()
+
+    total = len(rows)
+    critical = sum(1 for r in rows if r[2] == "critique")
+
+    cve_ids = set()
+    for title, summary, *_ in rows:
+        cve_ids.update(m.upper() for m in CVE_PATTERN.findall(f"{title} {summary}"))
+
+    # Délai moyen entre publication (source) et collecte (nous) — seulement
+    # sur les entrées où la date de publication a pu être interprétée.
+    delays = []
+    for _, _, _, published_at, collected_at in rows:
+        try:
+            pub = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            col = datetime.fromisoformat(collected_at)
+            if pub.tzinfo is None:
+                pub = pub.replace(tzinfo=timezone.utc)
+            delta_min = (col - pub).total_seconds() / 60
+            if 0 <= delta_min <= 60 * 24 * 3:  # ignore les valeurs aberrantes (>3 jours)
+                delays.append(delta_min)
+        except Exception:
+            continue
+    avg_delay = round(sum(delays) / len(delays)) if delays else None
+
+    return {
+        "total": total, "critical": critical,
+        "cve_count": len(cve_ids), "avg_delay": avg_delay,
+    }
+
+# Groupes documentés publiquement par des agences gouvernementales ou des
+# éditeurs de sécurité reconnus (NCSC, CISA, Mandiant, ESET...). L'origine
+# indiquée reprend l'attribution la plus courante dans ces rapports publics —
+# ce n'est pas une déduction du script, seulement un rattachement à une
+# information déjà établie. Étends cette liste au fil des lectures.
+KNOWN_APT_GROUPS = [
+    {"aliases": ["apt28", "fancy bear", "forest blizzard"], "canonical": "APT28 (Fancy Bear)", "origin": "Russie — GRU, unité 26165"},
+    {"aliases": ["apt29", "cozy bear", "midnight blizzard"], "canonical": "APT29 (Cozy Bear)", "origin": "Russie — SVR (présumé)"},
+    {"aliases": ["sandworm", "apt44", "seashell blizzard"], "canonical": "Sandworm (APT44)", "origin": "Russie — GRU, unité 74455"},
+    {"aliases": ["lazarus", "tradertraitor", "apt38"], "canonical": "Lazarus Group", "origin": "Corée du Nord — Bureau général de reconnaissance"},
+    {"aliases": ["kimsuky"], "canonical": "Kimsuky", "origin": "Corée du Nord (présumé)"},
+    {"aliases": ["apt41", "double dragon"], "canonical": "APT41", "origin": "Chine (présumée)"},
+    {"aliases": ["volt typhoon"], "canonical": "Volt Typhoon", "origin": "Chine (présumée)"},
+    {"aliases": ["salt typhoon"], "canonical": "Salt Typhoon", "origin": "Chine (présumée)"},
+    {"aliases": ["apt33", "elfin"], "canonical": "APT33", "origin": "Iran (présumé)"},
+    {"aliases": ["apt35", "charming kitten"], "canonical": "APT35 (Charming Kitten)", "origin": "Iran (présumé)"},
+    {"aliases": ["irgc"], "canonical": "Acteurs affiliés à l'IRGC", "origin": "Iran — Gardiens de la révolution"},
+]
+
+def compute_geopolitics(conn, days=30, limit=6):
+    """
+    Repère, dans les vrais articles collectés, les mentions de groupes déjà
+    documentés publiquement. Ne déduit aucune attribution nouvelle — se
+    contente de faire remonter les cas où une source a elle-même nommé un
+    groupe connu.
+    """
+    since = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
+    rows = conn.execute("""
+        SELECT title, summary, source, link, severity, collected_at FROM alerts
+        WHERE collected_at >= ? ORDER BY collected_at DESC
+    """, (since,)).fetchall()
+
+    seen_groups = set()
+    result = []
+    for title, summary, source, link, severity, collected_at in rows:
+        text = f"{title} {summary}".lower()
+        for group in KNOWN_APT_GROUPS:
+            if group["canonical"] in seen_groups:
+                continue
+            if any(alias in text for alias in group["aliases"]):
+                seen_groups.add(group["canonical"])
+                result.append({
+                    "actor": group["canonical"],
+                    "origin": group["origin"],
+                    "activity": title,
+                    "category": CATEGORY_LABELS.get(guess_category(title, summary), "Non précisé"),
+                    "severity_label": SEVERITY_LABELS.get(severity, severity),
+                    "severity_class": SEVERITY_CLASS.get(severity, "sev-medium"),
+                    "source": source,
+                    "link": link,
+                })
+                if len(result) >= limit:
+                    return result
+    return result
+
 def main():
     conn = sqlite3.connect(DB_PATH)
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
@@ -187,11 +370,19 @@ def main():
 
     france_alerts = fetch_recent_france_alerts(conn, hours=24)
     france_count = len(france_alerts)
+    risk = compute_risk_index(conn)
+    categories = compute_category_breakdown(conn)
+    cve_watch = compute_cve_watch(conn)
+    week_stats = compute_week_stats(conn)
+    geopolitics = compute_geopolitics(conn)
+
     bulletin_tpl = env.get_template("bulletin.html")
     rendered_bulletin = bulletin_tpl.render(
         stories=briefing_stories, count=len(today_stories),
         france_count=france_count, france_alerts=france_alerts,
-        lead=lead, edition_number=edition_number
+        lead=lead, edition_number=edition_number,
+        risk=risk, categories=categories, cve_watch=cve_watch,
+        week_stats=week_stats, geopolitics=geopolitics
     )
     with open(f"{OUTPUT_DIR}la_cyber_sphere.html", "w", encoding="utf-8") as f:
         f.write(rendered_bulletin)
