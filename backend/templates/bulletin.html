@@ -137,9 +137,9 @@
   @media (prefers-reduced-motion: reduce){ .index-card::before{animation:none;display:none;} }
 
   /* lueur discrète sur les éléments interactifs */
-  .btn-primary,.subscribe-btn,.cta-btn{transition:box-shadow .25s ease;}
-  .btn-primary:hover,.subscribe-btn:hover,.cta-btn:hover{box-shadow:0 0 0 1px var(--accent), 0 0 14px 1px rgba(143,42,36,0.3);}
-  html[data-theme="dark"] .btn-primary:hover,html[data-theme="dark"] .subscribe-btn:hover,html[data-theme="dark"] .cta-btn:hover{
+  .btn-primary,.cta-btn{transition:box-shadow .25s ease;}
+  .btn-primary:hover,.cta-btn:hover{box-shadow:0 0 0 1px var(--accent), 0 0 14px 1px rgba(143,42,36,0.3);}
+  html[data-theme="dark"] .btn-primary:hover,html[data-theme="dark"] .cta-btn:hover{
     box-shadow:0 0 0 1px var(--accent), 0 0 16px 2px rgba(219,100,89,0.4);
   }
 
@@ -354,24 +354,6 @@
   .source-list div{padding:5px 0;break-inside:avoid;}
   .source-list a:hover{color:var(--accent);}
 
-  .subscribe-box{background:var(--paper-alt);padding:24px;border:1px solid var(--rule);transition:box-shadow .25s ease, transform .25s ease;}
-  .subscribe-box:hover{box-shadow:0 8px 24px -12px rgba(32,30,26,0.18);transform:translateY(-2px);}
-  html[data-theme="dark"] .subscribe-box:hover{box-shadow:0 8px 28px -10px rgba(0,0,0,0.5);}
-  .subscribe-box.corner-frame{border:none;}
-  .subscribe-box p.lead-in{font-family:var(--font-serif);font-style:italic;font-size:15px;margin-bottom:14px;line-height:1.5;}
-  .subscribe-box input{
-    width:100%;background:var(--paper);border:1px solid var(--rule-strong);
-    padding:10px 12px;font-family:var(--font-sans);font-size:13.5px;color:var(--ink);
-    margin-bottom:10px;
-  }
-  .subscribe-box input:focus{outline:none;border-color:var(--ink);}
-  .subscribe-btn{
-    display:block;text-align:center;background:var(--ink);color:var(--paper);
-    padding:11px;font-size:13.5px;font-weight:500;
-  }
-  .subscribe-btn:hover{background:var(--accent);}
-  .subscribe-box .fine{font-size:11.5px;color:var(--ink-dim);margin-top:10px;line-height:1.5;}
-
   /* ---------- FORMATIONS ---------- */
   .formations{padding:56px 0 60px;border-top:1px solid var(--rule);}
   .formations-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:8px;}
@@ -504,7 +486,7 @@
 
   @media print{
     .utility, .prefs-panel, .ticker-strip, nav.section-nav, .reading-progress,
-    .back-to-top, .feed-controls, .feed-empty, .subscribe-box, .hero-actions,
+    .back-to-top, .feed-controls, .feed-empty, .hero-actions,
     .copy-link-btn{ display:none !important; }
     body{background:#fff;color:#000;}
     .story{opacity:1 !important;transform:none !important;break-inside:avoid;}
@@ -525,7 +507,6 @@
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
       <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="{{ last_sync or '' }}">—</span></span>
-      <a href="#abonnement">Recevoir le bulletin par e-mail</a>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -544,23 +525,7 @@
         <button class="prefs-option" data-theme-choice="auto">Auto (système)</button>
       </div>
     </div>
-    <div class="prefs-col">
-      <div class="prefs-label">Seuil d'alerte e-mail</div>
-      <div class="prefs-row">
-        <button class="prefs-option" data-threshold="critical">Critique seul</button>
-        <button class="prefs-option" data-threshold="high">Critique + Élevé</button>
-        <button class="prefs-option" data-threshold="all">Tous les signaux</button>
-      </div>
-    </div>
-    <div class="prefs-col">
-      <div class="prefs-label">Fréquence du résumé</div>
-      <div class="prefs-row">
-        <button class="prefs-option" data-frequency="instant">Temps réel</button>
-        <button class="prefs-option" data-frequency="daily">Résumé quotidien</button>
-        <button class="prefs-option" data-frequency="weekly">Résumé hebdomadaire</button>
-      </div>
-    </div>
-    <p class="prefs-note">Ces préférences sont enregistrées dans ce navigateur uniquement. Aucune donnée n'est transmise tant qu'aucune adresse e-mail n'est renseignée.</p>
+    <p class="prefs-note">Ce réglage est enregistré dans ce navigateur uniquement.</p>
   </div>
 </div>
 
@@ -595,7 +560,6 @@
     <a href="#methodologie">Méthodologie</a>
     <a href="#apropos">À propos</a>
     <a href="#sources">Sources suivies</a>
-    <a href="#abonnement">S'abonner</a>
   </div>
 </nav>
 
@@ -695,7 +659,7 @@
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">{{ week_stats.avg_delay ~ ' min' if week_stats.avg_delay is not none else 'n/d' }}</span></div>
       </div>
 
-      <div class="side-block" id="sources">
+      <div class="side-block" id="sources" style="border-bottom:none;">
         <div class="side-title">Sources suivies</div>
         <div class="source-list">
           <div><a href="https://www.cert.ssi.gouv.fr" target="_blank" rel="noopener">CERT-FR</a></div><div><a href="https://www.cisa.gov" target="_blank" rel="noopener">CISA</a></div>
@@ -703,17 +667,6 @@
           <div><a href="https://www.zataz.com" target="_blank" rel="noopener">ZATAZ</a></div><div><a href="https://krebsonsecurity.com" target="_blank" rel="noopener">Krebs on Security</a></div>
           <div><a href="https://www.cyberattaque.org" target="_blank" rel="noopener">Cyberattaque.org</a></div><div><a href="https://therecord.media" target="_blank" rel="noopener">The Record</a></div>
           <div><a href="https://www.ncsc.gov.uk" target="_blank" rel="noopener">NCSC (Royaume-Uni)</a></div>
-        </div>
-      </div>
-
-      <div class="side-block" id="abonnement" style="border-bottom:none;">
-        <div class="subscribe-box corner-frame">
-          <p class="lead-in">Le briefing critique, une fois par jour, dans votre messagerie.</p>
-          <form onsubmit="return false;">
-            <input type="email" placeholder="adresse@etablissement.fr">
-            <a href="#" class="subscribe-btn">S'abonner</a>
-          </form>
-          <p class="fine">Uniquement les signaux Critique et Élevé. Désabonnement en un clic.</p>
         </div>
       </div>
     </aside>
@@ -872,27 +825,6 @@
       localStorage.setItem('spectre-theme', t);
     });
   });
-
-  function setActiveGroup(selector, key, storageKey){
-    const saved = localStorage.getItem(storageKey);
-    document.querySelectorAll(selector).forEach(btn=>{
-      if(saved && btn.dataset[key] === saved) btn.classList.add('active');
-      btn.addEventListener('click', ()=>{
-        document.querySelectorAll(selector).forEach(b=>b.classList.remove('active'));
-        btn.classList.add('active');
-        localStorage.setItem(storageKey, btn.dataset[key]);
-      });
-    });
-  }
-  setActiveGroup('[data-threshold]', 'threshold', 'spectre-threshold');
-  setActiveGroup('[data-frequency]', 'frequency', 'spectre-frequency');
-  // Valeurs par défaut si jamais réglées
-  if(!localStorage.getItem('spectre-threshold')){
-    document.querySelector('[data-threshold="high"]').classList.add('active');
-  }
-  if(!localStorage.getItem('spectre-frequency')){
-    document.querySelector('[data-frequency="daily"]').classList.add('active');
-  }
 
   prefsToggle.addEventListener('click', ()=>{
     prefsPanel.classList.toggle('open');

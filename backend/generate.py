@@ -431,6 +431,7 @@ def compute_last_sync(conn):
     row = conn.execute("SELECT MAX(collected_at) FROM alerts").fetchone()
     return row[0] if row and row[0] else None
 
+# ---------------------------------------------------------------------------
 def main():
     conn = sqlite3.connect(DB_PATH)
     env = Environment(loader=FileSystemLoader(TEMPLATES_DIR), autoescape=False)
