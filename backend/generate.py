@@ -15,7 +15,7 @@ from datetime import datetime, timedelta, timezone
 from jinja2 import Environment, FileSystemLoader
 
 DB_PATH = "spectre.db"
-OUTPUT_DIR = "../"          # écrit à côté des pages existantes du site
+OUTPUT_DIR = "../"
 TEMPLATES_DIR = "templates"
 
 ICONS = {
@@ -60,9 +60,6 @@ def row_to_story(row):
         "severity_class": SEVERITY_CLASS.get(severity, "sev-medium"),
         "icon": ICONS[guess_category(title, summary)],
         "published_at": published_at,
-        # Par défaut : source unique. Un vrai calcul de corroboration nécessiterait
-        # de regrouper les signaux par similarité de titre à travers les sources
-        # (ex. rapprochement par mots-clés ou embeddings) — non implémenté ici.
         "confidence_label": "Source unique",
         "confidence_class": "conf-single",
     }
@@ -71,11 +68,6 @@ FRANCE_SOURCES = {"CERT-FR", "ANSSI", "ZATAZ"}
 FRANCE_KEYWORDS = ["france", "français", "française", "hexagone"]
 
 def fetch_yesterday_france_count(conn):
-    """
-    Compte les signaux de la veille (00h00 à 23h59, heure locale du serveur)
-    considérés comme concernant la France : soit la source est française
-    (CERT-FR, ANSSI, ZATAZ), soit le titre/résumé mentionne la France.
-    """
     yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).date()
     start = datetime.combine(yesterday, datetime.min.time(), tzinfo=timezone.utc).isoformat()
     end = datetime.combine(yesterday, datetime.max.time(), tzinfo=timezone.utc).isoformat()
@@ -143,8 +135,11 @@ def main():
     today_stories = fetch_today(conn)
     france_count = fetch_yesterday_france_count(conn)
     bulletin_tpl = env.get_template("bulletin.html")
+    rendered_bulletin = bulletin_tpl.render(stories=today_stories, count=len(today_stories), france_count=france_count)
     with open(f"{OUTPUT_DIR}la_cyber_sphere.html", "w", encoding="utf-8") as f:
-        f.write(bulletin_tpl.render(stories=today_stories, count=len(today_stories), france_count=france_count))
+        f.write(rendered_bulletin)
+    with open(f"{OUTPUT_DIR}index.html", "w", encoding="utf-8") as f:
+        f.write(rendered_bulletin)
 
     archive_groups = fetch_archive(conn)
     archive_tpl = env.get_template("archives.html")
