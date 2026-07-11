@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</title>
+    <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
+    <description>The jscrambler npm package was compromised, and simply installing its&amp;nbsp;8.14.0&amp;nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&amp;nbsp;preinstall&amp;nbsp;hook…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 11 Jul 2026 23:29:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns</title>
+    <link>https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</link>
+    <description>Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 11 Jul 2026 23:19:31 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Doctolib réutilisera des données de santé pour l’IA</title>
     <link>https://www.zataz.com/doctolib-reutilisera-des-donnees-de-sante-pour-lia/</link>
     <description>Doctolib prépare une recherche médicale avec l’IA : données utilisées, garanties annoncées et procédure de refus.</description>
@@ -100,13 +114,6 @@ L’article Litige.fr : plus de 2 millions d’utilisateurs revendiqués après 
     <description>Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise…</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 10 Jul 2026 17:59:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Europe revives law allowing big tech to scan for CSAM</title>
-    <link>https://therecord.media/chat-control-2-csam-scans-european-parliament-passage</link>
-    <description>The law known as Chat Control 2.0 passed in the European Parliament, permitting companies like Google, Meta and Microsoft to scan users' messages to hunt for CSAM.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 10 Jul 2026 19:30:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
