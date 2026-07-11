@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ToolPie : comparer deux visages pour une enquête OSINT ?</title>
+    <link>https://www.zataz.com/toolpie-comparer-deux-visages-pour-une-enquete-osint/</link>
+    <description>Deux photos, un doute : ToolPie mesure gratuitement leur ressemblance et aide à vérifier une identité, sans lancer de recherche sur Internet.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 09:22:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/</link>
+    <description>A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 11 Jul 2026 05:03:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions</title>
+    <link>https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</link>
+    <description>Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
+
+The vulnerability has been described as a case of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 11 Jul 2026 12:15:55 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Bebeboutik : 500 000 enregistrements et 1,4 Go de données commerciales en fuite</title>
     <link>https://www.cyberattaque.org/bebeboutik-500-000-enregistrements-et-14-go-de-donnees-commerciales-en-fuite/</link>
     <description>Une fuite de données attribuée au portail professionnel sales.bebeboutik.fr a été revendiquée sur un forum cybercriminel le 10...
@@ -209,34 +232,6 @@ FoxIO researcher Sébastien…</description>
     <description>Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 10 Jul 2026 16:26:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access</title>
-    <link>https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html</link>
-    <description>A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 16:00:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets</title>
-    <link>https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html</link>
-    <description>Security firm&amp;nbsp;Coinspect&amp;nbsp;has disclosed a crypto wallet flaw it calls&amp;nbsp;Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 14:30:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Former ransomware negotiator gets 4 years for BlackCat attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/</link>
-    <description>A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 10 Jul 2026 04:17:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks</title>
-    <link>https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html</link>
-    <description>A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 13:40:12 +0530</pubDate>
   </item>
 </channel>
 </rss>
