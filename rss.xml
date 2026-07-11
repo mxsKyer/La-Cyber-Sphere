@@ -6,6 +6,48 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Doctolib réutilisera des données de santé pour l’IA</title>
+    <link>https://www.zataz.com/doctolib-reutilisera-des-donnees-de-sante-pour-lia/</link>
+    <description>Doctolib prépare une recherche médicale avec l’IA : données utilisées, garanties annoncées et procédure de refus.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 14:33:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Australia warns of global campaign targeting vulnerable CMS platforms</title>
+    <link>https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/</link>
+    <description>The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 11 Jul 2026 10:18:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber actualités ZATAZ de la semaine du 6 au 12 juillet 2026</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-6-au-12-juillet-2026/</link>
+    <description>Cette semaine, ZATAZ revient sur plusieurs fuites massives, des marchés clandestins d’identités, ainsi que sur des affaires judiciaires liées au dark web.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 13:52:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] IDhack.site, vitrine du contournement des procédures de vérification de l’identité des clients</title>
+    <link>https://www.zataz.com/idhack-site-vitrine-du-contournement-kyc/</link>
+    <description>Des comptes vérifiés vendus avec mail, téléphone et documents révèlent un marché du contournement KYC. ZATAZ vous explique ce blackmarket caché dans le darkweb.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 13:19:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le pixel invisible qui surveille vos e-mails</title>
+    <link>https://www.zataz.com/le-pixel-invisible-qui-surveille-vos-e-mails/</link>
+    <description>Un carré blanc d’un pixel suffit à suivre vos lectures. Face à cette collecte discrète, la CNIL impose à présent des règles plus strictes. ZATAZ vous montre comment vous protéger des pixels blancs.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 12:11:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Découverte d’un faux ongle vendu comme traceur GPS</title>
+    <link>https://www.zataz.com/decouverte-dun-faux-ongle-vendu-comme-traceur-gps/</link>
+    <description>Sous un vernis rouge se cache une promesse spectaculaire : suivre quelqu’un en temps réel grâce à une puce minuscule, presque invisible, présentée comme un traceur GPS.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 11 Jul 2026 10:45:16 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] ToolPie : comparer deux visages pour une enquête OSINT ?</title>
     <link>https://www.zataz.com/toolpie-comparer-deux-visages-pour-une-enquete-osint/</link>
     <description>Deux photos, un doute : ToolPie mesure gratuitement leur ressemblance et aide à vérifier une identité, sans lancer de recherche sur Internet.</description>
@@ -165,73 +207,6 @@ The…</description>
     <description>Researchers at Ledger's&amp;nbsp;Donjon security team&amp;nbsp;have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 10 Jul 2026 20:21:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws</title>
-    <link>https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html</link>
-    <description>Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 19:49:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Replicant in Your Directory: AI Agents and the Identity Security Gap</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/</link>
-    <description>AI agents are accelerating the growth of non-human identities, making it harder for organizations to understand what exists, who owns it, and what it can access. Netwrix explains why stronger visibility and identity…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 10 Jul 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China, India ran separate spying campaigns against same Pakistani police force</title>
-    <link>https://therecord.media/china-india-ran-separate-spy-campaigns-against-same-police-force</link>
-    <description>The activity, in some cases breaching the exact same systems, ran between February 2024 and April 2026 and centered on the force responsible for the country’s southwestern province that has been the site of a…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 10 Jul 2026 13:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic</title>
-    <link>https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html</link>
-    <description>The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON.
-
-Chinese cybersecurity company QiAnXin said that while the threat cluster may…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 18:45:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers</title>
-    <link>https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html</link>
-    <description>A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch.
-
-FoxIO researcher Sébastien…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 17:17:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Zimbra urges customers to patch critical web client XSS flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/</link>
-    <description>The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 10 Jul 2026 07:47:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale</title>
-    <link>https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html</link>
-    <description>Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 17:09:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites</title>
-    <link>https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html</link>
-    <description>A cybercrime crew left one of its own servers wide open on the internet for three weeks, and it exposed the operation's inner workings: the hacking tools, the activity logs, and target lists naming more than 1.4 million…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 17:00:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking</title>
-    <link>https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html</link>
-    <description>Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 10 Jul 2026 16:26:23 +0530</pubDate>
   </item>
 </channel>
 </rss>
