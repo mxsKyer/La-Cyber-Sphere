@@ -6,25 +6,18 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</link>
+    <description>Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 12 Jul 2026 15:39:12 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] RedHook Android malware now uses Wireless ADB for shell access</title>
     <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
     <description>A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 12 Jul 2026 10:27:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</title>
-    <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
-    <description>The jscrambler npm package was compromised, and simply installing its&amp;nbsp;8.14.0&amp;nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&amp;nbsp;preinstall&amp;nbsp;hook…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 11 Jul 2026 23:29:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns</title>
-    <link>https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html</link>
-    <description>Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 11 Jul 2026 23:19:31 +0530</pubDate>
   </item>
 </channel>
 </rss>
