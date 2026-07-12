@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] RedHook Android malware now uses Wireless ADB for shell access</title>
+    <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
+    <description>A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 12 Jul 2026 10:27:32 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install</title>
     <link>https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html</link>
     <description>The jscrambler npm package was compromised, and simply installing its&amp;nbsp;8.14.0&amp;nbsp;release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a&amp;nbsp;preinstall&amp;nbsp;hook…</description>
@@ -18,41 +25,6 @@
     <description>Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 11 Jul 2026 23:19:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Doctolib réutilisera des données de santé pour l’IA</title>
-    <link>https://www.zataz.com/doctolib-reutilisera-des-donnees-de-sante-pour-lia/</link>
-    <description>Doctolib prépare une recherche médicale avec l’IA : données utilisées, garanties annoncées et procédure de refus.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 14:33:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australia warns of global campaign targeting vulnerable CMS platforms</title>
-    <link>https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/</link>
-    <description>The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 11 Jul 2026 10:18:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber actualités ZATAZ de la semaine du 6 au 12 juillet 2026</title>
-    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-6-au-12-juillet-2026/</link>
-    <description>Cette semaine, ZATAZ revient sur plusieurs fuites massives, des marchés clandestins d’identités, ainsi que sur des affaires judiciaires liées au dark web.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 13:52:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] IDhack.site, vitrine du contournement des procédures de vérification de l’identité des clients</title>
-    <link>https://www.zataz.com/idhack-site-vitrine-du-contournement-kyc/</link>
-    <description>Des comptes vérifiés vendus avec mail, téléphone et documents révèlent un marché du contournement KYC. ZATAZ vous explique ce blackmarket caché dans le darkweb.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 13:19:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le pixel invisible qui surveille vos e-mails</title>
-    <link>https://www.zataz.com/le-pixel-invisible-qui-surveille-vos-e-mails/</link>
-    <description>Un carré blanc d’un pixel suffit à suivre vos lectures. Face à cette collecte discrète, la CNIL impose à présent des règles plus strictes. ZATAZ vous montre comment vous protéger des pixels blancs.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 12:11:32 +0000</pubDate>
   </item>
 </channel>
 </rss>
