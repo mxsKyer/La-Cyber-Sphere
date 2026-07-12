@@ -75,45 +75,5 @@
     <source>BleepingComputer</source>
     <pubDate>Sat, 11 Jul 2026 05:03:57 -0400</pubDate>
   </item>
-  <item>
-    <title>[Moyen] Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions</title>
-    <link>https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html</link>
-    <description>Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution.
-
-The vulnerability has been described as a case of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 11 Jul 2026 12:15:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Bebeboutik : 500 000 enregistrements et 1,4 Go de données commerciales en fuite</title>
-    <link>https://www.cyberattaque.org/bebeboutik-500-000-enregistrements-et-14-go-de-donnees-commerciales-en-fuite/</link>
-    <description>Une fuite de données attribuée au portail professionnel sales.bebeboutik.fr a été revendiquée sur un forum cybercriminel le 10...
-L’article Bebeboutik : 500 000 enregistrements et 1,4 Go de données commerciales en fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 11 Jul 2026 05:47:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] PPA Business School : 293 967 prospects, étudiants et anciens élèves revendiqués dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/ppa-business-school-293-967-prospects-etudiants-et-anciens-eleves-revendiques-dans-une-fuite-de-donnees/</link>
-    <description>Une fuite de données attribuée à PPA Business School a été revendiquée sur un forum cybercriminel le 10...
-L’article PPA Business School : 293 967 prospects, étudiants et anciens élèves revendiqués dans une fuite de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 11 Jul 2026 05:36:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Litige.fr : plus de 2 millions d’utilisateurs revendiqués après une faille IDOR</title>
-    <link>https://www.cyberattaque.org/litige-fr-plus-de-2-millions-dutilisateurs-revendiques-apres-une-faille-idor/</link>
-    <description>Une fuite de données attribuée à Litige.fr a été revendiquée sur un forum cybercriminel le 10 juillet 2026....
-L’article Litige.fr : plus de 2 millions d’utilisateurs revendiqués après une faille IDOR est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 11 Jul 2026 05:31:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New U-Boot flaws could enable stealthy firmware attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/</link>
-    <description>Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 10 Jul 2026 17:59:02 -0400</pubDate>
-  </item>
 </channel>
 </rss>
