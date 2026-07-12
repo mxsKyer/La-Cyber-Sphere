@@ -54,26 +54,5 @@
     <source>ZATAZ</source>
     <pubDate>Sat, 11 Jul 2026 12:11:32 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Découverte d’un faux ongle vendu comme traceur GPS</title>
-    <link>https://www.zataz.com/decouverte-dun-faux-ongle-vendu-comme-traceur-gps/</link>
-    <description>Sous un vernis rouge se cache une promesse spectaculaire : suivre quelqu’un en temps réel grâce à une puce minuscule, presque invisible, présentée comme un traceur GPS.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 10:45:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ToolPie : comparer deux visages pour une enquête OSINT ?</title>
-    <link>https://www.zataz.com/toolpie-comparer-deux-visages-pour-une-enquete-osint/</link>
-    <description>Deux photos, un doute : ToolPie mesure gratuitement leur ressemblance et aide à vérifier une identité, sans lancer de recherche sur Internet.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 11 Jul 2026 09:22:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets</title>
-    <link>https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/</link>
-    <description>A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 11 Jul 2026 05:03:57 -0400</pubDate>
-  </item>
 </channel>
 </rss>
