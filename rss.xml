@@ -6,11 +6,122 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks</title>
+    <link>https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html</link>
+    <description>Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
+
+Unlike other information stealers that are built on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 23:06:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found</title>
+    <link>https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html</link>
+    <description>Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 22:47:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach</title>
+    <link>https://therecord.media/ksenia-sobchak-russian-hackers-leak</link>
+    <description>Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 13 Jul 2026 17:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA warns of actively exploited RCE flaws in Joomla extensions</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 11:20:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More</title>
+    <link>https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html</link>
+    <description>Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 20:35:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lessons Learned from CISA’s Recent GitHub Leak</title>
+    <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
+    <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lidl discloses online shop breach after service provider hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/</link>
+    <description>German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 10:19:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Breach at the Beach: Play the Ultimate Entra ID CTF</title>
+    <link>https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/</link>
+    <description>Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</title>
+    <link>https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html</link>
+    <description>Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 19:19:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK charges suspects linked to Russian Coms call spoofing platform</title>
+    <link>https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/</link>
+    <description>UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 09:23:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</title>
+    <link>https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html</link>
+    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 18:33:33 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] UK and Allies urge critical sectors to improve defences against Russian intelligence targeting</title>
     <link>https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting</link>
     <description>New advisory highlights Russian state cyber actors’ global exploitation of poorly configured routers</description>
     <source>NCSC UK</source>
     <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling</title>
+    <link>https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html</link>
+    <description>Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.
+
+Each read gets…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 17:24:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots</title>
+    <link>https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html</link>
+    <description>A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 17:07:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] EU sanctions Russian GRU military hackers over cyberattacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/</link>
+    <description>The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 07:19:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory</title>
+    <link>https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html</link>
+    <description>Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.
+
+"The script looked for the Domain Controller (DC) and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 16:32:33 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] US and allies warn of Russian critical infrastructure attacks</title>
@@ -41,18 +152,25 @@
     <pubDate>Sun, 12 Jul 2026 20:44:44 -0400</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2008-4128 — Cisco IOS Cross-Site Request Forgery Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2008-4128</link>
+    <description>Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain "show privilege" command to the /level/15/exec/- URI, and (2) a certain "alias exec" command to the /level/15/exec/-/configure/http URI.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-13</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions</title>
+    <link>https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package</link>
+    <description>The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber…</description>
+    <source>The Record</source>
+    <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</link>
     <description>Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 12 Jul 2026 15:39:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] RedHook Android malware now uses Wireless ADB for shell access</title>
-    <link>https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/</link>
-    <description>A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 12 Jul 2026 10:27:32 -0400</pubDate>
   </item>
 </channel>
 </rss>
