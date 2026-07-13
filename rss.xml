@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] UK and Allies urge critical sectors to improve defences against Russian intelligence targeting</title>
+    <link>https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting</link>
+    <description>New advisory highlights Russian state cyber actors’ global exploitation of poorly configured routers</description>
+    <source>NCSC UK</source>
+    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US and allies warn of Russian critical infrastructure attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/</link>
+    <description>Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 05:32:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365</title>
+    <link>https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html</link>
+    <description>An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&amp;nbsp;python3 -m http.server 8080, was still…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 13:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days</title>
+    <link>https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 13 Jul 2026 11:06:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI temporarily relaxes GPT-5.6 Sol usage limits</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/</link>
+    <description>OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 12 Jul 2026 20:44:44 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</link>
     <description>Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]</description>
