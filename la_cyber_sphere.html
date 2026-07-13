@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-07-13T18:13:35.744688+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-07-13T21:36:42.971578+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">0</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">0</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">7</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">7</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -569,24 +569,23 @@
       
       <div class="sev-critical" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
         <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg>
+          <svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg>
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>CISA warns of actively exploited RCE flaws in Joomla extensions</h2>
-      <p class="dek">The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through…</p>
-      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 2 h</div>
+      <h2>VPN service favored by ransomware groups is sanctioned by US</h2>
+      <p class="dek">The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware "cryptors."</p>
+      <div class="byline">Source : <a href="https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups" target="_blank" rel="noopener">The Record</a> · il y a 2 h</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 066</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 100</div>
       </div>
-      <div class="index-value">66<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
-      <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 34 points sur 7 jours
-        
+      <div class="index-value">100<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta" style="color:var(--ink-dim);">
+        → stable sur 7 jours
       </div>
       <canvas id="riskline"></canvas>
       <div class="index-foot">Calculé à partir du volume et de la sévérité des signaux détectés sur la semaine glissante.</div>
@@ -610,174 +609,178 @@
 
       
       
-      <article class="story sev-high" id="story-1">
+      <article class="story sev-low" id="story-1">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 37 min</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks</h3>
-          <p>Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
-
-Unlike other information stealers that are built on…</p>
-          <a href="https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-2">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 56 min</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found</h3>
-          <p>Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its…</p>
-          <a href="https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-3">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 58 min</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 46 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach</h3>
-          <p>Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.</p>
-          <a href="https://therecord.media/ksenia-sobchak-russian-hackers-leak" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>EU leaders eye social media ban for children under age 13</h3>
+          <p>“While ultimately it is up to parents to decide when children get their first smartphones, what we already have is a consensus that there needs to be a start date for the age children can join social media,” says…</p>
+          <a href="https://therecord.media/eu-proposed-social-media-ban-kids-under-13" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-2">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Japan's largest taxi operator shuts systems after cyberattack</h3>
+          <p>Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-3">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Hackers backdoor Jscrambler npm package with infostealer malware</h3>
+          <p>The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-4">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
+      <article class="story sev-low" id="story-4">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More</h3>
-          <p>Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they…</p>
-          <a href="https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>New CrashStealer malware poses as Apple crash reporting tool</h3>
+          <p>A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-5">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-5">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Krebs on Security</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Lessons Learned from CISA’s Recent GitHub Leak</h3>
-          <p>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub…</p>
-          <a href="https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>France Pare-Brise : 100 000 dossiers avec permis, cartes grises et IBAN revendiqués</h3>
+          <p>Une fuite de données attribuée à France Pare-Brise a été revendiquée en juillet 2026. L’auteur affirme avoir exploité...
+L’article France Pare-Brise : 100 000 dossiers avec permis, cartes grises et IBAN revendiqués est…</p>
+          <a href="https://www.cyberattaque.org/france-pare-brise-100-000-dossiers-avec-permis-cartes-grises-et-iban-revendiques/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-6">
+      <article class="story sev-high" id="story-6">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Lidl discloses online shop breach after service provider hack</h3>
-          <p>German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>e-Benefits Prévoyance : 6 420 utilisateurs en fuite après une faille IDOR</h3>
+          <p>Une fuite de données attribuée à e-Benefits Prévoyance a été revendiquée le 12 juillet 2026. Les auteurs affirment...
+L’article e-Benefits Prévoyance : 6 420 utilisateurs en fuite après une faille IDOR est apparu en…</p>
+          <a href="https://www.cyberattaque.org/e-benefits-prevoyance-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-7">
+      <article class="story sev-high" id="story-7">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Breach at the Beach: Play the Ultimate Entra ID CTF</h3>
-          <p>Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Betrail : 2,8 millions de profils de coureurs dans une fuite massive</h3>
+          <p>Une fuite de données attribuée à Betrail.run a été revendiquée le 13 juillet 2026. L’auteur affirme diffuser une...
+L’article Betrail : 2,8 millions de profils de coureurs dans une fuite massive est apparu en premier…</p>
+          <a href="https://www.cyberattaque.org/betrail-28-millions-de-profils-de-coureurs-dans-une-fuite-massive/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-8">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-8">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</h3>
-          <p>Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide…</p>
-          <a href="https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>KeepCool : 287 842 fiches d’adhérents en fuite après une faille</h3>
+          <p>Une fuite de données attribuée à KeepCool a été revendiquée sur un forum cybercriminel le 11 juillet 2026....
+L’article KeepCool : 287 842 fiches d’adhérents en fuite après une faille est apparu en premier sur…</p>
+          <a href="https://www.cyberattaque.org/keepcool-287-842-fiches-dadherents-en-fuite-apres-une-faille/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-9">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-9">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>UK charges suspects linked to Russian Coms call spoofing platform</h3>
-          <p>UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>EIML Paris : près de 90 000 personnes exposées après la cyberattaque du Groupe GES</h3>
+          <p>EIML Paris, l’École Internationale de Marketing du Luxe, fait l’objet d’une revendication de fuite de données publiée le...
+L’article EIML Paris : près de 90 000 personnes exposées après la cyberattaque du Groupe GES…</p>
+          <a href="https://www.cyberattaque.org/eiml-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-high" id="story-10">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 5 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</h3>
-          <p>A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation,…</p>
-          <a href="https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>École Supérieure des Métiers de l’Immobilier : des dizaines de milliers de dossiers étudiants exposés après une cyberattaque</h3>
+          <p>L’École Supérieure des Métiers de l’Immobilier fait l’objet d’une revendication de fuite de données publiée le 11 juillet...
+L’article École Supérieure des Métiers de l’Immobilier : des dizaines de milliers de dossiers…</p>
+          <a href="https://www.cyberattaque.org/efab-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
         </div>
       </article>
@@ -788,32 +791,33 @@ Unlike other information stealers that are built on…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">NCSC UK</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>UK and Allies urge critical sectors to improve defences against Russian intelligence targeting</h3>
-          <p>New advisory highlights Russian state cyber actors’ global exploitation of poorly configured routers</p>
-          <a href="https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Lidl : les coordonnées de clients exposés après une cyberattaque chez un prestataire</h3>
+          <p>Lidl informe une partie de ses clients d’une violation de données survenue chez l’un de ses prestataires informatiques....
+L’article Lidl : les coordonnées de clients exposés après une cyberattaque chez un prestataire…</p>
+          <a href="https://www.cyberattaque.org/lidl-les-coordonnees-de-clients-exposes-apres-une-cyberattaque-chez-un-prestataire/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-12">
+      <article class="story sev-high" id="story-12">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling</h3>
-          <p>Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.
+          <h3>CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks</h3>
+          <p>Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
 
-Each read gets…</p>
-          <a href="https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+Unlike other information stealers that are built on…</p>
+          <a href="https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-12">Copier le lien</button>
         </div>
       </article>
@@ -825,34 +829,119 @@ Each read gets…</p>
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots</h3>
-          <p>A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few…</p>
-          <a href="https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found</h3>
+          <p>Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its…</p>
+          <a href="https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-13">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-14">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Russian celebrity journalist Ksenia Sobchak says hackers accessed Telegram channels via email breach</h3>
+          <p>Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.</p>
+          <a href="https://therecord.media/ksenia-sobchak-russian-hackers-leak" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-15">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CISA warns of actively exploited RCE flaws in Joomla extensions</h3>
+          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-16">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More</h3>
+          <p>Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they…</p>
+          <a href="https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-17">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-source">Krebs on Security</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>EU sanctions Russian GRU military hackers over cyberattacks</h3>
-          <p>The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
+          <h3>Lessons Learned from CISA’s Recent GitHub Leak</h3>
+          <p>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub…</p>
+          <a href="https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-15">
+      <article class="story sev-low" id="story-18">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Lidl discloses online shop breach after service provider hack</h3>
+          <p>German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-19">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Breach at the Beach: Play the Ultimate Entra ID CTF</h3>
+          <p>Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-20">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
@@ -862,96 +951,9 @@ Each read gets…</p>
             <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory</h3>
-          <p>Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.
-
-"The script looked for the Domain Controller (DC) and…</p>
-          <a href="https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-16">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>US and allies warn of Russian critical infrastructure attacks</h3>
-          <p>Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-17">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365</h3>
-          <p>An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still…</p>
-          <a href="https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-critical" id="story-18">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days</h3>
-          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,…</p>
-          <a href="https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-19">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>OpenAI temporarily relaxes GPT-5.6 Sol usage limits</h3>
-          <p>OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-critical" id="story-20">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">CISA — Catalogue KEV</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>CVE-2008-4128 — Cisco IOS Cross-Site Request Forgery Vulnerability</h3>
-          <p>Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain "show privilege" command to the /level/15/exec/- URI, and (2) a certain "alias exec" command to the /level/15/exec/-/configure/http URI.</p>
-          <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2008-4128" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</h3>
+          <p>Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide…</p>
+          <a href="https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-20">Copier le lien</button>
         </div>
       </article>
@@ -962,31 +964,222 @@ Each read gets…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions</h3>
-          <p>The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber…</p>
-          <a href="https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>UK charges suspects linked to Russian Coms call spoofing platform</h3>
+          <p>UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-21">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-22">
+      <article class="story sev-high" id="story-22">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</h3>
+          <p>A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation,…</p>
+          <a href="https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-22">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-23">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">NCSC UK</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>UK and Allies urge critical sectors to improve defences against Russian intelligence targeting</h3>
+          <p>New advisory highlights Russian state cyber actors’ global exploitation of poorly configured routers</p>
+          <a href="https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-23">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-24">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling</h3>
+          <p>Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.
+
+Each read gets…</p>
+          <a href="https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-24">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-25">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots</h3>
+          <p>A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few…</p>
+          <a href="https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-25">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-26">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>EU sanctions Russian GRU military hackers over cyberattacks</h3>
+          <p>The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-26">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-27">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory</h3>
+          <p>Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration.
+
+"The script looked for the Domain Controller (DC) and…</p>
+          <a href="https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-27">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-28">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>US and allies warn of Russian critical infrastructure attacks</h3>
+          <p>Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-28">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-29">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365</h3>
+          <p>An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it:&nbsp;python3 -m http.server 8080, was still…</p>
+          <a href="https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-29">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-30">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days</h3>
+          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,…</p>
+          <a href="https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-30">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-31">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>OpenAI temporarily relaxes GPT-5.6 Sol usage limits</h3>
+          <p>OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-31">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-32">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">CISA — Catalogue KEV</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CVE-2008-4128 — Cisco IOS Cross-Site Request Forgery Vulnerability</h3>
+          <p>Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain "show privilege" command to the /level/15/exec/- URI, and (2) a certain "alias exec" command to the /level/15/exec/-/configure/http URI.</p>
+          <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2008-4128" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-32">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-33">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time</h3>
-          <p>Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-22">Copier le lien</button>
+          <h3>Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions</h3>
+          <p>The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber…</p>
+          <a href="https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-33">Copier le lien</button>
         </div>
       </article>
 
@@ -1015,9 +1208,9 @@ Each read gets…</p>
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">186</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">192</span></div>
         <div class="stat-line"><span>Alertes critiques</span><span class="num">32</span></div>
-        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">11</span></div>
+        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">9</span></div>
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1129 min</span></div>
       </div>
 
@@ -1041,7 +1234,49 @@ Each read gets…</p>
     <p class="france-signals-sub">Le détail exact des signaux comptés dans le bandeau ci-dessus : source française reconnue (CERT-FR, ANSSI, ZATAZ), domaine en <code>.fr</code>, ou mention explicite de la France dans le texte.</p>
     <div class="france-list">
       
-        <p class="france-empty">Aucun signal identifié comme français sur les dernières 24 heures.</p>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Lidl : les coordonnées de clients exposés après une cyberattaque chez un prestataire</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/lidl-les-coordonnees-de-clients-exposes-apres-une-cyberattaque-chez-un-prestataire/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">École Supérieure des Métiers de l’Immobilier : des dizaines de milliers de dossiers étudiants exposés après une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/efab-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">EIML Paris : près de 90 000 personnes exposées après la cyberattaque du Groupe GES</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/eiml-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">KeepCool : 287 842 fiches d’adhérents en fuite après une faille</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/keepcool-287-842-fiches-dadherents-en-fuite-apres-une-faille/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">Betrail : 2,8 millions de profils de coureurs dans une fuite massive</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/betrail-28-millions-de-profils-de-coureurs-dans-une-fuite-massive/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">e-Benefits Prévoyance : 6 420 utilisateurs en fuite après une faille IDOR</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/e-benefits-prevoyance-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">France Pare-Brise : 100 000 dossiers avec permis, cartes grises et IBAN revendiqués</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/france-pare-brise-100-000-dossiers-avec-permis-cartes-grises-et-iban-revendiques/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
       
     </div>
   </div>
@@ -1331,7 +1566,7 @@ Each read gets…</p>
       ctx.stroke();
     }
 
-    const points = [0, 0, 0, 0, 0, 100, 100, 53, 82, 100, 45, 2, 66];
+    const points = [0, 0, 0, 0, 0, 100, 100, 53, 82, 100, 45, 2, 100];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,

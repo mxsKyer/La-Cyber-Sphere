@@ -6,6 +6,97 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] EU leaders eye social media ban for children under age 13</title>
+    <link>https://therecord.media/eu-proposed-social-media-ban-kids-under-13</link>
+    <description>“While ultimately it is up to parents to decide when children get their first smartphones, what we already have is a consensus that there needs to be a start date for the age children can join social media,” says…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 13 Jul 2026 20:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Japan's largest taxi operator shuts systems after cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/</link>
+    <description>Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 16:18:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers backdoor Jscrambler npm package with infostealer malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/</link>
+    <description>The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 15:44:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New CrashStealer malware poses as Apple crash reporting tool</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/</link>
+    <description>A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 13 Jul 2026 15:04:02 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] VPN service favored by ransomware groups is sanctioned by US</title>
+    <link>https://therecord.media/first-vpn-administrator-us-sanctions-ransomware-groups</link>
+    <description>The U.S. Treasury Department announced sanctions against First VPN Service (1VPNS) and its Ukrainian administrator for aiding ransomware groups. Separately, a Belarusian man was sanctioned for malware "cryptors."</description>
+    <source>The Record</source>
+    <pubDate>Mon, 13 Jul 2026 18:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] France Pare-Brise : 100 000 dossiers avec permis, cartes grises et IBAN revendiqués</title>
+    <link>https://www.cyberattaque.org/france-pare-brise-100-000-dossiers-avec-permis-cartes-grises-et-iban-revendiques/</link>
+    <description>Une fuite de données attribuée à France Pare-Brise a été revendiquée en juillet 2026. L’auteur affirme avoir exploité...
+L’article France Pare-Brise : 100 000 dossiers avec permis, cartes grises et IBAN revendiqués est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:48:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] e-Benefits Prévoyance : 6 420 utilisateurs en fuite après une faille IDOR</title>
+    <link>https://www.cyberattaque.org/e-benefits-prevoyance-cyberattaque/</link>
+    <description>Une fuite de données attribuée à e-Benefits Prévoyance a été revendiquée le 12 juillet 2026. Les auteurs affirment...
+L’article e-Benefits Prévoyance : 6 420 utilisateurs en fuite après une faille IDOR est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:45:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Betrail : 2,8 millions de profils de coureurs dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/betrail-28-millions-de-profils-de-coureurs-dans-une-fuite-massive/</link>
+    <description>Une fuite de données attribuée à Betrail.run a été revendiquée le 13 juillet 2026. L’auteur affirme diffuser une...
+L’article Betrail : 2,8 millions de profils de coureurs dans une fuite massive est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:40:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] KeepCool : 287 842 fiches d’adhérents en fuite après une faille</title>
+    <link>https://www.cyberattaque.org/keepcool-287-842-fiches-dadherents-en-fuite-apres-une-faille/</link>
+    <description>Une fuite de données attribuée à KeepCool a été revendiquée sur un forum cybercriminel le 11 juillet 2026....
+L’article KeepCool : 287 842 fiches d’adhérents en fuite après une faille est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:34:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] EIML Paris : près de 90 000 personnes exposées après la cyberattaque du Groupe GES</title>
+    <link>https://www.cyberattaque.org/eiml-cyberattaque/</link>
+    <description>EIML Paris, l’École Internationale de Marketing du Luxe, fait l’objet d’une revendication de fuite de données publiée le...
+L’article EIML Paris : près de 90 000 personnes exposées après la cyberattaque du Groupe GES…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:29:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] École Supérieure des Métiers de l’Immobilier : des dizaines de milliers de dossiers étudiants exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/efab-cyberattaque/</link>
+    <description>L’École Supérieure des Métiers de l’Immobilier fait l’objet d’une revendication de fuite de données publiée le 11 juillet...
+L’article École Supérieure des Métiers de l’Immobilier : des dizaines de milliers de dossiers…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:25:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lidl : les coordonnées de clients exposés après une cyberattaque chez un prestataire</title>
+    <link>https://www.cyberattaque.org/lidl-les-coordonnees-de-clients-exposes-apres-une-cyberattaque-chez-un-prestataire/</link>
+    <description>Lidl informe une partie de ses clients d’une violation de données survenue chez l’un de ses prestataires informatiques....
+L’article Lidl : les coordonnées de clients exposés après une cyberattaque chez un prestataire…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 13 Jul 2026 18:23:57 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks</title>
     <link>https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html</link>
     <description>Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems.
@@ -164,13 +255,6 @@ Each read gets…</description>
     <description>The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber…</description>
     <source>The Record</source>
     <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/</link>
-    <description>Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 12 Jul 2026 15:39:12 -0400</pubDate>
   </item>
 </channel>
 </rss>
