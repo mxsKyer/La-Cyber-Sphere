@@ -228,33 +228,5 @@ Each read gets…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 13 Jul 2026 13:00:00 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days</title>
-    <link>https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 13 Jul 2026 11:06:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI temporarily relaxes GPT-5.6 Sol usage limits</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/</link>
-    <description>OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 12 Jul 2026 20:44:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2008-4128 — Cisco IOS Cross-Site Request Forgery Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2008-4128</link>
-    <description>Cisco IOS 12.4 contains multiple cross-site forgery vulnerabilities that allows remote attackers to execute arbitrary commands via (1) a certain "show privilege" command to the /level/15/exec/- URI, and (2) a certain "alias exec" command to the /level/15/exec/-/configure/http URI.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-13</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia's FSB blamed for Poland grid attack as UK and EU impose first joint cyber sanctions</title>
-    <link>https://therecord.media/russia-blamed-for-poland-grid-cyberattack-in-joint-uk-eu-sanctions-package</link>
-    <description>The allies blamed Center 16, the FSB’s signals intelligence arm, for acts of attempted cyber sabotage targeting Poland’s energy sector and water treatment facilities, alongside “a wide range of malicious cyber…</description>
-    <source>The Record</source>
-    <pubDate>Sun, 12 Jul 2026 23:00:00 GMT</pubDate>
-  </item>
 </channel>
 </rss>
