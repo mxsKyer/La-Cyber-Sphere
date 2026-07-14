@@ -6,11 +6,92 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/</link>
+    <description>Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 12:08:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LastPass, Bitwarden users targeted with fake security alerts</title>
+    <link>https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/</link>
+    <description>LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 11:31:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] You Don't Have to Run an Exploit to Know If You're Vulnerable</title>
+    <link>https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/</link>
+    <description>Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] NATO logistics, Ukrainian troops are top subjects of Russian camera hacks, advisory says</title>
+    <link>https://therecord.media/russian-intelligence-compromising-cameras-nato-ukraine-netherlands</link>
+    <description>Dutch intelligence officials report that at least one Russian agency is compromising internet-connected cameras across Europe to spy on military logistics and Ukrainian personnel.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 14 Jul 2026 13:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</title>
+    <link>https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</link>
+    <description>Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 14 Jul 2026 19:18:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Entra ID gets passkeys default authentication starting September</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</link>
+    <description>Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 08:49:56 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New phishing kits target Microsoft 365 accounts, evade MFA</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</link>
+    <description>Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 08:49:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot</title>
+    <link>https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</link>
+    <description>Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 14 Jul 2026 18:16:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks</title>
+    <link>https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</link>
+    <description>Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.
+
+The way these wallets talk…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 14 Jul 2026 17:25:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] SAP warns of critical flaws in NetWeaver and Commerce Cloud</title>
     <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/</link>
     <description>SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 14 Jul 2026 07:42:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] How Pentera Turns AI Security Workflows into Validation Engines</title>
+    <link>https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</link>
+    <description>AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 14 Jul 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials</title>
+    <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
+    <description>At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.
+
+The activity allows users to enumerate user accounts and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 14 Jul 2026 16:51:35 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Microsoft starts testing cleaner Windows Search without ads</title>
@@ -180,78 +261,6 @@ Unlike other information stealers that are built on…</description>
     <description>Following the breach of several of her Telegram channels, controversial Russian journalist Ksenia Sobchak claimed published screenshots of her correspondence with political figures were fake.</description>
     <source>The Record</source>
     <pubDate>Mon, 13 Jul 2026 17:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA warns of actively exploited RCE flaws in Joomla extensions</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 13 Jul 2026 11:20:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More</title>
-    <link>https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html</link>
-    <description>Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 13 Jul 2026 20:35:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lessons Learned from CISA’s Recent GitHub Leak</title>
-    <link>https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/</link>
-    <description>The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Mon, 13 Jul 2026 15:03:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lidl discloses online shop breach after service provider hack</title>
-    <link>https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/</link>
-    <description>German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 13 Jul 2026 10:19:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Breach at the Beach: Play the Ultimate Entra ID CTF</title>
-    <link>https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/</link>
-    <description>Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 13 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email</title>
-    <link>https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html</link>
-    <description>Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false "fact" about the user, hide…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 13 Jul 2026 19:19:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK charges suspects linked to Russian Coms call spoofing platform</title>
-    <link>https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/</link>
-    <description>UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 13 Jul 2026 09:23:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft</title>
-    <link>https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html</link>
-    <description>A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 13 Jul 2026 18:33:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK and Allies urge critical sectors to improve defences against Russian intelligence targeting</title>
-    <link>https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting</link>
-    <description>New advisory highlights Russian state cyber actors’ global exploitation of poorly configured routers</description>
-    <source>NCSC UK</source>
-    <pubDate>Mon, 13 Jul 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling</title>
-    <link>https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html</link>
-    <description>Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read.
-
-Each read gets…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 13 Jul 2026 17:24:46 +0530</pubDate>
   </item>
 </channel>
 </rss>
