@@ -6,6 +6,55 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ​    ​AsyncAPI npm packages infected with credential-stealing malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/</link>
+    <description>Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 11:37:27 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps</title>
+    <link>https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html</link>
+    <description>A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.
+
+On an infected PC, the request comes…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 21:00:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dutch police dismantle global crypto investment scam, arrest alleged mastermind</title>
+    <link>https://therecord.media/dutch-police-dismantle-global-crypto-investment-scam</link>
+    <description>Authorities said Wednesday that the group operated like a legitimate international business since at least 2021, running about two dozen call centers across several countries and employing more than 700 people who posed…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 14:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] We built a vulnerability vending machine: AI tokens in, zero-days out</title>
+    <link>https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/</link>
+    <description>Intruder built an AI-powered "vulnerability vending machine" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws</title>
+    <link>https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html</link>
+    <description>Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.
+
+The vulnerabilities are listed below -
+
+
+  CVE-2026-15718, an invalid pointer in the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 18:48:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LAPD sidelines relationship with license-plate reader company Flock Safety</title>
+    <link>https://therecord.media/lapd-halts-flock-safety-alpr-contract</link>
+    <description>The Los Angeles Police Department is the latest U.S. municipal agency to rethink its relationship to ALPR company Flock Safety.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft smashes Patch Tuesday record for second successive month</title>
     <link>https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release</link>
     <description>Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.</description>
@@ -107,6 +156,20 @@ The…</description>
     <pubDate>Wed, 15 Jul 2026 11:00:21 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2023-4346 — KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2023-4346</link>
+    <description>KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-15</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-46817 — Oracle E-Business Suite Improper Privilege Management Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-46817</link>
+    <description>Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-15</pubDate>
+  </item>
+  <item>
     <title>[Critique] SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now</title>
     <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/</link>
     <description>SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.…</description>
@@ -170,73 +233,6 @@ The vulnerability in question is…</description>
     <description>Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 14 Jul 2026 14:01:36 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5101650 &amp; KB5099414 cumulative updates released</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/</link>
-    <description>Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 13:41:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Finland issues wanted notice for hacker behind massive psychotherapy data breach</title>
-    <link>https://therecord.media/finland-issues-wanted-notice-for-hacker-vastaamo-breach</link>
-    <description>The defendant's lawyer told Finnish media that he does not know where his client is but believes Kivimäki is outside Finland.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 14 Jul 2026 17:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads</title>
-    <link>https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html</link>
-    <description>Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar.
-
-Both this and ClaudeBleed need a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 22:57:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts</title>
-    <link>https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html</link>
-    <description>Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments.
-
-"LabubaRAT creates a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 22:22:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown</title>
-    <link>https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/</link>
-    <description>Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 12:08:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LastPass, Bitwarden users targeted with fake security alerts</title>
-    <link>https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/</link>
-    <description>LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 11:31:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] You Don't Have to Run an Exploit to Know If You're Vulnerable</title>
-    <link>https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/</link>
-    <description>Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] NATO logistics, Ukrainian troops are top subjects of Russian camera hacks, advisory says</title>
-    <link>https://therecord.media/russian-intelligence-compromising-cameras-nato-ukraine-netherlands</link>
-    <description>Dutch intelligence officials report that at least one Russian agency is compromising internet-connected cameras across Europe to spy on military logistics and Ukrainian personnel.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 14 Jul 2026 13:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata</title>
-    <link>https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html</link>
-    <description>Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 19:18:07 +0530</pubDate>
   </item>
 </channel>
 </rss>
