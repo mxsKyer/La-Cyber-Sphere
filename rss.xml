@@ -6,6 +6,98 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft smashes Patch Tuesday record for second successive month</title>
+    <link>https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release</link>
+    <description>Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.</title>
+    <link>https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html</link>
+    <description>For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.
+
+Enterprise workflows now live across SaaS…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 17:20:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday</title>
+    <link>https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html</link>
+    <description>Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
+
+It has been described as a Windows User Profile Service arbitrary hive load elevation of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 16:37:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Webinar: Closing the Approval Gap in AI-Era Ad Tech</title>
+    <link>https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html</link>
+    <description>A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.
+
+This on-demand webinar reveals how this…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 16:36:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution</title>
+    <link>https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html</link>
+    <description>Open a repository in Cursor&amp;nbsp;on Windows and, if a file named&amp;nbsp;git.exe&amp;nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 16:25:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA warns admins to patch actively exploited SharePoint flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 05:44:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware</title>
+    <link>https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html</link>
+    <description>Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.
+
+The affected packages are…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 14:46:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] First VPN santionné par la justice américaine</title>
+    <link>https://www.zataz.com/first-vpn-santionne-par-la-justice-americaine/</link>
+    <description>Un VPN connu et deux internautes accusés de soutenir des groupes de rançongiciel.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 15 Jul 2026 09:03:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Doxbin : un faux administrateur condamné au pays de Galles</title>
+    <link>https://www.zataz.com/doxbin-un-faux-administrateur-condamne-au-pays-de-galles/</link>
+    <description>Un jeune internaute condamné pour swatting avait usurpé l’identité du véritable administrateur d'un site pirate.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 15 Jul 2026 08:35:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Some Dell PCs shut down after recent Windows updates</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/</link>
+    <description>Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 04:26:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Un hébergeur russe au cœur d’un réseau cybercriminel</title>
+    <link>https://www.zataz.com/un-hebergeur-russe-au-coeur-dun-reseau-cybercriminel/</link>
+    <description>Washington accuse la société Media Land d’avoir fourni l’infrastructure ayant soutenu rançongiciels, phishing et fraude.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 15 Jul 2026 08:02:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] US charges alleged operators of Russian bulletproof hosting service</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/</link>
+    <description>U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 03:45:50 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands</title>
     <link>https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html</link>
     <description>SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.
@@ -145,89 +237,6 @@ Both this and ClaudeBleed need a…</description>
     <description>Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 14 Jul 2026 19:18:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Entra ID gets passkeys default authentication starting September</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/</link>
-    <description>Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 08:49:56 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New phishing kits target Microsoft 365 accounts, evade MFA</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/</link>
-    <description>Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 08:49:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot</title>
-    <link>https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html</link>
-    <description>Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 18:16:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks</title>
-    <link>https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html</link>
-    <description>Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them.
-
-The way these wallets talk…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 17:25:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SAP warns of critical flaws in NetWeaver and Commerce Cloud</title>
-    <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/</link>
-    <description>SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 07:42:21 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How Pentera Turns AI Security Workflows into Validation Engines</title>
-    <link>https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html</link>
-    <description>AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals:…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials</title>
-    <link>https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html</link>
-    <description>At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry.
-
-The activity allows users to enumerate user accounts and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 16:51:35 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft starts testing cleaner Windows Search without ads</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/</link>
-    <description>Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 06:47:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] US sanctions VPN, malware providers for enabling ransomware attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/</link>
-    <description>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 05:40:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read</title>
-    <link>https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html</link>
-    <description>xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed.
-
-A researcher publishing as cereblab,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 14:32:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support</title>
-    <link>https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html</link>
-    <description>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 13:32:33 +0530</pubDate>
   </item>
 </channel>
 </rss>
