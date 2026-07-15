@@ -6,6 +6,72 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Zoom warns of critical account takeover vulnerability</title>
+    <link>https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/</link>
+    <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 16:16:02 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Trump administration unveils AI-supported clearinghouse for cyber vulnerabilities</title>
+    <link>https://therecord.media/gold-eagle-cybersecurity-vulnerabilities-clearinghouse</link>
+    <description>The Gold Eagle program will allowe industry, critical infrastructure operators and the government to use artificial intelligence to rapidly detect, prioritize and patch cybersecurity vulnerabilities, officials said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 20:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development</title>
+    <link>https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html</link>
+    <description>Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 00:13:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Gemini CLI abused as a hacking agent, malware botnet operator</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/</link>
+    <description>A Russian-speaking threat actor known as "bandcampro" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 14:33:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Kosc Telecom : près de 4 000 diagnostics et accès fibre dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/kosc-telecom-pres-de-4-000-diagnostics-et-acces-fibre-dans-une-fuite-de-donnees/</link>
+    <description>Une fuite de données attribuée à Kosc Telecom a été revendiquée le 14 juillet 2026. Le dépôt annoncé...
+L’article Kosc Telecom : près de 4 000 diagnostics et accès fibre dans une fuite de données est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 15 Jul 2026 18:07:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] DoinSport : les données personnelles, adresses et profils de mineurs en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/doinsport-les-donnees-personnelles-adresses-et-profils-de-mineurs-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à DoinSport a été revendiquée le 14 juillet 2026. L’auteur affirme avoir récupéré...
+L’article DoinSport : les données personnelles, adresses et profils de mineurs en fuite après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 15 Jul 2026 18:01:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Tech In Order : fuite de 1 400 comptes B2B, mots de passe hachés et accès administrateurs</title>
+    <link>https://www.cyberattaque.org/tech-in-order-fuite-de-1-400-comptes-b2b-mots-de-passe-haches-et-acces-administrateurs/</link>
+    <description>Une fuite de données attribuée à Tech In Order a été revendiquée le 13 juillet 2026. Le dépôt...
+L’article Tech In Order : fuite de 1 400 comptes B2B, mots de passe hachés et accès administrateurs est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 15 Jul 2026 17:55:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trump’s DNI pick grilled about election security, voter fraud</title>
+    <link>https://therecord.media/jay-clayton-odni-nominee-senate-confirmation-hearing</link>
+    <description>Senators pressed director of national intelligence nominee Jay Clayton about his stance on the 2020 election and previous statements about voter fraud. Other issues took a back seat.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 17:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] 23andMe reaches $18 million settlement with states for massive breach</title>
+    <link>https://therecord.media/genetic-testing-settlement-data-breach</link>
+    <description>A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 17:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] ​    ​AsyncAPI npm packages infected with credential-stealing malware</title>
     <link>https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/</link>
     <description>Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]</description>
@@ -168,71 +234,6 @@ The…</description>
     <description>Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-07-15</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now</title>
-    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/</link>
-    <description>SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 17:23:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack</title>
-    <link>https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html</link>
-    <description>Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&amp;nbsp;Security Update…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 01:55:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Spanish Police take down €140 million cyber fraud ring, arrest four</title>
-    <link>https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/</link>
-    <description>The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 16:23:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US unseals indictment against alleged operators of Russian bulletproof hosting service</title>
-    <link>https://therecord.media/us-unseals-indictment-russians-bulletproof-hosting</link>
-    <description>The Russians face multiple charges for allegedly providing cybercriminals with infrastructure and tech support through the St. Petersburg-based business Media Land and a sister company, ML Cloud.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 14 Jul 2026 19:26:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches a Record 570 Security Flaws</title>
-    <link>https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/</link>
-    <description>Microsoft Corp. today released software updates to plug at least 570 security holes in its Windows operating systems and other software, almost triple the number of vulnerabilities the software giant fixed in its…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 14 Jul 2026 19:22:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nearly 300 GitHub repos pose as legit software to push malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/</link>
-    <description>A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 15:15:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft releases Windows 10 KB5099539 extended security update</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/</link>
-    <description>Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 14:49:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data</title>
-    <link>https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html</link>
-    <description>SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP.
-
-The vulnerability in question is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 23:47:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/</link>
-    <description>Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 14 Jul 2026 14:01:36 -0400</pubDate>
   </item>
 </channel>
 </rss>
