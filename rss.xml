@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now</title>
+    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/</link>
+    <description>SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 14 Jul 2026 17:23:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack</title>
+    <link>https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html</link>
+    <description>Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its&amp;nbsp;Security Update…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 01:55:47 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Spanish Police take down €140 million cyber fraud ring, arrest four</title>
     <link>https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/</link>
     <description>The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]</description>
@@ -223,48 +237,6 @@ The…</description>
 The way in…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 14 Jul 2026 11:49:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-15410 — SonicWall SMA1000 Appliances Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-15410</link>
-    <description>SonicWall SMA1000 Appliances contain a code injection vulnerability which in specific conditions could potentially enable a remote authenticated attacker as administrator to execute arbitrary OS commands.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-15409 — SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-15409</link>
-    <description>SonicWall SMA1000 Appliances contain a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to potentially cause the appliance to make requests to unintended location.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-56164 — Microsoft SharePoint Server Missing Authentication for Critical Function Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-56164</link>
-    <description>Microsoft SharePoint contains a missing authentication for critical function vulnerability that allows an unauthorized attacker to elevate privileges over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-56155 — Microsoft Active Directory Federation Services Insufficient Granularity of Access Control Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-56155</link>
-    <description>Microsoft Active Directory Federation Services contains an insufficient granularity of access control vulnerability that allows an authorized attacker to elevate privileges locally.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-14</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers steal Lidl customer data from external service provider</title>
-    <link>https://therecord.media/hackers-steal-lidl-customer-data</link>
-    <description>The retailer said the incident did not affect its online shopping platform itself but involved a separately stored customer database maintained by a third-party provider. According to notifications sent to Lidl's…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 13 Jul 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] EU leaders eye social media ban for children under age 13</title>
-    <link>https://therecord.media/eu-proposed-social-media-ban-kids-under-13</link>
-    <description>“While ultimately it is up to parents to decide when children get their first smartphones, what we already have is a consensus that there needs to be a start date for the age children can join social media,” says…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 13 Jul 2026 20:50:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
