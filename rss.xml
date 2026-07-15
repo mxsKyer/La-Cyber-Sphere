@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands</title>
+    <link>https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html</link>
+    <description>SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 15 Jul 2026 11:00:21 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now</title>
     <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/</link>
     <description>SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates.…</description>
@@ -219,24 +228,6 @@ A researcher publishing as cereblab,…</description>
     <description>The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) has designated two individuals and a VPN service provider for enabling ransomware actors' and other cybercriminals' malicious activities, including…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 14 Jul 2026 13:32:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet</title>
-    <link>https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html</link>
-    <description>A campaign of 148 npm packages disguised as student web proxies turned visitors' browsers into a distributed denial-of-service botnet for roughly two weeks in May, according to new research from&amp;nbsp;JFrog.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 12:38:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity</title>
-    <link>https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html</link>
-    <description>Attackers whose methods line up with the data-extortion group&amp;nbsp;ShinyHunters&amp;nbsp;have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform.
-
-The way in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 14 Jul 2026 11:49:24 +0530</pubDate>
   </item>
 </channel>
 </rss>
