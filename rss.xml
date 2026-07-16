@@ -6,6 +6,80 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] UK investigates TikTok for alleged age-verification lapses, exposing kids to online harms</title>
+    <link>https://therecord.media/ofcom-investigation-tiktok-age-verification</link>
+    <description>“Age checks are a cornerstone of the UK’s online safety laws,” said Ofcom’s Chief Executive, Melanie Dawes. “Too many services have no or inadequate age checks in place, which is not good enough.”</description>
+    <source>The Record</source>
+    <pubDate>Thu, 16 Jul 2026 16:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ukrainians rally against dismissal of tech-minded defense minister Fedorov</title>
+    <link>https://therecord.media/ukraine-fedorov-drones-dismissal</link>
+    <description>Ukraine President Volodymyr Zelensky dismissed Defense Minister Mykhailo Fedorov, who championed the push to integrate drone technology and digital innovation into the military.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories</title>
+    <link>https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html</link>
+    <description>A lot of this week’s trouble starts with something that looks close enough.
+
+A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 21:11:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI Agents Broke the Security Playbook. Here's What Replaces It.</title>
+    <link>https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/</link>
+    <description>Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sandworm hackers have a CAPTCHA trick for Ukrainians</title>
+    <link>https://therecord.media/ukraine-sandworm-hacks-captcha-powershell</link>
+    <description>Rather than verifying they are human, the CAPTCHA users are instructed to copy and paste a PowerShell command into their Windows computers.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 16 Jul 2026 13:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] 23andMe to pay $18 million in new genetics data breach settlement</title>
+    <link>https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/</link>
+    <description>Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 09:47:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer</title>
+    <link>https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html</link>
+    <description>n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 19:03:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands</title>
+    <link>https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html</link>
+    <description>Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.
+
+"The malware is full-featured, lightweight,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 18:20:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password</title>
+    <link>https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html</link>
+    <description>ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 18:03:42 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Scattered Spider members behind TfL hack get five years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/</link>
+    <description>Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 08:31:29 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Scattered Spider hackers sentenced to 5.5 years over £29 million Transport for London hack</title>
     <link>https://therecord.media/scattered-spider-hackers-tfl-sentenced</link>
     <description>Two leading members of the Scattered Spider cybercrime collective have been sentenced to more than five years in prison for carrying out the 2024 cyberattack against Transport for London (TfL).</description>
@@ -18,6 +92,29 @@
     <description>Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 16 Jul 2026 07:59:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 20+ Hijacked Government Websites Became an Attack Channel</title>
+    <link>https://thehackernews.com/2026/07/20-hijacked-government-websites.html</link>
+    <description>More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands</title>
+    <link>https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html</link>
+    <description>Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click "Buy Now" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 17:02:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor</title>
+    <link>https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html</link>
+    <description>An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig.
+
+Daxin…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 16:47:23 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] CISA orders feds to patch actively exploited Oracle flaw by Saturday</title>
@@ -151,62 +248,6 @@ L’article Tech In Order : fuite de 1 400 comptes B2B, mots de passe hachés et
     <description>A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.</description>
     <source>The Record</source>
     <pubDate>Wed, 15 Jul 2026 17:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ​    ​AsyncAPI npm packages infected with credential-stealing malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/</link>
-    <description>Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 11:37:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps</title>
-    <link>https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html</link>
-    <description>A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase.
-
-On an infected PC, the request comes…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 21:00:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dutch police dismantle global crypto investment scam, arrest alleged mastermind</title>
-    <link>https://therecord.media/dutch-police-dismantle-global-crypto-investment-scam</link>
-    <description>Authorities said Wednesday that the group operated like a legitimate international business since at least 2021, running about two dozen call centers across several countries and employing more than 700 people who posed…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 14:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] We built a vulnerability vending machine: AI tokens in, zero-days out</title>
-    <link>https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/</link>
-    <description>Intruder built an AI-powered "vulnerability vending machine" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws</title>
-    <link>https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html</link>
-    <description>Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published.
-
-The vulnerabilities are listed below -
-
-
-  CVE-2026-15718, an invalid pointer in the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 18:48:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LAPD sidelines relationship with license-plate reader company Flock Safety</title>
-    <link>https://therecord.media/lapd-halts-flock-safety-alpr-contract</link>
-    <description>The Los Angeles Police Department is the latest U.S. municipal agency to rethink its relationship to ALPR company Flock Safety.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft smashes Patch Tuesday record for second successive month</title>
-    <link>https://therecord.media/microsoft-vulnerabilities-patch-tuesday-release</link>
-    <description>Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 12:15:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
