@@ -6,6 +6,77 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Claude Chrome extension flaw lets malicious extensions trigger AI actions</title>
+    <link>https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/</link>
+    <description>A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 15:26:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Actiale : 229 978 missions en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/actiale-229-978-missions-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une fuite de données attribuée à Actiale a été revendiquée le 15 juillet 2026. Le dépôt annoncé contiendrait...
+L’article Actiale : 229 978 missions en fuite après une cyberattaque est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 19:16:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Croq’Vacances : 72 916 personnes et 24 Go de documents dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/croqvacances-72-916-personnes-et-24-go-de-documents-dans-une-fuite-massive/</link>
+    <description>Une fuite de données attribuée à Croq’Vacances a été revendiquée le 15 juillet 2026. L’organisation française de colonies...
+L’article Croq’Vacances : 72 916 personnes et 24 Go de documents dans une fuite massive est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 19:12:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Centres Sociaux de France : les données revendiqués après une compromission de RezoFed</title>
+    <link>https://www.cyberattaque.org/centres-sociaux-de-france-les-donnees-revendiques-apres-une-compromission-de-rezofed/</link>
+    <description>Une compromission attribuée à RezoFed, la plateforme interne de la Fédération des Centres Sociaux et Socioculturels de France...
+L’article Centres Sociaux de France : les données revendiqués après une compromission de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 19:10:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New OkoBot framework deploys 20 payloads to steal data, crypto</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/</link>
+    <description>A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 15:09:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] EVA.gg : 70 424 comptes et 119 361 réservations revendiqués après l’exploitation de son API GraphQL</title>
+    <link>https://www.cyberattaque.org/eva-gg-70-424-comptes-et-119-361-reservations-revendiques-apres-lexploitation-de-son-api-graphql/</link>
+    <description>Une fuite de données attribuée à EVA.gg a été revendiquée le 16 juillet 2026. L’auteur affirme avoir récupéré...
+L’article EVA.gg : 70 424 comptes et 119 361 réservations revendiqués après l’exploitation de son API…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 19:06:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Accor : 162 437 fiches clients revendiquées après l’accès à un outil interne du groupe</title>
+    <link>https://www.cyberattaque.org/accor-162-437-fiches-clients-revendiquees-apres-lacces-a-un-outil-interne-du-groupe/</link>
+    <description>Une fuite de données attribuée à Accor a été revendiquée le 16 juillet 2026. L’auteur affirme avoir compromis...
+L’article Accor : 162 437 fiches clients revendiquées après l’accès à un outil interne du groupe est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 18:58:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Sapeurs Pompiers (FNSPF) : 124 807 pompiers dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/sapeurs-pompiers-fnspf-124-807-pompiers-dans-une-fuite-de-donnees/</link>
+    <description>Une double revendication vise Pompiers.fr et la Fédération nationale des sapeurs-pompiers de France (FNSPF). Les publications annoncent la...
+L’article Sapeurs Pompiers (FNSPF) : 124 807 pompiers dans une fuite de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 16 Jul 2026 18:49:49 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack</title>
+    <link>https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html</link>
+    <description>Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.
+
+The attack left 148 TfL systems…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 22:39:25 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] UK investigates TikTok for alleged age-verification lapses, exposing kids to online harms</title>
     <link>https://therecord.media/ofcom-investigation-tiktok-age-verification</link>
     <description>“Age checks are a cornerstone of the UK’s online safety laws,” said Ofcom’s Chief Executive, Melanie Dawes. “Too many services have no or inadequate age checks in place, which is not good enough.”</description>
@@ -170,6 +241,27 @@ The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…<
     <pubDate>Thu, 16 Jul 2026 12:52:44 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-39808 — Fortinet FortiSandbox OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-39808</link>
+    <description>Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-16</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-25089 — Fortinet FortiSandbox OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-25089</link>
+    <description>Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-16</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-58644 — Microsoft SharePoint Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58644</link>
+    <description>Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-16</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies</title>
     <link>https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc</link>
     <description>Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.</description>
@@ -189,65 +281,6 @@ The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…<
     <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 15 Jul 2026 16:16:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Trump administration unveils AI-supported clearinghouse for cyber vulnerabilities</title>
-    <link>https://therecord.media/gold-eagle-cybersecurity-vulnerabilities-clearinghouse</link>
-    <description>The Gold Eagle program will allowe industry, critical infrastructure operators and the government to use artificial intelligence to rapidly detect, prioritize and patch cybersecurity vulnerabilities, officials said.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 20:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development</title>
-    <link>https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html</link>
-    <description>Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 00:13:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google Gemini CLI abused as a hacking agent, malware botnet operator</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/</link>
-    <description>A Russian-speaking threat actor known as "bandcampro" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 14:33:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Kosc Telecom : près de 4 000 diagnostics et accès fibre dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/kosc-telecom-pres-de-4-000-diagnostics-et-acces-fibre-dans-une-fuite-de-donnees/</link>
-    <description>Une fuite de données attribuée à Kosc Telecom a été revendiquée le 14 juillet 2026. Le dépôt annoncé...
-L’article Kosc Telecom : près de 4 000 diagnostics et accès fibre dans une fuite de données est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 15 Jul 2026 18:07:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] DoinSport : les données personnelles, adresses et profils de mineurs en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/doinsport-les-donnees-personnelles-adresses-et-profils-de-mineurs-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une fuite de données attribuée à DoinSport a été revendiquée le 14 juillet 2026. L’auteur affirme avoir récupéré...
-L’article DoinSport : les données personnelles, adresses et profils de mineurs en fuite après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 15 Jul 2026 18:01:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Tech In Order : fuite de 1 400 comptes B2B, mots de passe hachés et accès administrateurs</title>
-    <link>https://www.cyberattaque.org/tech-in-order-fuite-de-1-400-comptes-b2b-mots-de-passe-haches-et-acces-administrateurs/</link>
-    <description>Une fuite de données attribuée à Tech In Order a été revendiquée le 13 juillet 2026. Le dépôt...
-L’article Tech In Order : fuite de 1 400 comptes B2B, mots de passe hachés et accès administrateurs est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 15 Jul 2026 17:55:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trump’s DNI pick grilled about election security, voter fraud</title>
-    <link>https://therecord.media/jay-clayton-odni-nominee-senate-confirmation-hearing</link>
-    <description>Senators pressed director of national intelligence nominee Jay Clayton about his stance on the 2020 election and previous statements about voter fraud. Other issues took a back seat.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 17:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 23andMe reaches $18 million settlement with states for massive breach</title>
-    <link>https://therecord.media/genetic-testing-settlement-data-breach</link>
-    <description>A coalition of 42 state attorneys general reached an $18 million settlement with 23andMe for cybersecurity failings that led to a data breach.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 17:45:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
