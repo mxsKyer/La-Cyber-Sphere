@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] New ClickLock macOS malware traps users into revealing login password</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/</link>
+    <description>A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 17:52:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Coca-Cola says Fairlife ransomware attack halts US dairy production</title>
+    <link>https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/</link>
+    <description>The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 17:09:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Senator calls on Rubio, Blanche to push back against Canadian surveillance legislation</title>
+    <link>https://therecord.media/canada-lawful-access-act-surveillance-wyden-letter</link>
+    <description>Democratic Sen. Ron Wyden says the Trump administration should pressure Canada not to enact a proposal that would "weaponize American technology infrastructure" for surveillance purposes.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 16 Jul 2026 21:00:35 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] Claude Chrome extension flaw lets malicious extensions trigger AI actions</title>
     <link>https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/</link>
     <description>A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected…</description>
@@ -260,27 +281,6 @@ The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…<
     <description>Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-07-16</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies</title>
-    <link>https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc</link>
-    <description>Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dutch police bust investment fraud ring stealing over €100 million</title>
-    <link>https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/</link>
-    <description>The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 17:55:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Zoom warns of critical account takeover vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/</link>
-    <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 16:16:02 -0400</pubDate>
   </item>
 </channel>
 </rss>
