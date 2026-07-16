@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Dutch police bust investment fraud ring stealing over €100 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/</link>
+    <description>The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 15 Jul 2026 17:55:50 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Zoom warns of critical account takeover vulnerability</title>
     <link>https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/</link>
     <description>Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]</description>
@@ -211,29 +218,6 @@ The affected packages are…</description>
     <description>U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 15 Jul 2026 03:45:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands</title>
-    <link>https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html</link>
-    <description>SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 11:00:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2023-4346 — KNX Association KNX Protocol Connection Authorization Option 1 Overly Restrictive Account Lockout Mechanism Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2023-4346</link>
-    <description>KNX Association KNX Protocol Connection Authorization Option 1 contains an overly restrictive account lockout mechanism vulnerability that could allow an attacker to purge all devices without additional security options enabled and set a BCU key to lock the device. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-15</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-46817 — Oracle E-Business Suite Improper Privilege Management Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-46817</link>
-    <description>Oracle E-Business Suite contains an improper privilege management vulnerability that allows an unauthenticated attacker with network access via HTTP to compromise Oracle Payments. Successful attacks of this vulnerability can result in takeover of Oracle Payments.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-15</pubDate>
   </item>
 </channel>
 </rss>
