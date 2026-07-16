@@ -6,6 +6,80 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Scattered Spider hackers sentenced to 5.5 years over £29 million Transport for London hack</title>
+    <link>https://therecord.media/scattered-spider-hackers-tfl-sentenced</link>
+    <description>Two leading members of the Scattered Spider cybercrime collective have been sentenced to more than five years in prison for carrying out the 2024 cyberattack against Transport for London (TfL).</description>
+    <source>The Record</source>
+    <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in 90 days</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/</link>
+    <description>Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 07:59:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA orders feds to patch actively exploited Oracle flaw by Saturday</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/</link>
+    <description>CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 06:56:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian hackers trojanize WebEx, Zoom apps to push Starland malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/</link>
+    <description>A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 06:19:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI Can Find Bugs, But Human Knowledge Still Proves Them</title>
+    <link>https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html</link>
+    <description>Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 15:40:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Spirals ransomware encrypts victim network in under 24 hours</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/</link>
+    <description>A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 16 Jul 2026 06:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide</title>
+    <link>https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html</link>
+    <description>Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 14:53:19 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol</title>
+    <link>https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html</link>
+    <description>OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely.
+
+"GPT‑Red is a strong…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 14:12:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Zoom Patches Critical Windows Flaw That Could Enable Account Takeover</title>
+    <link>https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html</link>
+    <description>Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.
+
+The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 16 Jul 2026 12:52:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack on Japan's largest cold-chain operator disrupts KFC, supermarket supplies</title>
+    <link>https://therecord.media/cyberattack-japan-nichirei-logistics-impacts-kfc</link>
+    <description>Kentucky Fried Chicken restaurants have been left short on ingredients and major restaurant chains struggling to keep up with deliveries following a cyberattack on Nichirei Logistics Group.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Dutch police bust investment fraud ring stealing over €100 million</title>
     <link>https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/</link>
     <description>The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]</description>
@@ -133,91 +207,6 @@ The vulnerabilities are listed below -
     <description>Vulnerability counts have been surging this year, and Microsoft's mammoth disclosure this week of 622 bugs is larger than the three previous months combined.</description>
     <source>The Record</source>
     <pubDate>Wed, 15 Jul 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.</title>
-    <link>https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html</link>
-    <description>For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up.
-
-Enterprise workflows now live across SaaS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 17:20:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday</title>
-    <link>https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html</link>
-    <description>Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive.
-
-It has been described as a Windows User Profile Service arbitrary hive load elevation of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 16:37:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Webinar: Closing the Approval Gap in AI-Era Ad Tech</title>
-    <link>https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html</link>
-    <description>A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages.
-
-This on-demand webinar reveals how this…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 16:36:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution</title>
-    <link>https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html</link>
-    <description>Open a repository in Cursor&amp;nbsp;on Windows and, if a file named&amp;nbsp;git.exe&amp;nbsp;is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 16:25:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA warns admins to patch actively exploited SharePoint flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 05:44:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware</title>
-    <link>https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html</link>
-    <description>Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity.
-
-The affected packages are…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 15 Jul 2026 14:46:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] First VPN santionné par la justice américaine</title>
-    <link>https://www.zataz.com/first-vpn-santionne-par-la-justice-americaine/</link>
-    <description>Un VPN connu et deux internautes accusés de soutenir des groupes de rançongiciel.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 15 Jul 2026 09:03:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Doxbin : un faux administrateur condamné au pays de Galles</title>
-    <link>https://www.zataz.com/doxbin-un-faux-administrateur-condamne-au-pays-de-galles/</link>
-    <description>Un jeune internaute condamné pour swatting avait usurpé l’identité du véritable administrateur d'un site pirate.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 15 Jul 2026 08:35:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Some Dell PCs shut down after recent Windows updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/</link>
-    <description>Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 04:26:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Un hébergeur russe au cœur d’un réseau cybercriminel</title>
-    <link>https://www.zataz.com/un-hebergeur-russe-au-coeur-dun-reseau-cybercriminel/</link>
-    <description>Washington accuse la société Media Land d’avoir fourni l’infrastructure ayant soutenu rançongiciels, phishing et fraude.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 15 Jul 2026 08:02:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] US charges alleged operators of Russian bulletproof hosting service</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/</link>
-    <description>U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 15 Jul 2026 03:45:50 -0400</pubDate>
   </item>
 </channel>
 </rss>
