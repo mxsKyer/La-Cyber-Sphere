@@ -6,6 +6,71 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants</title>
+    <link>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</link>
+    <description>The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 17:14:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?</title>
+    <link>https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html</link>
+    <description>Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Windows LegacyHive zero-day gives hackers admin privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/</link>
+    <description>A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 07:05:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man</title>
+    <link>https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html</link>
+    <description>Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.
+
+His wife, Maria Yurova, told REN TV…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 16:23:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 16 millions de CV exposés en ligne</title>
+    <link>https://www.zataz.com/16-millions-de-cv-exposes-en-ligne/</link>
+    <description>Une annonce pirate revendique 16 millions de CV, avec coordonnées, adresses et historiques professionnels.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 10:27:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows Server 2022 reach end of mainstream support in 90 days</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/</link>
+    <description>Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 05:10:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files</title>
+    <link>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</link>
+    <description>ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 14:26:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage</title>
+    <link>https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</link>
+    <description>Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 14:16:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US charges two over laundering $43 million from investment fraud</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/</link>
+    <description>U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 04:13:37 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] CISA urges immediate action on actively exploited Fortinet flaws</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/</link>
     <description>CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]</description>
@@ -192,87 +257,6 @@ A familiar repo. A useful installer. A harmless sync setting. Then the handoff g
     <description>Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 16 Jul 2026 08:31:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Scattered Spider hackers sentenced to 5.5 years over £29 million Transport for London hack</title>
-    <link>https://therecord.media/scattered-spider-hackers-tfl-sentenced</link>
-    <description>Two leading members of the Scattered Spider cybercrime collective have been sentenced to more than five years in prison for carrying out the 2024 cyberattack against Transport for London (TfL).</description>
-    <source>The Record</source>
-    <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in 90 days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/</link>
-    <description>Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 07:59:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 20+ Hijacked Government Websites Became an Attack Channel</title>
-    <link>https://thehackernews.com/2026/07/20-hijacked-government-websites.html</link>
-    <description>More than 20 Brazilian government websites were hijacked and turned into malware delivery channels in an active PhantomEnigma campaign uncovered by ANY.RUN, a leading provider of interactive malware analysis and threat…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 17:28:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands</title>
-    <link>https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html</link>
-    <description>Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click "Buy Now" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 17:02:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor</title>
-    <link>https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html</link>
-    <description>An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig.
-
-Daxin…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 16:47:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA orders feds to patch actively exploited Oracle flaw by Saturday</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/</link>
-    <description>CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 06:56:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian hackers trojanize WebEx, Zoom apps to push Starland malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/</link>
-    <description>A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 06:19:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Can Find Bugs, But Human Knowledge Still Proves Them</title>
-    <link>https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html</link>
-    <description>Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 15:40:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Spirals ransomware encrypts victim network in under 24 hours</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/</link>
-    <description>A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 06:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide</title>
-    <link>https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html</link>
-    <description>Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 14:53:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol</title>
-    <link>https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html</link>
-    <description>OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely.
-
-"GPT‑Red is a strong…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 14:12:31 +0530</pubDate>
   </item>
 </channel>
 </rss>
