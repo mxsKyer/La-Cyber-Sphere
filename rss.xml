@@ -6,6 +6,76 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Royaume-Uni : couvre-feu numérique pour les adolescents</title>
+    <link>https://www.zataz.com/royaume-uni-couvre-feu-numerique-pour-les-adolescents/</link>
+    <description>Londres prépare un couvre-feu numérique et renforce le contrôle d’âge pour protéger les adolescents en ligne.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 16:07:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] NEBBIA visée par une fuite de données clients</title>
+    <link>https://www.zataz.com/nebbia-visee-par-une-fuite-de-donnees-clients/</link>
+    <description>Un pro du fitness et de la musculation touché par une fuite pirate de 318 002 documents clients.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 15:49:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NoName057(16) revendique un piège contre Madame X</title>
+    <link>https://www.zataz.com/noname05716-revendique-un-piege-contre-madame-x/</link>
+    <description>Des pirates affirment avoir piégé une journaliste dans une opération mêlant infiltration, cybermenace et propagande.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 15:16:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Ernst &amp; Young discloses data breach after support system hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/</link>
+    <description>Ernst &amp; Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 10:55:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Des pirates prorusses ciblent encore la France en ligne</title>
+    <link>https://www.zataz.com/des-pirates-prorusses-ciblent-encore-la-france-en-ligne/</link>
+    <description>Pirates prorusses : caméras exposées et DDoS contre la France servent une stratégie de propagande numérique.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 14:43:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Inside the Search for "Clean" Residential Proxies for Carding</title>
+    <link>https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/</link>
+    <description>Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek "clean" residential proxies and combine them with browser fingerprints, device…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images</title>
+    <link>https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html</link>
+    <description>North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 19:18:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dairy company Fairlife suspends production in US after cyber incident</title>
+    <link>https://therecord.media/dairy-company-fairlife-suspends-production-us-cyber-incident</link>
+    <description>Fairlife’s U.S. operation includes plants in Michigan, New York and Arizona, and the company's retail sales passed $1 billion in 2022.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 17 Jul 2026 13:40:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Croqvacances : 72 916 personnes exposées ?</title>
+    <link>https://www.zataz.com/croqvacances-72-916-personnes-exposees/</link>
+    <description>Un pirate aurait exposé plus de 70 000 données personnelles aprés l'exfiltration d'informations volées à Croqvacances.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 17 Jul 2026 13:18:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Zelensky appoints Ukraine's acting security service chief as acting defense minister</title>
+    <link>https://therecord.media/ukraine-acting-defense-minister-yevhenii-khmara</link>
+    <description>Yevhenii Khmara, a major general with deep experience in intelligence, counterterrorism and long-range strikes against Russia, is Ukraine's new acting defense minister.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 17 Jul 2026 12:50:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants</title>
     <link>https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html</link>
     <description>The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the…</description>
@@ -183,80 +253,6 @@ L’article Sapeurs Pompiers (FNSPF) : 124 807 pompiers dans une fuite de…</de
 The attack left 148 TfL systems…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 16 Jul 2026 22:39:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK investigates TikTok for alleged age-verification lapses, exposing kids to online harms</title>
-    <link>https://therecord.media/ofcom-investigation-tiktok-age-verification</link>
-    <description>“Age checks are a cornerstone of the UK’s online safety laws,” said Ofcom’s Chief Executive, Melanie Dawes. “Too many services have no or inadequate age checks in place, which is not good enough.”</description>
-    <source>The Record</source>
-    <pubDate>Thu, 16 Jul 2026 16:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ukrainians rally against dismissal of tech-minded defense minister Fedorov</title>
-    <link>https://therecord.media/ukraine-fedorov-drones-dismissal</link>
-    <description>Ukraine President Volodymyr Zelensky dismissed Defense Minister Mykhailo Fedorov, who championed the push to integrate drone technology and digital innovation into the military.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories</title>
-    <link>https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html</link>
-    <description>A lot of this week’s trouble starts with something that looks close enough.
-
-A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 21:11:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Agents Broke the Security Playbook. Here's What Replaces It.</title>
-    <link>https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/</link>
-    <description>Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sandworm hackers have a CAPTCHA trick for Ukrainians</title>
-    <link>https://therecord.media/ukraine-sandworm-hacks-captcha-powershell</link>
-    <description>Rather than verifying they are human, the CAPTCHA users are instructed to copy and paste a PowerShell command into their Windows computers.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 16 Jul 2026 13:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 23andMe to pay $18 million in new genetics data breach settlement</title>
-    <link>https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/</link>
-    <description>Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 09:47:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer</title>
-    <link>https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html</link>
-    <description>n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 19:03:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands</title>
-    <link>https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html</link>
-    <description>Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026.
-
-"The malware is full-featured, lightweight,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 18:20:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password</title>
-    <link>https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html</link>
-    <description>ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 18:03:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Scattered Spider members behind TfL hack get five years in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/</link>
-    <description>Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 08:31:29 -0400</pubDate>
   </item>
 </channel>
 </rss>
