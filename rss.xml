@@ -6,6 +6,48 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT</title>
+    <link>https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html</link>
+    <description>Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.
+
+The malicious package campaign, codenamed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 18 Jul 2026 00:24:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SFR : 2,1 millions de clients fibre en fuite après l’accès à un outil interne</title>
+    <link>https://www.cyberattaque.org/sfr-21-millions-de-clients-fibre-en-fuite-apres-lacces-a-un-outil-interne/</link>
+    <description>Une fuite de données attribuée à SFR a été revendiquée le 17 juillet 2026. L’auteur affirme avoir accédé...
+L’article SFR : 2,1 millions de clients fibre en fuite après l’accès à un outil interne est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 17 Jul 2026 18:16:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload</title>
+    <link>https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/</link>
+    <description>A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 13:56:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens</title>
+    <link>https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html</link>
+    <description>A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
+
+A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 22:42:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft</title>
+    <link>https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html</link>
+    <description>Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.
+
+Expel, which shared technical details of the event, described the threat actor…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 22:09:16 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Royaume-Uni : couvre-feu numérique pour les adolescents</title>
     <link>https://www.zataz.com/royaume-uni-couvre-feu-numerique-pour-les-adolescents/</link>
     <description>Londres prépare un couvre-feu numérique et renforce le contrôle d’âge pour protéger les adolescents en ligne.</description>
@@ -182,77 +224,6 @@ L’article Europ-Camera informe ses clients d’une fuite de données après un
     <description>Democratic Sen. Ron Wyden says the Trump administration should pressure Canada not to enact a proposal that would "weaponize American technology infrastructure" for surveillance purposes.</description>
     <source>The Record</source>
     <pubDate>Thu, 16 Jul 2026 21:00:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Claude Chrome extension flaw lets malicious extensions trigger AI actions</title>
-    <link>https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/</link>
-    <description>A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 15:26:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Actiale : 229 978 missions en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/actiale-229-978-missions-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une fuite de données attribuée à Actiale a été revendiquée le 15 juillet 2026. Le dépôt annoncé contiendrait...
-L’article Actiale : 229 978 missions en fuite après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 19:16:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Croq’Vacances : 72 916 personnes et 24 Go de documents dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/croqvacances-72-916-personnes-et-24-go-de-documents-dans-une-fuite-massive/</link>
-    <description>Une fuite de données attribuée à Croq’Vacances a été revendiquée le 15 juillet 2026. L’organisation française de colonies...
-L’article Croq’Vacances : 72 916 personnes et 24 Go de documents dans une fuite massive est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 19:12:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Centres Sociaux de France : les données revendiqués après une compromission de RezoFed</title>
-    <link>https://www.cyberattaque.org/centres-sociaux-de-france-les-donnees-revendiques-apres-une-compromission-de-rezofed/</link>
-    <description>Une compromission attribuée à RezoFed, la plateforme interne de la Fédération des Centres Sociaux et Socioculturels de France...
-L’article Centres Sociaux de France : les données revendiqués après une compromission de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 19:10:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New OkoBot framework deploys 20 payloads to steal data, crypto</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/</link>
-    <description>A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 16 Jul 2026 15:09:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] EVA.gg : 70 424 comptes et 119 361 réservations revendiqués après l’exploitation de son API GraphQL</title>
-    <link>https://www.cyberattaque.org/eva-gg-70-424-comptes-et-119-361-reservations-revendiques-apres-lexploitation-de-son-api-graphql/</link>
-    <description>Une fuite de données attribuée à EVA.gg a été revendiquée le 16 juillet 2026. L’auteur affirme avoir récupéré...
-L’article EVA.gg : 70 424 comptes et 119 361 réservations revendiqués après l’exploitation de son API…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 19:06:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Accor : 162 437 fiches clients revendiquées après l’accès à un outil interne du groupe</title>
-    <link>https://www.cyberattaque.org/accor-162-437-fiches-clients-revendiquees-apres-lacces-a-un-outil-interne-du-groupe/</link>
-    <description>Une fuite de données attribuée à Accor a été revendiquée le 16 juillet 2026. L’auteur affirme avoir compromis...
-L’article Accor : 162 437 fiches clients revendiquées après l’accès à un outil interne du groupe est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 18:58:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Sapeurs Pompiers (FNSPF) : 124 807 pompiers dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/sapeurs-pompiers-fnspf-124-807-pompiers-dans-une-fuite-de-donnees/</link>
-    <description>Une double revendication vise Pompiers.fr et la Fédération nationale des sapeurs-pompiers de France (FNSPF). Les publications annoncent la...
-L’article Sapeurs Pompiers (FNSPF) : 124 807 pompiers dans une fuite de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 16 Jul 2026 18:49:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack</title>
-    <link>https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html</link>
-    <description>Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London.
-
-The attack left 148 TfL systems…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 22:39:25 +0530</pubDate>
   </item>
 </channel>
 </rss>
