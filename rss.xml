@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] CISA urges immediate action on actively exploited Fortinet flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/</link>
+    <description>CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 17 Jul 2026 03:03:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV</title>
+    <link>https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 17 Jul 2026 12:12:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Europ-Camera informe ses clients d’une fuite de données après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/europ-camera-informe-ses-clients-dune-fuite-de-donnees-apres-une-cyberattaque/</link>
+    <description>Le spécialiste français de la vidéosurveillance et des systèmes de sécurité Europ-Camera a informé une partie de ses...
+L’article Europ-Camera informe ses clients d’une fuite de données après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 17 Jul 2026 04:34:11 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] New ClickLock macOS malware traps users into revealing login password</title>
     <link>https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/</link>
     <description>A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]</description>
@@ -251,36 +273,6 @@ Daxin…</description>
 "GPT‑Red is a strong…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 16 Jul 2026 14:12:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Zoom Patches Critical Windows Flaw That Could Enable Account Takeover</title>
-    <link>https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html</link>
-    <description>Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover.
-
-The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 16 Jul 2026 12:52:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-39808 — Fortinet FortiSandbox OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-39808</link>
-    <description>Fortinet FortiSandbox contains an OS command injection vulnerability that could allow an unauthenticated attacker to execute unauthorized code or commands via crafted HTTP requests.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-16</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-25089 — Fortinet FortiSandbox OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-25089</link>
-    <description>Fortinet FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS contain an OS command injection vulnerability that allows an unauthenticated attacker to execute unauthorized commands via specifically crafted HTTP requests.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-16</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-58644 — Microsoft SharePoint Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58644</link>
-    <description>Microsoft SharePoint contains a deserialization of untrusted data vulnerability that allows an unauthorized attacker to execute code over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-16</pubDate>
   </item>
 </channel>
 </rss>
