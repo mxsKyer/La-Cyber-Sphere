@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] La base piratée de LFI ressurgit sur un forum pirate</title>
+    <link>https://www.zataz.com/la-base-piratee-de-lfi-ressurgit-sur-un-forum-pirate/</link>
+    <description>La base volée d’Action populaire ressurgit, exposant militants et organisation aux risques cyber et politiques.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 18 Jul 2026 11:08:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LeakBase : dix téraoctets piratés réapparaissent</title>
+    <link>https://www.zataz.com/leakbase-dix-teraoctets-pirates-reapparaissent/</link>
+    <description>LeakBase fermé, une archive de 10 To de données volées réapparaît via des stockages publics russes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 18 Jul 2026 10:13:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Un négociateur de rançongiciel condamné à 70 mois</title>
+    <link>https://www.zataz.com/un-negociateur-de-rancongiciel-condamne-a-70-mois/</link>
+    <description>Un négociateur de rançongiciel condamné pour avoir aidé BlackCat à extorquer ses propres clients.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 18 Jul 2026 09:49:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La piste néerlandaise se précise après le piratage d’Odido</title>
+    <link>https://www.zataz.com/la-piste-neerlandaise-se-precise-apres-le-piratage-dodido/</link>
+    <description>La police explore une piste et une voix après le vol des données de six millions de clients d’un important opérateur téléphonique.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 18 Jul 2026 09:41:38 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code</title>
     <link>https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</link>
     <description>An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
@@ -155,57 +183,6 @@ Expel, which shared technical details of the event, described the threat actor�
     <description>Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 17 Jul 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Windows LegacyHive zero-day gives hackers admin privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/</link>
-    <description>A security researcher using the "Nightmare Eclipse" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 07:05:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man</title>
-    <link>https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html</link>
-    <description>Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov.
-
-His wife, Maria Yurova, told REN TV…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 17 Jul 2026 16:23:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 16 millions de CV exposés en ligne</title>
-    <link>https://www.zataz.com/16-millions-de-cv-exposes-en-ligne/</link>
-    <description>Une annonce pirate revendique 16 millions de CV, avec coordonnées, adresses et historiques professionnels.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 17 Jul 2026 10:27:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows Server 2022 reach end of mainstream support in 90 days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/</link>
-    <description>Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 05:10:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files</title>
-    <link>https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html</link>
-    <description>ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 17 Jul 2026 14:26:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage</title>
-    <link>https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html</link>
-    <description>Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 17 Jul 2026 14:16:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US charges two over laundering $43 million from investment fraud</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/</link>
-    <description>U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 04:13:37 -0400</pubDate>
   </item>
 </channel>
 </rss>
