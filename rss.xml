@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] WordPress Core "wp2shell" RCE flaws get public exploits, patch now</title>
+    <link>https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/</link>
+    <description>Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 18 Jul 2026 13:22:47 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft warns of surge in ACR Stealer attacks on customers</title>
     <link>https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/</link>
     <description>Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]</description>
@@ -102,66 +109,6 @@ The malicious package campaign, codenamed…</description>
 L’article SFR : 2,1 millions de clients fibre en fuite après l’accès à un outil interne est apparu en premier…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 17 Jul 2026 18:16:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload</title>
-    <link>https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/</link>
-    <description>A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 13:56:21 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens</title>
-    <link>https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html</link>
-    <description>A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys.
-
-A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 17 Jul 2026 22:42:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft</title>
-    <link>https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html</link>
-    <description>Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine.
-
-Expel, which shared technical details of the event, described the threat actor…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 17 Jul 2026 22:09:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Royaume-Uni : couvre-feu numérique pour les adolescents</title>
-    <link>https://www.zataz.com/royaume-uni-couvre-feu-numerique-pour-les-adolescents/</link>
-    <description>Londres prépare un couvre-feu numérique et renforce le contrôle d’âge pour protéger les adolescents en ligne.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 17 Jul 2026 16:07:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] NEBBIA visée par une fuite de données clients</title>
-    <link>https://www.zataz.com/nebbia-visee-par-une-fuite-de-donnees-clients/</link>
-    <description>Un pro du fitness et de la musculation touché par une fuite pirate de 318 002 documents clients.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 17 Jul 2026 15:49:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NoName057(16) revendique un piège contre Madame X</title>
-    <link>https://www.zataz.com/noname05716-revendique-un-piege-contre-madame-x/</link>
-    <description>Des pirates affirment avoir piégé une journaliste dans une opération mêlant infiltration, cybermenace et propagande.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 17 Jul 2026 15:16:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Ernst &amp; Young discloses data breach after support system hack</title>
-    <link>https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/</link>
-    <description>Ernst &amp; Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 10:55:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Des pirates prorusses ciblent encore la France en ligne</title>
-    <link>https://www.zataz.com/des-pirates-prorusses-ciblent-encore-la-france-en-ligne/</link>
-    <description>Pirates prorusses : caméras exposées et DDoS contre la France servent une stratégie de propagande numérique.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 17 Jul 2026 14:43:47 +0000</pubDate>
   </item>
 </channel>
 </rss>
