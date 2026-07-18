@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Update now: 7-Zip fixes RCE flaw exploitable with malicious archives</title>
+    <link>https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/</link>
+    <description>7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 18 Jul 2026 15:32:02 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] WordPress Core "wp2shell" RCE flaws get public exploits, patch now</title>
     <link>https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/</link>
     <description>Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]</description>
@@ -76,39 +83,6 @@
 Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 18 Jul 2026 02:50:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Abbott probes two cyber incidents amid extortion claims</title>
-    <link>https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/</link>
-    <description>Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 17 Jul 2026 16:45:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests</title>
-    <link>https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html</link>
-    <description>Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts.
-
-OpenSSL shipped…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 18 Jul 2026 01:50:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT</title>
-    <link>https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html</link>
-    <description>Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack.
-
-The malicious package campaign, codenamed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 18 Jul 2026 00:24:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SFR : 2,1 millions de clients fibre en fuite après l’accès à un outil interne</title>
-    <link>https://www.cyberattaque.org/sfr-21-millions-de-clients-fibre-en-fuite-apres-lacces-a-un-outil-interne/</link>
-    <description>Une fuite de données attribuée à SFR a été revendiquée le 17 juillet 2026. L’auteur affirme avoir accédé...
-L’article SFR : 2,1 millions de clients fibre en fuite après l’accès à un outil interne est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 17 Jul 2026 18:16:47 +0000</pubDate>
   </item>
 </channel>
 </rss>
