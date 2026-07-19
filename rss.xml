@@ -75,14 +75,5 @@
     <source>ZATAZ</source>
     <pubDate>Sat, 18 Jul 2026 09:41:38 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code</title>
-    <link>https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html</link>
-    <description>An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable.
-
-Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 18 Jul 2026 02:50:10 +0530</pubDate>
-  </item>
 </channel>
 </rss>
