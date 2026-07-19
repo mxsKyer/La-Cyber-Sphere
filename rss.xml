@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers abuse ViPNet software to target Russian govt agencies</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/</link>
+    <description>An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 19 Jul 2026 10:23:46 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware</title>
+    <link>https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html</link>
+    <description>Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware.
+
+According to the Computer…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 19 Jul 2026 19:00:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access</title>
+    <link>https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html</link>
+    <description>A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 19 Jul 2026 18:48:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Update now: 7-Zip fixes RCE flaw exploitable with malicious archives</title>
     <link>https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/</link>
     <description>7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]</description>
@@ -18,27 +41,6 @@
     <description>Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 18 Jul 2026 13:22:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft warns of surge in ACR Stealer attacks on customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/</link>
-    <description>Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 18 Jul 2026 10:17:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Future of Age Verification: Your Face Never Leaves Your Device</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/</link>
-    <description>As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 18 Jul 2026 09:15:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Canicule : les serveurs français sous pression pirate</title>
-    <link>https://www.zataz.com/canicule-les-serveurs-francais-sous-pression-pirate/</link>
-    <description>Seize organisations françaises citées par six groupes pirates entre le 1er et le 16 juillet 2026.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 18 Jul 2026 11:38:31 +0000</pubDate>
   </item>
 </channel>
 </rss>
