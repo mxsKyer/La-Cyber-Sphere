@@ -28,19 +28,5 @@ According to the Computer…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 19 Jul 2026 18:48:56 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Update now: 7-Zip fixes RCE flaw exploitable with malicious archives</title>
-    <link>https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/</link>
-    <description>7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 18 Jul 2026 15:32:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WordPress Core "wp2shell" RCE flaws get public exploits, patch now</title>
-    <link>https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/</link>
-    <description>Public exploits have been released for the critical "wp2shell" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 18 Jul 2026 13:22:47 -0400</pubDate>
-  </item>
 </channel>
 </rss>
