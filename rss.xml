@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html</link>
+    <description>F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 20 Jul 2026 02:12:49 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers abuse ViPNet software to target Russian govt agencies</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/</link>
     <description>An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]</description>
