@@ -6,6 +6,114 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC</title>
+    <link>https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html</link>
+    <description>A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.
+
+The vulnerability in question is CVE-2026-50522 (CVSS score:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 20:27:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access</title>
+    <link>https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html</link>
+    <description>Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments.
+
+Arctic Wolf Labs said it…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 19:34:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Closing the Identity Gaps in Critical Infrastructure Security</title>
+    <link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/</link>
+    <description>Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Taiwan to slow mobile data during national resilience drills</title>
+    <link>https://therecord.media/taiwan-mobile-5g-speed-reductions-han-kuang</link>
+    <description>The speed of 5G and 4G networks across much of Taiwan will be temporarily reduced to 1 percent of capacity as the island holds annual civilian and military exercises.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 21 Jul 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities</title>
+    <link>https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html</link>
+    <description>Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component.
+
+As many as nine security…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 18:48:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kenya probes hack of president's website after bitcoin ransom demand</title>
+    <link>https://therecord.media/kenya-probes-hack-of-presidents-website-after-ransom-demand</link>
+    <description>The website was hacked on Saturday, when its homepage was replaced with a message displaying a cryptocurrency wallet address and threatening to publish unspecified information about President William Ruto unless the…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 21 Jul 2026 12:08:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs</title>
+    <link>https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html</link>
+    <description>An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] N-day is Becoming N-Hour. Patching Faster Won't Save You.</title>
+    <link>https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html</link>
+    <description>Every patch is a confession.
+
+The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 17:12:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit</title>
+    <link>https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html</link>
+    <description>A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in.
+
+That is the claim behind Bit2Watt,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 16:54:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US seizes over 1,000 websites in FIFA World Cup piracy crackdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/</link>
+    <description>The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 07:07:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anubis menace Coca-Cola via Fairlife</title>
+    <link>https://www.zataz.com/anubis-menace-coca-cola-via-fairlife/</link>
+    <description>Anubis menace Coca-Cola après une cyberattaque revendiquée contre Fairlife et fixe un ultimatum au 27 juillet.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 21 Jul 2026 10:55:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Coinbase Cartel menace Caterpillar</title>
+    <link>https://www.zataz.com/coinbase-cartel-menace-caterpillar/</link>
+    <description>Coinbase Cartel menace Caterpillar, expose une stratégie d’extorsion cyber publique et alerte sur des pirates qui usurpent le groupe pirate !</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 21 Jul 2026 10:50:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Palo Alto VPN bug now exploited by Qilin ransomware gang</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/</link>
+    <description>The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 06:12:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Une usurpation cible les services communication</title>
+    <link>https://www.zataz.com/une-usurpation-cible-les-services-communication/</link>
+    <description>Un escroc usurpe Damien Bancal et ZATAZ pour cibler les services communication par ingénierie sociale.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 21 Jul 2026 10:04:20 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft shares manual fix for WSUS sync delays and timeouts</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/</link>
     <description>Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]</description>
@@ -59,6 +167,34 @@ The same operator has now been spotted deploying…</description>
 In a post shared on X, the threat intelligence firm said it's observing…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 21 Jul 2026 11:59:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2021-27137 — DD-WRT Stack-Based Buffer Overflow Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-27137</link>
+    <description>DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-21</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-0770 — Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-0770</link>
+    <description>Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-21</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-63030 — WordPress Core Interpretation Conflict Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-63030</link>
+    <description>WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-21</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-60137 — WordPress Core SQL Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-60137</link>
+    <description>WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-21</pubDate>
   </item>
   <item>
     <title>[Critique] Estée Lauder discloses data breach via Oracle E-Business flaw</title>
@@ -143,109 +279,6 @@ In a post shared on X, the threat intelligence firm said it's observing…</desc
     <description>Over the course of the World Cup tournament, the Department of Justice seized more than 1,000 domains for illegally streaming games.</description>
     <source>The Record</source>
     <pubDate>Mon, 20 Jul 2026 17:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers were inside South Korea's diplomat training system for 9 months</title>
-    <link>https://therecord.media/south-korea-cyberattack-foreign-ministry</link>
-    <description>Unidentified hackers compromised an online education system used by South Korea's diplomatic academy, stealing personal information belonging to former and current employees of the country's Ministry of Foreign Affairs.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 15:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France Casse : 3,3 millions de comptes en fuite avec des mots de passe en clair</title>
-    <link>https://www.cyberattaque.org/france-casse-33-millions-de-comptes-en-fuite-avec-des-mots-de-passe-en-clair/</link>
-    <description>Le site France Casse, plateforme française spécialisée dans la recherche et la vente de pièces automobiles d&amp;#8217;occasion, fait...
-L’article France Casse : 3,3 millions de comptes en fuite avec des mots de passe en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 20 Jul 2026 15:01:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Romania races to restore land registry after cyberattack disrupts property market</title>
-    <link>https://therecord.media/romania-cyberattack-land-registry</link>
-    <description>Romania's land registry agency is still recovering from a cyberattack it called "the most serious technical incident in the institution's history."</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050</title>
-    <link>https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html</link>
-    <description>A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 20:03:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PSB Paris School of Business : 864 dossiers d’inscription d’étudiants mis en vente avec pièces d’identité</title>
-    <link>https://www.cyberattaque.org/psb-paris-school-of-business-864-dossiers-dinscription-detudiants-mis-en-vente-avec-pieces-didentite/</link>
-    <description>PSB Paris School of Business, école de commerce parisienne appartenant au groupe Galileo Global Education, fait l&amp;#8217;objet d&amp;#8217;une...
-L’article PSB Paris School of Business : 864 dossiers d’inscription…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 20 Jul 2026 14:14:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Centre Hospitalier de Perpignan : des dossiers de patients en fuite</title>
-    <link>https://www.cyberattaque.org/centre-hospitalier-de-perpignan-des-dossiers-de-patients-en-fuite/</link>
-    <description>Le Centre Hospitalier de Perpignan fait l’objet d’une revendication publiée le 19 juillet 2026 par un collectif se...
-L’article Centre Hospitalier de Perpignan : des dossiers de patients en fuite est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 20 Jul 2026 14:01:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] An AI SOC Evaluation Guide for Security Leaders</title>
-    <link>https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/</link>
-    <description>Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More</title>
-    <link>https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html</link>
-    <description>A single request should not be able to do this much. But this week, small inputs led to code execution, memory loss, stolen keys, and disabled security tools.
-
-The paths were often simple: exposed systems, weak checks,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 19:02:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine</title>
-    <link>https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html</link>
-    <description>At least one Russian intelligence service is systematically hijacking internet-connected security cameras across Europe and Ukraine, using the feeds to watch military transport routes, weapons shipments bound for Kyiv,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 17:43:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hugging Face warns an autonomous AI agent hacked its network</title>
-    <link>https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/</link>
-    <description>The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 07:56:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mythos Didn't Break Your Security Program. Your Exposure Window Could.</title>
-    <link>https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html</link>
-    <description>The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Software provider to more than 2,000 US hospitals says hackers stole employee and customer data</title>
-    <link>https://therecord.media/software-provider-for-us-hospitals-customer-data-breach</link>
-    <description>Craneware, which is headquartered in Edinburgh and listed on London's AIM market, told investors it detected unauthorized access to a “subset” of its data environment and has since brought in outside forensic…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 11:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft confirms Windows Server Update Services sync delays</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/</link>
-    <description>Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 06:47:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows KB5121767 OOB update fixes shutdowns on some Dell PCs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/</link>
-    <description>Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 06:06:17 -0400</pubDate>
   </item>
 </channel>
 </rss>
