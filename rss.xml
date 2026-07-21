@@ -6,6 +6,61 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft shares manual fix for WSUS sync delays and timeouts</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/</link>
+    <description>Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 05:05:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning</title>
+    <link>https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html</link>
+    <description>Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites.
+
+The two…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 14:29:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fuite revendiquée au Rassemblement national ?</title>
+    <link>https://www.zataz.com/fuite-revendiquee-au-rassemblement-national/</link>
+    <description>Un pirate affirme vendre des données présumés volés au Rassemblement national qui révélerait des données internes, sans preuve publique permettant d’authentifier la fuite à ce stade.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 21 Jul 2026 08:39:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hugging Face frappé par un agent cyber autonome</title>
+    <link>https://www.zataz.com/hugging-face-frappe-par-un-agent-cyber-autonome/</link>
+    <description>Une attaque autonome contre Hugging Face révèle les risques cyber des pipelines de données et des agents IA.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 21 Jul 2026 08:21:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Windows LegacyHive zero-day flaw gets free, unofficial patches</title>
+    <link>https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/</link>
+    <description>Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 04:06:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack</title>
+    <link>https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html</link>
+    <description>Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month.
+
+The same operator has now been spotted deploying…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 13:04:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution</title>
+    <link>https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html</link>
+    <description>Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber.
+
+In a post shared on X, the threat intelligence firm said it's observing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 11:59:26 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Estée Lauder discloses data breach via Oracle E-Business flaw</title>
     <link>https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/</link>
     <description>Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]</description>
@@ -191,45 +246,6 @@ The paths were often simple: exposed systems, weak checks,…</description>
     <description>Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 20 Jul 2026 06:06:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical ServiceNow code execution flaw now exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/</link>
-    <description>Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 05:29:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction</title>
-    <link>https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html</link>
-    <description>Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 14:40:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs</title>
-    <link>https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html</link>
-    <description>A solo Russian-speaking threat actor known as "bandcampro" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet.
-
-The findings come from…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 14:37:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent</title>
-    <link>https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html</link>
-    <description>In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system.
-
-The company said it detected and responded to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 10:57:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines</title>
-    <link>https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html</link>
-    <description>Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 10:45:39 +0530</pubDate>
   </item>
 </channel>
 </rss>
