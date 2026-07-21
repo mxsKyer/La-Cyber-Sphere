@@ -6,6 +6,66 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical SharePoint RCE flaw exploited to steal machine keys</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/</link>
+    <description>Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 16:06:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DNI nominee Clayton wins Senate panel’s approval</title>
+    <link>https://therecord.media/jay-clayton-dni-nomination-senate-committee-approval</link>
+    <description>By a party-line vote, the Senate Intelligence Committee sent the nomination of Jay Clayton to lead ODNI to the Senate floor.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 21 Jul 2026 19:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak</title>
+    <link>https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/</link>
+    <description>The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 14:50:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs</title>
+    <link>https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html</link>
+    <description>Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.
+
+404 Media reported Tuesday that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 22 Jul 2026 00:16:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack</title>
+    <link>https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach</link>
+    <description>The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 21 Jul 2026 17:10:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical wp2shell WordPress flaws exploited to install webshells</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/</link>
+    <description>Hackers are exploiting the "wp2shell" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 12:41:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code</title>
+    <link>https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</link>
+    <description>Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.
+
+Intezer, in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 21:36:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities</title>
+    <link>https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html</link>
+    <description>Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 21 Jul 2026 20:39:28 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC</title>
     <link>https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html</link>
     <description>A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr.
@@ -230,55 +290,6 @@ In a post shared on X, the threat intelligence firm said it's observing…</desc
     <description>The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 20 Jul 2026 17:08:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Flock Safety kills acoustic system designed to detect 'human distress'</title>
-    <link>https://therecord.media/flock-safety-kills-audio-detection-system-human-distress</link>
-    <description>"Community consultation" is one of the reasons automated license plate reader (ALPR) company Flock Safety cited in its decision to drop voice-oriented tech from a gunshot detection system.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 19:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware</title>
-    <link>https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html</link>
-    <description>Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 23:53:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] India says allegedly leaked nuclear plant files pose no safety risk</title>
-    <link>https://therecord.media/india-nuclear-plant-kudankulam-world-leaks-documents</link>
-    <description>Documents that the World Leaks cybercrime group claimed to leak from the Kudankulam Nuclear Power Plant do not contain information pertaining to safety or security, Indian officials said.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 18:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New HollowGraph malware uses Microsoft Graph for stealthy C2 comms</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/</link>
-    <description>A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 13:43:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fraude scolaire : le piège des frais de scolarité est de retour</title>
-    <link>https://www.zataz.com/fraude-scolaire-le-piege-des-frais-de-scolarite-est-de-retour/</link>
-    <description>Une fausse facture scolaire de 350 € cible des étudiants avec un virement urgent et une adresse trompeuse.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 20 Jul 2026 17:38:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign</title>
-    <link>https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html</link>
-    <description>A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 20 Jul 2026 22:59:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] More than 1,000 domains illegally streaming World Cup games seized, DOJ says</title>
-    <link>https://therecord.media/world-cup-illegal-streams-doj</link>
-    <description>Over the course of the World Cup tournament, the Department of Justice seized more than 1,000 domains for illegally streaming games.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 20 Jul 2026 17:15:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
