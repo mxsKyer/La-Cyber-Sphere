@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Police dismantle Kratos phishing platform, arrest developer</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/</link>
+    <description>Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 19:07:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/</link>
+    <description>A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 21 Jul 2026 18:34:17 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical SharePoint RCE flaw exploited to steal machine keys</title>
     <link>https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/</link>
     <description>Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]</description>
@@ -227,69 +241,6 @@ The same operator has now been spotted deploying…</description>
 In a post shared on X, the threat intelligence firm said it's observing…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 21 Jul 2026 11:59:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2021-27137 — DD-WRT Stack-Based Buffer Overflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-27137</link>
-    <description>DD-WRT contains a stack-based buffer overflow vulnerability that could allow an unauthenticated attacker to overflow an internal buffer used by UPnP and trigger a code execution vulnerability.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-21</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-0770 — Langflow Inclusion of Functionality from Untrusted Control Sphere Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-0770</link>
-    <description>Langflow contains an inclusion of functionality from untrusted control sphere vulnerability that allows remote attackers to execute arbitrary code on affected installations. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-21</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-63030 — WordPress Core Interpretation Conflict Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-63030</link>
-    <description>WordPress Core contains an interpretation conflict vulnerability that could allow an attacker to perform SQL Injection and achieve Remote Code Execution. This vulnerability can be chained with CVE-2026-60137.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-21</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-60137 — WordPress Core SQL Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-60137</link>
-    <description>WordPress Core contains a SQL injection vulnerability when a plugin or theme passes untrusted input to the parameter. This vulnerability can be chained with CVE-2026-63030 to allow an unauthenticated attacker to gain remote code execution on default WordPress installations.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-21</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Estée Lauder discloses data breach via Oracle E-Business flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/</link>
-    <description>Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 18:39:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SonicWall SMA1000 flaws exploited as zero-days to push custom malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/</link>
-    <description>Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 18:23:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers steal $23.7 million in crypto from Ostium in off-chain attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/</link>
-    <description>The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 18:22:56 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes</title>
-    <link>https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/</link>
-    <description>Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 17:14:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] JadePuffer agentic attacks now target AI model data with ransomware</title>
-    <link>https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/</link>
-    <description>The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 20 Jul 2026 17:08:02 -0400</pubDate>
   </item>
 </channel>
 </rss>
