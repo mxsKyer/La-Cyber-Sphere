@@ -6,6 +6,72 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] South Korea discloses data breach impacting diplomats worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/</link>
+    <description>South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 22 Jul 2026 16:06:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Federal agencies broaden alert on Iran-linked OT attacks</title>
+    <link>https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks</link>
+    <description>The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 22 Jul 2026 19:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs</title>
+    <link>https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html</link>
+    <description>Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 22 Jul 2026 23:37:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] French Parliament greenlights social media ban for under-15s</title>
+    <link>https://therecord.media/france-social-media-ban-parliament</link>
+    <description>Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 22 Jul 2026 18:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Une IA d’OpenAI s’échappe de son environnement de test et pirate Hugging Face</title>
+    <link>https://www.cyberattaque.org/une-ia-dopenai-sechappe-de-son-environnement-de-test-et-pirate-hugging-face/</link>
+    <description>Un agent autonome propulsé par des modèles avancés d’OpenAI aurait échappé à son environnement de test avant de...
+L’article Une IA d’OpenAI s’échappe de son environnement de test et pirate Hugging Face est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 22 Jul 2026 17:06:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BANATIC : plus de 91 000 élus et responsables de collectivités exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/banatic-plus-de-91-000-elus-et-responsables-de-collectivites-exposes-apres-une-cyberattaque/</link>
+    <description>Le hacker misere a revendiqué, le 20 juillet 2026, la compromission de banatic.interieur.gouv.fr, une plateforme du ministère de...
+L’article BANATIC : plus de 91 000 élus et responsables de collectivités exposés après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 22 Jul 2026 16:59:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/</link>
+    <description>Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 22 Jul 2026 12:59:17 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Rassemblement National : une base WordPress de 95 tables en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/rassemblement-national-une-base-wordpress-de-95-tables-en-fuite-apres-une-cyberattaque/</link>
+    <description>Le site officiel du Rassemblement National fait l&amp;#8217;objet d&amp;#8217;une revendication publiée le 20 juillet 2026. Un acteur affirme...
+L’article Rassemblement National : une base WordPress de 95 tables en fuite après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 22 Jul 2026 16:55:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] New Kimsuky campaign compromised South Korean software vendors</title>
+    <link>https://therecord.media/kimsuky-north-korea-espionage-groupware-companies</link>
+    <description>A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 22 Jul 2026 16:47:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Japanese food logistics giant recovers as extortion group claims cyberattack</title>
     <link>https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery</link>
     <description>Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.</description>
@@ -18,6 +84,13 @@
     <description>Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 22 Jul 2026 11:30:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data</title>
+    <link>https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html</link>
+    <description>Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 22 Jul 2026 20:31:21 +0530</pubDate>
   </item>
   <item>
     <title>[Moyen] New InfraTrust report reveals infrastructure flaws admins should patch first</title>
@@ -136,6 +209,20 @@ The…</description>
     <pubDate>Wed, 22 Jul 2026 01:10:38 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-50522 — Microsoft SharePoint Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-50522</link>
+    <description>Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-22</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-16232 — Check Point SmartConsole Improper Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-16232</link>
+    <description>Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-22</pubDate>
+  </item>
+  <item>
     <title>[Faible] Police dismantle Kratos phishing platform, arrest developer</title>
     <link>https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/</link>
     <description>Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]</description>
@@ -148,59 +235,6 @@ The…</description>
     <description>A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 21 Jul 2026 18:34:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical SharePoint RCE flaw exploited to steal machine keys</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/</link>
-    <description>Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 21 Jul 2026 16:06:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DNI nominee Clayton wins Senate panel’s approval</title>
-    <link>https://therecord.media/jay-clayton-dni-nomination-senate-committee-approval</link>
-    <description>By a party-line vote, the Senate Intelligence Committee sent the nomination of Jay Clayton to lead ODNI to the Senate floor.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 21 Jul 2026 19:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak</title>
-    <link>https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/</link>
-    <description>The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 21 Jul 2026 14:50:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs</title>
-    <link>https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html</link>
-    <description>Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees.
-
-404 Media reported Tuesday that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 00:16:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Spain fines 23andMe nearly $3 million for cybersecurity failings enabling 2023 hack</title>
-    <link>https://therecord.media/spain-fines-23andme-3-million-cyber-failings-data-breach</link>
-    <description>The Agencia Española de Protección de Datos (AEPD) announced the fine on Friday, saying in its decision that more than 2,600 Spaniards were impacted by a breach affecting 6.9 million people worldwide.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 21 Jul 2026 17:10:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical wp2shell WordPress flaws exploited to install webshells</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/</link>
-    <description>Hackers are exploiting the "wp2shell" critical vulnerability suite (CVE-2026-63030 and CVE-2026-60137) affecting WordPress Core to deploy persistent webshells and install malicious plugins on affected servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 21 Jul 2026 12:41:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code</title>
-    <link>https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html</link>
-    <description>Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it.
-
-Intezer, in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 21 Jul 2026 21:36:12 +0530</pubDate>
   </item>
 </channel>
 </rss>
