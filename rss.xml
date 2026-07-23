@@ -6,6 +6,123 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft 365 outage affects Teams, SharePoint and other services</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/</link>
+    <description>Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 11:34:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cyberattaque à Drancy : tous les serveurs débranchés, la mairie refuse la rançon et redoute une fuite de données</title>
+    <link>https://www.cyberattaque.org/cyberattaque-a-drancy-tous-les-serveurs-debranches-la-mairie-refuse-la-rancon-et-redoute-une-fuite-de-donnees/</link>
+    <description>Depuis le 3 juillet 2026, la mairie de Drancy fait face à une importante attaque par rançongiciel. Les...
+L’article Cyberattaque à Drancy : tous les serveurs débranchés, la mairie refuse la rançon et redoute une fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 23 Jul 2026 14:04:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires</title>
+    <link>https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/</link>
+    <description>FedRAMP 20X replaces point-in-time assessments with continuous, machine-readable evidence that demonstrates security controls are working. Anecdotes explains what the transition from Rev5 to FedRAMP 20X means and how…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Immobilière Tariot : fuite des plans de logements, RIB et dossiers de copropriétaires marseillais</title>
+    <link>https://www.cyberattaque.org/immobiliere-tariot-fuite-des-plans-de-logements-rib-et-dossiers-de-coproprietaires-marseillais/</link>
+    <description>Immobilière Tariot, agence immobilière et syndic de copropriétés basée à Marseille, fait l’objet d’une revendication publiée le 22...
+L’article Immobilière Tariot : fuite des plans de logements, RIB et dossiers de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 23 Jul 2026 13:49:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Aide à Dom 74 : 92 candidatures en fuite, les coordonnées de demandeurs d’emploi exposées</title>
+    <link>https://www.cyberattaque.org/aide-a-dom-74-92-candidatures-en-fuite-les-coordonnees-de-demandeurs-demploi-exposees/</link>
+    <description>Le hacker misere revendique l’extraction de données depuis le site aideadom74.fr, spécialisé dans les services d’aide à domicile...
+L’article Aide à Dom 74 : 92 candidatures en fuite, les coordonnées de demandeurs…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 23 Jul 2026 13:47:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files</title>
+    <link>https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html</link>
+    <description>Cybersecurity researchers have uncovered a sandbox escape vulnerability in Anthropic's Claude Cowork that makes it possible to break out of the confines of a Linux virtual machine (VM) within which the agent runs to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 18:57:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Major Australian energy supplier confirms customer data compromised</title>
+    <link>https://therecord.media/australia-origin-energy-data-breach</link>
+    <description>Origin Energy said it was working to figure out how many Australians were affected by a recent data breach.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 23 Jul 2026 13:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge</title>
+    <link>https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html</link>
+    <description>The Chaos ransomware group ran its command-and-control through the victim's own browser. Cisco Talos on Thursday detailed msaRAT, the Rust implant behind it, found on a compromised Windows machine ahead of the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 18:41:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] EU fines Google $1 billion for search, app store antitrust violations</title>
+    <link>https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/</link>
+    <description>The European Commission fined Google €890 million ($1 billion) on Thursday after finding the company had violated the European Union's Digital Markets Act (DMA), which ensures fair online competition. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 08:33:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks</title>
+    <link>https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html</link>
+    <description>An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 17:50:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK and partners expose Russian state-supported actors for new ‘zero-click’ phishing campaign targeting Western organisations</title>
+    <link>https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign</link>
+    <description>GCHQ’s National Cyber Security Centre and international partners issue warning as ‘LAUNDRY BEAR’ cyber threat group exposed for targeted phishing campaign</description>
+    <source>NCSC UK</source>
+    <pubDate>Thu, 23 Jul 2026 12:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] How Synthetic Identity Fraud is Coming for Machine Identities</title>
+    <link>https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html</link>
+    <description>Most people understand identity theft as an attacker stealing a real person's sensitive information and impersonating them. Synthetic identity fraud is much harder to catch. Instead of stealing a real identity, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 17:15:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] New RefluXFS Linux flaw lets attackers gain root privileges</title>
+    <link>https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/</link>
+    <description>A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 07:40:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers</title>
+    <link>https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html</link>
+    <description>Cybersecurity researchers have shed light on a large-scale campaign that has turned compromised GitHub repositories into distributed attack infrastructure designed to target cPanel and WebHost Manager (WHM)…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 16:58:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New msaRAT malware uses Chrome, Edge browsers to route C2 traffic</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/</link>
+    <description>The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 06:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts</title>
+    <link>https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html</link>
+    <description>Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video.
+
+The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 15:30:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft working to fix Exchange Online mailbox quarantine issue</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/</link>
     <description>Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]</description>
@@ -18,6 +135,15 @@
     <description>Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 23 Jul 2026 04:13:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
+    <link>https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</link>
+    <description>RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
+
+Qualys said default…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 13:34:35 +0530</pubDate>
   </item>
   <item>
     <title>[Moyen] Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access</title>
@@ -119,92 +245,6 @@ L’article Rassemblement National : une base WordPress de 95 tables en fuite ap
     <description>A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.</description>
     <source>The Record</source>
     <pubDate>Wed, 22 Jul 2026 16:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Japanese food logistics giant recovers as extortion group claims cyberattack</title>
-    <link>https://therecord.media/nichirei-japan-food-logistics-cyberattack-recovery</link>
-    <description>Nichirei Logistics Group said warehouse operations and frozen food shipments are returning to normal. A cybercrime gang said it caused the disruption.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 15:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] How enterprise GenAI can amplify ransomware risk — and how to contain it</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/</link>
-    <description>Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 11:30:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data</title>
-    <link>https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html</link>
-    <description>Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 20:31:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New InfraTrust report reveals infrastructure flaws admins should patch first</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/</link>
-    <description>Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 10:15:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Adobe Chrome extension flaw let sites access private WhatsApp chats</title>
-    <link>https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/</link>
-    <description>The Adobe Acrobat extension for Chrome could be used to access conversations and data rendered in WhatsApp Web without any form of authentication. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 09:22:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication</title>
-    <link>https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html</link>
-    <description>A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck.
-
-The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 18:06:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI models behind breach of Hugging Face systems, companies say</title>
-    <link>https://therecord.media/openai-cyberattack-hugging-face</link>
-    <description>OpenAI announced that its models were behind a breach of the AI platform Hugging Face, which had earlier detected an attack carried out by "by an autonomous AI agent."</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] The Fastest Path to AI Adoption Runs Through Security</title>
-    <link>https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html</link>
-    <description>Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 17:28:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA orders urgent action on actively exploited Langflow RCE flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/</link>
-    <description>The Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday ordered U.S. government agencies to prioritize patching an actively exploited vulnerability in the Langflow visual framework for building AI agents.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 07:43:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Why Modern SOCs Need Multi-Layered Detections</title>
-    <link>https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html</link>
-    <description>The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 16:55:35 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Stop renting storage space — this lifetime 2TB plan is yours for $59</title>
-    <link>https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/</link>
-    <description>Cloud storage costs tend to creep up over time, since most services charge monthly or annually for as long as you use them. FileJump's Lifetime Plan skips that model entirely, offering 2TB of cloud storage for a single…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 07:09:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft to stop Exchange 2016 / 2019 security updates in October</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/</link>
-    <description>Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 06:44:52 -0400</pubDate>
   </item>
 </channel>
 </rss>
