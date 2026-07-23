@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft working to fix Exchange Online mailbox quarantine issue</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/</link>
+    <description>Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 05:20:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Check Point warns of SmartConsole zero-day exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/</link>
+    <description>Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 04:13:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access</title>
+    <link>https://thehackernews.com/2026/07/check-point-patches-exploited.html</link>
+    <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 12:04:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Swiss train maker Stadler refuses Everest $12 million ransomware demand</title>
+    <link>https://therecord.media/stadler-refuses-everest-ransom-demand</link>
+    <description>Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 22 Jul 2026 23:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Upbound says hack caused $13 million in fraudulent Acima leases</title>
     <link>https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/</link>
     <description>The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]</description>
@@ -177,57 +205,6 @@ The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case…</de
     <description>Microsoft has reminded customers that it will stop shipping security updates for Exchange 2016 and 2019 through the Extended Security Update (ESU) program in October. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 22 Jul 2026 06:44:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chick-fil-A discloses data breach after credential stuffing attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/</link>
-    <description>American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 02:40:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA</title>
-    <link>https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html</link>
-    <description>German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 12:08:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library</title>
-    <link>https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html</link>
-    <description>Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 11:30:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says its AI models hacked Hugging Face during testing</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/</link>
-    <description>OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 01:19:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents</title>
-    <link>https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html</link>
-    <description>A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 10:27:52 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark</title>
-    <link>https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html</link>
-    <description>OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an "even more capable pre-release model," was behind the security incident that targeted Hugging Face's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 09:48:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] LG to Ban Residential Proxies from Smart TV Apps</title>
-    <link>https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/</link>
-    <description>The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 22 Jul 2026 01:10:38 +0000</pubDate>
   </item>
 </channel>
 </rss>
