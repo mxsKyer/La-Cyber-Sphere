@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Upbound says hack caused $13 million in fraudulent Acima leases</title>
+    <link>https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/</link>
+    <description>The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 22 Jul 2026 17:43:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill</title>
+    <link>https://therecord.media/cisa-2015-extension-passes-house-ndaa</link>
+    <description>A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 22 Jul 2026 20:39:35 GMT</pubDate>
+  </item>
+  <item>
     <title>[Élevé] South Korea discloses data breach impacting diplomats worldwide</title>
     <link>https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/</link>
     <description>South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign…</description>
@@ -18,6 +32,13 @@
     <description>The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.</description>
     <source>The Record</source>
     <pubDate>Wed, 22 Jul 2026 19:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier</title>
+    <link>https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html</link>
+    <description>Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 00:07:42 +0530</pubDate>
   </item>
   <item>
     <title>[Moyen] Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs</title>
@@ -207,34 +228,6 @@ The…</description>
     <description>The home appliance giant LG Electronics USA said this week it plans to suspend any apps built for its smart TVs that turn one's television into an always-on residential proxy node. The move comes less than a month after…</description>
     <source>Krebs on Security</source>
     <pubDate>Wed, 22 Jul 2026 01:10:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-50522 — Microsoft SharePoint Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-50522</link>
-    <description>Microsoft SharePoint contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-22</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-16232 — Check Point SmartConsole Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-16232</link>
-    <description>Check Point SmartConsole contains an improper authentication vulnerability which could allow an unauthenticated remote attacker to obtain an application login token and use it to authenticate with full administrative privileges.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-22</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Police dismantle Kratos phishing platform, arrest developer</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/</link>
-    <description>Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 21 Jul 2026 19:07:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/</link>
-    <description>A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 21 Jul 2026 18:34:17 -0400</pubDate>
   </item>
 </channel>
 </rss>
