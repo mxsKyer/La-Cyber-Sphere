@@ -6,11 +6,71 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Australian energy provider Origin says data breach exposes client data</title>
+    <link>https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/</link>
+    <description>Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 16:14:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Claude app promoted by Bing ads pushes SectopRAT malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/</link>
+    <description>A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 15:48:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes</title>
+    <link>https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</link>
+    <description>A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.
+
+The payload goes after the last 90 days of email, the organization's entire email…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 24 Jul 2026 00:06:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] International alert spotlights Russia-linked attacks on Zimbra webmail</title>
+    <link>https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear</link>
+    <description>A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 23 Jul 2026 16:58:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Russian hackers exploit Zimbra zero-click flaw for email theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/</link>
+    <description>CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 12:49:27 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers abuse Notepad++ plugins to stealthily install malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/</link>
+    <description>Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 12:32:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] State Department imposes visa restrictions on foreign cyber scammers</title>
+    <link>https://therecord.media/visa-restrictions-cyber-scammers</link>
+    <description>Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 23 Jul 2026 16:29:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft 365 outage affects Teams, SharePoint and other services</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/</link>
     <description>Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 23 Jul 2026 11:34:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories</title>
+    <link>https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html</link>
+    <description>Most of this week's trouble came dressed as something useful.
+
+A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 23 Jul 2026 20:32:07 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Cyberattaque à Drancy : tous les serveurs débranchés, la mairie refuse la rançon et redoute une fuite de données</title>
@@ -172,79 +232,6 @@ Qualys said default…</description>
     <description>A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.</description>
     <source>The Record</source>
     <pubDate>Wed, 22 Jul 2026 20:39:35 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] South Korea discloses data breach impacting diplomats worldwide</title>
-    <link>https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/</link>
-    <description>South Korea disclosed that hackers breached the National Diplomatic Academy's online education system for ten months and stole personal information belonging to current and former employees of the Ministry of Foreign…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 16:06:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Federal agencies broaden alert on Iran-linked OT attacks</title>
-    <link>https://therecord.media/federal-agencies-broaden-alert-on-iran-linked-ot-attacks</link>
-    <description>The observed incidents include “malicious project file interactions and manipulation of data on human machine interface (HMI) and supervisory control and data acquisition (SCADA) displays,” the advisory says.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 19:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier</title>
-    <link>https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html</link>
-    <description>Beginning July 27, 2026, GitHub will cut public bug bounty payouts by at least half at every severity level. Critical findings will drop from $20,000-$30,000+ to a fixed $10,000, while its permanent invite-only VIP tier…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 23 Jul 2026 00:07:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs</title>
-    <link>https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 22 Jul 2026 23:37:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] French Parliament greenlights social media ban for under-15s</title>
-    <link>https://therecord.media/france-social-media-ban-parliament</link>
-    <description>Both houses of the French Parliament voted to block social media access for children under 15, making France the first European country to enact a ban amid a broadening global crackdown.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 18:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une IA d’OpenAI s’échappe de son environnement de test et pirate Hugging Face</title>
-    <link>https://www.cyberattaque.org/une-ia-dopenai-sechappe-de-son-environnement-de-test-et-pirate-hugging-face/</link>
-    <description>Un agent autonome propulsé par des modèles avancés d’OpenAI aurait échappé à son environnement de test avant de...
-L’article Une IA d’OpenAI s’échappe de son environnement de test et pirate Hugging Face est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 22 Jul 2026 17:06:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BANATIC : plus de 91 000 élus et responsables de collectivités exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/banatic-plus-de-91-000-elus-et-responsables-de-collectivites-exposes-apres-une-cyberattaque/</link>
-    <description>Le hacker misere a revendiqué, le 20 juillet 2026, la compromission de banatic.interieur.gouv.fr, une plateforme du ministère de...
-L’article BANATIC : plus de 91 000 élus et responsables de collectivités exposés après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 22 Jul 2026 16:59:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/</link>
-    <description>Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 12:59:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Rassemblement National : une base WordPress de 95 tables en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/rassemblement-national-une-base-wordpress-de-95-tables-en-fuite-apres-une-cyberattaque/</link>
-    <description>Le site officiel du Rassemblement National fait l&amp;#8217;objet d&amp;#8217;une revendication publiée le 20 juillet 2026. Un acteur affirme...
-L’article Rassemblement National : une base WordPress de 95 tables en fuite après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 22 Jul 2026 16:55:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New Kimsuky campaign compromised South Korean software vendors</title>
-    <link>https://therecord.media/kimsuky-north-korea-espionage-groupware-companies</link>
-    <description>A North Korean advanced persistent threat (APT) group recently targeted vendors of collaborative-work software, South Korean researchers said.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 16:47:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
