@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New Dolphin X malware uses AI to rank high-value targets</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/</link>
+    <description>A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 23 Jul 2026 17:20:34 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Australian energy provider Origin says data breach exposes client data</title>
     <link>https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/</link>
     <description>Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]</description>
@@ -211,27 +218,6 @@ Qualys said default…</description>
     <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 23 Jul 2026 12:04:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Swiss train maker Stadler refuses Everest $12 million ransomware demand</title>
-    <link>https://therecord.media/stadler-refuses-everest-ransom-demand</link>
-    <description>Stadler Rail said it will not make a $12.3 million ransom payment after cybercriminals stole technical data from a supplier's file-sharing platform.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Upbound says hack caused $13 million in fraudulent Acima leases</title>
-    <link>https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/</link>
-    <description>The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 22 Jul 2026 17:43:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Extension of CISA 2015 info-sharing protections passes as part of House’s defense bill</title>
-    <link>https://therecord.media/cisa-2015-extension-passes-house-ndaa</link>
-    <description>A 10-year renewal of the cybersecurity information-sharing law known as CISA 2015 passed as part of the House's fiscal 2027 defense authorization bill.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 22 Jul 2026 20:39:35 GMT</pubDate>
   </item>
 </channel>
 </rss>
