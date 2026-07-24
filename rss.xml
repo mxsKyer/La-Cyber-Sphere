@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats</title>
+    <link>https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html</link>
+    <description>Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 24 Jul 2026 13:11:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Clop ransomware targets Windchill, FlexPLM in data theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/</link>
+    <description>The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 24 Jul 2026 03:36:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say</title>
+    <link>https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html</link>
+    <description>Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0.
+
+All four chains require RESTORE. The Streams chains also need EVAL…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 24 Jul 2026 12:28:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks</title>
+    <link>https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html</link>
+    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems.
+
+The activity…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 24 Jul 2026 12:20:57 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] New Dolphin X malware uses AI to rank high-value targets</title>
     <link>https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/</link>
     <description>A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]</description>
@@ -188,36 +220,6 @@ L’article Aide à Dom 74 : 92 candidatures en fuite, les coordonnées de deman
 The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 23 Jul 2026 15:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft working to fix Exchange Online mailbox quarantine issue</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/</link>
-    <description>Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 05:20:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point warns of SmartConsole zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/</link>
-    <description>Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 04:13:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs</title>
-    <link>https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html</link>
-    <description>RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access.
-
-Qualys said default…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 23 Jul 2026 13:34:35 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access</title>
-    <link>https://thehackernews.com/2026/07/check-point-patches-exploited.html</link>
-    <description>Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 23 Jul 2026 12:04:36 +0530</pubDate>
   </item>
 </channel>
 </rss>
