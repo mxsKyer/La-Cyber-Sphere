@@ -6,11 +6,74 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] OnTrac notifies customers of data breach after network hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/</link>
+    <description>OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 24 Jul 2026 15:55:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hermes AI agent used to automate attack on Thai Finance Ministry</title>
+    <link>https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/</link>
+    <description>A threat actor used the open-source Hermes AI agent in unattended "YOLO" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 24 Jul 2026 15:09:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/</link>
+    <description>Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 24 Jul 2026 13:50:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Andy Burnham signals continuity on UK cyber policy, reappoints minister despite scrapping ministry</title>
+    <link>https://therecord.media/andy-burnham-liz-lloyd-cyber-policy-uk</link>
+    <description>The new British prime minister is retaining Liz Lloyd in a cyber policy role, making her one of the few Keir Starmer allies remaining in government.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 24 Jul 2026 17:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber actualités ZATAZ de la semaine du 20 au 26 juillet 2026</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-20-au-26-juillet-2026/</link>
+    <description>Bonjour à toutes et tous, Cette semaine, l’actualité cyber se concentre sur l’automatisation de l’extorsion, les fuites revendiquées et la pression exercée sur les organisations. Titan promet d’analyser les données…</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 24 Jul 2026 16:08:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 'Wrench' attacks against crypto holders appear to be on the rise</title>
+    <link>https://therecord.media/wrench-attacks-against-cryptocurrency-holders</link>
+    <description>There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 24 Jul 2026 15:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Deux jeux d’été pour vérifier et déchiffrer</title>
+    <link>https://www.zataz.com/deux-jeux-dete-pour-verifier-et-dechiffrer/</link>
+    <description>Deux jeux d’été mêlent fact-checking, détection IA et chiffrement pour entraîner l’esprit critique en famille.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 24 Jul 2026 15:47:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft blames massive Microsoft 365 outage on maintenance bug</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/</link>
+    <description>Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 24 Jul 2026 11:41:44 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Quatre rendez-vous cyber à suivre jusqu’en octobre</title>
     <link>https://www.zataz.com/quatre-rendez-vous-cyber-a-suivre-jusquen-octobre/</link>
     <description>Barbhack, DEF CON, Cyberbrew et Hackfest rythment la rentrée cyber, de Toulon à Québec, en passant par Lille.</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 24 Jul 2026 15:15:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery</title>
+    <link>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</link>
+    <description>The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 24 Jul 2026 20:42:35 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Titan automatise le chantage aux données</title>
@@ -173,57 +236,6 @@ The activity…</description>
     <description>Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 23 Jul 2026 16:14:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Claude app promoted by Bing ads pushes SectopRAT malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/</link>
-    <description>A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 15:48:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes</title>
-    <link>https://thehackernews.com/2026/07/russian-espionage-group-exploited.html</link>
-    <description>A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client.
-
-The payload goes after the last 90 days of email, the organization's entire email…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 00:06:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] International alert spotlights Russia-linked attacks on Zimbra webmail</title>
-    <link>https://therecord.media/zimbra-webmail-zero-click-phishing-russia-laundry-bear</link>
-    <description>A Kremlin-backed group known as Laundry Bear has been using a zero-click phishing technique to break into Zimbra webmail accounts worldwide, the U.S. and other nations said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 23 Jul 2026 16:58:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Russian hackers exploit Zimbra zero-click flaw for email theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/</link>
-    <description>CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 12:49:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers abuse Notepad++ plugins to stealthily install malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/</link>
-    <description>Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 12:32:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] State Department imposes visa restrictions on foreign cyber scammers</title>
-    <link>https://therecord.media/visa-restrictions-cyber-scammers</link>
-    <description>Individuals connected to transnational cyber-scam operations face U.S. visa restrictions under a new policy announced by Secretary of State Marco Rubio.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 23 Jul 2026 16:29:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft 365 outage affects Teams, SharePoint and other services</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/</link>
-    <description>Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 11:34:43 -0400</pubDate>
   </item>
 </channel>
 </rss>
