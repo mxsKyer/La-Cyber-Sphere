@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git</title>
+    <link>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</link>
+    <description>Security researchers at&amp;nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 25 Jul 2026 15:44:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking</title>
+    <link>https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</link>
+    <description>For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 25 Jul 2026 15:44:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE</title>
+    <link>https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</link>
+    <description>Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 25 Jul 2026 15:44:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts</title>
+    <link>https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html</link>
+    <description>The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 25 Jul 2026 15:23:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI confirms ChatGPT is down worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/</link>
+    <description>ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 25 Jul 2026 05:31:09 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Skolae victime d’une intrusion dans ses systèmes informatiques</title>
     <link>https://www.cyberattaque.org/skolae-victime-dune-intrusion-dans-ses-systemes-informatiques/</link>
     <description>Skolae a confirmé un incident de sécurité après la détection, le 8 juillet 2026, d’un accès non autorisé...
@@ -171,57 +206,6 @@ They codenamed…</description>
     <description>Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 24 Jul 2026 17:23:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers</title>
-    <link>https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html</link>
-    <description>A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet.
-
-XBOW's testing got the same…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 17:15:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do</title>
-    <link>https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html</link>
-    <description>AI agent security is moving through a familiar maturity curve: adoption, then visibility, and finally, control. But what we've collectively discovered is that enforcing least privilege for AI agents is harder than we…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Man gets six years for hacking 750 women's Snapchat accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/</link>
-    <description>An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 24 Jul 2026 07:17:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Motherless : les serveurs saisis au cœur de l’enquête</title>
-    <link>https://www.zataz.com/motherless-les-serveurs-saisis-au-coeur-de-lenquete/</link>
-    <description>La police saisit les serveurs du site pour adultes Motherless dans une enquête européenne sur des contenus vidéos criminels.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 10:34:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry</title>
-    <link>https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html</link>
-    <description>Someone installed a popular AI assistant on a rented server, switched off the setting that makes it ask permission before running risky commands, and pointed it at Thailand's Ministry of Finance, which runs the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 15:45:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Hack : une fuite chez Darsa AI ?</title>
-    <link>https://www.zataz.com/ai-hack-une-fuite-chez-darsa-ai/</link>
-    <description>Un pirate revendique une fuite chez Darsa AI et multiplie les publications visant des acteurs liés à l’Intelligence Artificielle.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 10:14:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Golden Chickens Resurfaces With Four New Malware Families and Modular Implants</title>
-    <link>https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html</link>
-    <description>The threat actors behind the Golden Chickens malware-as-a-service (MaaS) ecosystem have resurfaced with four new malware families, indicating that the operators are showing no signs of stopping despite extensive public…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 15:39:24 +0530</pubDate>
   </item>
 </channel>
 </rss>
