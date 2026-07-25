@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Malicious sites use JavaScript to build malware in browser memory</title>
+    <link>https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/</link>
+    <description>A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 25 Jul 2026 11:21:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ShinyHunters data leaks fuel $2,000 sextortion email scam</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</link>
+    <description>Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 25 Jul 2026 10:16:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available</title>
+    <link>https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html</link>
+    <description>Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 25 Jul 2026 18:22:43 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git</title>
     <link>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</link>
     <description>Security researchers at&amp;nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has…</description>
@@ -113,99 +134,6 @@ L’article Productly.app : 57 403 comptes exposés après une cyberattaque est 
     <description>There are more reports than ever before of strong-arm tactics like home invasions and kidnappings against cryptocurrency holders, researchers say.</description>
     <source>The Record</source>
     <pubDate>Fri, 24 Jul 2026 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Deux jeux d’été pour vérifier et déchiffrer</title>
-    <link>https://www.zataz.com/deux-jeux-dete-pour-verifier-et-dechiffrer/</link>
-    <description>Deux jeux d’été mêlent fact-checking, détection IA et chiffrement pour entraîner l’esprit critique en famille.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 15:47:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft blames massive Microsoft 365 outage on maintenance bug</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/</link>
-    <description>Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 24 Jul 2026 11:41:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Quatre rendez-vous cyber à suivre jusqu’en octobre</title>
-    <link>https://www.zataz.com/quatre-rendez-vous-cyber-a-suivre-jusquen-octobre/</link>
-    <description>Barbhack, DEF CON, Cyberbrew et Hackfest rythment la rentrée cyber, de Toulon à Québec, en passant par Lille.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 15:15:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery</title>
-    <link>https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html</link>
-    <description>The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 20:42:35 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Titan automatise le chantage aux données</title>
-    <link>https://www.zataz.com/titan-automatise-le-chantage-aux-donnees/</link>
-    <description>Titan promet d’automatiser l’analyse des fuites, le calcul des rançons et la pression réglementaire.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 14:37:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller</title>
-    <link>https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html</link>
-    <description>Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine.
-
-They codenamed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 19:45:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chick-fil-A data breach affects more than 13,000 customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/</link>
-    <description>Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 24 Jul 2026 10:04:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/</link>
-    <description>Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 24 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un faux portail FPR pour piéger des pirates</title>
-    <link>https://www.zataz.com/un-faux-portail-fpr-pour-pieger-des-pirates/</link>
-    <description>Un faux portail FPR imitait la Police nationale pour enregistrer les recherches et identités de pirates.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 13:19:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Europol flags 4,340 URLs for removal in 'The Com' crackdown</title>
-    <link>https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/</link>
-    <description>Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to "The Com," a loosely organized network of nihilistic violent extremist groups. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 24 Jul 2026 08:56:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] B9 : 36 000 profils bancaires annoncés piratés</title>
-    <link>https://www.zataz.com/b9-36-000-profils-bancaires-annonces-pirates/</link>
-    <description>B9 fait l’objet d’une fuite présumée de 36 000 profils, illustrant les risques cyber des banques 100 % en ligne.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 12:20:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pokemon Gym : 19 600 comptes exposés</title>
-    <link>https://www.zataz.com/pokemon-gym-19-600-comptes-exposes/</link>
-    <description>Fuite Pokemon Gym : 19 600 comptes de joueurs et joueuses, adresses IP et messages privés exposés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 24 Jul 2026 12:01:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link</title>
-    <link>https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html</link>
-    <description>Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 24 Jul 2026 17:23:55 +0530</pubDate>
   </item>
 </channel>
 </rss>
