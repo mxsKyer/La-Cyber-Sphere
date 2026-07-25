@@ -223,19 +223,5 @@ The activity…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 24 Jul 2026 12:20:57 +0530</pubDate>
   </item>
-  <item>
-    <title>[Faible] New Dolphin X malware uses AI to rank high-value targets</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/</link>
-    <description>A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 17:20:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Australian energy provider Origin says data breach exposes client data</title>
-    <link>https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/</link>
-    <description>Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 23 Jul 2026 16:14:35 -0400</pubDate>
-  </item>
 </channel>
 </rss>
