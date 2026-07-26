@@ -54,40 +54,5 @@
     <source>The Hacker News</source>
     <pubDate>Sat, 25 Jul 2026 18:22:43 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git</title>
-    <link>https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html</link>
-    <description>Security researchers at&amp;nbsp;depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 25 Jul 2026 15:44:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking</title>
-    <link>https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html</link>
-    <description>For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 25 Jul 2026 15:44:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html</link>
-    <description>Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 25 Jul 2026 15:44:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts</title>
-    <link>https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html</link>
-    <description>The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 25 Jul 2026 15:23:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI confirms ChatGPT is down worldwide</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/</link>
-    <description>ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 25 Jul 2026 05:31:09 -0400</pubDate>
-  </item>
 </channel>
 </rss>
