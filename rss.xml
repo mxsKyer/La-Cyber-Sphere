@@ -49,12 +49,5 @@ L’article Ministère de l’Intérieur : 111 528 agents et gendarmes revendiqu
     <source>BleepingComputer</source>
     <pubDate>Sat, 25 Jul 2026 18:37:47 -0400</pubDate>
   </item>
-  <item>
-    <title>[Faible] Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable</title>
-    <link>https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html</link>
-    <description>A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 26 Jul 2026 00:18:44 +0530</pubDate>
-  </item>
 </channel>
 </rss>
