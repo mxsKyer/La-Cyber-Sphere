@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] GitHub, PyPI add time-absed defenses against supply chain attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/</link>
+    <description>GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 26 Jul 2026 10:13:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Chat Control : les adresses d’élus français ciblés par une fuite de données sensibles</title>
+    <link>https://www.cyberattaque.org/chat-control-des-responsables-francais-cibles-par-une-fuite-de-donnees-sensibles/</link>
+    <description>Une fuite de données à motivation politique a été revendiquée le 25 juillet 2026 par le hacker Cybernox....
+L’article Chat Control : les adresses d’élus français ciblés par une fuite de données sensibles est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 26 Jul 2026 13:12:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ministère de l’Intérieur : 111 528 agents et gendarmes revendiqués dans une fuite massive de données</title>
+    <link>https://www.cyberattaque.org/ministere-de-linterieur-111-528-agents-revendiques-dans-une-fuite-massive-de-donnees/</link>
+    <description>Une nouvelle fuite visant le ministère de l’Intérieur est revendiquée depuis le 26 juillet 2026. Le hacker misere,...
+L’article Ministère de l’Intérieur : 111 528 agents et gendarmes revendiqués dans une fuite massive…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 26 Jul 2026 12:52:03 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Chat Control : un pirate cible 24 responsables politiques français</title>
     <link>https://www.zataz.com/chat-control-un-pirate-cible-24-responsables-politiques-francais/</link>
     <description>Un pirate expose 24 responsables politiques français pour dénoncer Chat Control et le scan des communications privées.</description>
@@ -32,27 +55,6 @@
     <description>A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 26 Jul 2026 00:18:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious sites use JavaScript to build malware in browser memory</title>
-    <link>https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/</link>
-    <description>A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 25 Jul 2026 11:21:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ShinyHunters data leaks fuel $2,000 sextortion email scam</title>
-    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/</link>
-    <description>Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 25 Jul 2026 10:16:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available</title>
-    <link>https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html</link>
-    <description>Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 25 Jul 2026 18:22:43 +0530</pubDate>
   </item>
 </channel>
 </rss>
