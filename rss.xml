@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Chat Control : un pirate cible 24 responsables politiques français</title>
+    <link>https://www.zataz.com/chat-control-un-pirate-cible-24-responsables-politiques-francais/</link>
+    <description>Un pirate expose 24 responsables politiques français pour dénoncer Chat Control et le scan des communications privées.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 26 Jul 2026 01:02:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Des données de pompiers français exposées en série</title>
+    <link>https://www.zataz.com/des-donnees-de-pompiers-francais-exposees-en-serie/</link>
+    <description>Plusieurs SDIS et Pompiers.fr sont visés par des fuites de données, des documents internes et un accès administrateur.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 26 Jul 2026 00:51:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Steam forum ClickFix attacks infect gamers with XMRig cryptominers</title>
+    <link>https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/</link>
+    <description>Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 25 Jul 2026 18:37:47 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable</title>
     <link>https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html</link>
     <description>A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed…</description>
@@ -67,38 +88,6 @@
     <description>ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 25 Jul 2026 05:31:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Skolae victime d’une intrusion dans ses systèmes informatiques</title>
-    <link>https://www.cyberattaque.org/skolae-victime-dune-intrusion-dans-ses-systemes-informatiques/</link>
-    <description>Skolae a confirmé un incident de sécurité après la détection, le 8 juillet 2026, d’un accès non autorisé...
-L’article Skolae victime d’une intrusion dans ses systèmes informatiques est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 25 Jul 2026 07:14:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 4 SDIS frappés : 5 000 pompiers exposés dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/4-sdis-frappes-5-000-pompiers-exposes-dans-une-fuite-massive/</link>
-    <description>Une campagne de fuite de données attribuée au hacker ChimeraZ vise plusieurs services départementaux d’incendie et de secours...
-L’article 4 SDIS frappés : 5 000 pompiers exposés dans une fuite massive est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 25 Jul 2026 07:07:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alpissimmo : près de 600 projets de vacances exposés avec coordonnées et dates de séjour</title>
-    <link>https://www.cyberattaque.org/alpissimmo-pres-de-600-projets-de-vacances-exposes-avec-coordonnees-et-dates-de-sejour/</link>
-    <description>Le hacker misere revendique, depuis le 24 juillet 2026, l’extraction d’environ 600 formulaires depuis le site alpissimmo.fr. Les...
-L’article Alpissimmo : près de 600 projets de vacances exposés avec coordonnées et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 25 Jul 2026 07:01:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Productly.app : 57 403 comptes exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/productly-app-57-403-comptes-exposes-apres-une-cyberattaque/</link>
-    <description>Le hacker weykofa revendique, le 24 juillet 2026, le piratage de Productly et l’extraction de 57 403 comptes...
-L’article Productly.app : 57 403 comptes exposés après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 25 Jul 2026 06:55:41 +0000</pubDate>
   </item>
 </channel>
 </rss>
