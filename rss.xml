@@ -6,6 +6,71 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] New Dysphoria DDoS botnet spreads to 200k devices worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/</link>
+    <description>A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 27 Jul 2026 17:08:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] New Certighost PoC exploit lets attackers hijack Windows domains</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/</link>
+    <description>A proof-of-concept exploit for "Certighost," a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 27 Jul 2026 17:00:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Outdated VPNs should be purged from federal agencies, senator says</title>
+    <link>https://therecord.media/federal-purge-outdated-vpns-wyden-letter</link>
+    <description>Intelligence Committee member Ron Wyden wants CISA, OMB and NIST to lead a federal effort to rout out obsolete VPNs from the U.S. government.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 27 Jul 2026 20:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] IA et désinformation : l’alerte de Wikimédia</title>
+    <link>https://www.zataz.com/ia-et-desinformation-lalerte-de-wikimedia/</link>
+    <description>Wikimédia France propose traçabilité des IA, pluralité des sources et éducation contre la désinformation.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 27 Jul 2026 20:37:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework</title>
+    <link>https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html</link>
+    <description>NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents.
+
+The 37-member group…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 27 Jul 2026 23:40:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] UK court rejects Bahrain immunity claim in spyware case</title>
+    <link>https://therecord.media/uk-court-rejects-bahrain-immunity-claim-spyware-case</link>
+    <description>The alleged hacking by officials in Bahrain “allowed access to and exfiltration of information on the computers, interception of communications conducted using the computers and use of the computers’ microphones and…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 27 Jul 2026 17:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Health system in South Carolina, Georgia closes offices after malware affects networks</title>
+    <link>https://therecord.media/health-system-south-carolina-georgia-disruptions-malware</link>
+    <description>On Sunday, AnMed published a statement online saying they were “experiencing a cybersecurity disruption involving malware” and were working to restore systems and determine the scope of the incident.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 27 Jul 2026 17:38:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin</title>
+    <link>https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/</link>
+    <description>Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 27 Jul 2026 13:29:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption</title>
+    <link>https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html</link>
+    <description>Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 27 Jul 2026 22:46:28 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Un ancien député-maire ciblé sur un forum pirate</title>
     <link>https://www.zataz.com/un-ancien-depute-maire-cible-sur-un-forum-pirate/</link>
     <description>Un ancien député-maire est ciblé par un pirate opposé à Chat Control, avec la republication annoncée de données trés intimes.</description>
@@ -135,6 +200,13 @@ The intrusions have resulted in the deployment of…</description>
 "The cooldown configuration option in the…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 27 Jul 2026 13:31:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-16812 — Arista VeloCloud Orchestrator On-Prem OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-16812</link>
+    <description>Arista VeloCloud Orchestrator On-Prem contains an OS command injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-27</pubDate>
   </item>
   <item>
     <title>[Critique] CVE-2025-68686 — Fortinet FortiOS Exposure of Sensitive Information to an Unauthorized Actor Vulnerability</title>
