@@ -6,6 +6,24 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments</title>
+    <link>https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html</link>
+    <description>Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.
+
+The intrusions have resulted in the deployment of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 27 Jul 2026 14:18:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption</title>
+    <link>https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html</link>
+    <description>GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.
+
+"The cooldown configuration option in the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 27 Jul 2026 13:31:23 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] GitHub, PyPI add time-absed defenses against supply chain attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/</link>
     <description>GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]</description>
@@ -27,27 +45,6 @@ L’article Chat Control : les adresses d’élus français ciblés par une fuit
 L’article Ministère de l’Intérieur : 111 528 agents et gendarmes revendiqués dans une fuite massive…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 26 Jul 2026 12:52:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chat Control : un pirate cible 24 responsables politiques français</title>
-    <link>https://www.zataz.com/chat-control-un-pirate-cible-24-responsables-politiques-francais/</link>
-    <description>Un pirate expose 24 responsables politiques français pour dénoncer Chat Control et le scan des communications privées.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 26 Jul 2026 01:02:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Des données de pompiers français exposées en série</title>
-    <link>https://www.zataz.com/des-donnees-de-pompiers-francais-exposees-en-serie/</link>
-    <description>Plusieurs SDIS et Pompiers.fr sont visés par des fuites de données, des documents internes et un accès administrateur.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 26 Jul 2026 00:51:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Steam forum ClickFix attacks infect gamers with XMRig cryptominers</title>
-    <link>https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/</link>
-    <description>Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 25 Jul 2026 18:37:47 -0400</pubDate>
   </item>
 </channel>
 </rss>
