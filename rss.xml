@@ -6,6 +6,143 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Wi-Fi public : ce que votre fournisseur, pirates et marketing peuvent voir</title>
+    <link>https://www.zataz.com/wi-fi-public-ce-que-votre-fournisseur-pirates-et-marketing-peuvent-voir/</link>
+    <description>En voyage, découvrez ce que votre fournisseur ou pirate voient et comment protéger vos données sur un Wi-Fi public.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 28 Jul 2026 15:29:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process</title>
+    <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
+    <description>A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.
+
+If that happens, Tengu's other persistence mechanisms get another…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 20:31:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] India’s Bank of Baroda confirms cyber incident after hackers claim data theft</title>
+    <link>https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident</link>
+    <description>An employee's email account had been compromised, allowing unauthorized access to "certain data," Bank of Baroda reported.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 28 Jul 2026 14:45:57 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login</title>
+    <link>https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html</link>
+    <description>Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 20:11:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Is Your SSO Protected Against Modern Credential Attacks?</title>
+    <link>https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/</link>
+    <description>A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 28 Jul 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
+    <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
+    <description>JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
+
+Artifactory is JFrog's software repository manager.…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 19:03:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Kaffir.fr : les adresses des clients diffusés publiquement dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/kaffir-fr-les-adresses-des-clients-diffuses-publiquement-dans-une-fuite-de-donnees/</link>
+    <description>Une base de données attribuée à Kaffir.fr a été diffusée gratuitement le 28 juillet 2026 par une utilisatrice...
+L’article Kaffir.fr : les adresses des clients diffusés publiquement dans une fuite de données est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 28 Jul 2026 13:13:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ERDIL : 270 contacts professionnels et les comptes WordPress en fuite</title>
+    <link>https://www.cyberattaque.org/erdil-270-contacts-professionnels-et-les-comptes-wordpress-en-fuite/</link>
+    <description>L’éditeur français ERDIL fait l’objet d’une revendication publiée le 28 juillet 2026. Un hacker se présentant sous le...
+L’article ERDIL : 270 contacts professionnels et les comptes WordPress en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 28 Jul 2026 13:03:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le site de Pierrefitte-sur-Loire mis hors ligne après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/le-site-de-pierrefitte-sur-loire-mis-hors-ligne-apres-une-cyberattaque/</link>
+    <description>La mairie de Pierrefitte-sur-Loire annonce que le site internet de la commune est temporairement inaccessible après une cyberattaque...
+L’article Le site de Pierrefitte-sur-Loire mis hors ligne après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 28 Jul 2026 12:56:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root</title>
+    <link>https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html</link>
+    <description>OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.
+
+The critical issue, tracked as CVE-2026-53921 and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 18:26:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Réseaux sociaux : ce qui changera en 2026 et 2027</title>
+    <link>https://www.zataz.com/reseaux-sociaux-ce-qui-changera-en-2026-et-2027/</link>
+    <description>Réseaux sociaux interdits aux moins de 15 ans : calendrier, contrôle d’âge, risques cyber et leçons australiennes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 28 Jul 2026 12:56:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Over 24,000 exposed server BMCs leak password hash via decades-old flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/</link>
+    <description>More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 28 Jul 2026 08:10:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays</title>
+    <link>https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html</link>
+    <description>The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 17:25:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suitable AI : 15 176 comptes exposés via GraphQL</title>
+    <link>https://www.zataz.com/suitable-ai-15-176-comptes-exposes-via-graphql/</link>
+    <description>Suitable AI : une fuite revendiquée expose 15 176 candidats et des failles critiques à grande échelle.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 28 Jul 2026 09:16:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Data breach at medical billing firm MCBS affects 1.26 million people</title>
+    <link>https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/</link>
+    <description>Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 28 Jul 2026 05:10:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] KomikoAI : une fuite relie courriels et prompts</title>
+    <link>https://www.zataz.com/komikoai-une-fuite-relie-courriels-et-prompts/</link>
+    <description>Des données personnelles d'un professionnel de l'IA piratés : courriels, identifiants, contenus générés et prompts d’utilisateurs.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 28 Jul 2026 09:01:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In</title>
+    <link>https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html</link>
+    <description>JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.
+
+The vulnerability,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 13:41:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit</title>
+    <link>https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html</link>
+    <description>STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 28 Jul 2026 13:34:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Location-etudiant.fr piraté : 10 Go de données en fuite</title>
     <link>https://www.cyberattaque.org/location-etudiant-fr-pirate-10-go-de-donnees-en-fuite/</link>
     <description>Le portail Location-etudiant.fr a vu sa page d’accueil remplacée le 21 juillet 2026 par un message revendiquant la...
@@ -147,115 +284,6 @@ L’article Cartogip : 1 200 contacts d’élus et d’agents publics exposés a
     <description>Researchers have uncovered a highly personalized phishing campaign that used Telegram to try to hijack the account of an exiled Belarusian activist, as well as users in Russia and Kazakhstan.</description>
     <source>The Record</source>
     <pubDate>Mon, 27 Jul 2026 16:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Coca-Cola confirms data theft in Fairlife ransomware attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/</link>
-    <description>The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 27 Jul 2026 11:39:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Batipro 33 piraté : 1119 personnes et cinq bases SQL internes revendiquées</title>
-    <link>https://www.cyberattaque.org/batipro-33-pirate-1119-personnes-et-cinq-bases-sql-internes-revendiquees/</link>
-    <description>Le hacker 0xSec revendique, depuis le 26 juillet 2026, la compromission d’un sous-domaine de Batipro 33 et la...
-L’article Batipro 33 piraté : 1119 personnes et cinq bases SQL internes revendiquées est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 27 Jul 2026 15:28:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Ernst &amp; Young data breach claimed by ShinyHunters extortion gang</title>
-    <link>https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/</link>
-    <description>The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst &amp; Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 27 Jul 2026 11:12:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Verspieren victime d’une cyberattaque : les données de sinistres Euromaster potentiellement exposées</title>
-    <link>https://www.cyberattaque.org/verspieren-victime-dune-cyberattaque-les-donnees-de-sinistres-euromaster-potentiellement-exposees/</link>
-    <description>Verspieren a confirmé avoir été victime d’une cyberattaque le 13 juillet 2026. L’intrusion a touché un serveur externe...
-L’article Verspieren victime d’une cyberattaque : les données de sinistres Euromaster…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 27 Jul 2026 14:49:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw</title>
-    <link>https://thehackernews.com/2026/07/public-exploit-released-for-patched.html</link>
-    <description>Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 20:10:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ResaClick : les données personnelles de 10 263 utilisateurs diffusées en ligne</title>
-    <link>https://www.cyberattaque.org/resaclick-cyberattaque-fuite-donnees/</link>
-    <description>La plateforme française ResaClick fait l’objet d’une revendication publiée le 27 juillet 2026. Le hacker weykofa affirme avoir...
-L’article ResaClick : les données personnelles de 10 263 utilisateurs diffusées en ligne…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 27 Jul 2026 14:21:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More</title>
-    <link>https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html</link>
-    <description>Monday starts with the usual promise that everything is under control. Then the logs wake up.
-
-This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 19:40:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Shadow AI agents are multiplying. Here's how to find and secure them.</title>
-    <link>https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/</link>
-    <description>Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 27 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process</title>
-    <link>https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html</link>
-    <description>n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 18:35:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update</title>
-    <link>https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html</link>
-    <description>Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs "secure document" lures to deliver legitimate remote monitoring and management (RMM) tools.
-
-"The victim was directed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 18:07:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers used autonomous AI agent to spy on Thailand's finance ministry</title>
-    <link>https://therecord.media/thailand-hackers-ai-finance-ministry</link>
-    <description>Hackers used an autonomous artificial intelligence agent to carry out a cyber-espionage campaign against Thailand's Ministry of Finance, researchers discovered.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware</title>
-    <link>https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html</link>
-    <description>The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 16:21:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments</title>
-    <link>https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html</link>
-    <description>Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East.
-
-The intrusions have resulted in the deployment of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 14:18:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption</title>
-    <link>https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html</link>
-    <description>GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request.
-
-"The cooldown configuration option in the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 27 Jul 2026 13:31:23 +0530</pubDate>
   </item>
 </channel>
 </rss>
