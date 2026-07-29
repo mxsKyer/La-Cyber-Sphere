@@ -6,6 +6,112 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] OpenAI agent used exposed credentials at 4 services in Hugging Face breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/</link>
+    <description>In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 12:04:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory</title>
+    <link>https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html</link>
+    <description>Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 21:09:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape</title>
+    <link>https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html</link>
+    <description>Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.
+
+The first of the three…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 21:01:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers target over 30 Minnesota water utilities in coordinated OT attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/</link>
+    <description>The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated cyberattack." [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 10:55:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Your AI Agents Are Guessing at Scale: Permissions Decide the Damage</title>
+    <link>https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/</link>
+    <description>AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5101684 update released with 42 changes and fixes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/</link>
+    <description>​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 09:56:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline</title>
+    <link>https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html</link>
+    <description>A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.
+
+Braham, Plymouth, South St. Paul and Maple…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 19:18:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments</title>
+    <link>https://thehackernews.com/2026/07/nine-year-fraud-campaign.html</link>
+    <description>Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 19:12:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Mythos Asks the Right Question. It Doesn't Answer It.</title>
+    <link>https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html</link>
+    <description>AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.
+
+The conversation happening in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 17:45:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser</title>
+    <link>https://thehackernews.com/2026/07/researchers-show-single-malicious.html</link>
+    <description>Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.
+
+Tracked as CVE-2026-10702, the bug provides arbitrary code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 17:27:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack</title>
+    <link>https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html</link>
+    <description>Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 16:43:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] These near-mint ASUS Chromebook refurbs are only $145</title>
+    <link>https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/</link>
+    <description>Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 07:12:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity</title>
+    <link>https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html</link>
+    <description>The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 16:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pages piégées à Saint-Denis, le test avant l’opération d’influence ?</title>
+    <link>https://www.zataz.com/pages-piegees-a-saint-denis-le-test-avant-loperation-dinfluence/</link>
+    <description>Des pages web altérées peuvent servir de sondes avant des opérations d’influence ou de sabotage numérique. Exemple avec une piscine de Saint-Denis.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 29 Jul 2026 10:47:33 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass</title>
     <link>https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html</link>
     <description>Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that…</description>
@@ -100,106 +206,6 @@ The HAWK attack exploits a previously unused…</description>
     <description>Click To Pray expose 700 000 comptes via une faille idiote, avec un risque élevé de phishing ciblé et d’usurpation.</description>
     <source>ZATAZ</source>
     <pubDate>Tue, 28 Jul 2026 16:06:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Wi-Fi public : ce que votre fournisseur, pirates et marketing peuvent voir</title>
-    <link>https://www.zataz.com/wi-fi-public-ce-que-votre-fournisseur-pirates-et-marketing-peuvent-voir/</link>
-    <description>En voyage, découvrez ce que votre fournisseur ou pirate voient et comment protéger vos données sur un Wi-Fi public.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 28 Jul 2026 15:29:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process</title>
-    <link>https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html</link>
-    <description>A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process.
-
-If that happens, Tengu's other persistence mechanisms get another…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 20:31:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] India’s Bank of Baroda confirms cyber incident after hackers claim data theft</title>
-    <link>https://therecord.media/india-bank-of-baroda-reports-cybersecurity-incident</link>
-    <description>An employee's email account had been compromised, allowing unauthorized access to "certain data," Bank of Baroda reported.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 28 Jul 2026 14:45:57 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login</title>
-    <link>https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html</link>
-    <description>Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 20:11:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Is Your SSO Protected Against Modern Credential Attacks?</title>
-    <link>https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/</link>
-    <description>A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach</title>
-    <link>https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html</link>
-    <description>JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment.
-
-Artifactory is JFrog's software repository manager.…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 19:03:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Kaffir.fr : les adresses des clients diffusés publiquement dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/kaffir-fr-les-adresses-des-clients-diffuses-publiquement-dans-une-fuite-de-donnees/</link>
-    <description>Une base de données attribuée à Kaffir.fr a été diffusée gratuitement le 28 juillet 2026 par une utilisatrice...
-L’article Kaffir.fr : les adresses des clients diffusés publiquement dans une fuite de données est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 13:13:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ERDIL : 270 contacts professionnels et les comptes WordPress en fuite</title>
-    <link>https://www.cyberattaque.org/erdil-270-contacts-professionnels-et-les-comptes-wordpress-en-fuite/</link>
-    <description>L’éditeur français ERDIL fait l’objet d’une revendication publiée le 28 juillet 2026. Un hacker se présentant sous le...
-L’article ERDIL : 270 contacts professionnels et les comptes WordPress en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 13:03:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le site de Pierrefitte-sur-Loire mis hors ligne après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/le-site-de-pierrefitte-sur-loire-mis-hors-ligne-apres-une-cyberattaque/</link>
-    <description>La mairie de Pierrefitte-sur-Loire annonce que le site internet de la commune est temporairement inaccessible après une cyberattaque...
-L’article Le site de Pierrefitte-sur-Loire mis hors ligne après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 12:56:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root</title>
-    <link>https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html</link>
-    <description>OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default.
-
-The critical issue, tracked as CVE-2026-53921 and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 18:26:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Réseaux sociaux : ce qui changera en 2026 et 2027</title>
-    <link>https://www.zataz.com/reseaux-sociaux-ce-qui-changera-en-2026-et-2027/</link>
-    <description>Réseaux sociaux interdits aux moins de 15 ans : calendrier, contrôle d’âge, risques cyber et leçons australiennes.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 28 Jul 2026 12:56:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Over 24,000 exposed server BMCs leak password hash via decades-old flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/</link>
-    <description>More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 08:10:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays</title>
-    <link>https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html</link>
-    <description>The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 17:25:20 +0530</pubDate>
   </item>
 </channel>
 </rss>
