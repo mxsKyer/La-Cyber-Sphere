@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads</title>
+    <link>https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html</link>
+    <description>Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
+
+Tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 23:40:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare</title>
+    <link>https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/</link>
+    <description>Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 13:54:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI says rogue agent behind Hugging Face hack broke into additional services</title>
+    <link>https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services</link>
+    <description>The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 29 Jul 2026 17:22:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Élevé] OpenAI agent used exposed credentials at 4 services in Hugging Face breach</title>
     <link>https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/</link>
     <description>In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day…</description>
@@ -36,6 +59,13 @@ The first of the three…</description>
     <pubDate>Wed, 29 Jul 2026 10:55:57 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] Laundry Bear’s webmail hackers had more in store after February, report says</title>
+    <link>https://therecord.media/russia-hackers-outlook-webmail-malware</link>
+    <description>Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 29 Jul 2026 14:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Your AI Agents Are Guessing at Scale: Permissions Decide the Damage</title>
     <link>https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/</link>
     <description>AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the…</description>
@@ -64,6 +94,20 @@ Braham, Plymouth, South St. Paul and Maple…</description>
     <description>Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 29 Jul 2026 19:12:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia accuses Telegram founder of aiding terrorism, seeks international arrest</title>
+    <link>https://therecord.media/russia-telegram-durov-arrest</link>
+    <description>Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 29 Jul 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack hits Angola’s largest telco hours before landmark stock debut</title>
+    <link>https://therecord.media/angola-unitel-cyberattack-outage</link>
+    <description>Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 29 Jul 2026 12:15:00 GMT</pubDate>
   </item>
   <item>
     <title>[Moyen] Mythos Asks the Right Question. It Doesn't Answer It.</title>
@@ -157,6 +201,13 @@ The list of affected packages is as…</description>
     <pubDate>Wed, 29 Jul 2026 09:50:57 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-20316 — Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20316</link>
+    <description>Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-07-29</pubDate>
+  </item>
+  <item>
     <title>[Faible] Senate confirms Clayton as intel chief after delays</title>
     <link>https://therecord.media/jay-clayton-confirmed-dni-senate</link>
     <description>A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.</description>
@@ -176,36 +227,6 @@ The list of affected packages is as…</description>
     <description>JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 28 Jul 2026 16:37:06 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack</title>
-    <link>https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html</link>
-    <description>Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128.
-
-The HAWK attack exploits a previously unused…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 00:29:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA shares advice on isolating vital systems during cyberattacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/</link>
-    <description>The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 14:41:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] vBulletin fixes critical pre-auth RCE flaw with public exploit</title>
-    <link>https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/</link>
-    <description>A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 14:08:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Click to pray expose les données de plus de 700 000 fidèles</title>
-    <link>https://www.zataz.com/click-to-pray-expose-les-donnees-de-719-517-fideles/</link>
-    <description>Click To Pray expose 700 000 comptes via une faille idiote, avec un risque élevé de phishing ciblé et d’usurpation.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 28 Jul 2026 16:06:07 +0000</pubDate>
   </item>
 </channel>
 </rss>
