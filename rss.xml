@@ -6,6 +6,58 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass</title>
+    <link>https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html</link>
+    <description>Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 14:28:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach</title>
+    <link>https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</link>
+    <description>OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 13:21:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands</title>
+    <link>https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html</link>
+    <description>Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 13:17:19 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Orisha Insurance : un incident de sécurité frappe CIM, ses systèmes isolés en urgence</title>
+    <link>https://www.cyberattaque.org/orisha-insurance-un-incident-de-securite-frappe-cim-ses-systemes-isoles-en-urgence/</link>
+    <description>Orisha Insurance a confirmé, le 24 juillet 2026, un incident de sécurité affectant sa filiale CIM. Des systèmes...
+L’article Orisha Insurance : un incident de sécurité frappe CIM, ses systèmes isolés en urgence est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 29 Jul 2026 07:35:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates</title>
+    <link>https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html</link>
+    <description>Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 12:37:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js</title>
+    <link>https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html</link>
+    <description>Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.
+
+The list of affected packages is as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 29 Jul 2026 09:50:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Senate confirms Clayton as intel chief after delays</title>
+    <link>https://therecord.media/jay-clayton-confirmed-dni-senate</link>
+    <description>A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 28 Jul 2026 23:18:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] CubePilot drone software dev hit by DNS hijacking to intercept traffic</title>
     <link>https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/</link>
     <description>CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]</description>
@@ -148,85 +200,6 @@ The critical issue, tracked as CVE-2026-53921 and…</description>
     <description>The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 28 Jul 2026 17:25:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Suitable AI : 15 176 comptes exposés via GraphQL</title>
-    <link>https://www.zataz.com/suitable-ai-15-176-comptes-exposes-via-graphql/</link>
-    <description>Suitable AI : une fuite revendiquée expose 15 176 candidats et des failles critiques à grande échelle.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 28 Jul 2026 09:16:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Data breach at medical billing firm MCBS affects 1.26 million people</title>
-    <link>https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/</link>
-    <description>Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 05:10:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] KomikoAI : une fuite relie courriels et prompts</title>
-    <link>https://www.zataz.com/komikoai-une-fuite-relie-courriels-et-prompts/</link>
-    <description>Des données personnelles d'un professionnel de l'IA piratés : courriels, identifiants, contenus générés et prompts d’utilisateurs.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 28 Jul 2026 09:01:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In</title>
-    <link>https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html</link>
-    <description>JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution.
-
-The vulnerability,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 13:41:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit</title>
-    <link>https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html</link>
-    <description>STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 13:34:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Location-etudiant.fr piraté : 10 Go de données en fuite</title>
-    <link>https://www.cyberattaque.org/location-etudiant-fr-pirate-10-go-de-donnees-en-fuite/</link>
-    <description>Le portail Location-etudiant.fr a vu sa page d’accueil remplacée le 21 juillet 2026 par un message revendiquant la...
-L’article Location-etudiant.fr piraté : 10 Go de données en fuite est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 07:45:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Supreme Body : les comptes clients diffusés en ligne après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/supreme-body-les-comptes-clients-diffuses-en-ligne-apres-une-cyberattaque/</link>
-    <description>Une base de données attribuée à Supreme Body a été diffusée gratuitement le 27 juillet 2026 par une...
-L’article Supreme Body : les comptes clients diffusés en ligne après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 06:27:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Allo.Solar : 101 349 clients et 208 694 commandes exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/allo-solar-101-349-clients-et-208-694-commandes-exposes-apres-une-cyberattaque/</link>
-    <description>Le hacker ChimeraZ revendique, depuis le 27 juillet 2026, la diffusion d’une base de données attribuée à Allo.Solar....
-L’article Allo.Solar : 101 349 clients et 208 694 commandes exposés après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 28 Jul 2026 06:10:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost</title>
-    <link>https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html</link>
-    <description>Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness.
-
-The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 11:37:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw</title>
-    <link>https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html</link>
-    <description>A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild.
-
-The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 28 Jul 2026 10:13:53 +0530</pubDate>
   </item>
 </channel>
 </rss>
