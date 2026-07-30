@@ -6,6 +6,131 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Microsoft Teams vishing attacks lead to Chaos ransomware attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/</link>
+    <description>Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 11:56:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories</title>
+    <link>https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html</link>
+    <description>A lot of security still comes down to trusting the wrong screen.
+
+This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 20:55:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Analog Devices discloses data breach, says operations unaffected</title>
+    <link>https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/</link>
+    <description>American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 11:12:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] After the Break-In: What Attackers Do Once They're Already Inside</title>
+    <link>https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/</link>
+    <description>Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn</title>
+    <link>https://therecord.media/north-korea-hackers-ransomware</link>
+    <description>Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 30 Jul 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Planity : 138 000 données exfiltrées dans une cyberattaque</title>
+    <link>https://www.cyberattaque.org/planity-138-000-donnees-exfiltrees-dans-une-cyberattaque/</link>
+    <description>Planity confirme un incident de sécurité ayant exposé environ 138 000 données réelles. L’accès concernait un environnement de...
+L’article Planity : 138 000 données exfiltrées dans une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 13:58:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 5doigts2pieds.fr piraté : les données et commandes de ses clients ont été volées</title>
+    <link>https://www.cyberattaque.org/5doigts2pieds-fr-pirate-les-donnees-et-commandes-de-ses-clients-ont-ete-volees/</link>
+    <description>La boutique en ligne 5doigts2pieds.fr confirme avoir subi une cyberattaque ayant entraîné le vol des données de ses...
+L’article 5doigts2pieds.fr piraté : les données et commandes de ses clients ont été volées est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 13:49:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database</title>
+    <link>https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html</link>
+    <description>A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.
+
+Wiz,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 19:04:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] North Korean hackers behind major open-source supply chain attacks, Amazon says</title>
+    <link>https://therecord.media/north-korea-hackers-amazon-malware</link>
+    <description>A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 30 Jul 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyber extortionists steal data from UK Department for Education</title>
+    <link>https://therecord.media/united-kingdom-ransomware-education</link>
+    <description>Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents</title>
+    <link>https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html</link>
+    <description>Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 17:24:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Planity visée par une vente présumée de données piratées</title>
+    <link>https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/</link>
+    <description>Un pirate informatique affirme vendre près d’un million de données liées à Planity, plateforme de réservation beauté.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 11:34:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Network Has Become the Control Plane for AI Security</title>
+    <link>https://thehackernews.com/2026/07/the-network-has-become-control-plane.html</link>
+    <description>Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 17:02:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Voiture connectée : quelles données guident l’entretien ?</title>
+    <link>https://www.zataz.com/voiture-connectee-quelles-donnees-guident-lentretien/</link>
+    <description>Voiture connectée, entretien, climatisation : comprendre les données embarquées et prévenir les risques mécaniques.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 10:50:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts</title>
+    <link>https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html</link>
+    <description>South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 16:03:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT</title>
+    <link>https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html</link>
+    <description>The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 16:02:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ExfilSquad expose des données CRM municipales</title>
+    <link>https://www.zataz.com/exfilsquad-expose-des-donnees-crm-municipales/</link>
+    <description>ExfilSquad diffuse des échantillons Dynamics 365 liés à Houston, Atlanta et Microsoft, sans preuve globale.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 10:20:15 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] 240 bases françaises diffusées par des pirates</title>
     <link>https://www.zataz.com/240-bases-francaises-diffusees-par-des-pirates/</link>
     <description>240 bases françaises diffusées en ligne : origine, doublons, courtiers criminels et motivations encore incertaines.</description>
@@ -121,133 +246,6 @@ Tracked as…</description>
     <description>The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.</description>
     <source>The Record</source>
     <pubDate>Wed, 29 Jul 2026 17:22:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] OpenAI agent used exposed credentials at 4 services in Hugging Face breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/</link>
-    <description>In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 12:04:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory</title>
-    <link>https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html</link>
-    <description>Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 21:09:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape</title>
-    <link>https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html</link>
-    <description>Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity.
-
-The first of the three…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 21:01:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers target over 30 Minnesota water utilities in coordinated OT attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/</link>
-    <description>The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in "a coordinated cyberattack." [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 10:55:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Laundry Bear’s webmail hackers had more in store after February, report says</title>
-    <link>https://therecord.media/russia-hackers-outlook-webmail-malware</link>
-    <description>Researchers say the Russian state-linked hacking group tracked as Laundry Bear recently began exploiting a bug in Microsoft Outlook Web Access.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 29 Jul 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Your AI Agents Are Guessing at Scale: Permissions Decide the Damage</title>
-    <link>https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/</link>
-    <description>AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5101684 update released with 42 changes and fixes</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/</link>
-    <description>​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 09:56:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline</title>
-    <link>https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html</link>
-    <description>A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response.
-
-Braham, Plymouth, South St. Paul and Maple…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 19:18:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments</title>
-    <link>https://thehackernews.com/2026/07/nine-year-fraud-campaign.html</link>
-    <description>Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 19:12:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia accuses Telegram founder of aiding terrorism, seeks international arrest</title>
-    <link>https://therecord.media/russia-telegram-durov-arrest</link>
-    <description>Russia is seeking to place Telegram founder Pavel Durov on an international wanted list, alleging that the app has been used by Ukrainian intelligence to organize terrorist attacks and conduct espionage inside Russia.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 29 Jul 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack hits Angola’s largest telco hours before landmark stock debut</title>
-    <link>https://therecord.media/angola-unitel-cyberattack-outage</link>
-    <description>Angola’s largest telecommunications operator, Unitel, was hit by a cyberattack that has left millions of people nationwide without voice services, mobile data, and internet access.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 29 Jul 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Mythos Asks the Right Question. It Doesn't Answer It.</title>
-    <link>https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html</link>
-    <description>AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along.
-
-The conversation happening in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 17:45:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser</title>
-    <link>https://thehackernews.com/2026/07/researchers-show-single-malicious.html</link>
-    <description>Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser.
-
-Tracked as CVE-2026-10702, the bug provides arbitrary code…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 17:27:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack</title>
-    <link>https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html</link>
-    <description>Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 16:43:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] These near-mint ASUS Chromebook refurbs are only $145</title>
-    <link>https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/</link>
-    <description>Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 07:12:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity</title>
-    <link>https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html</link>
-    <description>The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pages piégées à Saint-Denis, le test avant l’opération d’influence ?</title>
-    <link>https://www.zataz.com/pages-piegees-a-saint-denis-le-test-avant-loperation-dinfluence/</link>
-    <description>Des pages web altérées peuvent servir de sondes avant des opérations d’influence ou de sabotage numérique. Exemple avec une piscine de Saint-Denis.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 29 Jul 2026 10:47:33 +0000</pubDate>
   </item>
 </channel>
 </rss>
