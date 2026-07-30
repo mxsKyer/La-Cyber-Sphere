@@ -6,6 +6,79 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] 240 bases françaises diffusées par des pirates</title>
+    <link>https://www.zataz.com/240-bases-francaises-diffusees-par-des-pirates/</link>
+    <description>240 bases françaises diffusées en ligne : origine, doublons, courtiers criminels et motivations encore incertaines.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 09:41:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lire Demain : 4 600 commandes d’écoles, crèches et collectivités exposées</title>
+    <link>https://www.cyberattaque.org/lire-demain-4-600-commandes-decoles-creches-et-collectivites-exposees/</link>
+    <description>Lire Demain fait l’objet d’une revendication publiée le 28 juillet 2026. Le hacker 0xSec diffuse cinq fichiers présentés...
+L’article Lire Demain : 4 600 commandes d’écoles, crèches et collectivités exposées est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 09:24:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Mercor face aux affirmations d’un pirate</title>
+    <link>https://www.zataz.com/mercor-face-aux-affirmations-dun-pirate/</link>
+    <description>Mercor visé par Resolute : données biométriques, code source et volumes revendiqués, sans preuve indépendante.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 09:21:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le rôle de l’IA dans les opérations de cybercriminalité sur le dark web</title>
+    <link>https://www.zataz.com/le-role-de-lia-dans-les-operations-de-cybercriminalite-sur-le-dark-web/</link>
+    <description>L’intelligence artificielle bouleverse de nombreux secteurs, mais elle transforme également le fonctionnement de la cybercriminalité. Dans le dark web, les groupes criminels exploitent désormais les modèles d’IA…</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 30 Jul 2026 09:16:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation</title>
+    <link>https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html</link>
+    <description>The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S.…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 13:10:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks</title>
+    <link>https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html</link>
+    <description>The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 12:58:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet</title>
+    <link>https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html</link>
+    <description>Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 11:35:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data</title>
+    <link>https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 10:38:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] L’app du Vatican expose 700 000 fidèles à cause d’une faille critique</title>
+    <link>https://www.cyberattaque.org/lapp-du-vatican-expose-700-000-fideles-a-cause-dune-faille-critique/</link>
+    <description>Click to Pray, l’application officielle de prière du Vatican, expose les informations personnelles de plus de 700 000...
+L’article L’app du Vatican expose 700 000 fidèles à cause d’une faille critique est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 04:52:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ENGIE Green : 621 019 clients en fuite après une intrusion par injection SQL</title>
+    <link>https://www.cyberattaque.org/engie-green-621-019-clients-en-fuite-apres-une-intrusion-par-injection-sql/</link>
+    <description>ENGIE Green fait l’objet d’une tentative d’extorsion revendiquée le 30 juillet 2026. Le hacker xxsdead affirme avoir compromis...
+L’article ENGIE Green : 621 019 clients en fuite après une intrusion par injection SQL…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 04:19:34 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Russian hackers exploit Exchange OWA zero-day for long-term mailbox access</title>
     <link>https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/</link>
     <description>The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.…</description>
@@ -175,58 +248,6 @@ Tracked as CVE-2026-10702, the bug provides arbitrary code…</description>
     <description>Des pages web altérées peuvent servir de sondes avant des opérations d’influence ou de sabotage numérique. Exemple avec une piscine de Saint-Denis.</description>
     <source>ZATAZ</source>
     <pubDate>Wed, 29 Jul 2026 10:47:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass</title>
-    <link>https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html</link>
-    <description>Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 14:28:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach</title>
-    <link>https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html</link>
-    <description>OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 13:21:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands</title>
-    <link>https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html</link>
-    <description>Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 13:17:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Orisha Insurance : un incident de sécurité frappe CIM, ses systèmes isolés en urgence</title>
-    <link>https://www.cyberattaque.org/orisha-insurance-un-incident-de-securite-frappe-cim-ses-systemes-isoles-en-urgence/</link>
-    <description>Orisha Insurance a confirmé, le 24 juillet 2026, un incident de sécurité affectant sa filiale CIM. Des systèmes...
-L’article Orisha Insurance : un incident de sécurité frappe CIM, ses systèmes isolés en urgence est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 29 Jul 2026 07:35:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates</title>
-    <link>https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html</link>
-    <description>Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 12:37:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js</title>
-    <link>https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html</link>
-    <description>Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family.
-
-The list of affected packages is as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 09:50:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FTC sues Hims &amp; Hers for allegedly sharing patient information with third-party platforms</title>
-    <link>https://therecord.media/hims-hers-privacy-lawsuit-ftc</link>
-    <description>Popular telehealth provider Hims &amp; Hers "shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy," the federal government…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 29 Jul 2026 04:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
