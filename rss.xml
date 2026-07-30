@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Russian hackers exploit Exchange OWA zero-day for long-term mailbox access</title>
+    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/</link>
+    <description>The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 19:44:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic confirms Claude is down worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/</link>
+    <description>Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a "529 Overloaded" message, including in Claude and tools that rely on…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 17:39:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco warns of FMC static credential flaw exploited in zero-day attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/</link>
+    <description>Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 29 Jul 2026 17:35:40 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads</title>
     <link>https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html</link>
     <description>Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
@@ -201,32 +222,11 @@ The list of affected packages is as…</description>
     <pubDate>Wed, 29 Jul 2026 09:50:57 +0530</pubDate>
   </item>
   <item>
-    <title>[Critique] CVE-2026-20316 — Cisco Secure Firewall Management Center Use of Hard-coded Password Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20316</link>
-    <description>Cisco Secure Firewall Management Center (FMC) formerly known as Firepower Management Center contains a use of hard-coded password vulnerability that could allow an unauthenticated, remote attacker to log in to an affected device using a low-privileged account to access sensitive data within the impacted systems.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-07-29</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Senate confirms Clayton as intel chief after delays</title>
-    <link>https://therecord.media/jay-clayton-confirmed-dni-senate</link>
-    <description>A party-line vote in the Senate installed Jay Clayton as director of national intelligence, a job that has drawn increasing scrutiny during Donald Trump's second term as president.</description>
+    <title>[Faible] FTC sues Hims &amp; Hers for allegedly sharing patient information with third-party platforms</title>
+    <link>https://therecord.media/hims-hers-privacy-lawsuit-ftc</link>
+    <description>Popular telehealth provider Hims &amp; Hers "shared consumers’ sensitive health information with third-party advertising platforms such as Meta and Snap despite promising to protect patient privacy," the federal government…</description>
     <source>The Record</source>
-    <pubDate>Tue, 28 Jul 2026 23:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CubePilot drone software dev hit by DNS hijacking to intercept traffic</title>
-    <link>https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/</link>
-    <description>CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 17:17:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI models used Artifactory zero-days to escape to the internet</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/</link>
-    <description>JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 28 Jul 2026 16:37:06 -0400</pubDate>
+    <pubDate>Wed, 29 Jul 2026 04:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
