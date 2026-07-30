@@ -6,6 +6,55 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Semiconductor chip titan Analog Devices reports data breach</title>
+    <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
+    <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 30 Jul 2026 19:10:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware</title>
+    <link>https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html</link>
+    <description>Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 30 Jul 2026 23:48:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers</title>
+    <link>https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/</link>
+    <description>Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 14:13:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] VMware fixes three critical flaws allowing auth bypass, VM escapes</title>
+    <link>https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/</link>
+    <description>Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 14:00:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google says AI helped Chrome fix 1,072 security bugs in two releases</title>
+    <link>https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/</link>
+    <description>Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 13:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Read This Before You Buy That TV Streaming Stick</title>
+    <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
+    <description>Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Thu, 30 Jul 2026 16:49:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ShinyHunters claims Brinks Home breach, threatens to leak stolen data</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/</link>
+    <description>Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 12:46:15 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Microsoft Teams vishing attacks lead to Chaos ransomware attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/</link>
     <description>Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]</description>
@@ -223,29 +272,6 @@ L’article ENGIE Green : 621 019 clients en fuite après une intrusion par inje
     <description>Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 29 Jul 2026 17:35:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads</title>
-    <link>https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html</link>
-    <description>Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads.
-
-Tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 29 Jul 2026 23:40:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare</title>
-    <link>https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/</link>
-    <description>Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 13:54:05 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says rogue agent behind Hugging Face hack broke into additional services</title>
-    <link>https://therecord.media/openai-says-rogue-agent-behind-hugging-face-hack-broke-into-additional-services</link>
-    <description>The four additional targeted organizations weren’t named. OpenAI said they were not affected as severely as Hugging Face.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 29 Jul 2026 17:22:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
