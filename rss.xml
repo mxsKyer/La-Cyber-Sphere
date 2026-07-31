@@ -6,6 +6,42 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Quatre jeux cyber pour stimuler vos vacances</title>
+    <link>https://www.zataz.com/quatre-jeux-cyber-pour-stimuler-vos-vacances/</link>
+    <description>Quatre jeux cyber ZATAZ pour décoder, enquêter, communiquer et tester sa logique pendant les vacances.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 31 Jul 2026 01:22:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests</title>
+    <link>https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/</link>
+    <description>One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 20:57:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] South Korea fines telco giant KT $39 million for customer data breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/</link>
+    <description>South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 18:28:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] JetBrains warns of critical TeamCity remote code execution flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/</link>
+    <description>JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 30 Jul 2026 18:01:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Amis de la Police : des adhérents exposés dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/amis-de-la-police-des-adherents-exposes-dans-une-fuite-de-donnees/</link>
+    <description>L’Amicale Police et Patrimoine fait l’objet d’une revendication publiée le 30 juillet 2026. Le hacker Cybernox, accompagné de...
+L’article Amis de la Police : des adhérents exposés dans une fuite de données est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 30 Jul 2026 21:01:41 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Semiconductor chip titan Analog Devices reports data breach</title>
     <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
     <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.</description>
@@ -207,71 +243,6 @@ L’article Lire Demain : 4 600 commandes d’écoles, crèches et collectivité
     <description>L’intelligence artificielle bouleverse de nombreux secteurs, mais elle transforme également le fonctionnement de la cybercriminalité. Dans le dark web, les groupes criminels exploitent désormais les modèles d’IA…</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 30 Jul 2026 09:16:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation</title>
-    <link>https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html</link>
-    <description>The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S.…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 13:10:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks</title>
-    <link>https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html</link>
-    <description>The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 12:58:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet</title>
-    <link>https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html</link>
-    <description>Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 11:35:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data</title>
-    <link>https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 10:38:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] L’app du Vatican expose 700 000 fidèles à cause d’une faille critique</title>
-    <link>https://www.cyberattaque.org/lapp-du-vatican-expose-700-000-fideles-a-cause-dune-faille-critique/</link>
-    <description>Click to Pray, l’application officielle de prière du Vatican, expose les informations personnelles de plus de 700 000...
-L’article L’app du Vatican expose 700 000 fidèles à cause d’une faille critique est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 30 Jul 2026 04:52:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ENGIE Green : 621 019 clients en fuite après une intrusion par injection SQL</title>
-    <link>https://www.cyberattaque.org/engie-green-621-019-clients-en-fuite-apres-une-intrusion-par-injection-sql/</link>
-    <description>ENGIE Green fait l’objet d’une tentative d’extorsion revendiquée le 30 juillet 2026. Le hacker xxsdead affirme avoir compromis...
-L’article ENGIE Green : 621 019 clients en fuite après une intrusion par injection SQL…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 30 Jul 2026 04:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russian hackers exploit Exchange OWA zero-day for long-term mailbox access</title>
-    <link>https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/</link>
-    <description>The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 19:44:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic confirms Claude is down worldwide</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/</link>
-    <description>Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a "529 Overloaded" message, including in Claude and tools that rely on…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 17:39:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco warns of FMC static credential flaw exploited in zero-day attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/</link>
-    <description>Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 29 Jul 2026 17:35:40 -0400</pubDate>
   </item>
 </channel>
 </rss>
