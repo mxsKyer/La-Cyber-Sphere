@@ -6,6 +6,98 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies</title>
+    <link>https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html</link>
+    <description>Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
+
+Researchers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 20:15:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber actualités ZATAZ de la semaine du 27 juillet au 2 août 2026</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-27-juillet-au-2-aout-2026/</link>
+    <description>Cette semaine, les données personnelles restent au cœur des alertes cyber. L'Hacktivisme politique semble faire son retour en France... ou pas !</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 31 Jul 2026 14:39:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un pirate revendique un accès au CRM d’ENI</title>
+    <link>https://www.zataz.com/un-pirate-revendique-un-acces-au-crm-deni/</link>
+    <description>Un pirate revendique un accès au CRM français d’ENI et diffuse des factures de professionnels et grands comptes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 31 Jul 2026 14:11:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ESET tracks rise in malicious AI skills and adaptable malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/</link>
+    <description>Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 31 Jul 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hacktivisme : une fuite « Macronleak » de 2017 contre Chat Control ressort du darkweb !</title>
+    <link>https://www.zataz.com/hacktivisme-une-fuite-macronleak-de-2017-contre-chat-control-ressort-du-darkweb/</link>
+    <description>Un hacktiviste exhume des données de 2017 pour attaquer Chat Control et justifier une fuite politique controversée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 31 Jul 2026 13:41:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined</title>
+    <link>https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html</link>
+    <description>Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.
+
+Both versions…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 18:21:52 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic says its AI hacked real-world companies in three incidents</title>
+    <link>https://therecord.media/anthropic-ai-hacked-three-real-companies</link>
+    <description>Claude maker Anthropic said its AI models escaped test environments and breached networks at three companies on the open internet.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 31 Jul 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw</title>
+    <link>https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html</link>
+    <description>An academic study has disclosed a "widespread class" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 17:25:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026</title>
+    <link>https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html</link>
+    <description>Device code phishing - the abuse of the OAuth 2.0 device authorization grant to steal access tokens - has evolved from a niche red-team technique to an industrial-scale threat in under six months.
+
+Designed for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 16:54:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks</title>
+    <link>https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html</link>
+    <description>Palo Alto Networks' Unit 42 says a Chinese-speaking threat actor used DeepSeek through the open-source Hermes Agent framework to launch attacks autonomously.
+
+After an initial Telegram instruction, the agent found…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 16:51:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations</title>
+    <link>https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html</link>
+    <description>Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 12:11:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Finland to disconnect fiber-optic link to Russia as lease expires</title>
+    <link>https://therecord.media/finland-russia-fiber-optic-disconnection</link>
+    <description>Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Quatre jeux cyber pour stimuler vos vacances</title>
     <link>https://www.zataz.com/quatre-jeux-cyber-pour-stimuler-vos-vacances/</link>
     <description>Quatre jeux cyber ZATAZ pour décoder, enquêter, communiquer et tester sa logique pendant les vacances.</description>
@@ -89,160 +181,6 @@ L’article Amis de la Police : des adhérents exposés dans une fuite de donné
     <description>Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 30 Jul 2026 12:46:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft Teams vishing attacks lead to Chaos ransomware attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/</link>
-    <description>Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 11:56:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories</title>
-    <link>https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html</link>
-    <description>A lot of security still comes down to trusting the wrong screen.
-
-This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 20:55:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Analog Devices discloses data breach, says operations unaffected</title>
-    <link>https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/</link>
-    <description>American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 11:12:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] After the Break-In: What Attackers Do Once They're Already Inside</title>
-    <link>https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/</link>
-    <description>Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] North Korea’s Lazarus Group sharing tools with ransomware hackers, South Korean agencies warn</title>
-    <link>https://therecord.media/north-korea-hackers-ransomware</link>
-    <description>Cyberattack tools and infrastructure used by North Korea’s Lazarus Group appear to have been shared with ransomware criminals targeting South Korean organizations — further evidence of deepening entanglement between…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 30 Jul 2026 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Planity : 138 000 données exfiltrées dans une cyberattaque</title>
-    <link>https://www.cyberattaque.org/planity-138-000-donnees-exfiltrees-dans-une-cyberattaque/</link>
-    <description>Planity confirme un incident de sécurité ayant exposé environ 138 000 données réelles. L’accès concernait un environnement de...
-L’article Planity : 138 000 données exfiltrées dans une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 30 Jul 2026 13:58:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 5doigts2pieds.fr piraté : les données et commandes de ses clients ont été volées</title>
-    <link>https://www.cyberattaque.org/5doigts2pieds-fr-pirate-les-donnees-et-commandes-de-ses-clients-ont-ete-volees/</link>
-    <description>La boutique en ligne 5doigts2pieds.fr confirme avoir subi une cyberattaque ayant entraîné le vol des données de ses...
-L’article 5doigts2pieds.fr piraté : les données et commandes de ses clients ont été volées est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 30 Jul 2026 13:49:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database</title>
-    <link>https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html</link>
-    <description>A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz.
-
-Wiz,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 19:04:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] North Korean hackers behind major open-source supply chain attacks, Amazon says</title>
-    <link>https://therecord.media/north-korea-hackers-amazon-malware</link>
-    <description>A North Korea-linked hacker group was behind several high-profile compromises of open-source software libraries used by developers worldwide, researchers have found.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 30 Jul 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyber extortionists steal data from UK Department for Education</title>
-    <link>https://therecord.media/united-kingdom-ransomware-education</link>
-    <description>Cybercriminals are attempting to extort Britain’s Department for Education (DfE) after compromising what the hackers said was more than 600,000 pieces of data allegedly including names, email addresses and phone numbers.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents</title>
-    <link>https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html</link>
-    <description>Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 17:24:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Planity visée par une vente présumée de données piratées</title>
-    <link>https://www.zataz.com/planity-visee-par-une-vente-presumee-de-donnees-piratees/</link>
-    <description>Un pirate informatique affirme vendre près d’un million de données liées à Planity, plateforme de réservation beauté.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 11:34:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Network Has Become the Control Plane for AI Security</title>
-    <link>https://thehackernews.com/2026/07/the-network-has-become-control-plane.html</link>
-    <description>Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 17:02:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Voiture connectée : quelles données guident l’entretien ?</title>
-    <link>https://www.zataz.com/voiture-connectee-quelles-donnees-guident-lentretien/</link>
-    <description>Voiture connectée, entretien, climatisation : comprendre les données embarquées et prévenir les risques mécaniques.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 10:50:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts</title>
-    <link>https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html</link>
-    <description>South Korean authorities and four security firms have disclosed a state-sponsored campaign that compromised trusted domestic websites. The attackers used those sites to exploit locally installed financial-security…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 16:03:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT</title>
-    <link>https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html</link>
-    <description>The Chinese cybercrime group known as Silver Fox has been observed using new drivers as part of bring your own vulnerable driver (BYOVD) attacks targeting a Japanese organization in the industrial manufacturing sector…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 16:02:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ExfilSquad expose des données CRM municipales</title>
-    <link>https://www.zataz.com/exfilsquad-expose-des-donnees-crm-municipales/</link>
-    <description>ExfilSquad diffuse des échantillons Dynamics 365 liés à Houston, Atlanta et Microsoft, sans preuve globale.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 10:20:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 240 bases françaises diffusées par des pirates</title>
-    <link>https://www.zataz.com/240-bases-francaises-diffusees-par-des-pirates/</link>
-    <description>240 bases françaises diffusées en ligne : origine, doublons, courtiers criminels et motivations encore incertaines.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 09:41:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lire Demain : 4 600 commandes d’écoles, crèches et collectivités exposées</title>
-    <link>https://www.cyberattaque.org/lire-demain-4-600-commandes-decoles-creches-et-collectivites-exposees/</link>
-    <description>Lire Demain fait l’objet d’une revendication publiée le 28 juillet 2026. Le hacker 0xSec diffuse cinq fichiers présentés...
-L’article Lire Demain : 4 600 commandes d’écoles, crèches et collectivités exposées est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 30 Jul 2026 09:24:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Mercor face aux affirmations d’un pirate</title>
-    <link>https://www.zataz.com/mercor-face-aux-affirmations-dun-pirate/</link>
-    <description>Mercor visé par Resolute : données biométriques, code source et volumes revendiqués, sans preuve indépendante.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 09:21:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le rôle de l’IA dans les opérations de cybercriminalité sur le dark web</title>
-    <link>https://www.zataz.com/le-role-de-lia-dans-les-operations-de-cybercriminalite-sur-le-dark-web/</link>
-    <description>L’intelligence artificielle bouleverse de nombreux secteurs, mais elle transforme également le fonctionnement de la cybercriminalité. Dans le dark web, les groupes criminels exploitent désormais les modèles d’IA…</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 30 Jul 2026 09:16:29 +0000</pubDate>
   </item>
 </channel>
 </rss>
