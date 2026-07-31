@@ -6,6 +6,65 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI says its new GPT 5.6 models are becoming more cost-efficient</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/</link>
+    <description>OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 31 Jul 2026 14:52:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk</title>
+    <link>https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html</link>
+    <description>A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 01 Aug 2026 00:22:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Éducation nationale : 25 ans de données d’agents potentiellement exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/education-nationale-25-ans-de-donnees-dagents-potentiellement-exposees-apres-une-cyberattaque/</link>
+    <description>Le ministère de l’Éducation nationale confirme une nouvelle intrusion informatique visant, cette fois, ses propres personnels. Dans la...
+L’article Éducation nationale : 25 ans de données d’agents potentiellement…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 31 Jul 2026 18:22:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CISA warns of spike in attacks on water systems as Minnesota incidents probed</title>
+    <link>https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</link>
+    <description>The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible."</description>
+    <source>The Record</source>
+    <pubDate>Fri, 31 Jul 2026 17:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hacker uses DeepSeek AI to autonomously attack vulnerable servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/</link>
+    <description>A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 31 Jul 2026 13:35:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber Command plans Silicon Valley office to drive innovation</title>
+    <link>https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation</link>
+    <description>The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).</description>
+    <source>The Record</source>
+    <pubDate>Fri, 31 Jul 2026 17:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CISA warns of cyberattacks disrupting U.S. water utilities</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 31 Jul 2026 12:49:49 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm</title>
+    <link>https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</link>
+    <description>Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.
+
+According to Blackpoint Cyber, the intrusion…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 31 Jul 2026 22:09:31 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies</title>
     <link>https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html</link>
     <description>Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
@@ -132,55 +191,6 @@ After an initial Telegram instruction, the agent found…</description>
 L’article Amis de la Police : des adhérents exposés dans une fuite de données est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 30 Jul 2026 21:01:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Semiconductor chip titan Analog Devices reports data breach</title>
-    <link>https://therecord.media/analog-devices-semiconductor-company-data-breach</link>
-    <description>In a filing for federal regulators, Massachusetts-based Analog Devices said intruders had exfiltrated data from its networks earlier this summer, but the scope of the incident is still under investigation.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 30 Jul 2026 19:10:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware</title>
-    <link>https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html</link>
-    <description>Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 30 Jul 2026 23:48:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers</title>
-    <link>https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/</link>
-    <description>Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 14:13:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] VMware fixes three critical flaws allowing auth bypass, VM escapes</title>
-    <link>https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/</link>
-    <description>Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 14:00:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Google says AI helped Chrome fix 1,072 security bugs in two releases</title>
-    <link>https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/</link>
-    <description>Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 13:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Read This Before You Buy That TV Streaming Stick</title>
-    <link>https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/</link>
-    <description>Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Thu, 30 Jul 2026 16:49:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters claims Brinks Home breach, threatens to leak stolen data</title>
-    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/</link>
-    <description>Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 12:46:15 -0400</pubDate>
   </item>
 </channel>
 </rss>
