@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction</title>
+    <link>https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html</link>
+    <description>Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 01 Aug 2026 12:42:42 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CCI Nice Côte d’Azur : un compte administrateur piraté, les données RH de candidats exportées</title>
+    <link>https://www.cyberattaque.org/cci-nice-cote-dazur-un-compte-administrateur-pirate-les-donnees-rh-de-candidats-exportees/</link>
+    <description>La CCI Nice Côte d’Azur confirme un incident de sécurité ayant touché sa plateforme eDRH. Le 18 juillet...
+L’article CCI Nice Côte d’Azur : un compte administrateur piraté, les données RH de candidats exportées est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 01 Aug 2026 07:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles de sport en fuite</title>
+    <link>https://www.cyberattaque.org/xplor-resamania-527-millions-de-dossiers-dadherents-de-salles-de-sport-revendiques/</link>
+    <description>Xplor Resamania fait l’objet d’une importante revendication publiée le 1er août 2026. Le hacker 84City affirme diffuser une...
+L’article Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles de sport en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 01 Aug 2026 06:36:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware</title>
+    <link>https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html</link>
+    <description>A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 01 Aug 2026 11:59:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Amgen says cloud data breach exposed patient health, proprietary info</title>
     <link>https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/</link>
     <description>Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]</description>
@@ -162,34 +194,6 @@ Designed for…</description>
 After an initial Telegram instruction, the agent found…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 31 Jul 2026 16:51:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations</title>
-    <link>https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html</link>
-    <description>Anthropic on Thursday became the latest artificial intelligence (AI) company to reveal that three of its models, including Claude Opus 4.7, Mythos 5, and an unnamed research model, had breached three unnamed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 31 Jul 2026 12:11:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Finland to disconnect fiber-optic link to Russia as lease expires</title>
-    <link>https://therecord.media/finland-russia-fiber-optic-disconnection</link>
-    <description>Finland stopped power transmissions with Russia at the start of the war in Ukraine, and two related telecom connections will stop at the end of this year, authorities said.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 31 Jul 2026 04:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Quatre jeux cyber pour stimuler vos vacances</title>
-    <link>https://www.zataz.com/quatre-jeux-cyber-pour-stimuler-vos-vacances/</link>
-    <description>Quatre jeux cyber ZATAZ pour décoder, enquêter, communiquer et tester sa logique pendant les vacances.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 31 Jul 2026 01:22:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests</title>
-    <link>https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/</link>
-    <description>One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 30 Jul 2026 20:57:25 -0400</pubDate>
   </item>
 </channel>
 </rss>
