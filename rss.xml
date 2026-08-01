@@ -75,26 +75,5 @@ L’article Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles
     <source>The Hacker News</source>
     <pubDate>Sat, 01 Aug 2026 11:59:05 +0530</pubDate>
   </item>
-  <item>
-    <title>[Élevé] Amgen says cloud data breach exposed patient health, proprietary info</title>
-    <link>https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/</link>
-    <description>Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 18:16:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Arch Linux disables AUR package adoption to stop malware flood</title>
-    <link>https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/</link>
-    <description>The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 17:38:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Online ad firm Adform’s script compromised to steal cryptocurrency</title>
-    <link>https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/</link>
-    <description>Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 17:09:25 -0400</pubDate>
-  </item>
 </channel>
 </rss>
