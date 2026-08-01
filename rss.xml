@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Adobe Campaign Classic : une faille permet d’exécuter du code sans authentification ni clic</title>
+    <link>https://www.cyberattaque.org/adobe-campaign-classic-une-faille-permet-dexecuter-du-code-sans-authentification-ni-clic/</link>
+    <description>Adobe vient de corriger une vulnérabilité maximale dans Adobe Campaign Classic. Référencée CVE-2026-48449, la faille obtient la note...
+L’article Adobe Campaign Classic : une faille permet d’exécuter du code sans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 01 Aug 2026 15:07:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Rails patches critical Active Storage flaw with RCE potential</title>
+    <link>https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/</link>
+    <description>A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 01 Aug 2026 10:20:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber’Smile : la playlist d’été de ZATAZ est de sortie</title>
+    <link>https://www.zataz.com/cybersmile-la-playlist-dete-de-zataz-est-de-sortie/</link>
+    <description>Entre deux alertes cyber et un Wi-Fi d’hôtel douteux, ZATAZ passe en mode été avec une playlist de cinq titres originaux pour accompagner vacances, trajets et pauses au soleil.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 01 Aug 2026 12:49:35 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites</title>
     <link>https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html</link>
     <description>Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
@@ -125,52 +147,6 @@ L’article Éducation nationale : 25 ans de données d’agents potentiellement
 According to Blackpoint Cyber, the intrusion…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 31 Jul 2026 22:09:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies</title>
-    <link>https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html</link>
-    <description>Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators.
-
-Researchers…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 31 Jul 2026 20:15:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber actualités ZATAZ de la semaine du 27 juillet au 2 août 2026</title>
-    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-27-juillet-au-2-aout-2026/</link>
-    <description>Cette semaine, les données personnelles restent au cœur des alertes cyber. L'Hacktivisme politique semble faire son retour en France... ou pas !</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 31 Jul 2026 14:39:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un pirate revendique un accès au CRM d’ENI</title>
-    <link>https://www.zataz.com/un-pirate-revendique-un-acces-au-crm-deni/</link>
-    <description>Un pirate revendique un accès au CRM français d’ENI et diffuse des factures de professionnels et grands comptes.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 31 Jul 2026 14:11:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ESET tracks rise in malicious AI skills and adaptable malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/</link>
-    <description>Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hacktivisme : une fuite « Macronleak » de 2017 contre Chat Control ressort du darkweb !</title>
-    <link>https://www.zataz.com/hacktivisme-une-fuite-macronleak-de-2017-contre-chat-control-ressort-du-darkweb/</link>
-    <description>Un hacktiviste exhume des données de 2017 pour attaquer Chat Control et justifier une fuite politique controversée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 31 Jul 2026 13:41:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined</title>
-    <link>https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html</link>
-    <description>Google on Thursday announced that it fixed a whopping 1,072 security bugs in Chrome versions 149 and 150, surpassing the total number of flaws the company fixed across the prior 23 milestones combined.
-
-Both versions…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 31 Jul 2026 18:21:52 +0530</pubDate>
   </item>
 </channel>
 </rss>
