@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes</title>
+    <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
+    <description>An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 01 Aug 2026 22:47:22 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Adobe Campaign Classic : une faille permet d’exécuter du code sans authentification ni clic</title>
     <link>https://www.cyberattaque.org/adobe-campaign-classic-une-faille-permet-dexecuter-du-code-sans-authentification-ni-clic/</link>
     <description>Adobe vient de corriger une vulnérabilité maximale dans Adobe Campaign Classic. Référencée CVE-2026-48449, la faille obtient la note...
@@ -88,65 +95,6 @@ L’article Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles
     <description>Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones…</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 31 Jul 2026 17:09:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says its new GPT 5.6 models are becoming more cost-efficient</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/</link>
-    <description>OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 14:52:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk</title>
-    <link>https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html</link>
-    <description>A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 01 Aug 2026 00:22:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Éducation nationale : 25 ans de données d’agents potentiellement exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/education-nationale-25-ans-de-donnees-dagents-potentiellement-exposees-apres-une-cyberattaque/</link>
-    <description>Le ministère de l’Éducation nationale confirme une nouvelle intrusion informatique visant, cette fois, ses propres personnels. Dans la...
-L’article Éducation nationale : 25 ans de données d’agents potentiellement…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 31 Jul 2026 18:22:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA warns of spike in attacks on water systems as Minnesota incidents probed</title>
-    <link>https://therecord.media/cisa-warns-of-spike-in-water-system-attacks</link>
-    <description>The Cybersecurity and Infrastructure Security Agency said in a public alert on Thursday that facilities should “remove publicly exposed PLCs and other operational technology (OT) from the internet as soon as possible."</description>
-    <source>The Record</source>
-    <pubDate>Fri, 31 Jul 2026 17:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hacker uses DeepSeek AI to autonomously attack vulnerable servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/</link>
-    <description>A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 13:35:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber Command plans Silicon Valley office to drive innovation</title>
-    <link>https://therecord.media/cyber-command-plans-silicon-valley-office-to-drive-innovation</link>
-    <description>The outpost will have its own director, though no one has yet been named for the post, and support the command’s nascent Cyber Warfare Innovation Center (CIWC).</description>
-    <source>The Record</source>
-    <pubDate>Fri, 31 Jul 2026 17:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA warns of cyberattacks disrupting U.S. water utilities</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 31 Jul 2026 12:49:49 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm</title>
-    <link>https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html</link>
-    <description>Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka.
-
-According to Blackpoint Cyber, the intrusion…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 31 Jul 2026 22:09:31 +0530</pubDate>
   </item>
 </channel>
 </rss>
