@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Terveo : les données clients et historiques de commandes exposés dans une cyberattaque</title>
+    <link>https://www.cyberattaque.org/terveo-les-donnees-clients-et-historiques-de-commandes-exposes-dans-une-cyberattaque/</link>
+    <description>Terveo confirme avoir subi une intrusion informatique entre le 19 et le 25 juillet 2026. Une personne extérieure...
+L’article Terveo : les données clients et historiques de commandes exposés dans une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 02 Aug 2026 10:38:05 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Groupe T2MC : 82 000 cartes d’identité et RIB exposés dans une fuite massive</title>
     <link>https://www.cyberattaque.org/groupe-t2mc-82-000-cartes-didentite-et-rib-exposes-dans-une-fuite-massive/</link>
     <description>Une fuite particulièrement sensible frappe le Groupe T2MC. Le 1er août 2026, un acteur utilisant le pseudonyme Alduinn...
@@ -41,15 +49,6 @@ L’article Adobe Campaign Classic : une faille permet d’exécuter du code san
     <description>Entre deux alertes cyber et un Wi-Fi d’hôtel douteux, ZATAZ passe en mode été avec une playlist de cinq titres originaux pour accompagner vacances, trajets et pauses au soleil.</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 01 Aug 2026 12:49:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites</title>
-    <link>https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html</link>
-    <description>Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses.
-
-Adform detected the incident on July 27, 2026,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 01 Aug 2026 14:33:07 +0530</pubDate>
   </item>
 </channel>
 </rss>
