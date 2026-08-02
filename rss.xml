@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/</link>
+    <description>OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 02 Aug 2026 18:31:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/</link>
+    <description>A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 02 Aug 2026 17:14:29 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Google Chrome may soon block New Tab hijacker extensions by default</title>
     <link>https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/</link>
     <description>Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]</description>
