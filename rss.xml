@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Groupe T2MC : 82 000 cartes d’identité et RIB exposés dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/groupe-t2mc-82-000-cartes-didentite-et-rib-exposes-dans-une-fuite-massive/</link>
+    <description>Une fuite particulièrement sensible frappe le Groupe T2MC. Le 1er août 2026, un acteur utilisant le pseudonyme Alduinn...
+L’article Groupe T2MC : 82 000 cartes d’identité et RIB exposés dans une fuite massive est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 02 Aug 2026 06:46:10 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes</title>
     <link>https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html</link>
     <description>An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the…</description>
@@ -42,38 +50,6 @@ L’article Adobe Campaign Classic : une faille permet d’exécuter du code san
 Adform detected the incident on July 27, 2026,…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 01 Aug 2026 14:33:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction</title>
-    <link>https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html</link>
-    <description>Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 01 Aug 2026 12:42:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CCI Nice Côte d’Azur : un compte administrateur piraté, les données RH de candidats exportées</title>
-    <link>https://www.cyberattaque.org/cci-nice-cote-dazur-un-compte-administrateur-pirate-les-donnees-rh-de-candidats-exportees/</link>
-    <description>La CCI Nice Côte d’Azur confirme un incident de sécurité ayant touché sa plateforme eDRH. Le 18 juillet...
-L’article CCI Nice Côte d’Azur : un compte administrateur piraté, les données RH de candidats exportées est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 01 Aug 2026 07:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles de sport en fuite</title>
-    <link>https://www.cyberattaque.org/xplor-resamania-527-millions-de-dossiers-dadherents-de-salles-de-sport-revendiques/</link>
-    <description>Xplor Resamania fait l’objet d’une importante revendication publiée le 1er août 2026. Le hacker 84City affirme diffuser une...
-L’article Xplor Resamania : 5,27 millions de dossiers d’adhérents de salles de sport en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 01 Aug 2026 06:36:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware</title>
-    <link>https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html</link>
-    <description>A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 01 Aug 2026 11:59:05 +0530</pubDate>
   </item>
 </channel>
 </rss>
