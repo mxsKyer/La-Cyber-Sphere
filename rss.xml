@@ -6,6 +6,81 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users</title>
+    <link>https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</link>
+    <description>Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 00:13:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations</title>
+    <link>https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations</link>
+    <description>A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 03 Aug 2026 17:36:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] N-able warns of N-central auth bypass flaw exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/</link>
+    <description>N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 13:00:56 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts</title>
+    <link>https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</link>
+    <description>Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.
+
+Unit 42 detailed three…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 03 Aug 2026 21:54:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws</title>
+    <link>https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</link>
+    <description>The INC Ransomware operation has emerged as the "dominant threat actor" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
+
+In a report published over…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 03 Aug 2026 21:45:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Chat Coco : 14 260 comptes et messages privés exposés sur l’héritier du controversé Coco.gg</title>
+    <link>https://www.cyberattaque.org/chat-coco-14-260-comptes-et-messages-prives-exposes-sur-lheritier-du-controverse-coco-gg/</link>
+    <description>Chat Coco a été entièrement compromis le 2 août 2026. La plateforme a vu son site remplacé par...
+L’article Chat Coco : 14 260 comptes et messages privés exposés sur l’héritier du controversé Coco.gg est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 03 Aug 2026 15:41:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ExfilSquad hackers leak info of over 100,000 UK police officers, staff</title>
+    <link>https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/</link>
+    <description>A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 11:04:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Inside the Underground Business of the Android BTMOB RAT malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/</link>
+    <description>Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 10:45:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks</title>
+    <link>https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html</link>
+    <description>This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 03 Aug 2026 19:33:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Biotech giant Amgen says patient data stolen from third-party cloud systems</title>
+    <link>https://therecord.media/amgen-hackers-cyberattack-sec</link>
+    <description>The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 03 Aug 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Une cyberattaque vise plus de 30 réseaux d’eau</title>
     <link>https://www.zataz.com/une-cyberattaque-vise-plus-de-30-reseaux-deau/</link>
     <description>Cyberattaque : plus de 30 réseaux d’eau ciblés, renseignement cyber et réponse coordonnée mobilisés.</description>
@@ -117,6 +192,13 @@ L’article Mairie de Rinxent : 160 Go de données revendiqués après une cyber
     <pubDate>Mon, 03 Aug 2026 04:20:00 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-18577 — N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-18577</link>
+    <description>N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-03</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/</link>
     <description>OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]</description>
@@ -129,13 +211,6 @@ L’article Mairie de Rinxent : 160 Go de données revendiqués après une cyber
     <description>A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 02 Aug 2026 17:14:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Chrome may soon block New Tab hijacker extensions by default</title>
-    <link>https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/</link>
-    <description>Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 02 Aug 2026 10:17:16 -0400</pubDate>
   </item>
 </channel>
 </rss>
