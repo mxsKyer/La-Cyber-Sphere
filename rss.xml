@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen</title>
+    <link>https://therecord.media/bitcoin-theft-coldcard-cyberattack</link>
+    <description>The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 03 Aug 2026 20:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New DOUBLECUP ClickFix service hides malware in browser cache images</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/</link>
+    <description>A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 16:01:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Roblox Xeno script launcher pushes infostealer, RAT malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/</link>
+    <description>Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 15:25:10 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users</title>
     <link>https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</link>
     <description>Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software…</description>
@@ -197,20 +218,6 @@ L’article Mairie de Rinxent : 160 Go de données revendiqués après une cyber
     <description>N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-08-03</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/</link>
-    <description>OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 02 Aug 2026 18:31:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/</link>
-    <description>A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 02 Aug 2026 17:14:29 -0400</pubDate>
   </item>
 </channel>
 </rss>
