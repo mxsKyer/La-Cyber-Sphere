@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises</title>
+    <link>https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 12:30:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/</link>
+    <description>Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 20:17:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] New Pass-ta-key attacks let malware hijack Google-synced passkeys</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/</link>
+    <description>Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 03 Aug 2026 19:58:01 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen</title>
     <link>https://therecord.media/bitcoin-theft-coldcard-cyberattack</link>
     <description>The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.</description>
@@ -178,46 +199,6 @@ Attack surface management platform Censys said it…</description>
 The data included names, organisations and work email…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 03 Aug 2026 14:43:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable</title>
-    <link>https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html</link>
-    <description>Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them.
-
-The vendor's July 31 security…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 13:35:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete</title>
-    <link>https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html</link>
-    <description>N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers.
-
-Its first fix was incomplete. CVE-2026-18577…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 12:11:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code</title>
-    <link>https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html</link>
-    <description>Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 12:10:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mairie de Rinxent : 160 Go de données revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/mairie-de-rinxent-160-go-de-donnees-revendiques-apres-une-cyberattaque/</link>
-    <description>La mairie de Rinxent, dans le Pas-de-Calais, est désormais affichée sur le site de fuite du groupe de...
-L’article Mairie de Rinxent : 160 Go de données revendiqués après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 03 Aug 2026 04:20:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-18577 — N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-18577</link>
-    <description>N-able N-central contains an authentication bypass using an alternate path or channel allows for authentication bypass and account takeover in N-central. This vulnerability is the result of an incomplete patch for CVE-2026-18556.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-03</pubDate>
   </item>
 </channel>
 </rss>
