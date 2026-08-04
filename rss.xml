@@ -6,6 +6,96 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Polish convenience store chain Żabka hacked through third-party account</title>
+    <link>https://therecord.media/poland-convenience-store-chain-zabka-cyberattack</link>
+    <description>Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 15:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Massive ChainDrop npm supply-chain attack infects hundreds of packages</title>
+    <link>https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/</link>
+    <description>Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 04 Aug 2026 11:24:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian businesses erase Durov-linked products after 'terrorist' designation</title>
+    <link>https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation</link>
+    <description>The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 14:11:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Varonis Agent IBAC keeps AI agents within their intended boundaries</title>
+    <link>https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/</link>
+    <description>AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 04 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks</title>
+    <link>https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</link>
+    <description>A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.
+
+SafeDep verified 353 poisoned…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 19:00:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access</title>
+    <link>https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html</link>
+    <description>Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 18:41:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apple launches new legal challenge against UK over iCloud access</title>
+    <link>https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge</link>
+    <description>Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected</title>
+    <link>https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities</link>
+    <description>The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted</title>
+    <link>https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html</link>
+    <description>The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.
+
+That assumption is starting to break.
+
+Security teams have long estimated risk by ranking attacker…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent</title>
+    <link>https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html</link>
+    <description>Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 16:46:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root</title>
+    <link>https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html</link>
+    <description>cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 16:06:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT</title>
+    <link>https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html</link>
+    <description>A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 14:33:23 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises</title>
     <link>https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active…</description>
@@ -76,129 +166,6 @@
 Unit 42 detailed three…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 03 Aug 2026 21:54:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws</title>
-    <link>https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html</link>
-    <description>The INC Ransomware operation has emerged as the "dominant threat actor" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances.
-
-In a report published over…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 21:45:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chat Coco : 14 260 comptes et messages privés exposés sur l’héritier du controversé Coco.gg</title>
-    <link>https://www.cyberattaque.org/chat-coco-14-260-comptes-et-messages-prives-exposes-sur-lheritier-du-controverse-coco-gg/</link>
-    <description>Chat Coco a été entièrement compromis le 2 août 2026. La plateforme a vu son site remplacé par...
-L’article Chat Coco : 14 260 comptes et messages privés exposés sur l’héritier du controversé Coco.gg est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 03 Aug 2026 15:41:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ExfilSquad hackers leak info of over 100,000 UK police officers, staff</title>
-    <link>https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/</link>
-    <description>A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 03 Aug 2026 11:04:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Inside the Underground Business of the Android BTMOB RAT malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/</link>
-    <description>Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 03 Aug 2026 10:45:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks</title>
-    <link>https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html</link>
-    <description>This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 19:33:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Biotech giant Amgen says patient data stolen from third-party cloud systems</title>
-    <link>https://therecord.media/amgen-hackers-cyberattack-sec</link>
-    <description>The biotech giant Amgen informed regulators that patient information and proprietary company data were accessed through a breach of third-party cloud systems.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 03 Aug 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une cyberattaque vise plus de 30 réseaux d’eau</title>
-    <link>https://www.zataz.com/une-cyberattaque-vise-plus-de-30-reseaux-deau/</link>
-    <description>Cyberattaque : plus de 30 réseaux d’eau ciblés, renseignement cyber et réponse coordonnée mobilisés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 03 Aug 2026 12:31:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Russian hackers hijack hotel Wi-Fi networks to spy on travelers, Microsoft says</title>
-    <link>https://therecord.media/russian-wifi-hackers-hotels</link>
-    <description>Russian state-sponsored hackers have been compromising hotel Wi-Fi networks around the world to steal travelers' login credentials and infect devices with espionage malware, Microsoft said.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 03 Aug 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FOMO in the SOC: Where AI Platforms like Claude Actually Fit</title>
-    <link>https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html</link>
-    <description>AI is moving incredibly fast, and every security leader is feeling the pressure to keep up.
-
-AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Inserm : 189 997 profils de professionnels de santé dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/inserm-189-997-profils-de-professionnels-de-sante-dans-une-fuite-massive/</link>
-    <description>Une base de données attribuée à un service lié à Inserm.fr fait l’objet d’une revendication publiée le 3...
-L’article Inserm : 189 997 profils de professionnels de santé dans une fuite massive est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 03 Aug 2026 11:22:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’UE valide une initiative contre l’identité numérique</title>
-    <link>https://www.zataz.com/lue-valide-une-initiative-contre-lidentite-numerique/</link>
-    <description>L’UE valide une initiative contre l’identité numérique et la vérification d’âge obligatoires pour les services en ligne.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 03 Aug 2026 11:10:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Intermarché victime d’une cyberattaque : les données de clients Drive exposées</title>
-    <link>https://www.cyberattaque.org/intermarche-victime-dune-cyberattaque-les-donnees-de-clients-drive-exposees/</link>
-    <description>Intermarché informe ses clients d’un incident de sécurité ayant permis un accès non autorisé à une partie de...
-L’article Intermarché victime d’une cyberattaque : les données de clients Drive exposées est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 03 Aug 2026 10:55:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS</title>
-    <link>https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html</link>
-    <description>An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit.
-
-Attack surface management platform Censys said it…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 16:19:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Sanction de 23andMe après une fuite de données</title>
-    <link>https://www.zataz.com/sanction-de-23andme-apres-une-fuite-de-donnees/</link>
-    <description>23andMe, géant de l'analyse ADN, condamné pour des failles cyber ayant facilité la fuite massive de données génétiques.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 03 Aug 2026 10:10:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un coup de pouce pour une céramiste qui a tout perdu</title>
-    <link>https://www.zataz.com/un-coup-de-pouce-pour-une-ceramiste-qui-a-tout-perdu/</link>
-    <description>ZATAZ relaie une cagnotte pour aider une céramiste du Porge à reconstruire son atelier détruit par les incendies.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 03 Aug 2026 09:33:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web</title>
-    <link>https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html</link>
-    <description>The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web.
-
-The data included names, organisations and work email…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 14:43:56 +0530</pubDate>
   </item>
 </channel>
 </rss>
