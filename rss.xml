@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI: Cambodian scam centers used ChatGPT to lure Indian nationals, conduct investment fraud</title>
+    <link>https://therecord.media/openai-chatgpt-cambodia-scam-centers-disruption</link>
+    <description>A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 20:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] New XCSSET variant targets macOS devs via compromised Xcode projects</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/</link>
+    <description>A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 04 Aug 2026 15:03:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 77 Open VSX extensions found harvesting developer info</title>
+    <link>https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/</link>
+    <description>77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 04 Aug 2026 14:50:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
+    <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
+    <description>The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 04 Aug 2026 22:57:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Britain’s next war won’t be an away game: Q&amp;A with former head of Defence Intelligence</title>
+    <link>https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine</link>
+    <description>As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 04 Aug 2026 16:19:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Polish convenience store chain Żabka hacked through third-party account</title>
     <link>https://therecord.media/poland-convenience-store-chain-zabka-cyberattack</link>
     <description>Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.</description>
@@ -110,62 +145,32 @@ Security teams have long estimated risk by ranking attacker…</description>
     <pubDate>Mon, 03 Aug 2026 20:17:15 -0400</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-9198 — IBM Langflow Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-9198</link>
+    <description>Langflow contains a code injection vulnerability that allows unauthenticated attackers to achieve full remote code execution on default Langflow deployments.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-04</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-34486 — Apache Tomcat Missing Encryption of Sensitive Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-34486</link>
+    <description>Apache Tomcat contains a missing encryption of sensitive data vulnerability that allows the bypass of the EncryptInterceptor.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-04</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-18556 — N-able N-central Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-18556</link>
+    <description>N-able N-central contains an authentication bypass using an alternate path or channel that allows for authentication bypass.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-04</pubDate>
+  </item>
+  <item>
     <title>[Élevé] New Pass-ta-key attacks let malware hijack Google-synced passkeys</title>
     <link>https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/</link>
     <description>Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and…</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 03 Aug 2026 19:58:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Bitcoin hardware wallet maker destroys some inventory after more than $88 million stolen</title>
-    <link>https://therecord.media/bitcoin-theft-coldcard-cyberattack</link>
-    <description>The company behind a popular hardware wallet for bitcoin owners was forced to destroy part of its inventory after thieves siphoned more than $88 million from customers through a firmware vulnerability.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 03 Aug 2026 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New DOUBLECUP ClickFix service hides malware in browser cache images</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/</link>
-    <description>A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 03 Aug 2026 16:01:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Roblox Xeno script launcher pushes infostealer, RAT malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/</link>
-    <description>Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 03 Aug 2026 15:25:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users</title>
-    <link>https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html</link>
-    <description>Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 00:13:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers steal 31,000 records identifying people behind Liechtenstein companies, foundations</title>
-    <link>https://therecord.media/hackers-steal-records-liechtenstein-companies-foundations</link>
-    <description>A cyberattack compromised tens of thousands of records related to companies, foundations and trusts in Liechtenstein, prompting the government to to form a “crisis unit” to address the breach.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 03 Aug 2026 17:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] N-able warns of N-central auth bypass flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/</link>
-    <description>N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 03 Aug 2026 13:00:56 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts</title>
-    <link>https://thehackernews.com/2026/08/google-password-manager-attacks-could.html</link>
-    <description>Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen.
-
-Unit 42 detailed three…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 03 Aug 2026 21:54:47 +0530</pubDate>
   </item>
 </channel>
 </rss>
