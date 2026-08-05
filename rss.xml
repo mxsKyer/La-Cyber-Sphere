@@ -6,6 +6,53 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Google Blogger locks hundreds of blogs in malware false positive</title>
+    <link>https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/</link>
+    <description>Google has locked hundreds of Blogger websites after a false positive claimed they violated its "Malware and Similar Malicious Content" policy, with some sites deleted from the platform. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 10:59:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug</title>
+    <link>https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html</link>
+    <description>HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django.
+
+The three most serious:
+
+
+  An unauthenticated flaw in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 19:57:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] How AI-powered phishing killed blocklists for good</title>
+    <link>https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/</link>
+    <description>AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattacks on water systems expand to 12 states as South Dakota, Georgia announce incidents</title>
+    <link>https://therecord.media/iran-cyberattacks-water-treatment</link>
+    <description>Water utilities in at least 12 states have reported cyberattacks on their operational technology, as the scope of a campaign allegedly linked to Iranian hackers continues to grow.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 05 Aug 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses</title>
+    <link>https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html</link>
+    <description>Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 19:11:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic AI agent faked identities, phished real developers in UK government hacking test</title>
+    <link>https://therecord.media/anthropic-ai-hacking-uk</link>
+    <description>An artificial intelligence agent built by Anthropic independently planted malicious code in a real software project and sent phishing emails to developers during a U.K. government security evaluation, according to…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 05 Aug 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Moyen] New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch</title>
     <link>https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html</link>
     <description>A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for…</description>
@@ -129,43 +176,6 @@ The list…</description>
     <description>Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.</description>
     <source>The Record</source>
     <pubDate>Tue, 04 Aug 2026 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Massive ChainDrop npm supply-chain attack infects hundreds of packages</title>
-    <link>https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/</link>
-    <description>Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 11:24:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian businesses erase Durov-linked products after 'terrorist' designation</title>
-    <link>https://therecord.media/russian-businesses-erase-durov-linked-products-terrorist-designation</link>
-    <description>The designation, announced last week, came a day after Russia's Federal Security Service (FSB) charged Durov with aiding terrorist activity and said it would seek to place him on an international wanted list. The agency…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 04 Aug 2026 14:11:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Varonis Agent IBAC keeps AI agents within their intended boundaries</title>
-    <link>https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/</link>
-    <description>AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks</title>
-    <link>https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html</link>
-    <description>A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026.
-
-SafeDep verified 353 poisoned…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 19:00:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access</title>
-    <link>https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html</link>
-    <description>Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 18:41:22 +0530</pubDate>
   </item>
 </channel>
 </rss>
