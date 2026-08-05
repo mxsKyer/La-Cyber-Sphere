@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures</title>
+    <link>https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html</link>
+    <description>A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 00:14:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes</title>
+    <link>https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html</link>
+    <description>OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 00:03:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] COLDCARD security audit phishing attack installs remote access tool</title>
+    <link>https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/</link>
+    <description>A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 13:49:41 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]</description>
@@ -186,20 +207,6 @@ The list…</description>
     <description>A tip from WhatsApp led OpenAI to ban multiple accounts associated with investment scams and human trafficking operations based in Cambodian scam centers.</description>
     <source>The Record</source>
     <pubDate>Tue, 04 Aug 2026 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New XCSSET variant targets macOS devs via compromised Xcode projects</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/</link>
-    <description>A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 15:03:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 77 Open VSX extensions found harvesting developer info</title>
-    <link>https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/</link>
-    <description>77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 14:50:55 -0400</pubDate>
   </item>
 </channel>
 </rss>
