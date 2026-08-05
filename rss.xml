@@ -6,6 +6,44 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 11:51:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Stade Français : les passeports et cartes d’identité de joueurs en fuite</title>
+    <link>https://www.cyberattaque.org/stade-francais-cyberattaque-passeport/</link>
+    <description>Le Stade Français Paris est visé par le groupe de ransomware Qilin. Le club parisien apparaît depuis le...
+L’article Stade Français : les passeports et cartes d’identité de joueurs en fuite est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 05 Aug 2026 15:45:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt</title>
+    <link>https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html</link>
+    <description>Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.
+
+One such…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 21:06:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident</title>
+    <link>https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident</link>
+    <description>Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 05 Aug 2026 15:36:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports</title>
+    <link>https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html</link>
+    <description>Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 20:44:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Google Blogger locks hundreds of blogs in malware false positive</title>
     <link>https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/</link>
     <description>Google has locked hundreds of Blogger websites after a false positive claimed they violated its "Malware and Similar Malicious Content" policy, with some sites deleted from the platform. [...]</description>
@@ -115,6 +153,13 @@ The list…</description>
     <pubDate>Wed, 05 Aug 2026 11:17:19 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-63077 — JetBrains TeamCity Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-63077</link>
+    <description>JetBrains TeamCity contains a deserialization of untrusted data vulnerability that could allow unauthenticated remote code execution via the agent polling protocol.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-05</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI, Anthropic AI agents targeted real people and systems in cyber tests</title>
     <link>https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/</link>
     <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…</description>
@@ -155,27 +200,6 @@ The list…</description>
     <description>77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 04 Aug 2026 14:50:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens</title>
-    <link>https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html</link>
-    <description>The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 22:57:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Britain’s next war won’t be an away game: Q&amp;A with former head of Defence Intelligence</title>
-    <link>https://therecord.media/interview-jim-hockenhull-uk-defence-intelligence-russia-ukraine</link>
-    <description>As Chief of Defence Intelligence, General Sir Jim Hockenhull decided to declassify and publish what London knew of Russia’s plans to invade Ukraine, down to a map of the routes its forces would take.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 04 Aug 2026 16:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Polish convenience store chain Żabka hacked through third-party account</title>
-    <link>https://therecord.media/poland-convenience-store-chain-zabka-cyberattack</link>
-    <description>Reports said intruders appeared to gain access to the Jira environment and other sensitive data of the Żabka retail chain. The company confirmed an intrusion occurred in late July.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 04 Aug 2026 15:55:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
