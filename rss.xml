@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Canadian pleads guilty to Snowflake cloud data-theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/</link>
+    <description>A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 17:53:26 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says</title>
     <link>https://therecord.media/chinese-hackers-telecoms-house</link>
     <description>Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.</description>
@@ -207,20 +214,6 @@ The list…</description>
     <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 04 Aug 2026 19:39:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] TP-Link patches Omada ZTP flaws allowing hackers to breach networks</title>
-    <link>https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/</link>
-    <description>TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 18:18:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Phishing service spoofs RingCentral to steal Microsoft 365 accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/</link>
-    <description>The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 17:45:36 -0400</pubDate>
   </item>
 </channel>
 </rss>
