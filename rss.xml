@@ -6,6 +6,68 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch</title>
+    <link>https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html</link>
+    <description>A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 17:13:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk</title>
+    <link>https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html</link>
+    <description>Kali365 is turning a legitimate Microsoft login into a gateway to corporate data.
+
+The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 17:13:19 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup</title>
+    <link>https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html</link>
+    <description>An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 16:34:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Leaked n8n API Tokens Exposed Live Instances to Credential Theft</title>
+    <link>https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html</link>
+    <description>GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 16:05:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data</title>
+    <link>https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html</link>
+    <description>A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 14:53:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself</title>
+    <link>https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html</link>
+    <description>An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.
+
+When a bystander publicly…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 13:23:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited</title>
+    <link>https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
+
+The list…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 13:10:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer</title>
+    <link>https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html</link>
+    <description>Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 05 Aug 2026 11:17:19 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI, Anthropic AI agents targeted real people and systems in cyber tests</title>
     <link>https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/</link>
     <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…</description>
@@ -104,66 +166,6 @@ SafeDep verified 353 poisoned…</description>
     <description>Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 04 Aug 2026 18:41:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple launches new legal challenge against UK over iCloud access</title>
-    <link>https://therecord.media/apple-uk-tcn-icloud-new-legal-challenge</link>
-    <description>Seeking to protect users' iCloud accounts, Apple is reportedly mounting a new challenge to British legal demands for ways around the company's Advanced Data Protection feature.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 04 Aug 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Swiss IT agency hacked, 200 accounts compromised, SharePoint vulns suspected</title>
-    <link>https://therecord.media/swiss-bit-foitt-hacked-possibly-sharepoint-vulnerabilities</link>
-    <description>The Federal Office for Information Technology and Communications (BIT) said specialists detected anomalies in on-premises Microsoft servers. The Swiss agency could not confirm exactly how the hackers got in.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 04 Aug 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC statement in response to recent incidents resulting from frontier AI evaluations</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations</link>
-    <description>A statement from Ollie Whitehouse, Chief Technology Officer at the NCSC, on AI security following recent incidents.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 04 Aug 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted</title>
-    <link>https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html</link>
-    <description>The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise.
-
-That assumption is starting to break.
-
-Security teams have long estimated risk by ranking attacker…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent</title>
-    <link>https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html</link>
-    <description>Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 16:46:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root</title>
-    <link>https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html</link>
-    <description>cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 16:06:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT</title>
-    <link>https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html</link>
-    <description>A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 14:33:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises</title>
-    <link>https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 04 Aug 2026 12:30:13 +0530</pubDate>
   </item>
 </channel>
 </rss>
