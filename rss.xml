@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Ransom Cartel ransomware creator sentenced to 16 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/</link>
+    <description>Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 05 Aug 2026 19:00:50 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Canadian pleads guilty to Snowflake cloud data-theft attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/</link>
     <description>A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims.…</description>
@@ -200,20 +207,6 @@ The list…</description>
     <description>Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 05 Aug 2026 11:17:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-63077 — JetBrains TeamCity Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-63077</link>
-    <description>JetBrains TeamCity contains a deserialization of untrusted data vulnerability that could allow unauthenticated remote code execution via the agent polling protocol.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-05</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI, Anthropic AI agents targeted real people and systems in cyber tests</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/</link>
-    <description>OpenAI and Anthropic have confirmed that their AI models were involved in separate, newly disclosed third-party cybersecurity testing incidents that resulted in a real website being breached and social engineering…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 04 Aug 2026 19:39:59 -0400</pubDate>
   </item>
 </channel>
 </rss>
