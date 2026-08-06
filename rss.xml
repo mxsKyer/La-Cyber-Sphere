@@ -6,6 +6,23 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People</title>
+    <link>https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</link>
+    <description>Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 11:34:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Mvision : plus de 2 100 dossiers RH revendiqués avec NIR, passeports et données de santé</title>
+    <link>https://www.cyberattaque.org/mvision-plus-de-2-100-dossiers-rh-revendiques-avec-nir-passeports-et-donnees-de-sante/</link>
+    <description>Mvision, important prestataire technique audiovisuel français, fait l’objet d’une revendication de fuite de données publiée le 6 août...
+L’article Mvision : plus de 2 100 dossiers RH revendiqués avec NIR, passeports et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 06 Aug 2026 05:02:41 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ransom Cartel ransomware creator sentenced to 16 years in prison</title>
     <link>https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/</link>
     <description>Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]</description>
@@ -200,13 +217,6 @@ When a bystander publicly…</description>
 The list…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 05 Aug 2026 13:10:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer</title>
-    <link>https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html</link>
-    <description>Cybersecurity researchers have disclosed what has been described as a "long-standing supply chain attack" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 11:17:19 +0530</pubDate>
   </item>
 </channel>
 </rss>
