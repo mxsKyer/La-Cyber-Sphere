@@ -6,6 +6,49 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access</title>
+    <link>https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html</link>
+    <description>Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 14:49:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model</title>
+    <link>https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html</link>
+    <description>Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.
+
+In several of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 14:27:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells</title>
+    <link>https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html</link>
+    <description>Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.
+
+According to a new report from VulnCheck, the implant appears in all 21…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 13:35:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service</title>
+    <link>https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html</link>
+    <description>A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021.
+
+Between 2021 and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 12:49:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild</title>
+    <link>https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html</link>
+    <description>A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA).
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 12:21:43 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People</title>
     <link>https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html</link>
     <description>Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts.
@@ -192,31 +235,6 @@ The phishing kit targets US organizations with attacker-controlled device codes 
     <description>GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 05 Aug 2026 16:05:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data</title>
-    <link>https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html</link>
-    <description>A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 14:53:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself</title>
-    <link>https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html</link>
-    <description>An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute.
-
-When a bystander publicly…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 13:23:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited</title>
-    <link>https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild.
-
-The list…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 13:10:39 +0530</pubDate>
   </item>
 </channel>
 </rss>
