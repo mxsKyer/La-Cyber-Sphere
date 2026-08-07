@@ -6,6 +6,128 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/</link>
+    <description>OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 18:48:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ClickFix attack pushes macOS infostealer for crypto theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/</link>
+    <description>A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 18:37:17 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Biosynex annonce être victime d’une fuite de données professionnelles</title>
+    <link>https://www.cyberattaque.org/biosynex-annonce-etre-victime-dune-fuite-de-donnees-professionnelles/</link>
+    <description>Biosynex confirme avoir été victime d’une cyberattaque survenue entre le 31 juillet et le 2 août 2026. Le...
+L’article Biosynex annonce être victime d’une fuite de données professionnelles est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 06 Aug 2026 21:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group</title>
+    <link>https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/</link>
+    <description>A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 16:07:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du service</title>
+    <link>https://www.cyberattaque.org/bloctel-3-millions-de-numeros-en-fuite/</link>
+    <description>Le service public Bloctel, utilisé par les Français pour s’opposer au démarchage téléphonique, fait l’objet d’une importante revendication...
+L’article Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 06 Aug 2026 19:32:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Swiss government SharePoint breach compromised 200 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</link>
+    <description>Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 14:14:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/</link>
+    <description>Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 14:03:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts</title>
+    <link>https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html</link>
+    <description>Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 23:28:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hospices Civils de Lyon : une ancienne base de professionnels en fuite</title>
+    <link>https://www.cyberattaque.org/hospices-civils-de-lyon-cyberattaque/</link>
+    <description>Les Hospices Civils de Lyon (HCL) annoncent qu’un de leurs prestataires a été victime d’une cyberattaque. L’incident pourrait...
+L’article Hospices Civils de Lyon : une ancienne base de professionnels en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 06 Aug 2026 17:25:49 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate</title>
+    <link>https://therecord.media/cyberattack-north-carolina-ports</link>
+    <description>North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 06 Aug 2026 17:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs</title>
+    <link>https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html</link>
+    <description>Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.
+
+The security issues affect Cisco…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 22:43:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Canadian Man Pleads Guilty in Snowflake Extortions</title>
+    <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
+    <description>A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Détenteurs d’armes à nouveau dans le viseur : l’Armurerie Lavaux confirme une cyberattaque</title>
+    <link>https://www.cyberattaque.org/detenteurs-darmes-a-nouveau-dans-le-viseur-larmurerie-lavaux-confirme-une-cyberattaque/</link>
+    <description>Les détenteurs d’armes français sont une nouvelle fois exposés par une fuite de données. L’Armurerie Lavaux confirme avoir...
+L’article Détenteurs d’armes à nouveau dans le viseur : l’Armurerie Lavaux confirme une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 06 Aug 2026 16:36:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
+    <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
+    <description>An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
+
+MIT…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 21:47:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta AI model hacked a company during misconfigured cyber test</title>
+    <link>https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/</link>
+    <description>Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 06 Aug 2026 12:11:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories</title>
+    <link>https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</link>
+    <description>Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
+
+This week runs on cheap leverage: exposed servers,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 06 Aug 2026 20:54:31 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore</title>
     <link>https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/</link>
     <description>AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement,…</description>
@@ -114,105 +236,18 @@ L’article Mvision : plus de 2 100 dossiers RH revendiqués avec NIR, passeport
     <pubDate>Thu, 06 Aug 2026 05:02:41 +0000</pubDate>
   </item>
   <item>
-    <title>[Critique] Ransom Cartel ransomware creator sentenced to 16 years in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/</link>
-    <description>Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 19:00:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Canadian pleads guilty to Snowflake cloud data-theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/</link>
-    <description>A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 17:53:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese telcos maintain deep US presence despite Salt Typhoon links, House committee says</title>
-    <link>https://therecord.media/chinese-hackers-telecoms-house</link>
-    <description>Three Chinese telecommunications giants continue to have footholds in the U.S. internet ecosystem despite their alleged role in previous Chinese hacking campaigns, a House committee report concluded.</description>
+    <title>[Faible] Republic of Georgia alleges foreign disinfo campaign sought to scare off Russian tourists</title>
+    <link>https://therecord.media/georgia-alleges-foreign-disinformation-scare-russian-tourists</link>
+    <description>Georgia's State Security Service is investigating whether foreign entities were behind the spread of fabricated stories claiming that Georgians were mistreating Russian tourists.</description>
     <source>The Record</source>
-    <pubDate>Wed, 05 Aug 2026 20:45:00 GMT</pubDate>
+    <pubDate>Thu, 06 Aug 2026 04:00:00 GMT</pubDate>
   </item>
   <item>
-    <title>[Faible] Canadian man pleads guilty to Snowflake hacks that led to 165 breaches</title>
-    <link>https://therecord.media/guilty-plea-snowflake-hack-connor-riley-moucka</link>
-    <description>A 26-year-old from Ontario faces as many as 32 years in prison after pleading guilty to fraud, identity theft and conspiracy charges related to the 2024 hacks of cloud platform Snowflake.</description>
+    <title>[Faible] State Department says Trump raised cyber scam compound issue with Xi</title>
+    <link>https://therecord.media/trump-xi-southeast-asia-cyber-scam-compounds</link>
+    <description>President Donald Trump has talked with Chinese President Xi Jinping about Southeast Asian scam compounds, a State Department official told senators at a hearing on the transnational issue.</description>
     <source>The Record</source>
-    <pubDate>Wed, 05 Aug 2026 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers run khunt post-exploitation toolkit from Oracle database</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/</link>
-    <description>Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 15:55:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures</title>
-    <link>https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html</link>
-    <description>A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 00:14:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes</title>
-    <link>https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html</link>
-    <description>OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 00:03:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] COLDCARD security audit phishing attack installs remote access tool</title>
-    <link>https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/</link>
-    <description>A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 13:49:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 11:51:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Stade Français : les passeports et cartes d’identité de joueurs en fuite</title>
-    <link>https://www.cyberattaque.org/stade-francais-cyberattaque-passeport/</link>
-    <description>Le Stade Français Paris est visé par le groupe de ransomware Qilin. Le club parisien apparaît depuis le...
-L’article Stade Français : les passeports et cartes d’identité de joueurs en fuite est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 05 Aug 2026 15:45:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt</title>
-    <link>https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html</link>
-    <description>Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms.
-
-One such…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 21:06:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dutch retailer De Bijenkorf warns customer data may be exposed after cyber incident</title>
-    <link>https://therecord.media/de-bijenkorf-luxury-retailer-third-party-cyber-incident</link>
-    <description>Amsterdam-based luxury goods chain De Bijenkorf is the latest retailer to announce a cyber incident involving a third-party logistics provider.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 05 Aug 2026 15:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports</title>
-    <link>https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html</link>
-    <description>Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 05 Aug 2026 20:44:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Blogger locks hundreds of blogs in malware false positive</title>
-    <link>https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/</link>
-    <description>Google has locked hundreds of Blogger websites after a false positive claimed they violated its "Malware and Similar Malicious Content" policy, with some sites deleted from the platform. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 05 Aug 2026 10:59:29 -0400</pubDate>
+    <pubDate>Thu, 06 Aug 2026 04:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
