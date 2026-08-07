@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US cyber ambassador nominee Cassady confirmed in Senate</title>
+    <link>https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador</link>
+    <description>NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 18:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] WordPress : une faille critique avant connexion peut mener à l’exécution de code PHP</title>
+    <link>https://www.cyberattaque.org/wordpress-une-faille-critique-avant-connexion-peut-mener-a-lexecution-de-code-php/</link>
+    <description>WordPress vient de corriger une importante vulnérabilité touchant toutes les versions du CMS. Référencée CVE-2026-64638 et notée 8,9/10,...
+L’article WordPress : une faille critique avant connexion peut mener à…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 07 Aug 2026 17:49:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] AFPA piraté : 101 comptes exposés et un accès administrateur publié</title>
+    <link>https://www.cyberattaque.org/afpa-pirate-101-comptes-exposes-et-un-acces-administrateur-publie/</link>
+    <description>Une plateforme liée à l’Afpa fait l’objet d’une revendication de compromission publiée le 7 août 2026. L’acteur Cybernox...
+L’article AFPA piraté : 101 comptes exposés et un accès administrateur publié est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 07 Aug 2026 17:26:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] New Mexico judge orders Meta to pay $567 million in kids online safety case</title>
     <link>https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety</link>
     <description>The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.</description>
@@ -228,27 +251,6 @@ L’article Biosynex annonce être victime d’une fuite de données professionn
 L’article Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 06 Aug 2026 19:32:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Swiss government SharePoint breach compromised 200 accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/</link>
-    <description>Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 06 Aug 2026 14:14:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/</link>
-    <description>Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 06 Aug 2026 14:03:45 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts</title>
-    <link>https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html</link>
-    <description>Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 23:28:30 +0530</pubDate>
   </item>
 </channel>
 </rss>
