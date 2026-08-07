@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign</title>
+    <link>https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html</link>
+    <description>A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 12:20:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/</link>
     <description>OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]</description>
@@ -181,24 +188,6 @@ Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to�
     <description>Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 06 Aug 2026 14:49:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model</title>
-    <link>https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html</link>
-    <description>Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them.
-
-In several of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 14:27:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells</title>
-    <link>https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html</link>
-    <description>Cybersecurity researchers have disclosed details of a "factory-shipped backdoor" implanted in at least 20 Chinese router models from Zbtlink.
-
-According to a new report from VulnCheck, the implant appears in all 21…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 13:35:22 +0530</pubDate>
   </item>
 </channel>
 </rss>
