@@ -270,12 +270,5 @@ The flaw has existed since…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 06 Aug 2026 18:48:22 -0400</pubDate>
   </item>
-  <item>
-    <title>[Faible] ClickFix attack pushes macOS infostealer for crypto theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/</link>
-    <description>A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 06 Aug 2026 18:37:17 -0400</pubDate>
-  </item>
 </channel>
 </rss>
