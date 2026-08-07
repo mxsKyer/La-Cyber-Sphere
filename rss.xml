@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables</title>
+    <link>https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html</link>
+    <description>Security researcher Malcolm Stagg has disclosed a new attack class called&amp;nbsp;NatJack&amp;nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 15:02:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access</title>
+    <link>https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html</link>
+    <description>Security researcher Malcolm Stagg has disclosed a new attack class called&amp;nbsp;NatJack&amp;nbsp;that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 14:22:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets</title>
+    <link>https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html</link>
+    <description>A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 13:48:35 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign</title>
     <link>https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html</link>
     <description>A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years…</description>
@@ -181,13 +202,6 @@ Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to�
     <description>A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant:…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 06 Aug 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access</title>
-    <link>https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html</link>
-    <description>Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 14:49:23 +0530</pubDate>
   </item>
 </channel>
 </rss>
