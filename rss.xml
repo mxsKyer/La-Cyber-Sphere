@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Levi Strauss &amp; Co. says hackers stole corporate data in cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/</link>
+    <description>Levi Strauss &amp; Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 07 Aug 2026 11:48:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Irregular, firm behind AI hacking incidents, won't say if there were more</title>
+    <link>https://therecord.media/irregular-ai-security-company-incidents</link>
+    <description>A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Qilin menace de publier des données du Stade français</title>
     <link>https://www.zataz.com/qilin-menace-de-publier-des-donnees-du-stade-francais/</link>
     <description>Le groupe Qilin revendique une attaque contre le Stade français et expose déjà des pièces d’identité, avant une possible publication massive annoncée pour le 15 août. La menace affichée par Qilin place le Stade français…</description>
@@ -253,31 +267,6 @@ The security issues affect Cisco…</description>
 L’article Détenteurs d’armes à nouveau dans le viseur : l’Armurerie Lavaux confirme une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 06 Aug 2026 16:36:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs</title>
-    <link>https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html</link>
-    <description>An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run.
-
-MIT…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 21:47:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Meta AI model hacked a company during misconfigured cyber test</title>
-    <link>https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/</link>
-    <description>Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 06 Aug 2026 12:11:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories</title>
-    <link>https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html</link>
-    <description>Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job.
-
-This week runs on cheap leverage: exposed servers,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 20:54:31 +0530</pubDate>
   </item>
 </channel>
 </rss>
