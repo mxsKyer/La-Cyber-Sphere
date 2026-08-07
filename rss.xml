@@ -6,6 +6,47 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Unlimited Technology Systems breach impacts 3.8 million people</title>
+    <link>https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/</link>
+    <description>Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 07 Aug 2026 15:30:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Water utilities group partners with DEF CON offshoot for Water Watch Center</title>
+    <link>https://therecord.media/water-watch-center-utilities-def-con-franklin-nrwa</link>
+    <description>The National Rural Water Association and a group of cybersecurity experts have formed a program to help cash-strapped utilities face the increase in threats to their systems.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 18:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer</title>
+    <link>https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html</link>
+    <description>A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems.
+
+"These packages appear…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 08 Aug 2026 00:18:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets</title>
+    <link>https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html</link>
+    <description>ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials.
+
+The macOS-focused…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 23:59:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data</title>
+    <link>https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html</link>
+    <description>A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671.
+
+"UNC6671 continues to rely on voice phishing (vishing) to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 23:46:13 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] US cyber ambassador nominee Cassady confirmed in Senate</title>
     <link>https://therecord.media/adam-cassady-confirmed-senate-cyber-ambassador</link>
     <description>NTIA official Adam Cassady becomes the second person confirmed to be the State Department's ambassador-at-large for cyber policy.</description>
@@ -243,14 +284,6 @@ L’article Biosynex annonce être victime d’une fuite de données professionn
     <description>A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 06 Aug 2026 16:07:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du service</title>
-    <link>https://www.cyberattaque.org/bloctel-3-millions-de-numeros-en-fuite/</link>
-    <description>Le service public Bloctel, utilisé par les Français pour s’opposer au démarchage téléphonique, fait l’objet d’une importante revendication...
-L’article Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 06 Aug 2026 19:32:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
