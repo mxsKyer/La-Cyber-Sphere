@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New Mexico judge orders Meta to pay $567 million in kids online safety case</title>
+    <link>https://therecord.media/new-mexico-judge-orders-meta-567-million-kids-safety</link>
+    <description>The money will be used to create a fund to mitigate social media harms, including by carving out $420 million for treatment for New Mexico youth who have been hurt on the platforms.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 16:58:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Military device manufacturer discloses cyber incident to SEC</title>
+    <link>https://therecord.media/military-device-manufacturer-discloses-cyber-incident</link>
+    <description>IEH Corporation — which produces specialized products used in military satellites, missiles and fighter jets — said it discovered a cyberattack on Tuesday and immediately tried to contain it.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 16:52:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Levi Strauss &amp; Co. says hackers stole corporate data in cyberattack</title>
     <link>https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/</link>
     <description>Levi Strauss &amp; Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]</description>
@@ -172,6 +186,13 @@ The flaw has existed since…</description>
     <pubDate>Fri, 07 Aug 2026 12:20:05 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-8037 — Progress LoadMaster Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-8037</link>
+    <description>Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-07</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/</link>
     <description>OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]</description>
@@ -228,45 +249,6 @@ L’article Bloctel : 3 millions de numéros en fuite à cinq jours de la fin du
     <description>Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 06 Aug 2026 23:28:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hospices Civils de Lyon : une ancienne base de professionnels en fuite</title>
-    <link>https://www.cyberattaque.org/hospices-civils-de-lyon-cyberattaque/</link>
-    <description>Les Hospices Civils de Lyon (HCL) annoncent qu’un de leurs prestataires a été victime d’une cyberattaque. L’incident pourrait...
-L’article Hospices Civils de Lyon : une ancienne base de professionnels en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 06 Aug 2026 17:25:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack on North Carolina Ports ‘contained’ as Coast Guard, state officials investigate</title>
-    <link>https://therecord.media/cyberattack-north-carolina-ports</link>
-    <description>North Carolina Ports is recovering from a cyberattack after its IT system was “hacked by an outside actor or group,” requiring a switch to manual processing of operations.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 06 Aug 2026 17:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs</title>
-    <link>https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html</link>
-    <description>Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review.
-
-The security issues affect Cisco…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 22:43:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Canadian Man Pleads Guilty in Snowflake Extortions</title>
-    <link>https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/</link>
-    <description>A 26-year-old Canadian man once described as one of the most consequential cybercrime threat actors of 2024 has pleaded guilty to computer fraud and conspiracy to hack and extort more than 165 organizations that used…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Thu, 06 Aug 2026 17:00:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Détenteurs d’armes à nouveau dans le viseur : l’Armurerie Lavaux confirme une cyberattaque</title>
-    <link>https://www.cyberattaque.org/detenteurs-darmes-a-nouveau-dans-le-viseur-larmurerie-lavaux-confirme-une-cyberattaque/</link>
-    <description>Les détenteurs d’armes français sont une nouvelle fois exposés par une fuite de données. L’Armurerie Lavaux confirme avoir...
-L’article Détenteurs d’armes à nouveau dans le viseur : l’Armurerie Lavaux confirme une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 06 Aug 2026 16:36:18 +0000</pubDate>
   </item>
 </channel>
 </rss>
