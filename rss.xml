@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Metabase SQLi zero-day exploited in customer data-theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/</link>
+    <description>A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 07 Aug 2026 16:14:46 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Unlimited Technology Systems breach impacts 3.8 million people</title>
     <link>https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/</link>
     <description>Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]</description>
@@ -277,13 +284,6 @@ The flaw has existed since…</description>
 L’article Biosynex annonce être victime d’une fuite de données professionnelles est apparu en premier sur…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 06 Aug 2026 21:11:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group</title>
-    <link>https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/</link>
-    <description>A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 06 Aug 2026 16:07:24 -0400</pubDate>
   </item>
 </channel>
 </rss>
