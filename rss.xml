@@ -6,6 +6,31 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] French rugby club Stade Français restores systems after cyberattack, probes data leak</title>
+    <link>https://therecord.media/french-rugby-club-restores-systems-after-cyberattack</link>
+    <description>The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Growing Up The Hard Way</title>
+    <link>https://thehackernews.com/2026/08/growing-up-hard-way.html</link>
+    <description>Open Source had a great childhood.
+
+For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 17:25:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers</title>
+    <link>https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html</link>
+    <description>A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath.
+
+The flaw has existed since…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 07 Aug 2026 16:40:33 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fuite massive de données RH</title>
     <link>https://www.zataz.com/fuite-massive-de-donnees-rh/</link>
     <description>Un professionnel RH français fait l’objet d’une revendication portant sur des dizaines de milliers de documents personnels sensibles.</description>
@@ -205,31 +230,6 @@ This week runs on cheap leverage: exposed servers,…</description>
 Its August 3 scan…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 06 Aug 2026 17:46:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps</title>
-    <link>https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html</link>
-    <description>Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains.
-
-Introduced in the JavaScript cryptography library 12 years ago, the function supplied…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 17:19:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses</title>
-    <link>https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html</link>
-    <description>Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address.
-
-Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 17:03:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory</title>
-    <link>https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html</link>
-    <description>A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant:…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 06 Aug 2026 17:00:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
