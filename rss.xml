@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Mutuelle Générale de Prévoyance : 133 018 IBAN et près de 200 000 identités dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/mutuelle-generale-de-prevoyance-133-018-iban-et-pres-de-200-000-identites-dans-une-fuite-massive/</link>
+    <description>Une revendication de fuite massive vise la Mutuelle Générale de Prévoyance (MGP). Le 7 août 2026, un acteur...
+L’article Mutuelle Générale de Prévoyance : 133 018 IBAN et près de 200 000 identités dans une fuite massive…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 08 Aug 2026 05:25:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Metabase SQLi zero-day exploited in customer data-theft attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/</link>
     <description>A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]</description>
