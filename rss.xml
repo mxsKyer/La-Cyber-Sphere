@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Reflet 2000 : près de 23 Go de données RH, paie et contrats diffusés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/reflet-2000-pres-de-23-go-de-donnees-rh-paie-et-contrats-diffuses-apres-une-cyberattaque/</link>
+    <description>Reflet 2000 est victime d’une attaque par ransomware revendiquée par le groupe KRYBit. Cette fois, il ne s’agit...
+L’article Reflet 2000 : près de 23 Go de données RH, paie et contrats diffusés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 08 Aug 2026 11:17:59 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Rançongiciels : 43 revendications ciblent la France</title>
     <link>https://www.zataz.com/rancongiciels-43-revendications-ciblent-la-france/</link>
     <description>Rançongiciels en France : 43 revendications en un mois, dominées par The Gentlemen et Qilin, sur des secteurs variés.</description>
@@ -237,36 +245,6 @@ L’article Petit Gramme : 204 854 fiches clients en fuite après une cyberattaq
     <description>Un pirate informatique revendique plus de 70 To de données sensibles, avec accès payant et règlements en cryptomonnaies.</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 07 Aug 2026 13:27:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP</title>
-    <link>https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html</link>
-    <description>WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. Under additional conditions, the bug can be chained…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 07 Aug 2026 18:26:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] French rugby club Stade Français restores systems after cyberattack, probes data leak</title>
-    <link>https://therecord.media/french-rugby-club-restores-systems-after-cyberattack</link>
-    <description>The club said Thursday that it had already restored its IT environment from clean backups, allowing operations to continue normally. It added that its ticketing platform and online store were not affected and remain…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Growing Up The Hard Way</title>
-    <link>https://thehackernews.com/2026/08/growing-up-hard-way.html</link>
-    <description>Open Source had a great childhood.
-
-For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 07 Aug 2026 17:25:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cybernox multiplie les revendications de fuites en France</title>
-    <link>https://www.zataz.com/cybernox-multiplie-les-revendications-de-fuites-en-france/</link>
-    <description>Cybernox revendique plusieurs fuites françaises, dont BlocTel et associe ses publications à une campagne contre Chat Control et la politique.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 11:50:55 +0000</pubDate>
   </item>
 </channel>
 </rss>
