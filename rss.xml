@@ -256,12 +256,5 @@ The flaw has existed since…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 07 Aug 2026 12:20:05 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-8037 — Progress LoadMaster Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-8037</link>
-    <description>Progress LoadMaster contains a command injection vulnerability that allows an un-authenticated attacker to execute arbitrary commands on the LoadMaster appliance by exploiting unsanitized input in multiple command endpoints.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-07</pubDate>
-  </item>
 </channel>
 </rss>
