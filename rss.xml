@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Rançongiciels : 43 revendications ciblent la France</title>
+    <link>https://www.zataz.com/rancongiciels-43-revendications-ciblent-la-france/</link>
+    <description>Rançongiciels en France : 43 revendications en un mois, dominées par The Gentlemen et Qilin, sur des secteurs variés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 08 Aug 2026 09:59:23 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Des pirates revendiquent le piratage d’un miroir de Coco</title>
     <link>https://www.zataz.com/des-pirates-revendiquent-le-piratage-dun-miroir-de-coco/</link>
     <description>CuteSec revendique le piratage d’un miroir du forum Coco, avec plus de 14 500 comptes utilisateurs dérobés.</description>
@@ -276,27 +283,6 @@ The flaw has existed since…</description>
     <description>Un professionnel RH français fait l’objet d’une revendication portant sur des dizaines de milliers de documents personnels sensibles.</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 07 Aug 2026 10:51:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails</title>
-    <link>https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html</link>
-    <description>Cybersecurity researchers have called attention to an active "widespread email-driven phishing campaign" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 07 Aug 2026 16:08:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Des cibles françaises au cœur d’une plateforme cybercriminelle</title>
-    <link>https://www.zataz.com/des-cibles-francaises-au-coeur-dune-plateforme-cybercriminelle/</link>
-    <description>Des entreprises et une mairie françaises apparaissent sur la plateforme cybercriminelle Kybit recrutant des affiliés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 10:34:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day</title>
-    <link>https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html</link>
-    <description>PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate attack…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 07 Aug 2026 15:39:54 +0530</pubDate>
   </item>
 </channel>
 </rss>
