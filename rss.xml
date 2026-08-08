@@ -204,47 +204,5 @@ L’article Petit Gramme : 204 854 fiches clients en fuite après une cyberattaq
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 07 Aug 2026 14:30:47 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Présidentielle : ZATAZ vous plonge au cœur d’une opération numérique qui pourrait vous piéger</title>
-    <link>https://www.zataz.com/presidentielle-zataz-vous-plonge-au-coeur-dune-operation-numerique-qui-pourrait-vous-pieger/</link>
-    <description>Présidentielle, faux sites et influence : ZATAZ propose une enquête interactive sur les signaux faibles numériques.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 14:05:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Real emails, hijacked payments: Two H1 2026 attack chains</title>
-    <link>https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/</link>
-    <description>Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 07 Aug 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’ingérence informationnelle teste le terrain électoral français</title>
-    <link>https://www.zataz.com/lingerence-informationnelle-teste-le-terrain-electoral-francais/</link>
-    <description>Ingérence, faux sites et politiques ciblés : comprendre les méthodes de manipulation avant les présidentielles.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 13:53:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Levi Strauss says hackers breached employee computers, accessed corporate data</title>
-    <link>https://therecord.media/levis-data-breach-social-engineering</link>
-    <description>Intruders exfiltrated certain corporate information after gaining access to three company-issued computers through a social engineering attack, Levi Strauss reported.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 07 Aug 2026 13:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] North Carolina Ports confirms cyberattack disrupting operations</title>
-    <link>https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/</link>
-    <description>The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 07 Aug 2026 09:34:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Commerce pirate : un cybercriminel vend des dizaines de téraoctets de données</title>
-    <link>https://www.zataz.com/commerce-pirate-un-cybercriminel-vend-des-dizaines-de-teraoctets-de-donnees/</link>
-    <description>Un pirate informatique revendique plus de 70 To de données sensibles, avec accès payant et règlements en cryptomonnaies.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 13:27:38 +0000</pubDate>
-  </item>
 </channel>
 </rss>
