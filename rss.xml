@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Un milliard d’identifiants français sur le darkweb</title>
+    <link>https://www.zataz.com/un-milliard-didentifiants-francais-sur-le-darkweb/</link>
+    <description>ZATAZ découvre 1.7 milliard d’identifiants français uniques stockés dans un cloud pirate.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 08 Aug 2026 14:18:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers breach TrueConf to trojanize client installers with backdoors</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/</link>
+    <description>The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 08 Aug 2026 10:16:23 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Reflet 2000 : près de 23 Go de données RH, paie et contrats diffusés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/reflet-2000-pres-de-23-go-de-donnees-rh-paie-et-contrats-diffuses-apres-une-cyberattaque/</link>
     <description>Reflet 2000 est victime d’une attaque par ransomware revendiquée par le groupe KRYBit. Cette fois, il ne s’agit...
@@ -188,21 +202,6 @@ L’article AFPA piraté : 101 comptes exposés et un accès administrateur publ
     <description>A spokesperson said Irregular’s investigation into what happened with Anthropic, OpenAI and Meta's AI models was ongoing and that they could not “go into further details.”</description>
     <source>The Record</source>
     <pubDate>Fri, 07 Aug 2026 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Qilin menace de publier des données du Stade français</title>
-    <link>https://www.zataz.com/qilin-menace-de-publier-des-donnees-du-stade-francais/</link>
-    <description>Le groupe Qilin revendique une attaque contre le Stade français et expose déjà des pièces d’identité, avant une possible publication massive annoncée pour le 15 août. La menace affichée par Qilin place le Stade français…</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 07 Aug 2026 14:52:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Petit Gramme : 204 854 fiches clients en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/petit-gramme-204-854-fiches-clients-en-fuite-apres-une-cyberattaque/</link>
-    <description>La boutique française Petit Gramme fait l’objet d’une revendication de fuite de données publiée le 7 août 2026....
-L’article Petit Gramme : 204 854 fiches clients en fuite après une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 07 Aug 2026 14:30:47 +0000</pubDate>
   </item>
 </channel>
 </rss>
