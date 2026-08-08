@@ -104,12 +104,5 @@ L’article Mutuelle Générale de Prévoyance : 133 018 IBAN et près de 200 00
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 08 Aug 2026 05:25:00 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] Metabase SQLi zero-day exploited in customer data-theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/</link>
-    <description>A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 07 Aug 2026 16:14:46 -0400</pubDate>
-  </item>
 </channel>
 </rss>
