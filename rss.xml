@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Cyber actualités ZATAZ de la semaine du 3 au 9 août 2026</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-3-au-9-aout-2026/</link>
+    <description>Bonjour à toutes et tous Cette semaine, ZATAZ découvre 1,7 milliard d’identifiants français uniques stockés dans un cloud pirate, tandis que 43 revendications de rançongiciels ciblent la France en un mois. Qilin menace…</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 09 Aug 2026 07:52:19 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour déjà exposés</title>
     <link>https://www.cyberattaque.org/impact-centre-chretien-frappe-par-qilin-passeports-permis-et-titres-de-sejour-deja-exposes/</link>
     <description>Le groupe de ransomware Qilin revendique une cyberattaque contre Impact Centre Chrétien (ICC). Le 8 août 2026, l’organisation...
@@ -71,29 +78,6 @@ L’article Reflet 2000 : près de 23 Go de données RH, paie et contrats diffus
     <description>Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 08 Aug 2026 14:24:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un pirate plaide coupable après 165 piratages</title>
-    <link>https://www.zataz.com/un-pirate-plaide-coupable-apres-165-piratages/</link>
-    <description>Un pirate reconnaît le piratage de 165 organisations, le vol massif de données et plusieurs extorsions cloud.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 08 Aug 2026 08:30:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Levi Strauss signale une cyberattaque</title>
-    <link>https://www.zataz.com/levi-strauss-signale-une-cyberattaque/</link>
-    <description>Le géant du Jean, Levi Strauss, déclare une intrusion par ingénierie sociale ayant permis l’exfiltration de données internes.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 08 Aug 2026 08:08:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens</title>
-    <link>https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html</link>
-    <description>New research shows content inside an email can escape its message boundary and interfere with the webmail interface.
-
-Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 08 Aug 2026 13:33:57 +0530</pubDate>
   </item>
 </channel>
 </rss>
