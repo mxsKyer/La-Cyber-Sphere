@@ -6,6 +6,30 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour déjà exposés</title>
+    <link>https://www.cyberattaque.org/impact-centre-chretien-frappe-par-qilin-passeports-permis-et-titres-de-sejour-deja-exposes/</link>
+    <description>Le groupe de ransomware Qilin revendique une cyberattaque contre Impact Centre Chrétien (ICC). Le 8 août 2026, l’organisation...
+L’article Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 09 Aug 2026 05:15:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Roussel Agri62 ouvre la série de fuites BlgCloud avec 9,33 Go de données exposées</title>
+    <link>https://www.cyberattaque.org/roussel-agri62-ouvre-la-serie-de-fuites-blgcloud-avec-933-go-de-donnees-exposees/</link>
+    <description>La compromission massive revendiquée de BlgCloud commence à avoir des conséquences concrètes pour ses clients. Le 8 août...
+L’article Roussel Agri62 ouvre la série de fuites BlgCloud avec 9,33 Go de données exposées est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 09 Aug 2026 05:10:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BlgCloud : les données de 159 entreprises piraté, des millions de documents en fuite</title>
+    <link>https://www.cyberattaque.org/blgcloud-les-donnees-de-159-entreprises-pirate-des-millions-de-documents-en-fuite/</link>
+    <description>Une compromission potentiellement massive frappe BlgCloud, éditeur français d’un ERP SaaS utilisé par des professionnels du machinisme agricole,...
+L’article BlgCloud : les données de 159 entreprises piraté, des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 09 Aug 2026 04:57:58 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Un milliard d’identifiants français sur le darkweb</title>
     <link>https://www.zataz.com/un-milliard-didentifiants-francais-sur-le-darkweb/</link>
     <description>ZATAZ découvre 1.7 milliard d’identifiants français uniques stockés dans un cloud pirate.</description>
@@ -95,14 +119,6 @@ The vulnerability (CVSS score: 10.0),…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 08 Aug 2026 12:22:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mutuelle Générale de Prévoyance : 133 018 IBAN et près de 200 000 identités dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/mutuelle-generale-de-prevoyance-133-018-iban-et-pres-de-200-000-identites-dans-une-fuite-massive/</link>
-    <description>Une revendication de fuite massive vise la Mutuelle Générale de Prévoyance (MGP). Le 7 août 2026, un acteur...
-L’article Mutuelle Générale de Prévoyance : 133 018 IBAN et près de 200 000 identités dans une fuite massive…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 08 Aug 2026 05:25:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
