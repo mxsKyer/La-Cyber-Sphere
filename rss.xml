@@ -44,19 +44,5 @@ L’article BlgCloud : les données de 159 entreprises piraté, des…</descript
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 09 Aug 2026 04:57:58 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Un milliard d’identifiants français sur le darkweb</title>
-    <link>https://www.zataz.com/un-milliard-didentifiants-francais-sur-le-darkweb/</link>
-    <description>ZATAZ découvre 1.7 milliard d’identifiants français uniques stockés dans un cloud pirate.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 08 Aug 2026 14:18:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers breach TrueConf to trojanize client installers with backdoors</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/</link>
-    <description>The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 08 Aug 2026 10:16:23 -0400</pubDate>
-  </item>
 </channel>
 </rss>
