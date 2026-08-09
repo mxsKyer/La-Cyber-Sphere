@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs litiges et coordonnées</title>
+    <link>https://www.cyberattaque.org/cyberattaque-association-nationale-de-consommateurs-et-usagers/</link>
+    <description>Une importante fuite de données est revendiquée contre la CLCV, association nationale de consommateurs et usagers. Le 8...
+L’article CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs litiges et coordonnées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 09 Aug 2026 10:09:53 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cyber actualités ZATAZ de la semaine du 3 au 9 août 2026</title>
     <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-3-au-9-aout-2026/</link>
     <description>Bonjour à toutes et tous Cette semaine, ZATAZ découvre 1,7 milliard d’identifiants français uniques stockés dans un cloud pirate, tandis que 43 revendications de rançongiciels ciblent la France en un mois. Qilin menace…</description>
@@ -57,13 +65,6 @@ L’article BlgCloud : les données de 159 entreprises piraté, des…</descript
 L’article Reflet 2000 : près de 23 Go de données RH, paie et contrats diffusés après une cyberattaque…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 08 Aug 2026 11:17:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Rançongiciels : 43 revendications ciblent la France</title>
-    <link>https://www.zataz.com/rancongiciels-43-revendications-ciblent-la-france/</link>
-    <description>Rançongiciels en France : 43 revendications en un mois, dominées par The Gentlemen et Qilin, sur des secteurs variés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 08 Aug 2026 09:59:23 +0000</pubDate>
   </item>
 </channel>
 </rss>
