@@ -95,30 +95,5 @@ Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail,
     <source>The Hacker News</source>
     <pubDate>Sat, 08 Aug 2026 13:33:57 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication</title>
-    <link>https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html</link>
-    <description>Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day.
-
-The vulnerability (CVSS score: 10.0),…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 08 Aug 2026 12:28:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist</title>
-    <link>https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html</link>
-    <description>N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product.
-
-"We are…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 08 Aug 2026 12:27:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts</title>
-    <link>https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 08 Aug 2026 12:22:16 +0530</pubDate>
-  </item>
 </channel>
 </rss>
