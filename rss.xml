@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] I-CAD : une faille de sécurité sur le fichier national des chiens et chats</title>
+    <link>https://www.cyberattaque.org/i-cad-une-faille-de-securite-sur-le-fichier-national-des-chiens-et-chats/</link>
+    <description>I-CAD, le fichier national d’identification des chiens, chats et furets, alerte ses usagers après plusieurs signalements de messages...
+L’article I-CAD : une faille de sécurité sur le fichier national des chiens et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 10 Aug 2026 11:01:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical Progress LoadMaster flaw now actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 05:49:37 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials</title>
     <link>https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html</link>
     <description>Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro ("solidity-pro") that has been observed delivering a browser wallet and credential stealer.
@@ -52,14 +67,6 @@ L’article Bureau Vallée : 55 949 fiches clients en fuite après une cyberatta
 L’article Le Mans FC : une base de 2 481 enregistrements diffusée après une fuite de données est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 09 Aug 2026 15:55:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs litiges et coordonnées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-association-nationale-de-consommateurs-et-usagers/</link>
-    <description>Une importante fuite de données est revendiquée contre la CLCV, association nationale de consommateurs et usagers. Le 8...
-L’article CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs litiges et coordonnées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 10:09:53 +0000</pubDate>
   </item>
 </channel>
 </rss>
