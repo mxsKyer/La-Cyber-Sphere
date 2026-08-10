@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] New StormEncryptor ransomware used by former Medusa affiliate</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/</link>
+    <description>A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 13:42:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw</title>
+    <link>https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html</link>
+    <description>Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.
+
+The use of StormEncryptor marks a shift…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 22:08:37 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Poland uncovers second heat plant cyberattack that went hidden for months</title>
     <link>https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden</link>
     <description>The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.</description>
