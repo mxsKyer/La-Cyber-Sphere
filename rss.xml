@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Une fausse lettre AR24 vole les identifiants mail</title>
+    <link>https://www.zataz.com/une-fausse-lettre-ar24-vole-les-identifiants-mail/</link>
+    <description>Nouveau faux mail AR24, CAPTCHA et vol d’identifiants : Tester en live ce phishing et vérifier une notification AR24.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 21:41:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BdThemes plugins supply-chain hack creates rogue WordPress admins</title>
+    <link>https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/</link>
+    <description>A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 17:12:10 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Une nouvelle fuite pour la FF Handball ?</title>
     <link>https://www.zataz.com/une-nouvelle-fuite-pour-la-ff-handball/</link>
     <description>Un pirate revendique 1,3 million de lignes volées à la FF Handball après plusieurs publications visant des groupes français.</description>
