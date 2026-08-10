@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Une nouvelle fuite pour la FF Handball ?</title>
+    <link>https://www.zataz.com/une-nouvelle-fuite-pour-la-ff-handball/</link>
+    <description>Un pirate revendique 1,3 million de lignes volées à la FF Handball après plusieurs publications visant des groupes français.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 20:50:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publiés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/groupe-cloue-67-go-de-donnees-et-plus-de-9-000-fichiers-publies-apres-une-cyberattaque/</link>
+    <description>La série de fuites liée à la compromission revendiquée de BlgCloud continue. Après Agri62 et Duvignau40, les cybercriminels...
+L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publiés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 10 Aug 2026 20:41:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] À vendre : les coulisses d’un empire du pari</title>
+    <link>https://www.zataz.com/a-vendre-les-coulisses-dun-empire-du-pari/</link>
+    <description>Un vendeur du dark web propose accès casino, bases de joueurs et données crypto dans un catalogue spécialisé.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 20:30:27 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure</title>
     <link>https://therecord.media/ransomware-south-korea-fbi-gunra</link>
     <description>The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.</description>
@@ -207,14 +229,6 @@ The…</description>
 L’article Cyberattaque à Gagny : la Ville confirme un accès non autorisé à des données personnelles…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 10 Aug 2026 04:57:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Duvignau40 : les données CRM, des e-mails et des documents diffusés</title>
-    <link>https://www.cyberattaque.org/blgcloud-duvignau40-les-donnees-crm-des-e-mails-et-des-documents-diffuses/</link>
-    <description>La série de fuites liée à la compromission revendiquée de BlgCloud se poursuit. Après Agri62, ChimeraZ publient désormais...
-L’article Duvignau40 : les données CRM, des e-mails et des documents diffusés est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 19:40:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
