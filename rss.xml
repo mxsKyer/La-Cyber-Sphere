@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/</link>
+    <description>CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 10:34:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] When Credentials Are No Longer Enough: Device Trust in the AI Era</title>
+    <link>https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/</link>
+    <description>AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] British ‘Com’ member who abused more than 100 girls worldwide jailed for two years</title>
     <link>https://therecord.media/british-com-member-abuse-jailed-two-years</link>
     <description>Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.</description>
@@ -27,6 +41,13 @@ L’article FFHandball : 1,36 million de données de licenciés en fuite après 
 L’article Steam : noms, adresses et commandes de clients européens exposés après…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 10 Aug 2026 13:27:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development</title>
+    <link>https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html</link>
+    <description>North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 18:49:58 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns</title>
