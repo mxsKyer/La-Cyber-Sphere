@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers breached a small Polish energy plant via private APN last year</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/</link>
+    <description>Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 19:07:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Deux pirates revendiquent le piratage de pro du Cloud</title>
+    <link>https://www.zataz.com/deux-pirates-revendiquent-le-piratage-de-pro-du-cloud/</link>
+    <description>Deux pirates revendiquent le piratage d'un professionnel du cloud et l’accès à 159 instances contenant des données clients.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 22:52:52 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cars.no : une fuite revendiquée expose 148 288 automobilistes</title>
     <link>https://www.zataz.com/cars-no-une-fuite-revendiquee-expose-148-288-automobilistes/</link>
     <description>Cars.no aurait exposé noms, téléphones et plaques, créant un risque élevé de phishing automobile ciblé.</description>
