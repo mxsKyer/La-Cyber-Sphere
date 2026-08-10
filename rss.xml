@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Poland uncovers second heat plant cyberattack that went hidden for months</title>
+    <link>https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden</link>
+    <description>The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 15:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Senate Democrats introduce bill to distribute $300 million annually to shore up water system cybersecurity</title>
+    <link>https://therecord.media/senate-water-cybersecurity-legislation</link>
+    <description>Two Democratic senators introduced legislation that would allocate $300 million each year to fund cybersecurity improvements for the water and wastewater sector.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 15:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian military hackers pose as recruiters to target Ukrainian IT workers</title>
+    <link>https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers</link>
+    <description>Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 15:21:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/</link>
     <description>CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]</description>
@@ -163,14 +184,6 @@ L’article Duvignau40 : les données CRM, des e-mails et des documents diffusé
 L’article Bureau Vallée : 55 949 fiches clients en fuite après une cyberattaque avortée est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 09 Aug 2026 19:32:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Le Mans FC : une base de 2 481 enregistrements diffusée après une fuite de données</title>
-    <link>https://www.cyberattaque.org/le-mans-fc-une-base-de-2-481-enregistrements-diffusee-apres-une-fuite-de-donnees/</link>
-    <description>Une fuite de données revendiquée le 8 août 2026 vise MUC72.fr, l’ancien domaine associé au club aujourd’hui connu...
-L’article Le Mans FC : une base de 2 481 enregistrements diffusée après une fuite de données est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 15:55:11 +0000</pubDate>
   </item>
 </channel>
 </rss>
