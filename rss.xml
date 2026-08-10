@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyberattaque à Gagny : la Ville confirme un accès non autorisé à des données personnelles</title>
+    <link>https://www.cyberattaque.org/cyberattaque-a-gagny-la-ville-confirme-un-acces-non-autorise-a-des-donnees-personnelles/</link>
+    <description>La Ville de Gagny confirme avoir subi une cyberattaque ayant affecté une partie de son système d’information. Les...
+L’article Cyberattaque à Gagny : la Ville confirme un accès non autorisé à des données personnelles…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 10 Aug 2026 04:57:10 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Duvignau40 : les données CRM, des e-mails et des documents diffusés</title>
     <link>https://www.cyberattaque.org/blgcloud-duvignau40-les-donnees-crm-des-e-mails-et-des-documents-diffuses/</link>
     <description>La série de fuites liée à la compromission revendiquée de BlgCloud se poursuit. Après Agri62, ChimeraZ publient désormais...
@@ -43,30 +51,6 @@ L’article CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs liti
     <description>Bonjour à toutes et tous Cette semaine, ZATAZ découvre 1,7 milliard d’identifiants français uniques stockés dans un cloud pirate, tandis que 43 revendications de rançongiciels ciblent la France en un mois. Qilin menace…</description>
     <source>ZATAZ</source>
     <pubDate>Sun, 09 Aug 2026 07:52:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour déjà exposés</title>
-    <link>https://www.cyberattaque.org/impact-centre-chretien-frappe-par-qilin-passeports-permis-et-titres-de-sejour-deja-exposes/</link>
-    <description>Le groupe de ransomware Qilin revendique une cyberattaque contre Impact Centre Chrétien (ICC). Le 8 août 2026, l’organisation...
-L’article Impact Centre Chrétien frappé par Qilin : passeports, permis et titres de séjour…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 05:15:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Roussel Agri62 ouvre la série de fuites BlgCloud avec 9,33 Go de données exposées</title>
-    <link>https://www.cyberattaque.org/roussel-agri62-ouvre-la-serie-de-fuites-blgcloud-avec-933-go-de-donnees-exposees/</link>
-    <description>La compromission massive revendiquée de BlgCloud commence à avoir des conséquences concrètes pour ses clients. Le 8 août...
-L’article Roussel Agri62 ouvre la série de fuites BlgCloud avec 9,33 Go de données exposées est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 05:10:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BlgCloud : les données de 159 entreprises piraté, des millions de documents en fuite</title>
-    <link>https://www.cyberattaque.org/blgcloud-les-donnees-de-159-entreprises-pirate-des-millions-de-documents-en-fuite/</link>
-    <description>Une compromission potentiellement massive frappe BlgCloud, éditeur français d’un ERP SaaS utilisé par des professionnels du machinisme agricole,...
-L’article BlgCloud : les données de 159 entreprises piraté, des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 09 Aug 2026 04:57:58 +0000</pubDate>
   </item>
 </channel>
 </rss>
