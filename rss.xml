@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials</title>
+    <link>https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html</link>
+    <description>Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro ("solidity-pro") that has been observed delivering a browser wallet and credential stealer.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 13:08:23 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause</title>
     <link>https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html</link>
     <description>OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding…</description>
