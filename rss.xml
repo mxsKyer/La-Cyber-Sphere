@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause</title>
+    <link>https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html</link>
+    <description>OpenAI has announced that it's pausing some "internal activities" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 11:20:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattaque à Gagny : la Ville confirme un accès non autorisé à des données personnelles</title>
     <link>https://www.cyberattaque.org/cyberattaque-a-gagny-la-ville-confirme-un-acces-non-autorise-a-des-donnees-personnelles/</link>
     <description>La Ville de Gagny confirme avoir subi une cyberattaque ayant affecté une partie de son système d’information. Les...
@@ -44,13 +51,6 @@ L’article Le Mans FC : une base de 2 481 enregistrements diffusée après une 
 L’article CLCV : 80 031 dossiers de consommateurs revendiqués avec leurs litiges et coordonnées…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 09 Aug 2026 10:09:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cyber actualités ZATAZ de la semaine du 3 au 9 août 2026</title>
-    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-3-au-9-aout-2026/</link>
-    <description>Bonjour à toutes et tous Cette semaine, ZATAZ découvre 1,7 milliard d’identifiants français uniques stockés dans un cloud pirate, tandis que 43 revendications de rançongiciels ciblent la France en un mois. Qilin menace…</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 09 Aug 2026 07:52:19 +0000</pubDate>
   </item>
 </channel>
 </rss>
