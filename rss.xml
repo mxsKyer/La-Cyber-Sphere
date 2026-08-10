@@ -6,11 +6,87 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] British ‘Com’ member who abused more than 100 girls worldwide jailed for two years</title>
+    <link>https://therecord.media/british-com-member-abuse-jailed-two-years</link>
+    <description>Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 13:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FFHandball : 1,36 million de données de licenciés en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/ffhandball-136-million-de-donnees-de-licencies-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une importante fuite de données est revendiquée contre la Fédération Française de Handball (FFHandball) ce 10 août 2026....
+L’article FFHandball : 1,36 million de données de licenciés en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 10 Aug 2026 13:38:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Steam : noms, adresses et commandes de clients européens exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/steam-noms-adresses-et-commandes-de-clients-europeens-exposes-apres-une-cyberattaque/</link>
+    <description>Valve avertit des clients européens de Steam après une cyberattaque contre CEVA Logistics, son partenaire chargé d&amp;#8217;expédier le...
+L’article Steam : noms, adresses et commandes de clients européens exposés après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 10 Aug 2026 13:27:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns</title>
+    <link>https://therecord.media/china-hackers-ransomware-microsoft</link>
+    <description>A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 13:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Member of The Com sent to prison for blackmail, sextortion</title>
+    <link>https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/</link>
+    <description>A member of "The Com," a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 08:56:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Zealand sanctions Russian hackers, propaganda groups over Ukraine war</title>
+    <link>https://therecord.media/new-zealand-russian-hackers-sanctions</link>
+    <description>New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 10 Aug 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA</title>
+    <link>https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html</link>
+    <description>Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
+
+Passkeys are designed to replace reusable passwords and resist phishing. The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 17:55:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LexisNexis shuts down services after suspicious activity on servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/</link>
+    <description>LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 10 Aug 2026 08:11:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development</title>
+    <link>https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html</link>
+    <description>AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.
+
+When software output…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 17:22:16 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Valve notifies Steam hardware customers of a data breach</title>
     <link>https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/</link>
     <description>Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 10 Aug 2026 07:47:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore</title>
+    <link>https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html</link>
+    <description>The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 10 Aug 2026 17:03:41 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] I-CAD : une faille de sécurité sur le fichier national des chiens et chats</title>
