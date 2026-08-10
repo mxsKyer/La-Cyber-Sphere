@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cars.no : une fuite revendiquée expose 148 288 automobilistes</title>
+    <link>https://www.zataz.com/cars-no-une-fuite-revendiquee-expose-148-288-automobilistes/</link>
+    <description>Cars.no aurait exposé noms, téléphones et plaques, créant un risque élevé de phishing automobile ciblé.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 22:30:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Des kiosques Pokémon exposés par une fuite Firebase</title>
+    <link>https://www.zataz.com/des-kiosques-pokemon-exposes-par-une-fuite-firebase/</link>
+    <description>Une fuite Firebase présumée expose kiosques Pokémon, paiements, code source et accès à 217 machines connectées.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 22:19:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un phishing Ameli qui observe avant de frapper</title>
+    <link>https://www.zataz.com/un-phishing-ameli-qui-observe-avant-de-frapper/</link>
+    <description>Phishing Ameli, cloaking et fausse boutique IA : le clic pourrait servir à identifier et qualifier de futures victimes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 10 Aug 2026 22:00:49 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Une fausse lettre AR24 vole les identifiants mail</title>
     <link>https://www.zataz.com/une-fausse-lettre-ar24-vole-les-identifiants-mail/</link>
     <description>Nouveau faux mail AR24, CAPTCHA et vol d’identifiants : Tester en live ce phishing et vérifier une notification AR24.</description>
