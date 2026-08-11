@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Google suspend son IA d’images dans Google Earth</title>
+    <link>https://www.zataz.com/google-suspend-son-ia-dimages-dans-google-earth/</link>
+    <description>Google suspend une fonction d’IA de Google Earth après des alertes sur les fausses images et la désinformation.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 11 Aug 2026 14:10:16 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Mozilla updates GPG signing key for Firefox releases after exposure</title>
     <link>https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/</link>
     <description>Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]</description>
@@ -270,29 +277,6 @@ The use of StormEncryptor marks a shift…</description>
     <description>Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military…</description>
     <source>The Record</source>
     <pubDate>Mon, 10 Aug 2026 15:21:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors</title>
-    <link>https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html</link>
-    <description>A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed. Trusting the default.
-
-That pretty much covers the mood this week. Old bugs…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 20:30:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/</link>
-    <description>CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 10:34:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] When Credentials Are No Longer Enough: Device Trust in the AI Era</title>
-    <link>https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/</link>
-    <description>AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 10:01:11 -0400</pubDate>
   </item>
 </channel>
 </rss>
