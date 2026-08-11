@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] US and South Korea warn of Gunra ransomware targeting govt agencies</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/</link>
+    <description>U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 05:47:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Steam : une fuite chez CEVA expose des clients européens</title>
+    <link>https://www.zataz.com/steam-une-fuite-chez-ceva-expose-des-clients-europeens/</link>
+    <description>Des clients Steam européens risquent désormais des campagnes de phishing très ciblées aprés le piratage d'un partenaire de Steam.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 11 Aug 2026 08:45:37 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine</title>
     <link>https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html</link>
     <description>Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote…</description>
@@ -261,13 +275,6 @@ When software output…</description>
 L’article I-CAD : une faille de sécurité sur le fichier national des chiens et…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 10 Aug 2026 11:01:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Progress LoadMaster flaw now actively exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 05:49:37 -0400</pubDate>
   </item>
 </channel>
 </rss>
