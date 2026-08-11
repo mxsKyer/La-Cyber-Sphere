@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Wesco confirms security incident after ExfilSquad claims data theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/</link>
+    <description>Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 11:59:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe</title>
+    <link>https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate</link>
+    <description>Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 11 Aug 2026 15:43:45 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Google suspend son IA d’images dans Google Earth</title>
     <link>https://www.zataz.com/google-suspend-son-ia-dimages-dans-google-earth/</link>
     <description>Google suspend une fonction d’IA de Google Earth après des alertes sur les fausses images et la désinformation.</description>
@@ -256,27 +270,6 @@ L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publié
 The use of StormEncryptor marks a shift…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 10 Aug 2026 22:08:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Poland uncovers second heat plant cyberattack that went hidden for months</title>
-    <link>https://therecord.media/poland-uncovers-critical-infrastructure-attack-hidden</link>
-    <description>The incident occurred on the same day as coordinated cyberattacks struck more than 30 other renewable energy installations and a larger heat plant, as Poland publicly disclosed in January.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 15:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Senate Democrats introduce bill to distribute $300 million annually to shore up water system cybersecurity</title>
-    <link>https://therecord.media/senate-water-cybersecurity-legislation</link>
-    <description>Two Democratic senators introduced legislation that would allocate $300 million each year to fund cybersecurity improvements for the water and wastewater sector.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 15:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian military hackers pose as recruiters to target Ukrainian IT workers</title>
-    <link>https://therecord.media/russian-military-hackers-pose-as-recruiters-ukraine-it-workers</link>
-    <description>Ukraine’s computer emergency response team, CERT-UA, said Saturday that the campaign has been running since at least May and is linked to Sandworm, the notorious hacking unit associated with Russia’s GRU military…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 15:21:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
