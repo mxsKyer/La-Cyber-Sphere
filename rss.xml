@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine</title>
+    <link>https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html</link>
+    <description>Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 12:25:45 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins</title>
     <link>https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html</link>
     <description>Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their…</description>
@@ -261,15 +268,6 @@ L’article I-CAD : une faille de sécurité sur le fichier national des chiens 
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 10 Aug 2026 05:49:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials</title>
-    <link>https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html</link>
-    <description>Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro ("solidity-pro") that has been observed delivering a browser wallet and credential stealer.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 13:08:23 +0530</pubDate>
   </item>
 </channel>
 </rss>
