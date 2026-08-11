@@ -6,11 +6,51 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cisco warns of high-severity ClamAV flaws with public exploits</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/</link>
+    <description>Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 07:03:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] HeyPulse : la base client et le code source en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/heypulse-la-base-client-et-le-code-source-en-fuite-apres-une-cyberattaque/</link>
+    <description>HeyPulse fait l’objet d’une importante fuite de données revendiquée le 11 août 2026. Un acteur affirme avoir récupéré...
+L’article HeyPulse : la base client et le code source en fuite après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 11 Aug 2026 11:01:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11</title>
+    <link>https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html</link>
+    <description>Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 16:18:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets</title>
+    <link>https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html</link>
+    <description>A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.
+
+The trick can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 15:54:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] US and South Korea warn of Gunra ransomware targeting govt agencies</title>
     <link>https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/</link>
     <description>U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 11 Aug 2026 05:47:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks</title>
+    <link>https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html</link>
+    <description>Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.
+
+Targets of these attacks include…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 14:46:24 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Steam : une fuite chez CEVA expose des clients européens</title>
@@ -267,14 +307,6 @@ When software output…</description>
     <description>The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy,…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 10 Aug 2026 17:03:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] I-CAD : une faille de sécurité sur le fichier national des chiens et chats</title>
-    <link>https://www.cyberattaque.org/i-cad-une-faille-de-securite-sur-le-fichier-national-des-chiens-et-chats/</link>
-    <description>I-CAD, le fichier national d’identification des chiens, chats et furets, alerte ses usagers après plusieurs signalements de messages...
-L’article I-CAD : une faille de sécurité sur le fichier national des chiens et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 10 Aug 2026 11:01:51 +0000</pubDate>
   </item>
 </channel>
 </rss>
