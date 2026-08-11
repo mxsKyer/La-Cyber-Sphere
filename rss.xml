@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Sandworm hackers target IT pros with trojanized WireGuard VPN client</title>
+    <link>https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/</link>
+    <description>Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 17:07:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</title>
+    <link>https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html</link>
+    <description>Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
+
+The bug sits in a core Windows kernel driver that handles network socket operations. An…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 01:40:55 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] NSA installs DHS lawyer as new general counsel</title>
     <link>https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel</link>
     <description>Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.</description>
@@ -20,11 +36,27 @@
     <pubDate>Tue, 11 Aug 2026 15:45:31 -0400</pubDate>
   </item>
   <item>
+    <title>[Élevé] Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</title>
+    <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
+    <description>Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 01:06:37 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout</title>
     <link>https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response</link>
     <description>The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.</description>
     <source>The Record</source>
     <pubDate>Tue, 11 Aug 2026 19:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client</title>
+    <link>https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html</link>
+    <description>Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.
+
+The flaw sat in the annotation tool, the feature that lets…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 00:38:47 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Santé publique France : près de 80 000 personnes exposées après une faille</title>
@@ -322,35 +354,6 @@ Targets of these attacks include…</description>
     <description>Nouveau faux mail AR24, CAPTCHA et vol d’identifiants : Tester en live ce phishing et vérifier une notification AR24.</description>
     <source>ZATAZ</source>
     <pubDate>Mon, 10 Aug 2026 21:41:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BdThemes plugins supply-chain hack creates rogue WordPress admins</title>
-    <link>https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/</link>
-    <description>A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 17:12:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une nouvelle fuite pour la FF Handball ?</title>
-    <link>https://www.zataz.com/une-nouvelle-fuite-pour-la-ff-handball/</link>
-    <description>Un pirate revendique 1,3 million de lignes volées à la FF Handball après plusieurs publications visant des groupes français.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 10 Aug 2026 20:50:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publiés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/groupe-cloue-67-go-de-donnees-et-plus-de-9-000-fichiers-publies-apres-une-cyberattaque/</link>
-    <description>La série de fuites liée à la compromission revendiquée de BlgCloud continue. Après Agri62 et Duvignau40, les cybercriminels...
-L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publiés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 10 Aug 2026 20:41:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] À vendre : les coulisses d’un empire du pari</title>
-    <link>https://www.zataz.com/a-vendre-les-coulisses-dun-empire-du-pari/</link>
-    <description>Un vendeur du dark web propose accès casino, bases de joueurs et données crypto dans un catalogue spécialisé.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 10 Aug 2026 20:30:27 +0000</pubDate>
   </item>
 </channel>
 </rss>
