@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] NSA installs DHS lawyer as new general counsel</title>
+    <link>https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel</link>
+    <description>Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 11 Aug 2026 20:00:09 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Cisco warns of ASA and FTD VPN flaw exploited to crash devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/</link>
+    <description>Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 15:45:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout</title>
+    <link>https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response</link>
+    <description>The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 11 Aug 2026 19:15:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Santé publique France : près de 80 000 personnes exposées après une faille</title>
     <link>https://www.cyberattaque.org/sante-publique-france-pres-de-80-000-personnes-exposees-apres-une-faille/</link>
     <description>Une cyberattaque visant une plateforme associée à Santé publique France est revendiquée ce 11 août 2026. Les attaquants...
@@ -240,6 +261,27 @@ Targets of these attacks include…</description>
     <pubDate>Tue, 11 Aug 2026 11:18:44 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-72898 — Metabase SQL Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-72898</link>
+    <description>Metabase contains a SQL Injection vulnerability that allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, which can give them administrator access to the instance. From there, the attacker could change the application configuration, steal stored credentials for the connected databases, read any data accessible through those connections, and export data.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-11</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-68820 — Microsoft Windows Ancillary Function Driver for WinSock Use-After-Free Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-68820</link>
+    <description>Microsoft Windows Ancillary Function Driver for WinSock contains a use-after-free vulnerability that allows an authorized attacker to elevate privileges locally.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-11</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-20349 — Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) Heap Inspection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20349</link>
+    <description>Cisco Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) contain a heap inspection vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-11</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers breached a small Polish energy plant via private APN last year</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/</link>
     <description>Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]</description>
@@ -309,20 +351,6 @@ L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publié
     <description>Un vendeur du dark web propose accès casino, bases de joueurs et données crypto dans un catalogue spécialisé.</description>
     <source>ZATAZ</source>
     <pubDate>Mon, 10 Aug 2026 20:30:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI, South Korea warn of Gunra ransomware gang targeting critical infrastructure</title>
-    <link>https://therecord.media/ransomware-south-korea-fbi-gunra</link>
-    <description>The Gunra ransomware gang is breaching critical infrastructure organizations through vulnerabilities in popular brands of firewalls, the FBI and South Korea’s government warned.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/</link>
-    <description>OpenAI has developed a new model called "GPT 5.6 Cyber," designed for vulnerability research, penetration testing, incident response, and remediation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 15:24:40 -0400</pubDate>
   </item>
 </channel>
 </rss>
