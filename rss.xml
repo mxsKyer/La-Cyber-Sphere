@@ -6,12 +6,73 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Santé publique France : près de 80 000 personnes exposées après une faille</title>
+    <link>https://www.cyberattaque.org/sante-publique-france-pres-de-80-000-personnes-exposees-apres-une-faille/</link>
+    <description>Une cyberattaque visant une plateforme associée à Santé publique France est revendiquée ce 11 août 2026. Les attaquants...
+L’article Santé publique France : près de 80 000 personnes exposées après une faille est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 11 Aug 2026 18:49:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
+    <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
+    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 00:06:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees</title>
+    <link>https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/</link>
+    <description>Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 14:34:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft releases Windows 10 KB5120249 extended security update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/</link>
+    <description>Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 14:26:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/</link>
+    <description>Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 14:08:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5121003 &amp; KB5120240 cumulative updates released</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/</link>
+    <description>Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 13:38:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE</title>
+    <link>https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html</link>
+    <description>Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 22:17:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents</title>
     <link>https://www.cyberattaque.org/sun-form-des-pirates-accedent-au-logiciel-de-gestion-et-reclament-de-largent-aux-adherents/</link>
     <description>L’enseigne de salles de sport Sun Form a été victime d’une cyberattaque découverte le 10 août 2026. Des...
 L’article Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 11 Aug 2026 16:45:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt</title>
+    <link>https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html</link>
+    <description>The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.
+
+"Its recovery…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 22:05:27 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Wesco confirms security incident after ExfilSquad claims data theft</title>
@@ -262,13 +323,6 @@ L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publié
     <description>OpenAI has developed a new model called "GPT 5.6 Cyber," designed for vulnerability research, penetration testing, incident response, and remediation. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 10 Aug 2026 15:24:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New StormEncryptor ransomware used by former Medusa affiliate</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/</link>
-    <description>A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 13:42:00 -0400</pubDate>
   </item>
 </channel>
 </rss>
