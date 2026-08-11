@@ -278,35 +278,5 @@ Passkeys are designed to replace reusable passwords and resist phishing. The…<
     <source>The Hacker News</source>
     <pubDate>Mon, 10 Aug 2026 17:55:04 +0530</pubDate>
   </item>
-  <item>
-    <title>[Faible] LexisNexis shuts down services after suspicious activity on servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/</link>
-    <description>LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 08:11:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development</title>
-    <link>https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html</link>
-    <description>AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed.
-
-When software output…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 17:22:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Valve notifies Steam hardware customers of a data breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/</link>
-    <description>Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 07:47:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore</title>
-    <link>https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html</link>
-    <description>The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 17:03:41 +0530</pubDate>
-  </item>
 </channel>
 </rss>
