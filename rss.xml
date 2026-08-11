@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents</title>
+    <link>https://www.cyberattaque.org/sun-form-des-pirates-accedent-au-logiciel-de-gestion-et-reclament-de-largent-aux-adherents/</link>
+    <description>L’enseigne de salles de sport Sun Form a été victime d’une cyberattaque découverte le 10 août 2026. Des...
+L’article Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 11 Aug 2026 16:45:39 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Wesco confirms security incident after ExfilSquad claims data theft</title>
     <link>https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/</link>
     <description>Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]</description>
@@ -261,15 +269,6 @@ L’article Groupe Cloué : 6,7 Go de données et plus de 9 000 fichiers publié
     <description>A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 10 Aug 2026 13:42:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw</title>
-    <link>https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html</link>
-    <description>Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor.
-
-The use of StormEncryptor marks a shift…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 22:08:37 +0530</pubDate>
   </item>
 </channel>
 </rss>
