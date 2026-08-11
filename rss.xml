@@ -6,6 +6,82 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Mozilla updates GPG signing key for Firefox releases after exposure</title>
+    <link>https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/</link>
+    <description>Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 09:20:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Vague Task, Total Access: When AI Delegation Becomes a Security Risk</title>
+    <link>https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/</link>
+    <description>AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 09:15:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development</title>
+    <link>https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html</link>
+    <description>OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.
+
+"Built on GPT‑5.6 Sol, it is trained to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 18:41:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Local governments in four states dealing with cyberattacks that have shut down services</title>
+    <link>https://therecord.media/cyberattacks-ransomware-local-governments</link>
+    <description>Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] DDoS attacks over 1 Tbps surged fivefold in the second quarter</title>
+    <link>https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/</link>
+    <description>Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 09:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kids’ online safety bill faces dim prospects of passage this session despite progress</title>
+    <link>https://therecord.media/kids-online-safety-act-congress</link>
+    <description>Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 11 Aug 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA: Microsoft SharePoint flaw now exploited in ransomware attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/</link>
+    <description>CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 08:12:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices</title>
+    <link>https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html</link>
+    <description>A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 17:35:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo</title>
+    <link>https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html</link>
+    <description>Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories.
+
+That key is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 17:34:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers</title>
+    <link>https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html</link>
+    <description>Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 11 Aug 2026 17:05:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cisco warns of high-severity ClamAV flaws with public exploits</title>
     <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/</link>
     <description>Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]</description>
@@ -217,66 +293,6 @@ That pretty much covers the mood this week. Old bugs…</description>
     <description>AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains…</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 10 Aug 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] British ‘Com’ member who abused more than 100 girls worldwide jailed for two years</title>
-    <link>https://therecord.media/british-com-member-abuse-jailed-two-years</link>
-    <description>Justin Swaddle, of Leeds in northern England, targeted 117 female victims aged 13 to 17, according to the National Crime Agency.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 13:46:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FFHandball : 1,36 million de données de licenciés en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/ffhandball-136-million-de-donnees-de-licencies-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une importante fuite de données est revendiquée contre la Fédération Française de Handball (FFHandball) ce 10 août 2026....
-L’article FFHandball : 1,36 million de données de licenciés en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 10 Aug 2026 13:38:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Steam : noms, adresses et commandes de clients européens exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/steam-noms-adresses-et-commandes-de-clients-europeens-exposes-apres-une-cyberattaque/</link>
-    <description>Valve avertit des clients européens de Steam après une cyberattaque contre CEVA Logistics, son partenaire chargé d&amp;#8217;expédier le...
-L’article Steam : noms, adresses et commandes de clients européens exposés après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 10 Aug 2026 13:27:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development</title>
-    <link>https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html</link>
-    <description>North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 18:49:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China-linked hackers turning popular cybersecurity tool into ransomware launchpad, Microsoft warns</title>
-    <link>https://therecord.media/china-hackers-ransomware-microsoft</link>
-    <description>A China-linked threat actor is believed to be exploiting a critical vulnerability affecting cybersecurity software from the company N-able.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 13:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Member of The Com sent to prison for blackmail, sextortion</title>
-    <link>https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/</link>
-    <description>A member of "The Com," a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 10 Aug 2026 08:56:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Zealand sanctions Russian hackers, propaganda groups over Ukraine war</title>
-    <link>https://therecord.media/new-zealand-russian-hackers-sanctions</link>
-    <description>New Zealand announced new sanctions on Russian hackers, technology companies and Kremlin-linked organizations over their roles in supporting Moscow’s war against Ukraine.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 10 Aug 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA</title>
-    <link>https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html</link>
-    <description>Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on.
-
-Passkeys are designed to replace reusable passwords and resist phishing. The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 10 Aug 2026 17:55:04 +0530</pubDate>
   </item>
 </channel>
 </rss>
