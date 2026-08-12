@@ -253,19 +253,5 @@ L’article LaSante.net : noms, adresses et e-mails de clients consultés après
     <source>BleepingComputer</source>
     <pubDate>Tue, 11 Aug 2026 21:15:55 -0400</pubDate>
   </item>
-  <item>
-    <title>[Critique] DeadLock ransomware uses blockchain to resist infrastructure takedown</title>
-    <link>https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/</link>
-    <description>The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 18:15:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Plugs Nearly 400 Security Holes</title>
-    <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-    <description>Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
-  </item>
 </channel>
 </rss>
