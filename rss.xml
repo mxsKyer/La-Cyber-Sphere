@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Hackers exploit critical Adobe Commerce flaw to hijack customer accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/</link>
+    <description>Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 16:54:59 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hundreds of fake Chrome VPN extensions route traffic through a proxy</title>
     <link>https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/</link>
     <description>More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]</description>
@@ -259,22 +266,6 @@ L’article LaSante.net : noms, adresses et e-mails de clients consultés après
     <description>Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others…</description>
     <source>Krebs on Security</source>
     <pubDate>Tue, 11 Aug 2026 21:28:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sandworm hackers target IT pros with trojanized WireGuard VPN client</title>
-    <link>https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/</link>
-    <description>Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 17:07:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack</title>
-    <link>https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html</link>
-    <description>Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks.
-
-The bug sits in a core Windows kernel driver that handles network socket operations. An…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 01:40:55 +0530</pubDate>
   </item>
 </channel>
 </rss>
