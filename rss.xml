@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Plug and Pwn attack uses fake USB devices for Windows SYSTEM access</title>
+    <link>https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/</link>
+    <description>Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 12:05:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Lazarus hackers exploited Windows zero-day to target defense firms</title>
+    <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/</link>
+    <description>North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 11:38:08 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] 678 438 lignes de données fiscales de Français en fuite après le piratage des impôts</title>
     <link>https://www.cyberattaque.org/678-438-lignes-de-donnees-fiscales-de-francais-en-fuite-apres-le-piratage-des-impots/</link>
     <description>Une importante fuite de données visant des systèmes associés à impots.gouv.fr est revendiquée par des cybercriminels. L’intrusion aurait...
@@ -323,20 +337,6 @@ L’article Sun Form : des pirates accèdent au logiciel de gestion et réclamen
 "Its recovery…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 11 Aug 2026 22:05:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Wesco confirms security incident after ExfilSquad claims data theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/</link>
-    <description>Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 11:59:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack on logistics giant Ceva hits retailers and Steam customers across Europe</title>
-    <link>https://therecord.media/ceva-logistics-cyberattack-bol-steam-debijenkorf-ace-tate</link>
-    <description>Operations at eight European warehouses belonging to France's CEVA Logistics have reportedly been disrupted by a cyberattack, and several other companies are feeling the effects.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 11 Aug 2026 15:43:45 GMT</pubDate>
   </item>
 </channel>
 </rss>
