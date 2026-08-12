@@ -6,6 +6,33 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code</title>
+    <link>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</link>
+    <description>SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.
+
+The vulnerability, assigned the CVE identifier…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 13:01:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access</title>
+    <link>https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html</link>
+    <description>The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 12:11:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS</title>
+    <link>https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html</link>
+    <description>Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild.
+
+The high-severity flaw,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 11:45:58 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] AEFE : plus de 30 000 entrées de l’annuaire interne et 135 e-mails revendiqués</title>
     <link>https://www.cyberattaque.org/aefe-plus-de-30-000-entrees-de-lannuaire-interne-et-135-e-mails-revendiques/</link>
     <description>Une cyberattaque visant des services associés à l’Agence pour l’enseignement français à l’étranger (AEFE) est revendiquée ce 11...
@@ -330,13 +357,6 @@ Targets of these attacks include…</description>
     <description>Des clients Steam européens risquent désormais des campagnes de phishing très ciblées aprés le piratage d'un partenaire de Steam.</description>
     <source>ZATAZ</source>
     <pubDate>Tue, 11 Aug 2026 08:45:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine</title>
-    <link>https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html</link>
-    <description>Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 12:25:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
