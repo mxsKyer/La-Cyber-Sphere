@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] "City-Forum" data-theft attacks target Salesforce, ServiceNow portals</title>
+    <link>https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/</link>
+    <description>An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 19:07:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Taïwan visé par une cyberattaque pilotée par IA ?</title>
+    <link>https://www.zataz.com/taiwan-vise-par-une-cyberattaque-pilotee-par-ia/</link>
+    <description>Des agents IA auraient ciblé Taïwan, compromis des comptes et adapté leurs attaques.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 12 Aug 2026 22:38:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Android malware combo takes out loans and relays victims' credit cards</title>
+    <link>https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/</link>
+    <description>A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 18:22:57 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Hackers exploit critical Adobe Commerce flaw to hijack customer accounts</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/</link>
     <description>Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]</description>
