@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/</link>
+    <description>Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 11 Aug 2026 21:15:55 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] DeadLock ransomware uses blockchain to resist infrastructure takedown</title>
     <link>https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/</link>
     <description>The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]</description>
