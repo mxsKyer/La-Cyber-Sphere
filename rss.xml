@@ -276,33 +276,5 @@ The bug sits in a core Windows kernel driver that handles network socket operati
     <source>The Hacker News</source>
     <pubDate>Wed, 12 Aug 2026 01:40:55 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] NSA installs DHS lawyer as new general counsel</title>
-    <link>https://therecord.media/kerianne-tobitsch-new-nsa-general-counsel</link>
-    <description>Kerianne Tobitsch, who most recently served as a senior lawyer at the Homeland Security Department, is the NSA's new general counsel, sources told Recorded Future News.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 11 Aug 2026 20:00:09 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cisco warns of ASA and FTD VPN flaw exploited to crash devices</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/</link>
-    <description>Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 15:45:31 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing</title>
-    <link>https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html</link>
-    <description>Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 01:06:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware group hijacks hospital system’s Facebook page amid ongoing cyberattack fallout</title>
-    <link>https://therecord.media/ransomware-group-hijacks-hospital-facebook-amid-cyberattack-response</link>
-    <description>The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 11 Aug 2026 19:15:00 GMT</pubDate>
-  </item>
 </channel>
 </rss>
