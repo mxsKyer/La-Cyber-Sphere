@@ -6,11 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/</link>
+    <description>Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldBreak" after Microsoft released the August 2026 Patch Tuesday security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 06:15:22 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Santé publique France visée par une cyberattaque ?</title>
     <link>https://www.zataz.com/sante-publique-france-visee-par-une-cyberattaque/</link>
     <description>Santé publique France visée par une intrusion revendiquée, avec élévation de privilèges et accès administrateur.</description>
     <source>ZATAZ</source>
     <pubDate>Wed, 12 Aug 2026 09:27:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access</title>
+    <link>https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</link>
+    <description>Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.
+
+The vulnerability in question is CVE-2026-59310 (CVSS score:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 14:31:54 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations</title>
@@ -317,44 +333,6 @@ That key is…</description>
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 11 Aug 2026 17:05:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cisco warns of high-severity ClamAV flaws with public exploits</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/</link>
-    <description>Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 07:03:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] HeyPulse : la base client et le code source en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/heypulse-la-base-client-et-le-code-source-en-fuite-apres-une-cyberattaque/</link>
-    <description>HeyPulse fait l’objet d’une importante fuite de données revendiquée le 11 août 2026. Un acteur affirme avoir récupéré...
-L’article HeyPulse : la base client et le code source en fuite après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 11 Aug 2026 11:01:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11</title>
-    <link>https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html</link>
-    <description>Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 16:18:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets</title>
-    <link>https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html</link>
-    <description>A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction.
-
-The trick can…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 15:54:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] US and South Korea warn of Gunra ransomware targeting govt agencies</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/</link>
-    <description>U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 05:47:06 -0400</pubDate>
   </item>
 </channel>
 </rss>
