@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Hackers leverage new Microsoft SharePoint exploit in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/</link>
+    <description>Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 08:25:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</title>
+    <link>https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug</link>
+    <description>Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 12 Aug 2026 12:06:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Signal adds new security feature to thwart man-in-the-middle attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/</link>
+    <description>​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 07:21:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws</title>
+    <link>https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</link>
+    <description>Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 16:43:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges</title>
     <link>https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/</link>
     <description>Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldBreak" after Microsoft released the August 2026 Patch Tuesday security updates. [...]</description>
@@ -294,45 +322,6 @@ L’article Sun Form : des pirates accèdent au logiciel de gestion et réclamen
     <description>Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 11 Aug 2026 09:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Kids’ online safety bill faces dim prospects of passage this session despite progress</title>
-    <link>https://therecord.media/kids-online-safety-act-congress</link>
-    <description>Proponents of the Kids Online Safety Act are cheering recent progress but acknowledge a long road ahead for legislation that, despite mounting political pressure, may be difficult to pass this session.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 11 Aug 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: Microsoft SharePoint flaw now exploited in ransomware attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/</link>
-    <description>CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 08:12:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices</title>
-    <link>https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html</link>
-    <description>A malicious SIM card can order the device it sits in to run commands of the attacker's choosing. On the cellular modules built into electric-vehicle chargers, industrial routers, and car telematics units, that is enough…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 17:35:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo</title>
-    <link>https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html</link>
-    <description>Mozilla has scrapped the cryptographic key behind Firefox and Thunderbird downloads for Linux after an unencrypted copy of it was committed by mistake to one of the company's own private code repositories.
-
-That key is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 17:34:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers</title>
-    <link>https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html</link>
-    <description>Security researchers invented a cryptocurrency startup, advertised developer jobs, and hired three people they believe were North Korean operatives. Every virtual machine the company issued was recording.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 17:05:03 +0530</pubDate>
   </item>
 </channel>
 </rss>
