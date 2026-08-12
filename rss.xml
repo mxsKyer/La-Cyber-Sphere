@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Santé publique France visée par une cyberattaque ?</title>
+    <link>https://www.zataz.com/sante-publique-france-visee-par-une-cyberattaque/</link>
+    <description>Santé publique France visée par une intrusion revendiquée, avec élévation de privilèges et accès administrateur.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 12 Aug 2026 09:27:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations</title>
+    <link>https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html</link>
+    <description>Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 13:34:52 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code</title>
     <link>https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html</link>
     <description>SAP has released patches to address a maximum-severity security flaw impacting Commerce Cloud (Data Hub Adapter) that could result in arbitrary code execution.
@@ -341,22 +355,6 @@ The trick can…</description>
     <description>U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 11 Aug 2026 05:47:06 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks</title>
-    <link>https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html</link>
-    <description>Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world.
-
-Targets of these attacks include…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 14:46:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Steam : une fuite chez CEVA expose des clients européens</title>
-    <link>https://www.zataz.com/steam-une-fuite-chez-ceva-expose-des-clients-europeens/</link>
-    <description>Des clients Steam européens risquent désormais des campagnes de phishing très ciblées aprés le piratage d'un partenaire de Steam.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 11 Aug 2026 08:45:37 +0000</pubDate>
   </item>
 </channel>
 </rss>
