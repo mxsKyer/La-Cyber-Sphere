@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Three intrusions at UK criminal records office went undetected for two years</title>
+    <link>https://therecord.media/uk-criminal-records-office-acro-data-breaches</link>
+    <description>Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery</title>
+    <link>https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai</link>
+    <description>This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 12 Aug 2026 12:38:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Hackers leverage new Microsoft SharePoint exploit in attacks</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/</link>
     <description>Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]</description>
@@ -18,6 +32,22 @@
     <description>Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.</description>
     <source>The Record</source>
     <pubDate>Wed, 12 Aug 2026 12:06:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</title>
+    <link>https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html</link>
+    <description>A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 17:17:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Enterprise Defenses Recovered at the Edge and Collapsed Inside</title>
+    <link>https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html</link>
+    <description>Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
+
+According to Picus Labs' new Blue Report 2026, which measured more than 338 million real…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 17:11:34 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Signal adds new security feature to thwart man-in-the-middle attacks</title>
@@ -285,43 +315,6 @@ L’article Sun Form : des pirates accèdent au logiciel de gestion et réclamen
     <description>Google suspend une fonction d’IA de Google Earth après des alertes sur les fausses images et la désinformation.</description>
     <source>ZATAZ</source>
     <pubDate>Tue, 11 Aug 2026 14:10:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mozilla updates GPG signing key for Firefox releases after exposure</title>
-    <link>https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/</link>
-    <description>Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 09:20:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Vague Task, Total Access: When AI Delegation Becomes a Security Risk</title>
-    <link>https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/</link>
-    <description>AI agents can improvise beyond the intended scope of a task when they are given broad access to enterprise systems and data. Token Security explains why organizations need to define agent intent and continuously enforce…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 09:15:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development</title>
-    <link>https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html</link>
-    <description>OpenAI on Monday unveiled a new cybersecurity-focused model called GPT‑5.6‑Cyber that it said is focused on vulnerability research, penetration testing, and incident response.
-
-"Built on GPT‑5.6 Sol, it is trained to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 18:41:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Local governments in four states dealing with cyberattacks that have shut down services</title>
-    <link>https://therecord.media/cyberattacks-ransomware-local-governments</link>
-    <description>Municipalities in California, Oklahoma, Wisconsin and Texas are all recovering from disruptive cyberattacks that have affected government operations.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] DDoS attacks over 1 Tbps surged fivefold in the second quarter</title>
-    <link>https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/</link>
-    <description>Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 09:00:00 -0400</pubDate>
   </item>
 </channel>
 </rss>
