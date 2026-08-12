@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Son-Video.com frappé une nouvelle fois par une cyberattaque : 10 382 fichiers internes publiés</title>
+    <link>https://www.cyberattaque.org/son-video-com-frappe-une-nouvelle-fois-par-une-cyberattaque-10-382-fichiers-internes-publies/</link>
+    <description>Son-Video.com est à nouveau confronté à une cyberattaque, quelques mois seulement après l’incident qui avait touché l’entreprise en...
+L’article Son-Video.com frappé une nouvelle fois par une cyberattaque : 10 382…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 12 Aug 2026 17:16:19 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Plug and Pwn attack uses fake USB devices for Windows SYSTEM access</title>
     <link>https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/</link>
     <description>Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]</description>
@@ -311,32 +319,6 @@ L’article Santé publique France : près de 80 000 personnes exposées après 
     <description>Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 11 Aug 2026 13:38:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html</link>
-    <description>Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 22:17:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents</title>
-    <link>https://www.cyberattaque.org/sun-form-des-pirates-accedent-au-logiciel-de-gestion-et-reclament-de-largent-aux-adherents/</link>
-    <description>L’enseigne de salles de sport Sun Form a été victime d’une cyberattaque découverte le 10 août 2026. Des...
-L’article Sun Form : des pirates accèdent au logiciel de gestion et réclament de l’argent aux adhérents est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 11 Aug 2026 16:45:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt</title>
-    <link>https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html</link>
-    <description>The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience.
-
-"Its recovery…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 11 Aug 2026 22:05:27 +0530</pubDate>
   </item>
 </channel>
 </rss>
