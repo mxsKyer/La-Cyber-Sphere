@@ -6,6 +6,42 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hundreds of fake Chrome VPN extensions route traffic through a proxy</title>
+    <link>https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/</link>
+    <description>More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 12 Aug 2026 14:54:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Drones IA : l’angle mort de la vie privée</title>
+    <link>https://www.zataz.com/drones-ia-langle-mort-de-la-vie-privee/</link>
+    <description>Drones IA : collecte, conservation et floutage soulèvent des enjeux majeurs de vie privée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 12 Aug 2026 18:40:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chrome : 737 faux VPN détournent le trafic de 75 000+ utilisateurs</title>
+    <link>https://www.cyberattaque.org/chrome-737-faux-vpn-detournent-le-trafic-de-75-000-utilisateurs/</link>
+    <description>Une vaste campagne de fausses extensions VPN pour Google Chrome vient d’être mise au jour. Les chercheurs de...
+L’article Chrome : 737 faux VPN détournent le trafic de 75 000+ utilisateurs est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 12 Aug 2026 17:45:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor</title>
+    <link>https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html</link>
+    <description>The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 12 Aug 2026 23:09:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FBI: Hackers using social engineering to breach accounts and steal explicit content</title>
+    <link>https://therecord.media/social-engineering-hackers-explicit-photos-fbi-alert</link>
+    <description>Leaked passwords, social engineering and spoofed social media sites are among the tools hackers are using to gather individuals' private content and sell it online, the FBI said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 12 Aug 2026 17:28:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Son-Video.com frappé une nouvelle fois par une cyberattaque : 10 382 fichiers internes publiés</title>
     <link>https://www.cyberattaque.org/son-video-com-frappe-une-nouvelle-fois-par-une-cyberattaque-10-382-fichiers-internes-publies/</link>
     <description>Son-Video.com est à nouveau confronté à une cyberattaque, quelques mois seulement après l’incident qui avait touché l’entreprise en...
@@ -267,58 +303,6 @@ The bug sits in a core Windows kernel driver that handles network socket operati
     <description>The hackers claimed to have exfiltrated 6 terabytes of data, including highly sensitive health information like records related to sexual assault, mental health, abortions and sexual harassment incidents.</description>
     <source>The Record</source>
     <pubDate>Tue, 11 Aug 2026 19:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client</title>
-    <link>https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html</link>
-    <description>Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's.
-
-The flaw sat in the annotation tool, the feature that lets…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 00:38:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Santé publique France : près de 80 000 personnes exposées après une faille</title>
-    <link>https://www.cyberattaque.org/sante-publique-france-pres-de-80-000-personnes-exposees-apres-une-faille/</link>
-    <description>Une cyberattaque visant une plateforme associée à Santé publique France est revendiquée ce 11 août 2026. Les attaquants...
-L’article Santé publique France : près de 80 000 personnes exposées après une faille est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 11 Aug 2026 18:49:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands</title>
-    <link>https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html</link>
-    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 00:06:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees</title>
-    <link>https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/</link>
-    <description>Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 14:34:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft releases Windows 10 KB5120249 extended security update</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/</link>
-    <description>Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 14:26:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/</link>
-    <description>Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 14:08:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5121003 &amp; KB5120240 cumulative updates released</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/</link>
-    <description>Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 13:38:42 -0400</pubDate>
   </item>
 </channel>
 </rss>
