@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Cl0p industrialise ses attaques via PTC Windchill</title>
+    <link>https://www.zataz.com/cl0p-industrialise-ses-attaques-via-ptc-windchill/</link>
+    <description>Cl0p revendique près de 50 entreprises après l’exploitation présumée d’une faille critique dans PTC Windchill et FlexPLM.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 23:14:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Ukraine shuts down 94 fraudulent call centers, seize millions in cash</title>
     <link>https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/</link>
     <description>Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]</description>
@@ -227,20 +234,6 @@ The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…</des
     <description>L'hôtellerie de Luxe impactée par une intrusion informatique. Un hacker annonce des milliers de documents clients et salariés.</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 13 Aug 2026 00:25:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Impots.gouv.fr : un pirate revendique une intrusion</title>
-    <link>https://www.zataz.com/impots-gouv-fr-un-pirate-revendique-une-intrusion/</link>
-    <description>Un pirate revendique plus de 600 000 données exfiltrée d’impots.gouv.fr. Des informations fiscales exploitables pour des fraudes ciblées dans la nature ?</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 12 Aug 2026 23:33:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] "City-Forum" data-theft attacks target Salesforce, ServiceNow portals</title>
-    <link>https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/</link>
-    <description>An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 19:07:23 -0400</pubDate>
   </item>
 </channel>
 </rss>
