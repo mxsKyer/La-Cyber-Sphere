@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Ukraine shuts down 94 fraudulent call centers, seize millions in cash</title>
+    <link>https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/</link>
+    <description>Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 17:12:47 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt</title>
     <link>https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/</link>
     <description>An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]</description>
@@ -248,13 +255,6 @@ The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…</des
     <description>A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 18:22:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit critical Adobe Commerce flaw to hijack customer accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/</link>
-    <description>Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 16:54:59 -0400</pubDate>
   </item>
 </channel>
 </rss>
