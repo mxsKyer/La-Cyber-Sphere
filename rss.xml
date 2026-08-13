@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Brazil orders Discord to suspend livestreaming after teen suicide</title>
+    <link>https://therecord.media/discord-brazil-orders-suspension-livestreaming</link>
+    <description>Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to  suspend the streaming technology.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 13 Aug 2026 13:37:32 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] White House taps security firms for offensive hack-back operations</title>
+    <link>https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/</link>
+    <description>A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 09:30:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trump taps cyber firms to go on offensive against criminals</title>
+    <link>https://therecord.media/trump-cyber-crime-offensive</link>
+    <description>The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Germany moves to give spy agencies hacking and sabotage powers</title>
+    <link>https://therecord.media/germany-spy-agency-powers</link>
+    <description>Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 13 Aug 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] France VAE : identités, parcours professionnels et données de financement exposés après un incident de sécurité</title>
     <link>https://www.cyberattaque.org/france-vae-identites-parcours-professionnels-et-donnees-de-financement-exposes-apres-un-incident-de-securite/</link>
     <description>Le portail gouvernemental France VAE, accessible notamment via vae.gouv.fr, informe ses utilisateurs d’un incident de sécurité survenu le...
@@ -171,27 +199,6 @@ L’article 678 438 lignes de données fiscales de Français en fuite après le�
     <description>Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Three intrusions at UK criminal records office went undetected for two years</title>
-    <link>https://therecord.media/uk-criminal-records-office-acro-data-breaches</link>
-    <description>Unread antivirus alerts and an unpatched content management system exposed Britain's ACRO to three separate data breaches, according to a reprimand notice.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 12 Aug 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft’s massive Patch Tuesday releases continue as AI reshapes bug discovery</title>
-    <link>https://therecord.media/microsoft-massive-patch-tuesday-releases-continue-ai</link>
-    <description>This month’s update features about five times the volume of patches Microsoft was shipping in a typical month before AI-assisted vulnerability discovery took hold.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 12 Aug 2026 12:38:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers leverage new Microsoft SharePoint exploit in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/</link>
-    <description>Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 08:25:37 -0400</pubDate>
   </item>
 </channel>
 </rss>
