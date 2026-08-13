@@ -201,19 +201,5 @@ According to Picus Labs' new Blue Report 2026, which measured more than 338 mill
     <source>The Hacker News</source>
     <pubDate>Wed, 12 Aug 2026 17:11:34 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Signal adds new security feature to thwart man-in-the-middle attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/</link>
-    <description>​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 07:21:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws</title>
-    <link>https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html</link>
-    <description>Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 16:43:03 +0530</pubDate>
-  </item>
 </channel>
 </rss>
