@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Impots.gouv.fr : un pirate revendique une intrusion</title>
+    <link>https://www.zataz.com/impots-gouv-fr-un-pirate-revendique-une-intrusion/</link>
+    <description>Un pirate revendique plus de 600 000 données exfiltrée d’impots.gouv.fr. Des informations fiscales exploitables pour des fraudes ciblées dans la nature ?</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 12 Aug 2026 23:33:01 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] "City-Forum" data-theft attacks target Salesforce, ServiceNow portals</title>
     <link>https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/</link>
     <description>An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]</description>
