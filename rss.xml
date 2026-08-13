@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt</title>
+    <link>https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/</link>
+    <description>An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 16:47:02 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Scalingo : les données de 90 000 personnes volées via une faille critique de Metabase</title>
     <link>https://www.cyberattaque.org/scalingo-les-donnees-de-90-000-personnes-volees-via-une-faille-critique-de-metabase/</link>
     <description>Scalingo confirme une fuite de données concernant environ 90 000 personnes après la compromission de son instance interne...
