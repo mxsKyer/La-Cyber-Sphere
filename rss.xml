@@ -242,19 +242,5 @@ The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…</des
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 19:07:23 -0400</pubDate>
   </item>
-  <item>
-    <title>[Élevé] Taïwan visé par une cyberattaque pilotée par IA ?</title>
-    <link>https://www.zataz.com/taiwan-vise-par-une-cyberattaque-pilotee-par-ia/</link>
-    <description>Des agents IA auraient ciblé Taïwan, compromis des comptes et adapté leurs attaques.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 12 Aug 2026 22:38:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Android malware combo takes out loans and relays victims' credit cards</title>
-    <link>https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/</link>
-    <description>A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 18:22:57 -0400</pubDate>
-  </item>
 </channel>
 </rss>
