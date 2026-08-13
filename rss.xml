@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Maisons du Monde : une fuite au timing troublant</title>
+    <link>https://www.zataz.com/maisons-du-monde-une-fuite-au-timing-troublant/</link>
+    <description>Une fuite attribuée à Maisons du Monde apparaît avant une période financière critique. Le timing du pirate interroge.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 15:15:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Trezor discloses data breach affecting nearly 14,000 customers</title>
+    <link>https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/</link>
+    <description>Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 11:13:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion</title>
+    <link>https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/</link>
+    <description>AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Brazil orders Discord to suspend livestreaming after teen suicide</title>
     <link>https://therecord.media/discord-brazil-orders-suspension-livestreaming</link>
     <description>Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to  suspend the streaming technology.</description>
@@ -170,35 +191,6 @@ L’article Son-Video.com frappé une nouvelle fois par une cyberattaque : 10 38
     <description>North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 11:38:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 678 438 lignes de données fiscales de Français en fuite après le piratage des impôts</title>
-    <link>https://www.cyberattaque.org/678-438-lignes-de-donnees-fiscales-de-francais-en-fuite-apres-le-piratage-des-impots/</link>
-    <description>Une importante fuite de données visant des systèmes associés à impots.gouv.fr est revendiquée par des cybercriminels. L’intrusion aurait...
-L’article 678 438 lignes de données fiscales de Français en fuite après le…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 12 Aug 2026 14:48:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI: Hackers target online accounts to steal nude photos</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/</link>
-    <description>The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 10:15:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] 737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One</title>
-    <link>https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html</link>
-    <description>A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 19:39:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/</link>
-    <description>Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 10:01:11 -0400</pubDate>
   </item>
 </channel>
 </rss>
