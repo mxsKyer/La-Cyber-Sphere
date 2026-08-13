@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] France VAE : identités, parcours professionnels et données de financement exposés après un incident de sécurité</title>
+    <link>https://www.cyberattaque.org/france-vae-identites-parcours-professionnels-et-donnees-de-financement-exposes-apres-un-incident-de-securite/</link>
+    <description>Le portail gouvernemental France VAE, accessible notamment via vae.gouv.fr, informe ses utilisateurs d’un incident de sécurité survenu le...
+L’article France VAE : identités, parcours professionnels et données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 13 Aug 2026 12:08:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WhatsApp rolls out new feature that flags potential scam messages</title>
+    <link>https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/</link>
+    <description>WhatsApp has begun rolling out a new optional "Scam Alert" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 07:50:22 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Attackers Exploit SharePoint Authentication Bypass After Public PoC Release</title>
     <link>https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html</link>
     <description>Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code.
@@ -177,29 +192,6 @@ L’article 678 438 lignes de données fiscales de Français en fuite après le�
     <description>Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 08:25:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA gives federal agencies two weeks to patch Microsoft bug exploited in DPRK campaign</title>
-    <link>https://therecord.media/cisa-gives-federal-agencies-two-weeks-to-patch-dprk-microsoft-bug</link>
-    <description>Researchers disclosed the bug to Microsoft after examining a long-running campaign by North Korean hackers to exploit the job application process.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 12 Aug 2026 12:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning</title>
-    <link>https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html</link>
-    <description>A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 17:17:38 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Enterprise Defenses Recovered at the Edge and Collapsed Inside</title>
-    <link>https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html</link>
-    <description>Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none.
-
-According to Picus Labs' new Blue Report 2026, which measured more than 338 million real…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 17:11:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
