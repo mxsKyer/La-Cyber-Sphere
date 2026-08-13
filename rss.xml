@@ -215,28 +215,5 @@ According to Picus Labs' new Blue Report 2026, which measured more than 338 mill
     <source>The Hacker News</source>
     <pubDate>Wed, 12 Aug 2026 16:43:03 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/</link>
-    <description>Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldBreak" after Microsoft released the August 2026 Patch Tuesday security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 06:15:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Santé publique France visée par une cyberattaque ?</title>
-    <link>https://www.zataz.com/sante-publique-france-visee-par-une-cyberattaque/</link>
-    <description>Santé publique France visée par une intrusion revendiquée, avec élévation de privilèges et accès administrateur.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 12 Aug 2026 09:27:54 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access</title>
-    <link>https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html</link>
-    <description>Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO.
-
-The vulnerability in question is CVE-2026-59310 (CVSS score:…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 12 Aug 2026 14:31:54 +0530</pubDate>
-  </item>
 </channel>
 </rss>
