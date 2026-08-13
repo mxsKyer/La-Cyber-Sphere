@@ -6,6 +6,48 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Flock tightens privacy controls amid scandals over officer abuse</title>
+    <link>https://therecord.media/flock-safety-audit-assistance-police-departments</link>
+    <description>All Flock Safety customers will be required to adopt its "Audit Assistance" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 13 Aug 2026 16:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Magento visé quelques heures après la divulgation d’un correctif</title>
+    <link>https://www.zataz.com/magento-vise-quelques-heures-apres-la-divulgation-dun-correctif/</link>
+    <description>Magento : le logiciel ciblé quelques heures après la divulgation d'une faille, avec un risque d’accès aux comptes clients.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 16:42:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical VMware vCenter RCE flaw exploited for reverse SSH access</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/</link>
+    <description>A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 12:40:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] VMware vCenter : des serveurs français compromis</title>
+    <link>https://www.zataz.com/vmware-vcenter-des-serveurs-francais-compromis/</link>
+    <description>VMware vCenter : CVE-2026-59310 est exploitée activement, avec plus de 360 IP victimes, dont en France.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 16:31:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ghost Tap : une fraude NFC signalée depuis Pattaya</title>
+    <link>https://www.zataz.com/ghost-tap-une-fraude-nfc-signalee-depuis-pattaya/</link>
+    <description>À Pattaya, un lecteur de ZATAZ signale une fraude NFC. Son histoire éclaire la menace Ghost Tap suivie par l’EPC.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 16:20:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Mirai variant adds stealth capabilities to notorious botnet code</title>
+    <link>https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</link>
+    <description>Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 13 Aug 2026 15:52:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Maisons du Monde : une fuite au timing troublant</title>
     <link>https://www.zataz.com/maisons-du-monde-une-fuite-au-timing-troublant/</link>
     <description>Une fuite attribuée à Maisons du Monde apparaît avant une période financière critique. Le timing du pirate interroge.</description>
@@ -177,20 +219,6 @@ L’article Chrome : 737 faux VPN détournent le trafic de 75 000+ utilisateurs 
 L’article Son-Video.com frappé une nouvelle fois par une cyberattaque : 10 382…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 12 Aug 2026 17:16:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Plug and Pwn attack uses fake USB devices for Windows SYSTEM access</title>
-    <link>https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/</link>
-    <description>Security researchers have disclosed new "Plug and Pwn" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 12:05:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Lazarus hackers exploited Windows zero-day to target defense firms</title>
-    <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/</link>
-    <description>North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 11:38:08 -0400</pubDate>
   </item>
 </channel>
 </rss>
