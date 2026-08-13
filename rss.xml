@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Scalingo : les données de 90 000 personnes volées via une faille critique de Metabase</title>
+    <link>https://www.cyberattaque.org/scalingo-les-donnees-de-90-000-personnes-volees-via-une-faille-critique-de-metabase/</link>
+    <description>Scalingo confirme une fuite de données concernant environ 90 000 personnes après la compromission de son instance interne...
+L’article Scalingo : les données de 90 000 personnes volées via une faille critique de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 13 Aug 2026 18:42:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fisc : un accès illégitime confirmé a exposé des données</title>
+    <link>https://www.zataz.com/fisc-un-acces-illegitime-confirme-a-expose-des-donnees/</link>
+    <description>Cyberattaque contre la DGFiP : données extraites, des milliers de victimes évoquées et une seconde fuite revendiquée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 18:38:26 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] EVA.gg : 20 274 comptes exposés quelques jours après une première fuite</title>
     <link>https://www.cyberattaque.org/eva-gg-nantes-cyberattaque/</link>
     <description>EVA (Esports Virtual Arenas) fait face à une nouvelle revendication de fuite de données, quelques jours seulement après...
@@ -233,20 +248,6 @@ The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…</des
     <description>Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 12 Aug 2026 16:54:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hundreds of fake Chrome VPN extensions route traffic through a proxy</title>
-    <link>https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/</link>
-    <description>More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 12 Aug 2026 14:54:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Drones IA : l’angle mort de la vie privée</title>
-    <link>https://www.zataz.com/drones-ia-langle-mort-de-la-vie-privee/</link>
-    <description>Drones IA : collecte, conservation et floutage soulèvent des enjeux majeurs de vie privée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 12 Aug 2026 18:40:25 +0000</pubDate>
   </item>
 </channel>
 </rss>
