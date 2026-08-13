@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ArtNexus : une fuite expose le marché international de l’art</title>
+    <link>https://www.zataz.com/artnexus-une-fuite-expose-le-marche-international-de-lart/</link>
+    <description>Une base de données attribuée à ArtNexus, spécialiste international de l'art, aurait exposé des comptes utilisateurs, transactions et coordonnées personnelles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 01:15:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Des accès superadmin exposent 27 sites français</title>
+    <link>https://www.zataz.com/des-acces-superadmin-exposent-27-sites-francais/</link>
+    <description>Un pirate revendique un accès superadmin à 27 sites français et multiplie les publications de bases de données compromises.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 01:00:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hôtelerie : encore un hôtel de luxe piraté ?</title>
+    <link>https://www.zataz.com/hotelerie-encore-un-hotel-de-luxe-pirate/</link>
+    <description>L'hôtellerie de Luxe impactée par une intrusion informatique. Un hacker annonce des milliers de documents clients et salariés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 00:25:57 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Impots.gouv.fr : un pirate revendique une intrusion</title>
     <link>https://www.zataz.com/impots-gouv-fr-un-pirate-revendique-une-intrusion/</link>
     <description>Un pirate revendique plus de 600 000 données exfiltrée d’impots.gouv.fr. Des informations fiscales exploitables pour des fraudes ciblées dans la nature ?</description>
@@ -273,13 +294,6 @@ L’article Leroch Distribution : 3,3 Go de données publiées après le piratag
 L’article LaSante.net : noms, adresses et e-mails de clients consultés après une cyberattaque est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 12 Aug 2026 04:57:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/</link>
-    <description>Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 11 Aug 2026 21:15:55 -0400</pubDate>
   </item>
 </channel>
 </rss>
