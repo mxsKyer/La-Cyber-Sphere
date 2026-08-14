@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] How Anthropic plans to watermark Claude's AI-generated text</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/</link>
+    <description>It could soon become easier to identify AI-generated content, even if it's not the usual "It's Not X, it's Y" type of post you'd come across on LinkedIn and other socials. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 19:24:17 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Lebonmateriel.fr : 13,8 Go et 48 290 fichiers diffusés après le piratage de son compte BlgCloud</title>
     <link>https://www.cyberattaque.org/lebonmateriel-fr-138-go-et-48-290-fichiers-diffuses-apres-le-piratage-de-son-compte-blgcloud/</link>
     <description>La série de fuites liée à la compromission revendiquée de BlgCloud continue. ChimeraZ publie désormais les données associées...
@@ -118,13 +125,6 @@ L’article DGFiP : une 2ème cyberattaque revendiquée, plus de 2 millions de p
     <description>Bonjour à toutes et tous.  Cette semaine, ZATAZ suit une série dense de fuites, intrusions et campagnes de phishing touchant notamment Steam, Cars.no, MyPhoto, la FF Handball, Maisons du Monde, ArtNexus, Santé publique…</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 13 Aug 2026 23:56:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cl0p industrialise ses attaques via PTC Windchill</title>
-    <link>https://www.zataz.com/cl0p-industrialise-ses-attaques-via-ptc-windchill/</link>
-    <description>Cl0p revendique près de 50 entreprises après l’exploitation présumée d’une faille critique dans PTC Windchill et FlexPLM.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 23:14:12 +0000</pubDate>
   </item>
 </channel>
 </rss>
