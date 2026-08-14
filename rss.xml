@@ -118,19 +118,5 @@ L’article DGFiP : une 2ème cyberattaque revendiquée, plus de 2 millions de p
     <source>ZATAZ</source>
     <pubDate>Thu, 13 Aug 2026 23:14:12 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Ukraine shuts down 94 fraudulent call centers, seize millions in cash</title>
-    <link>https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/</link>
-    <description>Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 17:12:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt</title>
-    <link>https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/</link>
-    <description>An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 16:47:02 -0400</pubDate>
-  </item>
 </channel>
 </rss>
