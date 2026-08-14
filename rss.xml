@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Who’s Tracking You? Use This New Service to Find Out</title>
+    <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
+    <description>It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Fri, 14 Aug 2026 11:24:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] RingCentral data breach exposed info of 1.6 million accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/</link>
+    <description>The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 06:52:05 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] EVA visée par une nouvelle fuite de données, le pirate génére 1 million d’euros de cartes cadeaux !</title>
     <link>https://www.zataz.com/eva-visee-par-une-nouvelle-fuite-de-donnees/</link>
     <description>Une nouvelle base attribuée à un professionnel des jeux VR expose clients et plusieurs catégories de données sensibles.</description>
@@ -233,13 +247,6 @@ L’article Chupin SARL : 16 Go et plus de 70 000 fichiers publiés après le pi
 L’article France VAE : identités, parcours professionnels et données de…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 13 Aug 2026 12:08:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WhatsApp rolls out new feature that flags potential scam messages</title>
-    <link>https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/</link>
-    <description>WhatsApp has begun rolling out a new optional "Scam Alert" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 07:50:22 -0400</pubDate>
   </item>
 </channel>
 </rss>
