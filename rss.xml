@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Hackers exploit macOS Screen Sharing flaw to deploy Monero miner</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/</link>
+    <description>The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 10:59:55 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI</title>
     <link>https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</link>
     <description>Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover…</description>
@@ -218,27 +225,6 @@ L’article Chupin SARL : 16 Go et plus de 70 000 fichiers publiés après le pi
     <description>À Pattaya, un lecteur de ZATAZ signale une fraude NFC. Son histoire éclaire la menace Ghost Tap suivie par l’EPC.</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 13 Aug 2026 16:20:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Mirai variant adds stealth capabilities to notorious botnet code</title>
-    <link>https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</link>
-    <description>Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 13 Aug 2026 15:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Maisons du Monde : une fuite au timing troublant</title>
-    <link>https://www.zataz.com/maisons-du-monde-une-fuite-au-timing-troublant/</link>
-    <description>Une fuite attribuée à Maisons du Monde apparaît avant une période financière critique. Le timing du pirate interroge.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 15:15:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Trezor discloses data breach affecting nearly 14,000 customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/</link>
-    <description>Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 11:13:19 -0400</pubDate>
   </item>
 </channel>
 </rss>
