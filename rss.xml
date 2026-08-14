@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</link>
+    <description>Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Max severity SAP Commerce Cloud flaw now targeted in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/</link>
+    <description>A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 09:45:18 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] France investigates tax authority breach after hacker claims 600,000 victims</title>
     <link>https://therecord.media/french-tax-authority-dgfip-confirms-data-breach</link>
     <description>French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.</description>
@@ -225,34 +239,6 @@ L’article Chupin SARL : 16 Go et plus de 70 000 fichiers publiés après le pi
     <description>Hardware wallet manufacturer Trezor disclosed a data breach affecting nearly 14,000 of its customers after ShipMonk, its shipping provider and logistics partner, got hacked. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 13 Aug 2026 11:13:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion</title>
-    <link>https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/</link>
-    <description>AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Brazil orders Discord to suspend livestreaming after teen suicide</title>
-    <link>https://therecord.media/discord-brazil-orders-suspension-livestreaming</link>
-    <description>Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to  suspend the streaming technology.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 13 Aug 2026 13:37:32 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] White House taps security firms for offensive hack-back operations</title>
-    <link>https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/</link>
-    <description>A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 13 Aug 2026 09:30:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trump taps cyber firms to go on offensive against criminals</title>
-    <link>https://therecord.media/trump-cyber-crime-offensive</link>
-    <description>The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
