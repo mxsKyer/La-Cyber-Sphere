@@ -125,28 +125,5 @@ L’article DGFiP : une 2ème cyberattaque revendiquée, plus de 2 millions de p
     <source>BleepingComputer</source>
     <pubDate>Thu, 13 Aug 2026 16:47:02 -0400</pubDate>
   </item>
-  <item>
-    <title>[Critique] Scalingo : les données de 90 000 personnes volées via une faille critique de Metabase</title>
-    <link>https://www.cyberattaque.org/scalingo-les-donnees-de-90-000-personnes-volees-via-une-faille-critique-de-metabase/</link>
-    <description>Scalingo confirme une fuite de données concernant environ 90 000 personnes après la compromission de son instance interne...
-L’article Scalingo : les données de 90 000 personnes volées via une faille critique de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 13 Aug 2026 18:42:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fisc : un accès illégitime confirmé a exposé des données</title>
-    <link>https://www.zataz.com/fisc-un-acces-illegitime-confirme-a-expose-des-donnees/</link>
-    <description>Cyberattaque contre la DGFiP : données extraites, des milliers de victimes évoquées et une seconde fuite revendiquée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 18:38:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] EVA.gg : 20 274 comptes exposés quelques jours après une première fuite</title>
-    <link>https://www.cyberattaque.org/eva-gg-nantes-cyberattaque/</link>
-    <description>EVA (Esports Virtual Arenas) fait face à une nouvelle revendication de fuite de données, quelques jours seulement après...
-L’article EVA.gg : 20 274 comptes exposés quelques jours après une première fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 13 Aug 2026 18:28:24 +0000</pubDate>
-  </item>
 </channel>
 </rss>
