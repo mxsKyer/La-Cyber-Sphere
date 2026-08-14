@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] France investigates tax authority breach after hacker claims 600,000 victims</title>
+    <link>https://therecord.media/french-tax-authority-dgfip-confirms-data-breach</link>
+    <description>French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 14 Aug 2026 13:14:15 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Shell investigates 'potential incident' after Clop data theft claims</title>
+    <link>https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/</link>
+    <description>Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 14 Aug 2026 07:55:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberharcèlement : la Belgique prépare un bannissement numérique</title>
+    <link>https://www.zataz.com/cyberharcelement-la-belgique-prepare-un-bannissement-numerique/</link>
+    <description>La Belgique prépare un bannissement numérique contre le cyberharcèlement, avec identification judiciaire et contrôle des comptes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 14 Aug 2026 11:54:50 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Who’s Tracking You? Use This New Service to Find Out</title>
     <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
     <description>It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily…</description>
@@ -232,21 +253,6 @@ L’article Chupin SARL : 16 Go et plus de 70 000 fichiers publiés après le pi
     <description>The Trump administration will allow private companies to launch attacks on cybercrime organizations, the White House announced.</description>
     <source>The Record</source>
     <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Germany moves to give spy agencies hacking and sabotage powers</title>
-    <link>https://therecord.media/germany-spy-agency-powers</link>
-    <description>Germany’s cabinet approved legislation that would let its intelligence agencies hack foreign systems, sabotage adversaries’ supply chains and feed false information to extremists inside Germany, in the biggest overhaul…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 13 Aug 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France VAE : identités, parcours professionnels et données de financement exposés après un incident de sécurité</title>
-    <link>https://www.cyberattaque.org/france-vae-identites-parcours-professionnels-et-donnees-de-financement-exposes-apres-un-incident-de-securite/</link>
-    <description>Le portail gouvernemental France VAE, accessible notamment via vae.gouv.fr, informe ses utilisateurs d’un incident de sécurité survenu le...
-L’article France VAE : identités, parcours professionnels et données de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 13 Aug 2026 12:08:59 +0000</pubDate>
   </item>
 </channel>
 </rss>
