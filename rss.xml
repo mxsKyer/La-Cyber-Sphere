@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks</title>
+    <link>https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/</link>
+    <description>You're not alone if you just received an "Apple Threat Notification" saying it detected a "mercenary spyware attack targeted at your iPhone." [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 13 Aug 2026 21:19:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber actualités ZATAZ de la semaine du 10 au 16 août 2026</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-de-la-semaine-du-10-au-16-aout-2026/</link>
+    <description>Bonjour à toutes et tous.  Cette semaine, ZATAZ suit une série dense de fuites, intrusions et campagnes de phishing touchant notamment Steam, Cars.no, MyPhoto, la FF Handball, Maisons du Monde, ArtNexus, Santé publique…</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 13 Aug 2026 23:56:28 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cl0p industrialise ses attaques via PTC Windchill</title>
     <link>https://www.zataz.com/cl0p-industrialise-ses-attaques-via-ptc-windchill/</link>
     <description>Cl0p revendique près de 50 entreprises après l’exploitation présumée d’une faille critique dans PTC Windchill et FlexPLM.</description>
@@ -213,27 +227,6 @@ L’article France VAE : identités, parcours professionnels et données de…</
 The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 13 Aug 2026 11:39:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ArtNexus : une fuite expose le marché international de l’art</title>
-    <link>https://www.zataz.com/artnexus-une-fuite-expose-le-marche-international-de-lart/</link>
-    <description>Une base de données attribuée à ArtNexus, spécialiste international de l'art, aurait exposé des comptes utilisateurs, transactions et coordonnées personnelles.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 01:15:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Des accès superadmin exposent 27 sites français</title>
-    <link>https://www.zataz.com/des-acces-superadmin-exposent-27-sites-francais/</link>
-    <description>Un pirate revendique un accès superadmin à 27 sites français et multiplie les publications de bases de données compromises.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 01:00:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hôtelerie : encore un hôtel de luxe piraté ?</title>
-    <link>https://www.zataz.com/hotelerie-encore-un-hotel-de-luxe-pirate/</link>
-    <description>L'hôtellerie de Luxe impactée par une intrusion informatique. Un hacker annonce des milliers de documents clients et salariés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 13 Aug 2026 00:25:57 +0000</pubDate>
   </item>
 </channel>
 </rss>
