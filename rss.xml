@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Anthropic confirms Claude is down in major outage affecting multiple services</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
+    <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 16 Aug 2026 18:28:57 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Lenormant : 20,6 Go de données et près de 39 000 fichiers internes diffusés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/lenormant-206-go-de-donnees-et-pres-de-39-000-fichiers-internes-diffuses-apres-une-cyberattaque/</link>
     <description>Lenormant rejoint à son tour la longue liste des entreprises touchées par la compromission de BlgCloud. Le 16...
