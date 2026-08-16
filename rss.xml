@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New AmnesiaStealer macOS malware hijacks browser sessions via remote control</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/</link>
+    <description>A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 16 Aug 2026 11:07:44 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Jone Précision menacé par un ransomware : 18 Go et plus de 12 500 fichiers revendiqués</title>
     <link>https://www.cyberattaque.org/jone-precision-menace-ransomware-cyberattaque/</link>
     <description>Jone Précision est la cible d’une attaque par ransomware revendiquée par le groupe Qilin qui vient de publier...
