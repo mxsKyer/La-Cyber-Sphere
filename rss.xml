@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] SafePal data breach impacts 39,798 customers, stolen info for sale</title>
+    <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
+    <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 16 Aug 2026 19:47:06 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Anthropic confirms Claude is down in major outage affecting multiple services</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
     <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]</description>
