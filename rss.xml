@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Bija Industrie : 693 mails en fuite et 5 109 fichiers internes déjà publiés</title>
+    <link>https://www.cyberattaque.org/bija-industrie-693-mails-en-fuite-et-5-109-fichiers-internes-deja-publies/</link>
+    <description>Bija Industrie est victime d’une cyberattaque avec extorsion revendiquée par le groupe de ransomware MedusaLocker. Les cybercriminels affirment...
+L’article Bija Industrie : 693 mails en fuite et 5 109 fichiers internes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 16 Aug 2026 15:51:30 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] New AmnesiaStealer macOS malware hijacks browser sessions via remote control</title>
     <link>https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/</link>
     <description>A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]</description>
