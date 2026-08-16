@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Large-scale DDoS attacks disrupted Threema secure messaging service</title>
+    <link>https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/</link>
+    <description>Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 16 Aug 2026 13:29:52 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Bija Industrie : 693 mails en fuite et 5 109 fichiers internes déjà publiés</title>
     <link>https://www.cyberattaque.org/bija-industrie-693-mails-en-fuite-et-5-109-fichiers-internes-deja-publies/</link>
     <description>Bija Industrie est victime d’une cyberattaque avec extorsion revendiquée par le groupe de ransomware MedusaLocker. Les cybercriminels affirment...
