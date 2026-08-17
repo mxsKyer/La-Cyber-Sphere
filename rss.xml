@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CVE-2025-62593 — Ray-Project Ray Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-62593</link>
+    <description>Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Certighost and the Privilege Hiding in Your Certificate Authority</title>
+    <link>https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/</link>
+    <description>CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 17 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More</title>
+    <link>https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html</link>
+    <description>The expensive attacks are not always the clever ones.
+
+This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 17 Aug 2026 18:53:51 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Windows Server 2022 reaches end of mainstream support in 60 days</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/</link>
     <description>Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]</description>
