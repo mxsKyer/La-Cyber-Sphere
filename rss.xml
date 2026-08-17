@@ -13,6 +13,21 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Critique] Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
+    <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
+    <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 02:33:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 600 000 sites WordPress menacés par une faille critique dans Forminator Forms</title>
+    <link>https://www.cyberattaque.org/600-000-sites-wordpress-menaces-par-une-faille-critique-dans-forminator-forms/</link>
+    <description>Une faille critique touche Forminator Forms, une extension WordPress utilisée sur plus de 600 000 sites. Référencée CVE-2026-15748,...
+L’article 600 000 sites WordPress menacés par une faille critique dans Forminator…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 17 Aug 2026 20:40:01 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
     <link>https://therecord.media/financial-info-leak-debt-consolidator</link>
     <description>The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.</description>
