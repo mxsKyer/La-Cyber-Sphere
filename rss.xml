@@ -13,6 +13,13 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Faible] Éducation nationale : un pirate annonce une fuite qui exposerait des millions de données</title>
+    <link>https://www.zataz.com/education-nationale-un-pirate-annonce-une-fuite-qui-exposerait-des-millions-de-donnees/</link>
+    <description>Un pirate informatique revendiqué une intrusion dans des systèmes de l’Éducation nationale : élèves et enseignants impactés ?</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 17 Aug 2026 21:41:05 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
     <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
     <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker…</description>
@@ -212,13 +219,6 @@ The attacks involve the exploitation…</description>
     <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be…</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 16 Aug 2026 19:47:06 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic confirms Claude is down in major outage affecting multiple services</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
-    <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 16 Aug 2026 18:28:57 -0400</pubDate>
   </item>
 </channel>
 </rss>
