@@ -13,6 +13,21 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Faible] Cyberattaque à Marennes-Hiers-Brouage : des pirates utilisent les emails de la mairie</title>
+    <link>https://www.cyberattaque.org/cyberattaque-a-marennes-hiers-brouage-des-pirates-utilisent-les-emails-de-la-mairie/</link>
+    <description>La Ville de Marennes-Hiers-Brouage confirme être victime d’une cyberattaque affectant certaines messageries électroniques de la mairie. La collectivité...
+L’article Cyberattaque à Marennes-Hiers-Brouage : des pirates…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 17 Aug 2026 15:05:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft confirms GitHub is down worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</link>
+    <description>GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 17 Aug 2026 10:47:08 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Certighost and the Privilege Hiding in Your Certificate Authority</title>
     <link>https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/</link>
     <description>CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity…</description>
@@ -129,13 +144,6 @@ L’article Lenormant : 20,6 Go de données et près de 39 000 fichiers internes
 L’article Bija Industrie : 693 mails en fuite et 5 109 fichiers internes…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 16 Aug 2026 15:51:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New AmnesiaStealer macOS malware hijacks browser sessions via remote control</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/</link>
-    <description>A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 16 Aug 2026 11:07:44 -0400</pubDate>
   </item>
 </channel>
 </rss>
