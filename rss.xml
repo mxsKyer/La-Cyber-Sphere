@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Philips and GE investigating Clop ransomware data theft claims</title>
+    <link>https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/</link>
+    <description>Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 17 Aug 2026 07:25:02 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] French tax authority data breach affects 678,000 individuals</title>
     <link>https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/</link>
     <description>The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]</description>
@@ -13,11 +20,27 @@
     <pubDate>Mon, 17 Aug 2026 06:09:48 -0400</pubDate>
   </item>
   <item>
+    <title>[Critique] Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies</title>
+    <link>https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html</link>
+    <description>Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 17 Aug 2026 14:59:55 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Microsoft working on Defender patch for ShieldBreak zero-day</title>
     <link>https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/</link>
     <description>Microsoft is working on a security patch for the "ShieldBreak" zero-day vulnerability disclosed last week by security researcher "Nightmare Eclipse" and now tracked as CVE-2026-69414. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 17 Aug 2026 05:05:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware</title>
+    <link>https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html</link>
+    <description>Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).
+
+The attacks involve the exploitation…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 17 Aug 2026 13:06:19 +0530</pubDate>
   </item>
   <item>
     <title>[Élevé] SafePal data breach impacts 39,798 customers, stolen info for sale</title>
@@ -62,14 +85,6 @@ L’article Bija Industrie : 693 mails en fuite et 5 109 fichiers internes…</d
     <description>A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 16 Aug 2026 11:07:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Jone Précision menacé par un ransomware : 18 Go et plus de 12 500 fichiers revendiqués</title>
-    <link>https://www.cyberattaque.org/jone-precision-menace-ransomware-cyberattaque/</link>
-    <description>Jone Précision est la cible d’une attaque par ransomware revendiquée par le groupe Qilin qui vient de publier...
-L’article Jone Précision menacé par un ransomware : 18 Go et plus de 12 500 fichiers revendiqués est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 16 Aug 2026 10:56:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
