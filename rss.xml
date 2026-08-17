@@ -13,12 +13,44 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Élevé] Pokémon Center data breach exposes customer info, cancels some orders</title>
+    <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
+    <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 17 Aug 2026 15:12:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
+    <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
+    <description>Cybersecurity researchers at Wiz&amp;nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&amp;nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 00:14:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</title>
+    <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
+    <description>A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 17 Aug 2026 23:52:09 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] SDE 03 piraté : 4 122 personnes (dont IBAN) en fuite après l’accès à ses bases de données</title>
     <link>https://www.cyberattaque.org/syndicat-departemental-energie-de-lallier-cyberattaque/</link>
     <description>Le Syndicat Départemental d’Énergie de l’Allier (SDE 03) fait l’objet d’une importante revendication de cyberattaque par le collectif...
 L’article SDE 03 piraté : 4 122 personnes (dont IBAN) en fuite après l’accès à ses…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 17 Aug 2026 17:50:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</title>
+    <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
+    <description>Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
+
+Russian…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 17 Aug 2026 23:11:06 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] SamBoat : la plateforme de location de bateaux frappée par une cyberattaque majeure</title>
@@ -158,14 +190,6 @@ The attacks involve the exploitation…</description>
     <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 16 Aug 2026 18:28:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Lenormant : 20,6 Go de données et près de 39 000 fichiers internes diffusés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/lenormant-206-go-de-donnees-et-pres-de-39-000-fichiers-internes-diffuses-apres-une-cyberattaque/</link>
-    <description>Lenormant rejoint à son tour la longue liste des entreprises touchées par la compromission de BlgCloud. Le 16...
-L’article Lenormant : 20,6 Go de données et près de 39 000 fichiers internes diffusés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 16 Aug 2026 18:56:08 +0000</pubDate>
   </item>
 </channel>
 </rss>
