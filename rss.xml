@@ -13,6 +13,20 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Élevé] Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
+    <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
+    <description>The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 17 Aug 2026 16:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Poland probes MyDr healthcare software breach potentially affecting 19 million people</title>
+    <link>https://therecord.media/poland-probes-mydr-healthcare-software-breach</link>
+    <description>MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 17 Aug 2026 16:01:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattaque à Marennes-Hiers-Brouage : des pirates utilisent les emails de la mairie</title>
     <link>https://www.cyberattaque.org/cyberattaque-a-marennes-hiers-brouage-des-pirates-utilisent-les-emails-de-la-mairie/</link>
     <description>La Ville de Marennes-Hiers-Brouage confirme être victime d’une cyberattaque affectant certaines messageries électroniques de la mairie. La collectivité...
@@ -136,14 +150,6 @@ L’article Lenormant : 20,6 Go de données et près de 39 000 fichiers internes
     <description>Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 16 Aug 2026 13:29:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Bija Industrie : 693 mails en fuite et 5 109 fichiers internes déjà publiés</title>
-    <link>https://www.cyberattaque.org/bija-industrie-693-mails-en-fuite-et-5-109-fichiers-internes-deja-publies/</link>
-    <description>Bija Industrie est victime d’une cyberattaque avec extorsion revendiquée par le groupe de ransomware MedusaLocker. Les cybercriminels affirment...
-L’article Bija Industrie : 693 mails en fuite et 5 109 fichiers internes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 16 Aug 2026 15:51:30 +0000</pubDate>
   </item>
 </channel>
 </rss>
