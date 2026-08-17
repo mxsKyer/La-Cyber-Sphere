@@ -13,6 +13,21 @@
     <pubDate>2026-08-18</pubDate>
   </item>
   <item>
+    <title>[Faible] SamBoat : la plateforme de location de bateaux frappée par une cyberattaque majeure</title>
+    <link>https://www.cyberattaque.org/samboat-la-plateforme-de-location-de-bateaux-frappee-par-une-cyberattaque-majeure/</link>
+    <description>SamBoat confirme avoir été victime d’une cyberattaque ayant entraîné la copie de données personnelles. Cette confirmation intervient plus...
+L’article SamBoat : la plateforme de location de bateaux frappée par une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 17 Aug 2026 17:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted</title>
+    <link>https://therecord.media/safepal-crypto-hardware-breach</link>
+    <description>The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
     <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
     <description>The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say…</description>
@@ -143,13 +158,6 @@ The attacks involve the exploitation…</description>
 L’article Lenormant : 20,6 Go de données et près de 39 000 fichiers internes diffusés après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 16 Aug 2026 18:56:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Large-scale DDoS attacks disrupted Threema secure messaging service</title>
-    <link>https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/</link>
-    <description>Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 16 Aug 2026 13:29:52 -0400</pubDate>
   </item>
 </channel>
 </rss>
