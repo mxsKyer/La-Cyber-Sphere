@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Microsoft working on Defender patch for ShieldBreak zero-day</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/</link>
+    <description>Microsoft is working on a security patch for the "ShieldBreak" zero-day vulnerability disclosed last week by security researcher "Nightmare Eclipse" and now tracked as CVE-2026-69414. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 17 Aug 2026 05:05:33 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] SafePal data breach impacts 39,798 customers, stolen info for sale</title>
     <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
     <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be…</description>
