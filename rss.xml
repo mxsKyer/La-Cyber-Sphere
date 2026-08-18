@@ -6,6 +6,30 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Actis Location : factures, devis et RIB de clients exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/actis-location-factures-devis-et-rib-de-clients-exposes-apres-une-cyberattaque/</link>
+    <description>Actis Location informe ses clients d’un incident de sécurité ayant affecté l’un des outils informatiques utilisés pour la...
+L’article Actis Location : factures, devis et RIB de clients exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 19:30:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gedimat piraté : les coordonnées de clients web exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/gedimat-pirate-les-coordonnees-de-clients-web-exposees-apres-une-cyberattaque/</link>
+    <description>Le 11 août, Gedimat à informé ses clients avoir été victime d’un acte de cybermalveillance ayant touché une...
+L’article Gedimat piraté : les coordonnées de clients web exposées après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 19:27:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] KparK : ses fichiers de prospection touchés par le piratage de Bloctel</title>
+    <link>https://www.cyberattaque.org/kpark-ses-fichiers-de-prospection-touches-par-le-piratage-de-bloctel/</link>
+    <description>Une nouvelle pièce permet peut-être de mieux comprendre l&amp;#8217;origine de la fuite de 3 millions de numéros de...
+L’article KparK : ses fichiers de prospection touchés par le piratage de Bloctel est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 19:12:40 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] More than 200 victims of Medusa ransomware identified over the last year, CISA says</title>
     <link>https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa</link>
     <description>The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA…</description>
@@ -290,13 +314,6 @@ L’article 600 000 sites WordPress menacés par une faille critique dans Formin
     <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 17 Aug 2026 15:35:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Pokémon Center data breach exposes customer info, cancels some orders</title>
-    <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
-    <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 15:12:39 -0400</pubDate>
   </item>
 </channel>
 </rss>
