@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers target Ukrainian agency managing assets seized from sanctioned Russians</title>
+    <link>https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians</link>
+    <description>The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 18 Aug 2026 14:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] DGFiP : 1,8 million de comptes piratés, 3ème fuite pour Bercy</title>
     <link>https://www.cyberattaque.org/dgfip-cadastre-succession-vacantes-3eme-fuite-pour-bercy/</link>
     <description>La série noire continue à la Direction générale des Finances publiques (DGFiP). Après plusieurs jours d’investigations, l’administration reconnaît...
@@ -267,21 +274,6 @@ L’article SamBoat : la plateforme de location de bateaux frappée par une…</
     <description>MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional…</description>
     <source>The Record</source>
     <pubDate>Mon, 17 Aug 2026 16:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque à Marennes-Hiers-Brouage : des pirates utilisent les emails de la mairie</title>
-    <link>https://www.cyberattaque.org/cyberattaque-a-marennes-hiers-brouage-des-pirates-utilisent-les-emails-de-la-mairie/</link>
-    <description>La Ville de Marennes-Hiers-Brouage confirme être victime d’une cyberattaque affectant certaines messageries électroniques de la mairie. La collectivité...
-L’article Cyberattaque à Marennes-Hiers-Brouage : des pirates…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 17 Aug 2026 15:05:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft confirms GitHub is down worldwide</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</link>
-    <description>GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 10:47:08 -0400</pubDate>
   </item>
 </channel>
 </rss>
