@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Éducation nationale : ZeroBytes revendique le vol de 346 millions de lignes de données</title>
+    <link>https://www.cyberattaque.org/education-nationale-zerobytes-cyberatatque/</link>
+    <description>Une fuite de données d’une ampleur potentiellement exceptionnelle vise désormais l’Éducation nationale. ZeroBytes affirme avoir compromis plusieurs systèmes...
+L’article Éducation nationale : ZeroBytes revendique le vol…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 04:24:28 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2025-62593 — Ray-Project Ray Code Injection Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-62593</link>
     <description>Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.</description>
