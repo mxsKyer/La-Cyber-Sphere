@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE</title>
+    <link>https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+Ray is an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 12:04:20 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Éducation nationale : ZeroBytes revendique le vol de 346 millions de lignes de données</title>
     <link>https://www.cyberattaque.org/education-nationale-zerobytes-cyberatatque/</link>
     <description>Une fuite de données d’une ampleur potentiellement exceptionnelle vise désormais l’Éducation nationale. ZeroBytes affirme avoir compromis plusieurs systèmes...
@@ -211,15 +220,6 @@ This week had plenty of proof. Exposed services got hit, old bugs found fresh us
     <description>Microsoft is working on a security patch for the "ShieldBreak" zero-day vulnerability disclosed last week by security researcher "Nightmare Eclipse" and now tracked as CVE-2026-69414. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 17 Aug 2026 05:05:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware</title>
-    <link>https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html</link>
-    <description>Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT).
-
-The attacks involve the exploitation…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 13:06:19 +0530</pubDate>
   </item>
 </channel>
 </rss>
