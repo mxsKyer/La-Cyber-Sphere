@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Belgique : 148 251 profils exposés par un pirate</title>
+    <link>https://www.zataz.com/belgique-148-251-profils-exposes-par-un-pirate/</link>
+    <description>Une base belge piratée de 148 251 profils, avec IBAN et données personnelles, aurait été exposée selon un pirate sans authentification.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 18 Aug 2026 12:38:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SpyGuard et MVT traquent les spywares mobiles</title>
+    <link>https://www.zataz.com/spyguard-et-mvt-traquent-les-spywares-mobiles/</link>
+    <description>SpyGuard et MVT aident à rechercher des traces de spyware sur smartphones grâce au réseau et à l’analyse forensique.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 18 Aug 2026 12:27:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets</title>
+    <link>https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html</link>
+    <description>Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
+
+OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 17:10:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025</title>
+    <link>https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html</link>
+    <description>A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft tests faster Windows File Explorer, new context menu</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/</link>
     <description>Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]</description>
@@ -223,27 +253,6 @@ L’article Cyberattaque à Marennes-Hiers-Brouage : des pirates…</description
 This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 17 Aug 2026 18:53:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows Server 2022 reaches end of mainstream support in 60 days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/</link>
-    <description>Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 08:33:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes</title>
-    <link>https://therecord.media/russia-wildberries-cyberattack-ukraine</link>
-    <description>Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 17 Aug 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How MCP Servers Can Expose Enterprise Secrets</title>
-    <link>https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html</link>
-    <description>MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 17:28:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
