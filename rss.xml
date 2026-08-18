@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Taveau : plus de 107 000 fichiers internes diffusés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/taveau-plus-de-107-000-fichiers-internes-diffuses-apres-une-cyberattaque/</link>
+    <description>La série de fuites issue de la compromission de BlgCloud continue de prendre de l’ampleur. Les cybercriminels publient...
+L’article Taveau : plus de 107 000 fichiers internes diffusés après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 16:24:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] University of Texas forced to take systems offline in San Antonio after cyberattack</title>
+    <link>https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio</link>
+    <description>The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones,…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 18 Aug 2026 16:20:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers target Ukrainian agency managing assets seized from sanctioned Russians</title>
     <link>https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians</link>
     <description>The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.</description>
@@ -260,20 +275,6 @@ L’article SamBoat : la plateforme de location de bateaux frappée par une…</
     <description>The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.</description>
     <source>The Record</source>
     <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
-    <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
-    <description>The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 17 Aug 2026 16:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Poland probes MyDr healthcare software breach potentially affecting 19 million people</title>
-    <link>https://therecord.media/poland-probes-mydr-healthcare-software-breach</link>
-    <description>MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 17 Aug 2026 16:01:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
