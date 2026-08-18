@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard</title>
+    <link>https://www.cyberattaque.org/aastrio-monday-une-ancienne-base-de-donnees-refait-surface-huit-ans-plus-tard/</link>
+    <description>Aastrio, société parisienne de portage salarial opérant notamment sous la marque Monday, est visée par une fuite de...
+L’article Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 20:31:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Comcast turns your Xfinity WiFi into a home motion detector</title>
+    <link>https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/</link>
+    <description>Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 16:14:58 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Clenet : des pirates exploitent une faille de son extranet et accèdent aux données clients et fournisseurs</title>
+    <link>https://www.cyberattaque.org/clenet-des-pirates-exploitent-une-faille-de-son-extranet-et-accedent-aux-donnees-clients-et-fournisseurs/</link>
+    <description>Clenet informe ses contacts d’un incident de sécurité ayant affecté son ERP BLG, utilisé notamment pour la gestion...
+L’article Clenet : des pirates exploitent une faille de son extranet et accèdent aux données clients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 19:33:46 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Actis Location : factures, devis et RIB de clients exposés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/actis-location-factures-devis-et-rib-de-clients-exposes-apres-une-cyberattaque/</link>
     <description>Actis Location informe ses clients d’un incident de sécurité ayant affecté l’un des outils informatiques utilisés pour la...
@@ -300,20 +323,6 @@ L’article Éducation nationale : ZeroBytes revendique le vol…</description>
 L’article 600 000 sites WordPress menacés par une faille critique dans Forminator…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 17 Aug 2026 20:40:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
-    <link>https://therecord.media/financial-info-leak-debt-consolidator</link>
-    <description>The breach affected anyone who received a loan through the company or inquired about a loan product through a third party.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 17 Aug 2026 20:05:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hacker claims 3.6 million Azure account records stolen from major companies</title>
-    <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
-    <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 15:35:01 -0400</pubDate>
   </item>
 </channel>
 </rss>
