@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft tests faster Windows File Explorer, new context menu</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/</link>
+    <description>Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 07:14:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Foodtrack : une cyberattaque expose les données de 1 197 utilisateurs</title>
+    <link>https://www.cyberattaque.org/foodtrack-une-cyberattaque-expose-les-donnees-de-1-197-utilisateurs/</link>
+    <description>La plateforme française Foodtrack.fr fait l’objet d’une revendication de cyberattaque publiée le 18 août 2026. Un acteur malveillant...
+L’article Foodtrack : une cyberattaque expose les données de 1 197 utilisateurs est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 18 Aug 2026 11:00:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA: Windows Task Host flaw now exploited by ransomware gangs</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 06:32:16 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fuite fiscale, pas panique !</title>
     <link>https://www.zataz.com/fuite-fiscale-pas-panique/</link>
     <description>Fuite DGFiP : pas de panique. Pourquoi vos réactions publiques peuvent aider les pirates à cibler leurs futures campagnes de phishing.</description>
@@ -58,6 +80,13 @@ L’article Éducation nationale : ZeroBytes revendique le vol…</description>
     <description>Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ukrainian software developer faces 12 years in Swiss ransomware trial</title>
+    <link>https://therecord.media/ukrainian-software-developer-court-switzerland</link>
+    <description>The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 17 Aug 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Faible] Éducation nationale : un pirate annonce une fuite qui exposerait des millions de données</title>
@@ -215,20 +244,6 @@ This week had plenty of proof. Exposed services got hit, old bugs found fresh us
     <description>MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 17 Aug 2026 17:28:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Philips and GE investigating Clop ransomware data theft claims</title>
-    <link>https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/</link>
-    <description>Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 07:25:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access</title>
-    <link>https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html</link>
-    <description>Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 16:22:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
