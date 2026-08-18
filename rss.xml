@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft starts removing WMIC tool used by cybercriminals</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/</link>
+    <description>Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 04:12:08 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE</title>
     <link>https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
