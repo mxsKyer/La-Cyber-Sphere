@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Clop created custom web shell for Windchill data theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</link>
+    <description>A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 13:29:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Berlin cuts two state ministries off government network after security breach</title>
+    <link>https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach</link>
+    <description>The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 18 Aug 2026 16:40:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Taveau : plus de 107 000 fichiers internes diffusés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/taveau-plus-de-107-000-fichiers-internes-diffuses-apres-une-cyberattaque/</link>
     <description>La série de fuites issue de la compromission de BlgCloud continue de prendre de l’ampleur. Les cybercriminels publient...
@@ -172,6 +186,34 @@ L’article Éducation nationale : ZeroBytes revendique le vol…</description>
     <pubDate>Tue, 18 Aug 2026 04:24:28 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-65400 — Apple macOS Improper Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-65400</link>
+    <description>Apple macOS contains an improper authentication vulnerability that could allow an attacker on the network to authenticate to Screen Sharing without valid credentials.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-55040 — Microsoft SharePoint Weak Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-55040</link>
+    <description>Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-59310 — Broadcom VMware vCenter Path Traversal Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-59310</link>
+    <description>Broadcom VMware vCenter contains a path traversal vulnerability which could allow a threat actor with network access to vCenter to execute arbitrary code.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-33824</link>
+    <description>Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-18</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2025-62593 — Ray-Project Ray Code Injection Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-62593</link>
     <description>Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.</description>
@@ -260,21 +302,6 @@ L’article SDE 03 piraté : 4 122 personnes (dont IBAN) en fuite après l’acc
 Russian…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 17 Aug 2026 23:11:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SamBoat : la plateforme de location de bateaux frappée par une cyberattaque majeure</title>
-    <link>https://www.cyberattaque.org/samboat-la-plateforme-de-location-de-bateaux-frappee-par-une-cyberattaque-majeure/</link>
-    <description>SamBoat confirme avoir été victime d’une cyberattaque ayant entraîné la copie de données personnelles. Cette confirmation intervient plus...
-L’article SamBoat : la plateforme de location de bateaux frappée par une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 17 Aug 2026 17:20:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted</title>
-    <link>https://therecord.media/safepal-crypto-hardware-breach</link>
-    <description>The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
