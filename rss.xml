@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft confirms outage affecting search in Microsoft 365 apps</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/</link>
+    <description>Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 18 Aug 2026 05:24:49 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers</title>
+    <link>https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html</link>
+    <description>SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.
+
+The hardware…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 14:40:45 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft starts removing WMIC tool used by cybercriminals</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/</link>
     <description>Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]</description>
@@ -213,20 +229,6 @@ This week had plenty of proof. Exposed services got hit, old bugs found fresh us
     <description>The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 17 Aug 2026 06:09:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies</title>
-    <link>https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html</link>
-    <description>Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 14:59:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft working on Defender patch for ShieldBreak zero-day</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/</link>
-    <description>Microsoft is working on a security patch for the "ShieldBreak" zero-day vulnerability disclosed last week by security researcher "Nightmare Eclipse" and now tracked as CVE-2026-69414. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 17 Aug 2026 05:05:33 -0400</pubDate>
   </item>
 </channel>
 </rss>
