@@ -6,11 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] More than 200 victims of Medusa ransomware identified over the last year, CISA says</title>
+    <link>https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa</link>
+    <description>The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 18 Aug 2026 18:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps</title>
+    <link>https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html</link>
+    <description>Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 23:17:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets</title>
+    <link>https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html</link>
+    <description>Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 23:14:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Clop created custom web shell for Windchill data theft attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</link>
     <description>A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 18 Aug 2026 13:29:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000</title>
+    <link>https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html</link>
+    <description>A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 18 Aug 2026 22:28:16 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Berlin cuts two state ministries off government network after security breach</title>
@@ -269,39 +297,6 @@ L’article 600 000 sites WordPress menacés par une faille critique dans Formin
     <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA…</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 17 Aug 2026 15:12:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
-    <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
-    <description>Cybersecurity researchers at Wiz&amp;nbsp;have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public&amp;nbsp;snowflakedb/snowflake-connector-net repository that it said could be exploited…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 18 Aug 2026 00:14:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</title>
-    <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
-    <description>A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 23:52:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SDE 03 piraté : 4 122 personnes (dont IBAN) en fuite après l’accès à ses bases de données</title>
-    <link>https://www.cyberattaque.org/syndicat-departemental-energie-de-lallier-cyberattaque/</link>
-    <description>Le Syndicat Départemental d’Énergie de l’Allier (SDE 03) fait l’objet d’une importante revendication de cyberattaque par le collectif...
-L’article SDE 03 piraté : 4 122 personnes (dont IBAN) en fuite après l’accès à ses…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 17 Aug 2026 17:50:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</title>
-    <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
-    <description>Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel.
-
-Russian…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 17 Aug 2026 23:11:06 +0530</pubDate>
   </item>
 </channel>
 </rss>
