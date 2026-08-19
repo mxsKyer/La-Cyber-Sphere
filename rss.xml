@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Stripe visé par une fuite revendiquée de 662 bases de données !</title>
+    <link>https://www.zataz.com/stripe-vise-par-une-fuite-revendiquee-de-662-bases-de-donnees/</link>
+    <description>Stripe est visé par une fuite revendiquée avec, selon le pirate, clés API et des données clients sensibles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 19 Aug 2026 07:20:08 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard</title>
     <link>https://www.cyberattaque.org/aastrio-monday-une-ancienne-base-de-donnees-refait-surface-huit-ans-plus-tard/</link>
     <description>Aastrio, société parisienne de portage salarial opérant notamment sous la marque Monday, est visée par une fuite de...
