@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US charges Iranians for sprawling hacking campaign on government agencies, universities</title>
+    <link>https://therecord.media/iran-cyberattacks-us-doj</link>
+    <description>The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 19 Aug 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data</title>
     <link>https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html</link>
     <description>Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents,…</description>
@@ -225,45 +232,6 @@ L’article DGFiP : 1,8 million de comptes piratés, 3ème fuite pour…</descri
     <description>Un casino en ligne aurait exposé 16,9 millions d’entrées, révélant joueurs, bots, portefeuilles et infrastructure Web3.</description>
     <source>ZATAZ</source>
     <pubDate>Tue, 18 Aug 2026 13:13:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Belgique : 148 251 profils exposés par un pirate</title>
-    <link>https://www.zataz.com/belgique-148-251-profils-exposes-par-un-pirate/</link>
-    <description>Une base belge piratée de 148 251 profils, avec IBAN et données personnelles, aurait été exposée selon un pirate sans authentification.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 18 Aug 2026 12:38:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files</title>
-    <link>https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html</link>
-    <description>Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 18 Aug 2026 18:08:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks</title>
-    <link>https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html</link>
-    <description>Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT.
-
-"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 18 Aug 2026 18:08:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SpyGuard et MVT traquent les spywares mobiles</title>
-    <link>https://www.zataz.com/spyguard-et-mvt-traquent-les-spywares-mobiles/</link>
-    <description>SpyGuard et MVT aident à rechercher des traces de spyware sur smartphones grâce au réseau et à l’analyse forensique.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 18 Aug 2026 12:27:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] 16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets</title>
-    <link>https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html</link>
-    <description>Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer.
-
-OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 18 Aug 2026 17:10:06 +0530</pubDate>
   </item>
 </channel>
 </rss>
