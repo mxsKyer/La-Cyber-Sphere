@@ -6,11 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs</title>
+    <link>https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html</link>
+    <description>A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.
+
+The intrusion set makes use of seven remote access tool (RAT) families, five of which…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 18:42:17 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] US charges Iranians for sprawling hacking campaign on government agencies, universities</title>
     <link>https://therecord.media/iran-cyberattacks-us-doj</link>
     <description>The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.</description>
     <source>The Record</source>
     <pubDate>Wed, 19 Aug 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P</title>
+    <link>https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html</link>
+    <description>Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 17:04:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Phishing 3.0: The Fight Moves to Agent Versus Agent</title>
+    <link>https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html</link>
+    <description>Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 17:00:00 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data</title>
@@ -225,13 +248,6 @@ L’article DGFiP : 1,8 million de comptes piratés, 3ème fuite pour…</descri
     <description>Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 18 Aug 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Intraverse : 16,9 millions d’entrées exposées</title>
-    <link>https://www.zataz.com/intraverse-169-millions-dentrees-exposees/</link>
-    <description>Un casino en ligne aurait exposé 16,9 millions d’entrées, révélant joueurs, bots, portefeuilles et infrastructure Web3.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 18 Aug 2026 13:13:59 +0000</pubDate>
   </item>
 </channel>
 </rss>
