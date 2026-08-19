@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical RCE flaw in Windows IKE Extension now actively exploited</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 06:12:24 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in 2 months</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/</link>
     <description>Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]</description>
@@ -240,20 +247,6 @@ OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking
 L’article Foodtrack : une cyberattaque expose les données de 1 197 utilisateurs est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 18 Aug 2026 11:00:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: Windows Task Host flaw now exploited by ransomware gangs</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a high-severity Windows Task Host vulnerability that was flagged as actively exploited in April.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 18 Aug 2026 06:32:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fuite fiscale, pas panique !</title>
-    <link>https://www.zataz.com/fuite-fiscale-pas-panique/</link>
-    <description>Fuite DGFiP : pas de panique. Pourquoi vos réactions publiques peuvent aider les pirates à cibler leurs futures campagnes de phishing.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 18 Aug 2026 10:21:02 +0000</pubDate>
   </item>
 </channel>
 </rss>
