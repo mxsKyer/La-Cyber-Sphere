@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Rogue ransomware affiliate poses as data recovery firm to steal payments</title>
+    <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/</link>
+    <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 16:59:58 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sakura Internet hack exposes data of up to 1.36 million accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/</link>
+    <description>Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 16:53:38 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
     <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
     <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]</description>
