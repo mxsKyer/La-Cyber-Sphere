@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Klaro : 22 369 utilisateurs exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/klaro-22-369-utilisateurs-exposes-apres-une-cyberattaque/</link>
+    <description>Klaro fait l’objet d’une importante revendication de cyberattaque par le collectif X-VDP-X. L’attaque aurait une nouvelle fois exploité...
+L’article Klaro : 22 369 utilisateurs exposés après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 19 Aug 2026 16:31:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US charges Iranian hackers over $3.4 billion intellectual property theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/</link>
+    <description>The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 11:56:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Philippe Hottinguer Finance ciblé par le ransomware Qilin</title>
+    <link>https://www.cyberattaque.org/philippe-hottinguer-finance-cible-par-le-ransomware-qilin/</link>
+    <description>Philippe Hottinguer Finance apparaît parmi les nouvelles victimes revendiquées par le groupe de ransomware Qilin qui avait récemment...
+L’article Philippe Hottinguer Finance ciblé par le ransomware Qilin est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 19 Aug 2026 15:40:58 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] L’intranet de l’université de Technologie de Tarbes exposé avec les coordonnées de plus de 500 personnes</title>
     <link>https://www.cyberattaque.org/cyberattaque-uttop-intranet-universite-technologie-tarbes/</link>
     <description>L’Université de Technologie de Tarbes Occitanie Pyrénées (UTTOP) fait l’objet d’une revendication de cyberattaque publiée le 19 août...
@@ -226,21 +249,6 @@ L’article KparK : ses fichiers de prospection touchés par le piratage de Bloc
     <description>The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks…</description>
     <source>The Record</source>
     <pubDate>Tue, 18 Aug 2026 16:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Taveau : plus de 107 000 fichiers internes diffusés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/taveau-plus-de-107-000-fichiers-internes-diffuses-apres-une-cyberattaque/</link>
-    <description>La série de fuites issue de la compromission de BlgCloud continue de prendre de l’ampleur. Les cybercriminels publient...
-L’article Taveau : plus de 107 000 fichiers internes diffusés après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 18 Aug 2026 16:24:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] University of Texas forced to take systems offline in San Antonio after cyberattack</title>
-    <link>https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio</link>
-    <description>The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones,…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 18 Aug 2026 16:20:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
