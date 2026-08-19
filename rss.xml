@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Rogue ransomware affiliate poses as recovery firm to steal payments</title>
+    <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/</link>
+    <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 16:59:58 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Rogue ransomware affiliate poses as data recovery firm to steal payments</title>
     <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/</link>
     <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
