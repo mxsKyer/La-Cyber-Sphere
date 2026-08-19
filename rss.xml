@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CISA: Medusa ransomware hit over 500 critical infrastructure orgs</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/</link>
+    <description>The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 04:00:48 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Stripe visé par une fuite revendiquée de 662 bases de données !</title>
     <link>https://www.zataz.com/stripe-vise-par-une-fuite-revendiquee-de-662-bases-de-donnees/</link>
     <description>Stripe est visé par une fuite revendiquée avec, selon le pirate, clés API et des données clients sensibles.</description>
@@ -242,13 +249,6 @@ L’article Foodtrack : une cyberattaque expose les données de 1 197 utilisateu
 The hardware…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 18 Aug 2026 14:40:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft starts removing WMIC tool used by cybercriminals</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/</link>
-    <description>Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 18 Aug 2026 04:12:08 -0400</pubDate>
   </item>
 </channel>
 </rss>
