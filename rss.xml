@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] L’intranet de l’université de Technologie de Tarbes exposé avec les coordonnées de plus de 500 personnes</title>
+    <link>https://www.cyberattaque.org/cyberattaque-uttop-intranet-universite-technologie-tarbes/</link>
+    <description>L’Université de Technologie de Tarbes Occitanie Pyrénées (UTTOP) fait l’objet d’une revendication de cyberattaque publiée le 19 août...
+L’article L’intranet de l’université de Technologie de Tarbes exposé avec les…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 19 Aug 2026 14:28:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Password spraying attacks surge 155x as hackers exploit MFA gaps</title>
+    <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/</link>
+    <description>Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Latvian officials resign after cyberattack exposes data on 1.2 million people</title>
+    <link>https://therecord.media/latvia-cyberattack-vehicle-data</link>
+    <description>Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 19 Aug 2026 13:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs</title>
     <link>https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html</link>
     <description>A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.
@@ -226,28 +248,6 @@ L’article Taveau : plus de 107 000 fichiers internes diffusés après une cybe
     <description>The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages.</description>
     <source>The Record</source>
     <pubDate>Tue, 18 Aug 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DGFiP : 1,8 million de comptes piratés, 3ème fuite pour Bercy</title>
-    <link>https://www.cyberattaque.org/dgfip-cadastre-succession-vacantes-3eme-fuite-pour-bercy/</link>
-    <description>La série noire continue à la Direction générale des Finances publiques (DGFiP). Après plusieurs jours d’investigations, l’administration reconnaît...
-L’article DGFiP : 1,8 million de comptes piratés, 3ème fuite pour…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 18 Aug 2026 14:25:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Éducation nationale : le ministère confirme l’attaque l’Éducation confirme son piratage</title>
-    <link>https://www.zataz.com/le-ministere-de-leducation-confirme-son-piratage/</link>
-    <description>Aprés le Ministére des Finances, le Ministére de l'Éducation confirme un piratage de son informatique. Maintenant à savoir si les informations diffusées par le pirate sont vraies.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 18 Aug 2026 14:07:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Your Controls Block Known Attacks. What About the Behavior?</title>
-    <link>https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/</link>
-    <description>Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 18 Aug 2026 10:01:11 -0400</pubDate>
   </item>
 </channel>
 </rss>
