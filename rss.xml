@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
+    <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
+    <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 16:07:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
+    <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
+    <description>Cybersecurity researchers have disclosed details of a&amp;nbsp;remote Spectre attack&amp;nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 00:32:40 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Electronic health record company CareCloud says 3.7 million people affected by breach</title>
     <link>https://therecord.media/electronic-health-record-company-carecloud-data-breach</link>
     <description>Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s…</description>
@@ -18,6 +32,13 @@
     <description>In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 19 Aug 2026 14:09:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
+    <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
+    <description>OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 23:36:44 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology</title>
@@ -203,29 +224,6 @@ L’article IRD : 7 500 personnes exposées après une intrusion dans son systè
     <description>MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-08-19</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard</title>
-    <link>https://www.cyberattaque.org/aastrio-monday-une-ancienne-base-de-donnees-refait-surface-huit-ans-plus-tard/</link>
-    <description>Aastrio, société parisienne de portage salarial opérant notamment sous la marque Monday, est visée par une fuite de...
-L’article Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 18 Aug 2026 20:31:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Comcast turns your Xfinity WiFi into a home motion detector</title>
-    <link>https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/</link>
-    <description>Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 18 Aug 2026 16:14:58 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Clenet : des pirates exploitent une faille de son extranet et accèdent aux données clients et fournisseurs</title>
-    <link>https://www.cyberattaque.org/clenet-des-pirates-exploitent-une-faille-de-son-extranet-et-accedent-aux-donnees-clients-et-fournisseurs/</link>
-    <description>Clenet informe ses contacts d’un incident de sécurité ayant affecté son ERP BLG, utilisé notamment pour la gestion...
-L’article Clenet : des pirates exploitent une faille de son extranet et accèdent aux données clients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 18 Aug 2026 19:33:46 +0000</pubDate>
   </item>
 </channel>
 </rss>
