@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in 2 months</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/</link>
+    <description>Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 05:10:20 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] CISA: Medusa ransomware hit over 500 critical infrastructure orgs</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/</link>
     <description>The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]</description>
@@ -18,6 +25,20 @@
     <description>Stripe est visé par une fuite revendiquée avec, selon le pirate, clés API et des données clients sensibles.</description>
     <source>ZATAZ</source>
     <pubDate>Wed, 19 Aug 2026 07:20:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure</title>
+    <link>https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html</link>
+    <description>Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 11:31:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data</title>
+    <link>https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html</link>
+    <description>A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM)…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 19 Aug 2026 11:09:25 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Aastrio / Monday : une ancienne base de données refait surface huit ans plus tard</title>
@@ -233,22 +254,6 @@ L’article Foodtrack : une cyberattaque expose les données de 1 197 utilisateu
     <description>Fuite DGFiP : pas de panique. Pourquoi vos réactions publiques peuvent aider les pirates à cibler leurs futures campagnes de phishing.</description>
     <source>ZATAZ</source>
     <pubDate>Tue, 18 Aug 2026 10:21:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft confirms outage affecting search in Microsoft 365 apps</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/</link>
-    <description>Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 18 Aug 2026 05:24:49 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers</title>
-    <link>https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html</link>
-    <description>SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers.
-
-The hardware…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 18 Aug 2026 14:40:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
