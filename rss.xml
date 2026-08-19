@@ -260,40 +260,5 @@ L’article Éducation nationale : ZeroBytes revendique le vol…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 18 Aug 2026 04:24:28 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-65400 — Apple macOS Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-65400</link>
-    <description>Apple macOS contains an improper authentication vulnerability that could allow an attacker on the network to authenticate to Screen Sharing without valid credentials.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-55040 — Microsoft SharePoint Weak Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-55040</link>
-    <description>Microsoft SharePoint contains a weak authentication vulnerability which allows an unauthorized attacker to bypass a security feature over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-59310 — Broadcom VMware vCenter Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-59310</link>
-    <description>Broadcom VMware vCenter contains a path traversal vulnerability which could allow a threat actor with network access to vCenter to execute arbitrary code.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-33824 — Microsoft Internet Key Exchange (IKE) Service Extensions Double Free Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-33824</link>
-    <description>Microsoft Internet Key Exchange (IKE) Service Extensions contains a double free vulnerability that could enable remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2025-62593 — Ray-Project Ray Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-62593</link>
-    <description>Ray-Project Ray contains a code injection vulnerability that could allow remote code execution. Developers using Ray as a development tool may be exposed to this vulnerability exploitable through Firefox and Safari.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-18</pubDate>
-  </item>
 </channel>
 </rss>
