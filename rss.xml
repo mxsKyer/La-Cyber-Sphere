@@ -255,12 +255,5 @@ L’article IRD : 7 500 personnes exposées après une intrusion dans son systè
     <source>The Hacker News</source>
     <pubDate>Wed, 19 Aug 2026 11:31:53 +0530</pubDate>
   </item>
-  <item>
-    <title>[Faible] Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data</title>
-    <link>https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html</link>
-    <description>A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 19 Aug 2026 11:09:25 +0530</pubDate>
-  </item>
 </channel>
 </rss>
