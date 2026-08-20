@@ -283,12 +283,5 @@ L’article Alaxione : 6,8 millions de patients et plus de 10 millions de…</de
     <source>BleepingComputer</source>
     <pubDate>Wed, 19 Aug 2026 16:07:12 -0400</pubDate>
   </item>
-  <item>
-    <title>[Élevé] Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
-    <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
-    <description>Cybersecurity researchers have disclosed details of a&amp;nbsp;remote Spectre attack&amp;nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 00:32:40 +0530</pubDate>
-  </item>
 </channel>
 </rss>
