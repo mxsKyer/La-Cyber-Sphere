@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI confirms ChatGPT is down as logins and signups fail</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/</link>
+    <description>ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 19 Aug 2026 20:20:55 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Rogue ransomware affiliate poses as recovery firm to steal payments</title>
     <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/</link>
     <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
@@ -238,13 +245,6 @@ L’article IRD : 7 500 personnes exposées après une intrusion dans son systè
     <description>A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM)…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 19 Aug 2026 11:09:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-64849 — MLflow Server-Side Request Forgery Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-64849</link>
-    <description>MLflow contains a server-side request forgery vulnerability that can allow attackers to reach internal or cloud metadata services and receive response_status and response_body.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-19</pubDate>
   </item>
 </channel>
 </rss>
