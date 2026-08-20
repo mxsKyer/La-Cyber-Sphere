@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Citrix urges admins to patch new NetScaler flaws as soon as possible</title>
+    <link>https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/</link>
+    <description>Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 08:14:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fuite Stripe : au moins 200 Français concernés</title>
+    <link>https://www.zataz.com/fuite-stripe-au-moins-200-francais-concernes/</link>
+    <description>Fuite Stripe : ZATAZ confirme au moins 200 Français concernés et propose une vérification gratuite et humaine.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 20 Aug 2026 12:04:18 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Capgemini : 722 470 fichiers d’Altran menacés de publication dans 6 jours</title>
     <link>https://www.cyberattaque.org/capgemini-altran-cyberattaque/</link>
     <description>Capgemini est actuellement visé par une opération d’extorsion attribuée au groupe de ransomware Everest. Les cybercriminels affirment détenir...
@@ -227,13 +241,6 @@ L’article L’intranet de l’université de Technologie de Tarbes exposé ave
 The intrusion set makes use of seven remote access tool (RAT) families, five of which…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 19 Aug 2026 18:42:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US charges Iranians for sprawling hacking campaign on government agencies, universities</title>
-    <link>https://therecord.media/iran-cyberattacks-us-doj</link>
-    <description>The Justice Department accused 17 alleged hackers with ties to the Iranian government of breaching email accounts at U.S. government agencies and stealing intellectual property from dozens of universities.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 19 Aug 2026 12:15:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
