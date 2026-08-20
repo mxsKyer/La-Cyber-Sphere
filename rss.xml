@@ -22,6 +22,13 @@ L’article Bergerat Rent : 132 433 fichiers publiés après la compromission de
     <pubDate>Thu, 20 Aug 2026 20:25:42 +0000</pubDate>
   </item>
   <item>
+    <title>[Élevé] Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads</title>
+    <link>https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</link>
+    <description>The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 01:52:35 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
     <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
     <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think…</description>
