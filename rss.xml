@@ -21,6 +21,13 @@ L’article Experts Entreprendre : 2,7 millions de fichiers en fuite…</descrip
     <pubDate>Thu, 20 Aug 2026 10:39:48 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data</title>
+    <link>https://thehackernews.com/2026/08/new-cryptographic-context-injection.html</link>
+    <description>Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 20:06:27 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] How MSPs can catch phishing attacks email filters miss</title>
     <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
     <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain…</description>
@@ -279,21 +286,6 @@ L’article Sport 2000 : ZeroBytes publie 17 851 réservations de son…</descri
 L’article Klaro : 22 369 utilisateurs exposés après une cyberattaque est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 19 Aug 2026 16:31:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US charges Iranian hackers over $3.4 billion intellectual property theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/</link>
-    <description>The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 11:56:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Philippe Hottinguer Finance ciblé par le ransomware Qilin</title>
-    <link>https://www.cyberattaque.org/philippe-hottinguer-finance-cible-par-le-ransomware-qilin/</link>
-    <description>Philippe Hottinguer Finance apparaît parmi les nouvelles victimes revendiquées par le groupe de ransomware Qilin qui avait récemment...
-L’article Philippe Hottinguer Finance ciblé par le ransomware Qilin est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 19 Aug 2026 15:40:58 +0000</pubDate>
   </item>
 </channel>
 </rss>
