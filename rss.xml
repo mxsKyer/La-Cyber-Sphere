@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft says August Windows updates may cause gaming issues</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/</link>
+    <description>Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 02:51:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
+    <link>https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</link>
+    <description>Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.
+
+The vulnerability, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 11:34:34 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Reserver.fr : 19 495 enregistrements diffusés gratuitement après une cyberattaque</title>
     <link>https://www.cyberattaque.org/reserver-fr-19-495-enregistrements-diffuses-gratuitement-apres-une-cyberattaque/</link>
     <description>Reserver.fr, plateforme française spécialisée dans les demandes de réservation de vols, fait l’objet d’une fuite de données. Un...
@@ -247,13 +263,6 @@ L’article IRD : 7 500 personnes exposées après une intrusion dans son systè
     <description>Stripe est visé par une fuite revendiquée avec, selon le pirate, clés API et des données clients sensibles.</description>
     <source>ZATAZ</source>
     <pubDate>Wed, 19 Aug 2026 07:20:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure</title>
-    <link>https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html</link>
-    <description>Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 19 Aug 2026 11:31:53 +0530</pubDate>
   </item>
 </channel>
 </rss>
