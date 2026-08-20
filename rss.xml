@@ -6,11 +6,51 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Experts Entreprendre : 2,7 millions de fichiers en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/experts-entreprendre-27-millions-de-fichiers-en-fuite-apres-une-cyberattaque/</link>
+    <description>Experts Entreprendre, cabinet français d’expertise comptable, d’audit et de conseil, fait l’objet d’une importante revendication de cyberattaque par...
+L’article Experts Entreprendre : 2,7 millions de fichiers en fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 20 Aug 2026 15:01:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Elementor Pro bug exposes WordPress sites to RCE attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/</link>
+    <description>A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 10:39:48 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] How MSPs can catch phishing attacks email filters miss</title>
     <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
     <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 20 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE</title>
+    <link>https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html</link>
+    <description>Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 19:18:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers</title>
+    <link>https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html</link>
+    <description>Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability.
+
+According to the cloud computing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 19:05:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html</link>
+    <description>A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska).
+
+The vulnerability in question is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 18:54:28 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Club One Casino revendiqué par 3AM puis PEAR</title>
@@ -254,14 +294,6 @@ L’article Klaro : 22 369 utilisateurs exposés après une cyberattaque est app
 L’article Philippe Hottinguer Finance ciblé par le ransomware Qilin est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 19 Aug 2026 15:40:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’intranet de l’université de Technologie de Tarbes exposé avec les coordonnées de plus de 500 personnes</title>
-    <link>https://www.cyberattaque.org/cyberattaque-uttop-intranet-universite-technologie-tarbes/</link>
-    <description>L’Université de Technologie de Tarbes Occitanie Pyrénées (UTTOP) fait l’objet d’une revendication de cyberattaque publiée le 19 août...
-L’article L’intranet de l’université de Technologie de Tarbes exposé avec les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 19 Aug 2026 14:28:17 +0000</pubDate>
   </item>
 </channel>
 </rss>
