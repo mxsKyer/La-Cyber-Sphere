@@ -20,6 +20,15 @@
     <pubDate>Thu, 20 Aug 2026 17:33:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Critique] ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More</title>
+    <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
+    <description>A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
+
+Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 22:53:48 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</title>
     <link>https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html</link>
     <description>The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.
@@ -280,27 +289,6 @@ L’article Alaxione : 6,8 millions de patients et plus de 10 millions de…</de
     <description>Cybersecurity researchers have disclosed details of a&amp;nbsp;remote Spectre attack&amp;nbsp;against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 20 Aug 2026 00:32:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Electronic health record company CareCloud says 3.7 million people affected by breach</title>
-    <link>https://therecord.media/electronic-health-record-company-carecloud-data-breach</link>
-    <description>Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 19 Aug 2026 18:10:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers compromise 14,500 Dahua web cameras in 35-day campaign</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/</link>
-    <description>In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 14:09:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
-    <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
-    <description>OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 19 Aug 2026 23:36:44 +0530</pubDate>
   </item>
 </channel>
 </rss>
