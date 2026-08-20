@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New Manic Android malware can exfiltrate data through nearby devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</link>
+    <description>A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 06:02:02 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical Zimbra RCE flaw now actively exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</link>
     <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]</description>
@@ -234,21 +241,6 @@ The…</description>
 L’article WiziShop, Dropizi et Evolup piratés : des factures clients depuis 2009 récupérées par un…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 19 Aug 2026 11:01:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] IRD : 7 500 personnes exposées après une intrusion dans son système d’information</title>
-    <link>https://www.cyberattaque.org/ird-7-500-personnes-exposees-apres-une-intrusion-dans-son-systeme-dinformation/</link>
-    <description>L’Institut de recherche pour le développement (IRD) informe plusieurs milliers de personnes d’une violation de données personnelles après...
-L’article IRD : 7 500 personnes exposées après une intrusion dans son système…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 19 Aug 2026 10:52:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical RCE flaw in Windows IKE Extension now actively exploited</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 06:12:24 -0400</pubDate>
   </item>
 </channel>
 </rss>
