@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical Zimbra RCE flaw now actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</link>
+    <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 05:46:54 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft says August Windows updates may cause gaming issues</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/</link>
     <description>Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]</description>
@@ -242,13 +249,6 @@ L’article IRD : 7 500 personnes exposées après une intrusion dans son systè
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 19 Aug 2026 06:12:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in 2 months</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/</link>
-    <description>Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 05:10:20 -0400</pubDate>
   </item>
 </channel>
 </rss>
