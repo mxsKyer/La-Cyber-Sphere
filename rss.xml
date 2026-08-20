@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Bergerat Rent : 132 433 fichiers publiés après la compromission de son compte BlgCloud</title>
+    <link>https://www.cyberattaque.org/bergerat-rent-132-433-fichiers-publies-apres-la-compromission-de-son-compte-blgcloud/</link>
+    <description>Bergerat Rent est à son tour touché par la série de fuites liée à BlgCloud. ChimeraZ vient de...
+L’article Bergerat Rent : 132 433 fichiers publiés après la compromission de son compte BlgCloud est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 20 Aug 2026 20:25:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
+    <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
+    <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 01:29:19 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware</title>
+    <link>https://therecord.media/china-cyber-espionage-central-asia</link>
+    <description>Suspected military-grade hackers based in China used artificial intelligence to develop malware in a campaign to penetrate Central Asian governments.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 20 Aug 2026 19:30:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Hackers poison arrayref Rust crate to push infostealer malware</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/</link>
     <description>Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]</description>
@@ -275,13 +297,6 @@ L’article Alaxione : 6,8 millions de patients et plus de 10 millions de…</de
     <description>Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 19 Aug 2026 16:53:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
-    <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
-    <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 16:07:12 -0400</pubDate>
   </item>
 </channel>
 </rss>
