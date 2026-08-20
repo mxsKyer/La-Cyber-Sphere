@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] How MSPs can catch phishing attacks email filters miss</title>
+    <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
+    <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 20 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Club One Casino revendiqué par 3AM puis PEAR</title>
+    <link>https://www.zataz.com/club-one-casino-revendique-par-3am-puis-pear/</link>
+    <description>Hack Twins : Un nouveau casino apparaît chez deux groupes de pirates informatiques différents.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 20 Aug 2026 13:15:42 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Citrix urges admins to patch new NetScaler flaws as soon as possible</title>
     <link>https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/</link>
     <description>Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]</description>
@@ -18,6 +32,36 @@
     <description>Fuite Stripe : ZATAZ confirme au moins 200 Français concernés et propose une vérification gratuite et humaine.</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 20 Aug 2026 12:04:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments</title>
+    <link>https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html</link>
+    <description>Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS)…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 17:31:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Why "Shady AI" is Security's Next Big Governance Problem</title>
+    <link>https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html</link>
+    <description>In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&amp;nbsp;
+
+The incident began when a Meta employee…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 17:15:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification</title>
+    <link>https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html</link>
+    <description>Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 17:09:35 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices</title>
+    <link>https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html</link>
+    <description>A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 20 Aug 2026 16:56:08 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Capgemini : 722 470 fichiers d’Altran menacés de publication dans 6 jours</title>
@@ -218,29 +262,6 @@ L’article Philippe Hottinguer Finance ciblé par le ransomware Qilin est appar
 L’article L’intranet de l’université de Technologie de Tarbes exposé avec les…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 19 Aug 2026 14:28:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Password spraying attacks surge 155x as hackers exploit MFA gaps</title>
-    <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/</link>
-    <description>Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Latvian officials resign after cyberattack exposes data on 1.2 million people</title>
-    <link>https://therecord.media/latvia-cyberattack-vehicle-data</link>
-    <description>Latvia’s road traffic agency confirmed that hackers stole data connected to about two-thirds of the country’s population in a major cyberattack that has prompted calls for senior officials to resign.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 19 Aug 2026 13:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs</title>
-    <link>https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html</link>
-    <description>A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia.
-
-The intrusion set makes use of seven remote access tool (RAT) families, five of which…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 19 Aug 2026 18:42:17 +0530</pubDate>
   </item>
 </channel>
 </rss>
