@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] SUEZ : Les données clients en fuite après une cyberattaque chez un prestataire</title>
+    <link>https://www.cyberattaque.org/suez-les-donnees-clients-en-fuite-apres-une-cyberattaque-chez-un-prestataire/</link>
+    <description>SUEZ Eau France informe actuellement certains clients d’un incident de cybersécurité ayant touché l’un de ses prestataires techniques....
+L’article SUEZ : Les données clients en fuite après une cyberattaque chez un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 20 Aug 2026 21:21:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Bergerat Rent : 132 433 fichiers publiés après la compromission de son compte BlgCloud</title>
     <link>https://www.cyberattaque.org/bergerat-rent-132-433-fichiers-publies-apres-la-compromission-de-son-compte-blgcloud/</link>
     <description>Bergerat Rent est à son tour touché par la série de fuites liée à BlgCloud. ChimeraZ vient de...
@@ -276,27 +284,6 @@ L’article Alaxione : 6,8 millions de patients et plus de 10 millions de…</de
     <description>TrueConf Server contains a code injection vulnerability that could allow an unauthorized remote attacker with network access via port 4307/TCP to use a specially crafted script to break out of the isolated environment and execute arbitrary code on the host system.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-08-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Rogue ransomware affiliate poses as recovery firm to steal payments</title>
-    <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/</link>
-    <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 16:59:58 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Rogue ransomware affiliate poses as data recovery firm to steal payments</title>
-    <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-data-recovery-firm/</link>
-    <description>A suspected ransomware affiliate is posing as a ransomware recovery service called "Ransom Busters," contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 16:59:58 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sakura Internet hack exposes data of up to 1.36 million accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/</link>
-    <description>Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 19 Aug 2026 16:53:38 -0400</pubDate>
   </item>
 </channel>
 </rss>
