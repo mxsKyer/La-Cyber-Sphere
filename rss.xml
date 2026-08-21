@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] C.Hunters, un service pirate testé pour la France</title>
+    <link>https://www.zataz.com/c-hunters-un-service-pirate-teste-pour-la-france/</link>
+    <description>C.Hunters propose des appels ciblés sur un forum pirate, avec un intérêt explicite pour la France.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 21 Aug 2026 12:52:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA orders feds to patch actively exploited TrueConf Server flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 21 Aug 2026 08:25:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Encore, encore, encore … un nouveau groupe ransomware : SovCali</title>
+    <link>https://www.zataz.com/encore-encore-encore-un-nouveau-groupe-ransomware-sovcali/</link>
+    <description>Un nouvel acteur du rançongiciel, SovCali, apparaît et affirme détenir des données de Lucid Motors, première cible publiquement revendiquée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 21 Aug 2026 12:03:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Wazuh and AI For Enhanced SOC Workflows</title>
+    <link>https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html</link>
+    <description>Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 16:51:39 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft warns of max severity Entra ID flaw exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</link>
     <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]</description>
@@ -221,43 +249,6 @@ The vulnerability in question is…</description>
     <description>Hack Twins : Un nouveau casino apparaît chez deux groupes de pirates informatiques différents.</description>
     <source>ZATAZ</source>
     <pubDate>Thu, 20 Aug 2026 13:15:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Citrix urges admins to patch new NetScaler flaws as soon as possible</title>
-    <link>https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/</link>
-    <description>Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 20 Aug 2026 08:14:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fuite Stripe : au moins 200 Français concernés</title>
-    <link>https://www.zataz.com/fuite-stripe-au-moins-200-francais-concernes/</link>
-    <description>Fuite Stripe : ZATAZ confirme au moins 200 Français concernés et propose une vérification gratuite et humaine.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 20 Aug 2026 12:04:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments</title>
-    <link>https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html</link>
-    <description>Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 17:31:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Why "Shady AI" is Security's Next Big Governance Problem</title>
-    <link>https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html</link>
-    <description>In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it.&amp;nbsp;
-
-The incident began when a Meta employee…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 17:15:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification</title>
-    <link>https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html</link>
-    <description>Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 17:09:35 +0530</pubDate>
   </item>
 </channel>
 </rss>
