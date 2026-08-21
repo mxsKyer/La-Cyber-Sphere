@@ -300,28 +300,5 @@ L’article Bergerat Rent : 132 433 fichiers publiés après la compromission de
     <source>The Record</source>
     <pubDate>Thu, 20 Aug 2026 19:30:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Élevé] Hackers poison arrayref Rust crate to push infostealer malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/</link>
-    <description>Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 20 Aug 2026 13:53:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Senators press TikTok over withholding of safety features for some users</title>
-    <link>https://therecord.media/senators-press-tiktok-over-withholding-safety-features</link>
-    <description>In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users."</description>
-    <source>The Record</source>
-    <pubDate>Thu, 20 Aug 2026 17:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More</title>
-    <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
-    <description>A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do.
-
-Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 22:53:48 +0530</pubDate>
-  </item>
 </channel>
 </rss>
