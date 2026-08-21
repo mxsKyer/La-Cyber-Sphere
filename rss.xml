@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Escape Data ZATAZ 2.0 transforme l’enquête en jeu</title>
+    <link>https://www.zataz.com/escape-data-zataz-2-0-transforme-lenquete-en-jeu/</link>
+    <description>Escape Data ZATAZ 2.0 mêle escape game, OSINT, observation et réflexes cyber dans une enquête numérique estivale.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 21 Aug 2026 16:16:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] U.S. Bank says breach claims related to fourth-party incident</title>
+    <link>https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</link>
+    <description>The bank said there is no evidence that its own systems, networks or data repositories were compromised.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 21 Aug 2026 16:16:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Pokémon Center touché par la cyberattaque d’un prestataire</title>
     <link>https://www.zataz.com/pokemon-center-touche-par-la-cyberattaque-dun-prestataire/</link>
     <description>Cyberattaque : des données de clients Pokémon Center exposées et certaines précommandes annulées en Europe.</description>
@@ -20,11 +34,27 @@
     <pubDate>Fri, 21 Aug 2026 11:55:15 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot</title>
+    <link>https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html</link>
+    <description>Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 21:22:10 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Target visé par une nouvelle revendication de fuite</title>
     <link>https://www.zataz.com/target-vise-par-une-nouvelle-revendication-de-fuite/</link>
     <description>Un pirate renvendique le vol de codes sources à un géant de la grande distribution, sur fond d’une précédente fuite interne.</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 21 Aug 2026 15:41:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet</title>
+    <link>https://thehackernews.com/2026/08/android-car-malware-spreads-through.html</link>
+    <description>Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun.
+
+Kaspersky, which discovered the threat in June 2026, said…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 21:11:44 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Des bases de joueurs européens de casino diffusées sur un forum pirate</title>
@@ -220,6 +250,20 @@ L’article Beauty Success : plus de 5,16 millions de fiches clients revendiqué
     <pubDate>Fri, 21 Aug 2026 04:59:00 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-73570 — Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-73570</link>
+    <description>Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-21</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-69836 — Microsoft Entra ID Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-69836</link>
+    <description>Microsoft Entra ID formerly known as Azure Active Directory contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-21</pubDate>
+  </item>
+  <item>
     <title>[Faible] SUEZ : Les données clients en fuite après une cyberattaque chez un prestataire</title>
     <link>https://www.cyberattaque.org/suez-les-donnees-clients-en-fuite-apres-une-cyberattaque-chez-un-prestataire/</link>
     <description>SUEZ Eau France informe actuellement certains clients d’un incident de cybersécurité ayant touché l’un de ses prestataires techniques....
@@ -278,23 +322,6 @@ L’article Bergerat Rent : 132 433 fichiers publiés après la compromission de
 Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 20 Aug 2026 22:53:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</title>
-    <link>https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html</link>
-    <description>The U.S. government on Wednesday warned of an "active threat" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts.
-
-The activity is targeting…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 22:29:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FrenchInnov : 1 600 fiches CRM avec coordonnées de restaurants diffusées dans une fuite</title>
-    <link>https://www.cyberattaque.org/frenchinnov-1-600-fiches-crm-avec-coordonnees-de-restaurants-diffusees-dans-une-fuite/</link>
-    <description>FrenchInnov, éditeur français de solutions de gestion pour la restauration, fait l’objet d’une nouvelle revendication de fuite de...
-L’article FrenchInnov : 1 600 fiches CRM avec coordonnées de restaurants diffusées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 20 Aug 2026 16:19:48 +0000</pubDate>
   </item>
 </channel>
 </rss>
