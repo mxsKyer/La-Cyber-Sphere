@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Puériculture : trois bases clients revendiquées en 2026</title>
+    <link>https://www.zataz.com/puericulture-trois-bases-clients-revendiquees-en-2026/</link>
+    <description>Trois bases liées à la maternité et la puériculture sont revendiquées en 2026, dont Made in Bébé, Allobébé et Babyvista.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 21 Aug 2026 10:34:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SickKids data breach exposes employee and job applicant info</title>
+    <link>https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</link>
+    <description>Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 21 Aug 2026 06:10:42 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
     <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
     <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.
@@ -250,13 +264,6 @@ L’article Capgemini : 722 470 fichiers d’Altran menacés de publication…</
     <description>Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 20 Aug 2026 16:35:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud</title>
-    <link>https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html</link>
-    <description>Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with "significant enhancements," including a set of 167 remote commands and expands its targeting footprint…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 16:08:28 +0530</pubDate>
   </item>
 </channel>
 </rss>
