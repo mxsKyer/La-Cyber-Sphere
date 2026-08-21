@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
+    <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
+    <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr.
+
+The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 12:34:25 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
     <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
     <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.
