@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New SynkLoader malware pushed in Microsoft Teams phishing campaign</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/</link>
+    <description>A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 21 Aug 2026 14:01:30 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Escape Data ZATAZ 2.0 transforme l’enquête en jeu</title>
     <link>https://www.zataz.com/escape-data-zataz-2-0-transforme-lenquete-en-jeu/</link>
     <description>Escape Data ZATAZ 2.0 mêle escape game, OSINT, observation et réflexes cyber dans une enquête numérique estivale.</description>
