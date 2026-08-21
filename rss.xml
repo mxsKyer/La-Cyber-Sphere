@@ -258,19 +258,5 @@ L’article Capgemini : 722 470 fichiers d’Altran menacés de publication…</
     <source>The Hacker News</source>
     <pubDate>Thu, 20 Aug 2026 16:08:28 +0530</pubDate>
   </item>
-  <item>
-    <title>[Faible] New Manic Android malware can exfiltrate data through nearby devices</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</link>
-    <description>A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 20 Aug 2026 06:02:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Zimbra RCE flaw now actively exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</link>
-    <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 20 Aug 2026 05:46:54 -0400</pubDate>
-  </item>
 </channel>
 </rss>
