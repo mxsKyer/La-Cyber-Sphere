@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
+    <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.
+
+The vulnerability, tracked as CVE-2026-69836…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 21 Aug 2026 11:36:11 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] SUEZ : Les données clients en fuite après une cyberattaque chez un prestataire</title>
     <link>https://www.cyberattaque.org/suez-les-donnees-clients-en-fuite-apres-une-cyberattaque-chez-un-prestataire/</link>
     <description>SUEZ Eau France informe actuellement certains clients d’un incident de cybersécurité ayant touché l’un de ses prestataires techniques....
@@ -238,22 +247,6 @@ L’article Capgemini : 722 470 fichiers d’Altran menacés de publication…</
 According to the Socket Threat Research team, the…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 20 Aug 2026 14:12:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says August Windows updates may cause gaming issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/</link>
-    <description>Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 20 Aug 2026 02:51:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
-    <link>https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</link>
-    <description>Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution.
-
-The vulnerability, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 11:34:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
