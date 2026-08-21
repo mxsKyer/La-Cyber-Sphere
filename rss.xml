@@ -24,6 +24,30 @@ The vulnerability, tracked as CVE-2026-69836…</description>
     <pubDate>Fri, 21 Aug 2026 11:36:11 +0530</pubDate>
   </item>
   <item>
+    <title>[Faible] Allobébé : plus d’un million de clients dans une fuite couvrant vingt ans</title>
+    <link>https://www.cyberattaque.org/allobebe-plus-dun-million-de-clients-dans-une-fuite-couvrant-vingt-ans/</link>
+    <description>Allobébé, site français spécialisé dans la vente de produits pour bébés et d’équipements de puériculture, fait l’objet d’une...
+L’article Allobébé : plus d’un million de clients dans une fuite couvrant vingt ans est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Made in Bébé : plus de 960 000 personnes en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/made-in-bebe-plus-de-960-000-personnes-en-fuite-apres-une-cyberattaque/</link>
+    <description>Made in Bébé, site français spécialisé dans les produits pour bébés et enfants, fait l’objet d’une importante revendication...
+L’article Made in Bébé : plus de 960 000 personnes en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Beauty Success : plus de 5,16 millions de fiches clients revendiquées dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/beauty-success-plus-de-516-millions-de-fiches-clients-revendiquees-dans-une-fuite-massive/</link>
+    <description>Beauty Success fait l’objet d’une importante revendication de fuite de données. Le hacker misere affirme avoir récupéré 10...
+L’article Beauty Success : plus de 5,16 millions de fiches clients revendiquées dans une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 21 Aug 2026 04:59:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] SUEZ : Les données clients en fuite après une cyberattaque chez un prestataire</title>
     <link>https://www.cyberattaque.org/suez-les-donnees-clients-en-fuite-apres-une-cyberattaque-chez-un-prestataire/</link>
     <description>SUEZ Eau France informe actuellement certains clients d’un incident de cybersécurité ayant touché l’un de ses prestataires techniques....
@@ -247,15 +271,6 @@ L’article Capgemini : 722 470 fichiers d’Altran menacés de publication…</
     <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 20 Aug 2026 05:46:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] 40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets</title>
-    <link>https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html</link>
-    <description>A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products.
-
-According to the Socket Threat Research team, the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 20 Aug 2026 14:12:03 +0530</pubDate>
   </item>
 </channel>
 </rss>
