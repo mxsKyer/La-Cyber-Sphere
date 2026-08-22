@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Dron : 49 035 fichiers publiés après compromission de son compte de BlgCloud</title>
+    <link>https://www.cyberattaque.org/dron-49-035-fichiers-publies-apres-compromission-de-son-compte-de-blgcloud/</link>
+    <description>Dron est la nouvelle entreprise touchée par la série de fuites liée à BlgCloud. Le hacker Snufkxn vient...
+L’article Dron : 49 035 fichiers publiés après compromission de son compte de BlgCloud est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 22 Aug 2026 04:29:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DINUM : 31 544 lignes liées au cloud de l’État en fuite</title>
+    <link>https://www.cyberattaque.org/dinum-31-544-lignes-liees-au-cloud-de-letat-en-fuite/</link>
+    <description>Le cybercriminel 0xSec affirme avoir récupéré et publié un ensemble de données provenant de cloud.numerique.gouv.fr, une plateforme rattachée...
+L’article DINUM : 31 544 lignes liées au cloud de l’État en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 22 Aug 2026 04:19:17 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Lawmakers call for investigation into impact of CISA staffing cuts</title>
     <link>https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts</link>
     <description>Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced.</description>
@@ -245,30 +261,6 @@ The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of cod
 The vulnerability, tracked as CVE-2026-69836…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 21 Aug 2026 11:36:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Allobébé : plus d’un million de clients dans une fuite couvrant vingt ans</title>
-    <link>https://www.cyberattaque.org/allobebe-plus-dun-million-de-clients-dans-une-fuite-couvrant-vingt-ans/</link>
-    <description>Allobébé, site français spécialisé dans la vente de produits pour bébés et d’équipements de puériculture, fait l’objet d’une...
-L’article Allobébé : plus d’un million de clients dans une fuite couvrant vingt ans est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Made in Bébé : plus de 960 000 personnes en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/made-in-bebe-plus-de-960-000-personnes-en-fuite-apres-une-cyberattaque/</link>
-    <description>Made in Bébé, site français spécialisé dans les produits pour bébés et enfants, fait l’objet d’une importante revendication...
-L’article Made in Bébé : plus de 960 000 personnes en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 21 Aug 2026 05:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Beauty Success : plus de 5,16 millions de fiches clients revendiquées dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/beauty-success-plus-de-516-millions-de-fiches-clients-revendiquees-dans-une-fuite-massive/</link>
-    <description>Beauty Success fait l’objet d’une importante revendication de fuite de données. Le hacker misere affirme avoir récupéré 10...
-L’article Beauty Success : plus de 5,16 millions de fiches clients revendiquées dans une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 21 Aug 2026 04:59:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
