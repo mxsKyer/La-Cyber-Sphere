@@ -253,14 +253,5 @@ The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of cod
     <source>The Hacker News</source>
     <pubDate>Fri, 21 Aug 2026 12:34:25 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
-    <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required.
-
-The vulnerability, tracked as CVE-2026-69836…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 21 Aug 2026 11:36:11 +0530</pubDate>
-  </item>
 </channel>
 </rss>
