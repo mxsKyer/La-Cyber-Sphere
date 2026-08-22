@@ -121,40 +121,5 @@ L’article DINUM : 31 544 lignes liées au cloud de l’État en fuite est…</
     <source>BleepingComputer</source>
     <pubDate>Fri, 21 Aug 2026 14:01:30 -0400</pubDate>
   </item>
-  <item>
-    <title>[Faible] Escape Data ZATAZ 2.0 transforme l’enquête en jeu</title>
-    <link>https://www.zataz.com/escape-data-zataz-2-0-transforme-lenquete-en-jeu/</link>
-    <description>Escape Data ZATAZ 2.0 mêle escape game, OSINT, observation et réflexes cyber dans une enquête numérique estivale.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 21 Aug 2026 16:16:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] U.S. Bank says breach claims related to fourth-party incident</title>
-    <link>https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</link>
-    <description>The bank said there is no evidence that its own systems, networks or data repositories were compromised.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 21 Aug 2026 16:16:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pokémon Center touché par la cyberattaque d’un prestataire</title>
-    <link>https://www.zataz.com/pokemon-center-touche-par-la-cyberattaque-dun-prestataire/</link>
-    <description>Cyberattaque : des données de clients Pokémon Center exposées et certaines précommandes annulées en Europe.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 21 Aug 2026 15:56:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hundreds of leaked AWS keys give full control over corporate accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/</link>
-    <description>More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 21 Aug 2026 11:55:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot</title>
-    <link>https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html</link>
-    <description>Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 21 Aug 2026 21:22:10 +0530</pubDate>
-  </item>
 </channel>
 </rss>
