@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] iMapper : 2 463 comptes exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/imapper-2-463-comptes-exposes-apres-une-cyberattaque/</link>
+    <description>iMapper, une solution française de mesure laser 2D connectée destinée aux professionnels du bâtiment, fait l’objet d’une revendication...
+L’article iMapper : 2 463 comptes exposés après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 22 Aug 2026 18:38:02 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit</title>
     <link>https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html</link>
     <description>The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.
@@ -113,13 +121,6 @@ L’article DINUM : 31 544 lignes liées au cloud de l’État en fuite est…</
     <description>Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 22 Aug 2026 00:23:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New SynkLoader malware pushed in Microsoft Teams phishing campaign</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/</link>
-    <description>A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 21 Aug 2026 14:01:30 -0400</pubDate>
   </item>
 </channel>
 </rss>
