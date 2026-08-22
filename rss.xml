@@ -115,12 +115,5 @@ L’article DINUM : 31 544 lignes liées au cloud de l’État en fuite est…</
     <source>The Record</source>
     <pubDate>Fri, 21 Aug 2026 19:56:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Faible] 14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2</title>
-    <link>https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</link>
-    <description>Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 22 Aug 2026 00:23:00 +0530</pubDate>
-  </item>
 </channel>
 </rss>
