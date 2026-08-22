@@ -270,19 +270,5 @@ L’article Beauty Success : plus de 5,16 millions de fiches clients revendiqué
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 21 Aug 2026 04:59:00 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-73570 — Zimbra Collaboration Suite (ZCS) OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-73570</link>
-    <description>Zimbra Collaboration Suite (ZCS) contains an OS command injection vulnerability which could allow an unauthenticated attacker to send specially crafted SMTP requests that may result in execution of arbitrary operating system commands as the Zimbra user.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-21</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-69836 — Microsoft Entra ID Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-69836</link>
-    <description>Microsoft Entra ID formerly known as Azure Active Directory contains a deserialization of untrusted data vulnerability which could allow an unauthorized attacker to execute code over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-21</pubDate>
-  </item>
 </channel>
 </rss>
