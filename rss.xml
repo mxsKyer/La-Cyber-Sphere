@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit</title>
+    <link>https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html</link>
+    <description>The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country.
+
+As part of the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 22 Aug 2026 20:02:41 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Hackers infect Android car head units with proxy botnet malware</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/</link>
     <description>A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]</description>
@@ -169,43 +178,6 @@ Kaspersky, which discovered the threat in June 2026, said…</description>
     <description>Un vendeur propose des bases de joueurs de casino européens contenant coordonnées, téléphones et données de dépôt.</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 21 Aug 2026 15:28:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Checker max cible les portefeuilles Solana en masse</title>
-    <link>https://www.zataz.com/checker-max-cible-les-portefeuilles-solana-en-masse/</link>
-    <description>Checker max analyse Solana par lots de 1 000 adresses, une capacité sensible pour le triage de portefeuilles proposé sur un forum de pirates.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 21 Aug 2026 15:12:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Protection Civile : plus de 525 000 personnes touchées par une cyberattaque</title>
-    <link>https://www.cyberattaque.org/protection-civile-plus-de-525-000-personnes-touchees-par-une-cyberattaque/</link>
-    <description>La Fédération nationale de Protection Civile (FNPC) confirme avoir été victime d’une cyberattaque ayant touché sa plateforme eProtec....
-L’article Protection Civile : plus de 525 000 personnes touchées par une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 21 Aug 2026 15:09:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Groupe Géotec : une cyberattaque provoque une exfiltration de données et perturbe certains services</title>
-    <link>https://www.cyberattaque.org/groupe-geotec-une-cyberattaque-provoque-une-exfiltration-de-donnees-et-perturbe-certains-services/</link>
-    <description>Groupe Géotec confirme avoir récemment été victime d’un incident de cybersécurité ayant entraîné une exfiltration de données. L’attaque...
-L’article Groupe Géotec : une cyberattaque provoque une exfiltration de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 21 Aug 2026 15:02:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen</title>
-    <link>https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data</link>
-    <description>The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft blames Windows gaming issues on RGB lighting devices</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/</link>
-    <description>Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 21 Aug 2026 10:54:49 -0400</pubDate>
   </item>
 </channel>
 </rss>
