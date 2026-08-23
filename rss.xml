@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Axess : 67 bases de données et près de 19 000 comptes en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/axess-67-bases-de-donnees-et-pres-de-19-000-comptes-en-fuite-apres-une-cyberattaque/</link>
+    <description>Axess, groupe français spécialisé dans les services numériques et les logiciels métiers, fait l’objet d’une importante revendication de...
+L’article Axess : 67 bases de données et près de 19 000 comptes en fuite après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 23 Aug 2026 16:08:43 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] ToxicPanda Android malware uses VPN permissions to block Google Play</title>
     <link>https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/</link>
     <description>The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]</description>
