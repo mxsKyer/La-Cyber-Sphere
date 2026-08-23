@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] 84 000 élèves visés par une fraude aux frais scolaires</title>
+    <link>https://www.zataz.com/aix-marseille-visee-par-une-fraude-aux-frais-scolaires/</link>
+    <description>Aix-Marseille alerte 84 000 étudiants après une fraude réclamant 450 € sous couvert de frais scolaires. Explication de l'attaque !</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 23 Aug 2026 11:08:51 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Déclic Services piraté : 6,2 millions de lignes revendiquées et le site officiel détourné par ZeroBytes</title>
     <link>https://www.cyberattaque.org/declic-services-pirate-62-millions-de-lignes-revendiquees-et-le-site-officiel-detourne-par-zerobytes/</link>
     <description>Déclic Services fait face à une cyberattaque particulièrement sérieuse. Le hacker ZeroBytes revendique le vol de la base...
@@ -73,13 +80,6 @@ As part of the…</description>
     <description>ShinyHunters revendique un piratage de Logitech et Streamlabs. Les streameurs en danger ?</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 22 Aug 2026 12:38:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Rentrée scolaire 2026 : les arnaques à surveiller</title>
-    <link>https://www.zataz.com/rentree-scolaire-2026-les-arnaques-a-surveiller/</link>
-    <description>Rentrée 2026 : faux paiements, fournitures, aides, licences et stages deviennent des vecteurs privilégiés d’arnaques cyber.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 22 Aug 2026 11:18:32 +0000</pubDate>
   </item>
 </channel>
 </rss>
