@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ToxicPanda Android malware uses VPN permissions to block Google Play</title>
+    <link>https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/</link>
+    <description>The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 23 Aug 2026 10:23:46 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] 84 000 élèves visés par une fraude aux frais scolaires</title>
     <link>https://www.zataz.com/aix-marseille-visee-par-une-fraude-aux-frais-scolaires/</link>
     <description>Aix-Marseille alerte 84 000 étudiants après une fraude réclamant 450 € sous couvert de frais scolaires. Explication de l'attaque !</description>
@@ -52,13 +59,6 @@ L’article iMapper : 2 463 comptes exposés après une cyberattaque est apparu 
 As part of the…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 22 Aug 2026 20:02:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers infect Android car head units with proxy botnet malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/</link>
-    <description>A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 22 Aug 2026 10:14:24 -0400</pubDate>
   </item>
 </channel>
 </rss>
