@@ -6,6 +6,52 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft: August updates break printing, PDF export in WPF apps</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/</link>
+    <description>Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 24 Aug 2026 08:40:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers infecting Android car systems to build proxy botnet</title>
+    <link>https://therecord.media/android-botnet-china-hackers</link>
+    <description>A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 24 Aug 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
+    <link>https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</link>
+    <description>If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work.
+
+The harder part is what comes after. AI can also introduce…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account</title>
+    <link>https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html</link>
+    <description>Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 17:26:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor</title>
+    <link>https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html</link>
+    <description>Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent.
+
+The campaign, codenamed Operation…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 17:21:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk</title>
+    <link>https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html</link>
+    <description>Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] YouFid : près de 1,9 million de profils clients revendiqués dans une fuite massive</title>
     <link>https://www.cyberattaque.org/youfid-pres-de-19-million-de-profils-clients-revendiques-dans-une-fuite-massive/</link>
     <description>YouFid, plateforme française de fidélisation utilisée par des restaurants et commerces, fait l’objet d’une importante revendication de fuite...
