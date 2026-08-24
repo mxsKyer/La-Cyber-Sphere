@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit</title>
+    <link>https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html</link>
+    <description>Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 13:38:31 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Klark.ai : près de 500k personnes exposées après une fuite massive</title>
     <link>https://www.cyberattaque.org/klark-ai-pres-de-500k-personnes-exposees-apres-une-cyberattaque/</link>
     <description>Klark.ai, plateforme française d’intelligence artificielle dédiée au service client, fait l’objet d’une importante revendication de fuite de données....
