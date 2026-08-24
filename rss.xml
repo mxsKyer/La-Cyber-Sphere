@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/groupe-bernard-2225-go-de-donnees-et-330-563-fichiers-publies-apres-une-cyberattaque/</link>
+    <description>Groupe Bernard est à son tour concerné par la série de fuites liée à BlgCloud. Le hacker NikolaT...
+L’article Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 24 Aug 2026 16:56:03 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] ReliaQuest confirms failed data-theft attack after ShinyHunters breach</title>
     <link>https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/</link>
     <description>Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]</description>
@@ -126,22 +134,6 @@ L’article YouFid : près de 1,9 million de profils clients revendiqués dans�
 L’article Klark.ai : près de 500k personnes exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 24 Aug 2026 04:18:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Netim : code source, données clients et infrastructure interne menacés de publication par un ransomware</title>
-    <link>https://www.cyberattaque.org/netim-code-source-cyberattaque-ransomware/</link>
-    <description>Netim, registrar français spécialisé dans les noms de domaine et l’hébergement web, est revendiqué par le groupe de...
-L’article Netim : code source, données clients et infrastructure interne menacés de publication par…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 23 Aug 2026 16:34:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Axess : 67 bases de données et près de 19 000 comptes en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/axess-67-bases-de-donnees-et-pres-de-19-000-comptes-en-fuite-apres-une-cyberattaque/</link>
-    <description>Axess, groupe français spécialisé dans les services numériques et les logiciels métiers, fait l’objet d’une importante revendication de...
-L’article Axess : 67 bases de données et près de 19 000 comptes en fuite après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 23 Aug 2026 16:08:43 +0000</pubDate>
   </item>
 </channel>
 </rss>
