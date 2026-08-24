@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Unpatched Calix flaw lets hackers bypass NAT to expose internal devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/</link>
+    <description>An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 24 Aug 2026 17:14:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Zealand to pursue social media ban for children under 16</title>
+    <link>https://therecord.media/new-zealand-to-pursue-social-media-ban-for-children</link>
+    <description>The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation,…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 24 Aug 2026 20:36:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers target WordPress sites in miniOrange auth bypass attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/</link>
     <description>Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.…</description>
