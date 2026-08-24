@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ReliaQuest confirms failed data-theft attack after ShinyHunters breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/</link>
+    <description>Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 24 Aug 2026 11:17:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More</title>
+    <link>https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html</link>
+    <description>A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.
+
+That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 20:02:10 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft Teams now lets admins block external bots from meetings</title>
     <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/</link>
     <description>Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]</description>
