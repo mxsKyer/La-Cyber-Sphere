@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US sanctions Iranian cyber actors as UK discloses power plant attack</title>
+    <link>https://therecord.media/iran-cyberattacks-us-uk</link>
+    <description>The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 24 Aug 2026 23:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Unpatched Calix flaw lets hackers bypass NAT to expose internal devices</title>
     <link>https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/</link>
     <description>An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network…</description>
@@ -39,6 +46,15 @@
     <description>The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 24 Aug 2026 13:56:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning</title>
+    <link>https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</link>
+    <description>Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.
+
+McAfee Labs said it detected and blocked…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 24 Aug 2026 23:11:11 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque</title>
