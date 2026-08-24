@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] YouFid : près de 1,9 million de profils clients revendiqués dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/youfid-pres-de-19-million-de-profils-clients-revendiques-dans-une-fuite-massive/</link>
+    <description>YouFid, plateforme française de fidélisation utilisée par des restaurants et commerces, fait l’objet d’une importante revendication de fuite...
+L’article YouFid : près de 1,9 million de profils clients revendiqués dans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 24 Aug 2026 10:52:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA orders urgent patching of actively exploited Zimbra flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/</link>
+    <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 24 Aug 2026 06:45:12 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft shares temporary fix for Windows 11 gaming issues</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/</link>
     <description>Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]</description>
@@ -49,13 +64,6 @@ L’article Axess : 67 bases de données et près de 19 000 comptes en fuite apr
     <description>The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 23 Aug 2026 10:23:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 84 000 élèves visés par une fraude aux frais scolaires</title>
-    <link>https://www.zataz.com/aix-marseille-visee-par-une-fraude-aux-frais-scolaires/</link>
-    <description>Aix-Marseille alerte 84 000 étudiants après une fraude réclamant 450 € sous couvert de frais scolaires. Explication de l'attaque !</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 23 Aug 2026 11:08:51 +0000</pubDate>
   </item>
 </channel>
 </rss>
