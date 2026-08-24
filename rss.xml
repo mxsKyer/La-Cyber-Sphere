@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers target WordPress sites in miniOrange auth bypass attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/</link>
+    <description>Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 24 Aug 2026 15:26:32 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly</title>
     <link>https://therecord.media/cyber-scam-indian-arrested</link>
     <description>A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.</description>
