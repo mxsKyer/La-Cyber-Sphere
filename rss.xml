@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] LACMA data breach last year exposed social security and medical data</title>
+    <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
+    <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 25 Aug 2026 17:58:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers abuse npm mirrors to host phishing redirect pages</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</link>
+    <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 25 Aug 2026 17:39:01 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] 58 arrested in international cybercrime crackdown</title>
     <link>https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol</link>
     <description>Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.</description>
