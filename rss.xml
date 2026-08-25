@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Police arrests dozens of suspects in global cybercrime crackdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/</link>
+    <description>Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 25 Aug 2026 06:53:20 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access</title>
     <link>https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</link>
     <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user,…</description>
@@ -170,21 +177,6 @@ The campaign, codenamed Operation…</description>
     <description>Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 24 Aug 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] YouFid : près de 1,9 million de profils clients revendiqués dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/youfid-pres-de-19-million-de-profils-clients-revendiques-dans-une-fuite-massive/</link>
-    <description>YouFid, plateforme française de fidélisation utilisée par des restaurants et commerces, fait l’objet d’une importante revendication de fuite...
-L’article YouFid : près de 1,9 million de profils clients revendiqués dans…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 24 Aug 2026 10:52:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA orders urgent patching of actively exploited Zimbra flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/</link>
-    <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 24 Aug 2026 06:45:12 -0400</pubDate>
   </item>
 </channel>
 </rss>
