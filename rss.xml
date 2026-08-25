@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] TimeTonic : 3 bases de données exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/timetonic-3-bases-de-donnees-exposees-apres-une-cyberattaque/</link>
+    <description>TimeTonic, éditeur français d’une plateforme No-Code de gestion et d’automatisation, fait l’objet d’une nouvelle revendication de fuite de...
+L’article TimeTonic : 3 bases de données exposées après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 25 Aug 2026 17:58:08 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Dipeeo : les données RGPD de ses clients exposées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/dipeeo-les-donnees-rgpd-de-ses-clients-exposees-apres-une-cyberattaque/</link>
     <description>Dipeeo, société française spécialisée dans l’accompagnement RGPD et les services de DPO externalisé, fait l’objet d’une nouvelle revendication...
@@ -173,6 +181,13 @@ L’article Banque Alimentaire de la Croix-Rouge à Strasbourg : 10 073 fiches d
     <pubDate>Tue, 25 Aug 2026 04:20:41 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-60004 — Gitea Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-60004</link>
+    <description>Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-25</pubDate>
+  </item>
+  <item>
     <title>[Faible] US sanctions Iranian cyber actors as UK discloses power plant attack</title>
     <link>https://therecord.media/iran-cyberattacks-us-uk</link>
     <description>The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom.</description>
@@ -206,22 +221,6 @@ L’article Banque Alimentaire de la Croix-Rouge à Strasbourg : 10 073 fiches d
     <description>A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers.</description>
     <source>The Record</source>
     <pubDate>Mon, 24 Aug 2026 18:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TikTok reaches $400M settlement with US over COPPA violations</title>
-    <link>https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/</link>
-    <description>The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 24 Aug 2026 13:56:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning</title>
-    <link>https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</link>
-    <description>Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients.
-
-McAfee Labs said it detected and blocked…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 24 Aug 2026 23:11:11 +0530</pubDate>
   </item>
 </channel>
 </rss>
