@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access</title>
+    <link>https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</link>
+    <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 25 Aug 2026 14:04:07 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data</title>
     <link>https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV)…</description>
@@ -178,13 +185,6 @@ L’article YouFid : près de 1,9 million de profils clients revendiqués dans�
     <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 24 Aug 2026 06:45:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft shares temporary fix for Windows 11 gaming issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/</link>
-    <description>Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 24 Aug 2026 05:42:05 -0400</pubDate>
   </item>
 </channel>
 </rss>
