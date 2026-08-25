@@ -186,12 +186,5 @@ L’article Klark.ai : près de 500k personnes exposées après une…</descript
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 24 Aug 2026 04:18:39 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-21962 — Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in Improper Access Control Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-21962</link>
-    <description>Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in contain an improper access control vulnerability that can result in unauthorized creation, deletion or modification access to critical data as well as unauthorized access to critical data or complete access to all Oracle HTTP Server and Oracle Weblogic Server Proxy Plug-in accessible data.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-24</pubDate>
-  </item>
 </channel>
 </rss>
