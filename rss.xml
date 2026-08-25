@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Employee benefits platform Paylogix says hackers stole financial and health data</title>
+    <link>https://therecord.media/paylogix-cyberattack-akira-ransomware</link>
+    <description>The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 25 Aug 2026 18:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches</title>
+    <link>https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</link>
+    <description>The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an "unprecedented, whole-of-government, economic campaign" against the nation and its enablers.
+
+"We…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 25 Aug 2026 23:47:17 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] TimeTonic : 3 bases de données exposées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/timetonic-3-bases-de-donnees-exposees-apres-une-cyberattaque/</link>
     <description>TimeTonic, éditeur français d’une plateforme No-Code de gestion et d’automatisation, fait l’objet d’une nouvelle revendication de fuite de...
@@ -207,13 +223,6 @@ L’article Banque Alimentaire de la Croix-Rouge à Strasbourg : 10 073 fiches d
     <description>The legislation would mandate that high-risk social media platforms such as Instagram, TikTok, Snapchat and Facebook take “reasonable steps” to ensure users are over age 16 by using tools like facial age estimation,…</description>
     <source>The Record</source>
     <pubDate>Mon, 24 Aug 2026 20:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers target WordPress sites in miniOrange auth bypass attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/</link>
-    <description>Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 24 Aug 2026 15:26:32 -0400</pubDate>
   </item>
 </channel>
 </rss>
