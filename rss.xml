@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Dipeeo : les données RGPD de ses clients exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/dipeeo-les-donnees-rgpd-de-ses-clients-exposees-apres-une-cyberattaque/</link>
+    <description>Dipeeo, société française spécialisée dans l’accompagnement RGPD et les services de DPO externalisé, fait l’objet d’une nouvelle revendication...
+L’article Dipeeo : les données RGPD de ses clients exposées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 25 Aug 2026 16:39:10 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Massive DDoS attack disrupts Norway’s government digital services</title>
     <link>https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/</link>
     <description>A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]</description>
@@ -214,14 +222,6 @@ L’article Banque Alimentaire de la Croix-Rouge à Strasbourg : 10 073 fiches d
 McAfee Labs said it detected and blocked…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 24 Aug 2026 23:11:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/groupe-bernard-2225-go-de-donnees-et-330-563-fichiers-publies-apres-une-cyberattaque/</link>
-    <description>Groupe Bernard est à son tour concerné par la série de fuites liée à BlgCloud. Le hacker NikolaT...
-L’article Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 24 Aug 2026 16:56:03 +0000</pubDate>
   </item>
 </channel>
 </rss>
