@@ -6,11 +6,32 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Hospital operator Nutex Health says data stolen in cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</link>
+    <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 25 Aug 2026 10:44:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw</title>
+    <link>https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</link>
+    <description>Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 25 Aug 2026 19:37:37 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] From Fake Workers to Account Recovery: The Growing Identity Verification Risk</title>
     <link>https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</link>
     <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 25 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ukraine to give Britain access to battlefield data to train AI</title>
+    <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
+    <description>Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Faible] Microsoft PowerToys adds Alt+Tab-style switching for an app's windows</title>
@@ -186,22 +207,6 @@ McAfee Labs said it detected and blocked…</description>
 L’article Groupe Bernard : 22,25 Go de données et 330 563 fichiers publiés après une cyberattaque est apparu en premier…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 24 Aug 2026 16:56:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ReliaQuest confirms failed data-theft attack after ShinyHunters breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/</link>
-    <description>Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 24 Aug 2026 11:17:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More</title>
-    <link>https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html</link>
-    <description>A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet.
-
-That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 24 Aug 2026 20:02:10 +0530</pubDate>
   </item>
 </channel>
 </rss>
