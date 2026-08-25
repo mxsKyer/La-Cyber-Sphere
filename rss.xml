@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Massive DDoS attack disrupts Norway’s government digital services</title>
+    <link>https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/</link>
+    <description>A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 25 Aug 2026 11:52:36 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Docurba : plus de 5 000 lignes d’utilisateurs de la plateforme de l’État diffusées par un hacker</title>
+    <link>https://www.cyberattaque.org/docurba-plus-de-5-000-lignes-dutilisateurs-de-la-plateforme-de-letat-diffusees-par-un-hacker/</link>
+    <description>Docurba, plateforme numérique de l’État accessible sur docurba.beta.gouv.fr, fait l’objet d’une revendication de fuite de données publiée ce...
+L’article Docurba : plus de 5 000 lignes d’utilisateurs de la plateforme de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 25 Aug 2026 15:29:32 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Hospital operator Nutex Health says data stolen in cyberattack</title>
     <link>https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</link>
     <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]</description>
