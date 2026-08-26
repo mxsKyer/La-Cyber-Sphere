@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft tests new privacy controls for Windows 11 desktop apps</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/</link>
+    <description>Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 08:06:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code</title>
+    <link>https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html</link>
+    <description>The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 17:25:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine</title>
     <link>https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html</link>
     <description>The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known…</description>
@@ -197,34 +211,6 @@ L’article Emil Frey France : une fuite de données expose des leads et des…<
     <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 25 Aug 2026 18:49:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WhatsApp adds stronger two-step verification, multiple passkeys</title>
-    <link>https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/</link>
-    <description>WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 09:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK government seeks powers to secretly block risky tech suppliers</title>
-    <link>https://therecord.media/uk-technology-national-security</link>
-    <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 25 Aug 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode</title>
-    <link>https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</link>
-    <description>Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 18:13:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers breached over 270 Zimbra servers in ongoing attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/</link>
-    <description>Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 08:04:02 -0400</pubDate>
   </item>
 </channel>
 </rss>
