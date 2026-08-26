@@ -6,11 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations</title>
+    <link>https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 22:12:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta agrees to $18 billion settlement over teen social media harms</title>
+    <link>https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/</link>
+    <description>Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 12:41:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate</title>
+    <link>https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools</link>
+    <description>The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 26 Aug 2026 16:25:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Iran-linked hackers expand infrastructure across Europe and Middle East, report says</title>
     <link>https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east</link>
     <description>Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.</description>
     <source>The Record</source>
     <pubDate>Wed, 26 Aug 2026 15:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler</title>
+    <link>https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html</link>
+    <description>Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 21:05:05 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Comptoir de Location : 13,48 Go et 323 388 fichiers publiés après une cyberattaque</title>
@@ -152,6 +180,48 @@ The vulnerability in question is…</description>
     <pubDate>Wed, 26 Aug 2026 11:17:28 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2019-1068 — Microsoft SQL Server Remote Code Execution Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2019-1068</link>
+    <description>Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-8452 — Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-8452</link>
+    <description>Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2022-0995 — Linux Kernel Out-of-Bounds Write Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2022-0995</link>
+    <description>Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2015-5287 — Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-5287</link>
+    <description>Red Hat Automatic Bug Reporting Tool (ABRT) contains a privilege escalation vulnerability that could allow local users with certain permissions to gain privileges via a symlink attack on a file with a predictable name. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2015-3246 — Red Hat Libuser Race Condition Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-3246</link>
+    <description>Red Hat libuser contains a race condition vulnerability that allows authenticated local users to corrupt the /etc/passwd file to cause a denial of service or privilege escalation. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2021-23758 — Ajax.NET Professional Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-23758</link>
+    <description>Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-08-26</pubDate>
+  </item>
+  <item>
     <title>[Élevé] LACMA data breach last year exposed social security and medical data</title>
     <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
     <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]</description>
@@ -193,31 +263,6 @@ L’article TeleCoop piraté : des données clients exposées via une faille Met
     <description>The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.</description>
     <source>The Record</source>
     <pubDate>Tue, 25 Aug 2026 18:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches</title>
-    <link>https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</link>
-    <description>The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an "unprecedented, whole-of-government, economic campaign" against the nation and its enablers.
-
-"We…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 23:47:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TimeTonic : 3 bases de données exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/timetonic-3-bases-de-donnees-exposees-apres-une-cyberattaque/</link>
-    <description>TimeTonic, éditeur français d’une plateforme No-Code de gestion et d’automatisation, fait l’objet d’une nouvelle revendication de fuite de...
-L’article TimeTonic : 3 bases de données exposées après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 25 Aug 2026 17:58:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dipeeo : les données RGPD de ses clients exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/dipeeo-les-donnees-rgpd-de-ses-clients-exposees-apres-une-cyberattaque/</link>
-    <description>Dipeeo, société française spécialisée dans l’accompagnement RGPD et les services de DPO externalisé, fait l’objet d’une nouvelle revendication...
-L’article Dipeeo : les données RGPD de ses clients exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 25 Aug 2026 16:39:10 +0000</pubDate>
   </item>
 </channel>
 </rss>
