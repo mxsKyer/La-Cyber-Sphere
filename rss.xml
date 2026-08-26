@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown</title>
+    <link>https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</link>
+    <description>An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects.
+
+"The operation, which brought together 22 countries from six…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 13:24:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
+    <link>https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</link>
+    <description>An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 12:42:55 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload</title>
     <link>https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.
@@ -225,13 +241,6 @@ L’article Emil Frey France : une fuite de données expose des leads et des…<
     <description>Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 25 Aug 2026 06:53:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access</title>
-    <link>https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html</link>
-    <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 14:04:07 +0530</pubDate>
   </item>
 </channel>
 </rss>
