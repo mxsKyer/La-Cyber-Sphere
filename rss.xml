@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload</title>
+    <link>https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea.
+
+The vulnerability in question is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 11:57:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes</title>
+    <link>https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</link>
+    <description>Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 11:17:28 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] LACMA data breach last year exposed social security and medical data</title>
     <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
     <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]</description>
@@ -216,13 +232,6 @@ L’article Emil Frey France : une fuite de données expose des leads et des…<
     <description>Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user,…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 25 Aug 2026 14:04:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data</title>
-    <link>https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 11:42:35 +0530</pubDate>
   </item>
 </channel>
 </rss>
