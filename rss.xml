@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine</title>
+    <link>https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html</link>
+    <description>The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 17:06:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers now exploit critical Gitea flaw in code injection attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/</link>
+    <description>Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 07:07:48 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests</title>
     <link>https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html</link>
     <description>Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only…</description>
@@ -211,43 +225,6 @@ L’article Emil Frey France : une fuite de données expose des leads et des…<
     <description>Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 25 Aug 2026 08:04:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows</title>
-    <link>https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</link>
-    <description>Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 17:26:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages</title>
-    <link>https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages.
-
-"While the malware is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 17:22:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Large DDoS attack knocks Norwegian public services offline</title>
-    <link>https://therecord.media/norway-cyberattack-ddos-government</link>
-    <description>The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 25 Aug 2026 11:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands</title>
-    <link>https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html</link>
-    <description>Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 17:03:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Frontier AI: Vulnerability Management's Systemic Revolution</title>
-    <link>https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html</link>
-    <description>Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 16:44:07 +0530</pubDate>
   </item>
 </channel>
 </rss>
