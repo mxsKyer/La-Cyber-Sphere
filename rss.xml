@@ -6,6 +6,43 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Iran-linked hackers expand infrastructure across Europe and Middle East, report says</title>
+    <link>https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east</link>
+    <description>Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 26 Aug 2026 15:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Comptoir de Location : 13,48 Go et 323 388 fichiers publiés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/comptoir-de-location-1348-go-et-323-388-fichiers-publies-apres-une-cyberattaque/</link>
+    <description>Comptoir de Location (CDL), spécialiste français de la location de matériel pour le BTP, les travaux publics, la...
+L’article Comptoir de Location : 13,48 Go et 323 388 fichiers publiés après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 26 Aug 2026 15:27:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Boston Scientific says cyberattack disrupted operations globally</title>
+    <link>https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/</link>
+    <description>Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 11:19:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers target Microsoft SharePoint RCE chain with PoC exploit</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/</link>
+    <description>Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 10:47:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] WeshBien : 9 396 profils, dont de nombreux mineurs, diffusés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/weshbien-9-396-profils-dont-de-nombreux-mineurs-diffuses-apres-une-cyberattaque/</link>
+    <description>WeshBien, réseau social présenté comme destiné aux adolescents, fait l’objet d’une fuite de données particulièrement sensible. Une base...
+L’article WeshBien : 9 396 profils, dont de nombreux mineurs, diffusés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 26 Aug 2026 14:28:31 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] FBI disrupts proxy network enabling Chinese espionage operations</title>
     <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/</link>
     <description>The FBI has disrupted infrastructure associated with a technical "quartermaster" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]</description>
@@ -181,28 +218,6 @@ L’article TimeTonic : 3 bases de données exposées après une cyberattaque es
 L’article Dipeeo : les données RGPD de ses clients exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 25 Aug 2026 16:39:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Massive DDoS attack disrupts Norway’s government digital services</title>
-    <link>https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/</link>
-    <description>A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 11:52:36 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Docurba : plus de 5 000 lignes d’utilisateurs de la plateforme de l’État diffusées par un hacker</title>
-    <link>https://www.cyberattaque.org/docurba-plus-de-5-000-lignes-dutilisateurs-de-la-plateforme-de-letat-diffusees-par-un-hacker/</link>
-    <description>Docurba, plateforme numérique de l’État accessible sur docurba.beta.gouv.fr, fait l’objet d’une revendication de fuite de données publiée ce...
-L’article Docurba : plus de 5 000 lignes d’utilisateurs de la plateforme de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 25 Aug 2026 15:29:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hospital operator Nutex Health says data stolen in cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</link>
-    <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 10:44:16 -0400</pubDate>
   </item>
 </channel>
 </rss>
