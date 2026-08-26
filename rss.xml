@@ -232,12 +232,5 @@ L’article Banque Alimentaire de la Croix-Rouge à Strasbourg : 10 073 fiches d
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 25 Aug 2026 04:20:41 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-60004 — Gitea Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-60004</link>
-    <description>Gitea contains a code injection vulnerability that allows an attacker with repository write access to send a malicious patch to the diffpatch API endpoint to plant an executable Git hook and run shell commands as the Gitea service account.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-25</pubDate>
-  </item>
 </channel>
 </rss>
