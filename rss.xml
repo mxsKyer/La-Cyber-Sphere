@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit</title>
+    <link>https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit</link>
+    <description>The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 26 Aug 2026 20:53:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Medical device firm Boston Scientific says cyberattack has disrupted shipment processes</title>
+    <link>https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes</link>
+    <description>The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 26 Aug 2026 19:10:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New GPUThor attack defeats NVIDIA ECC protection for root access</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/</link>
+    <description>A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 14:48:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case</title>
+    <link>https://therecord.media/meta-settlement-children-online-safety-social-media</link>
+    <description>A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 26 Aug 2026 18:35:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations</title>
     <link>https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html</link>
     <description>The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive…</description>
@@ -234,35 +262,6 @@ The vulnerability in question is…</description>
     <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 25 Aug 2026 17:39:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 58 arrested in international cybercrime crackdown</title>
-    <link>https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol</link>
-    <description>Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 25 Aug 2026 20:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes</title>
-    <link>https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/</link>
-    <description>A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 16:25:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TeleCoop piraté : des données clients exposées via une faille Metabase</title>
-    <link>https://www.cyberattaque.org/telecoop-pirate-des-donnees-clients-exposees-via-une-faille-metabase/</link>
-    <description>TeleCoop, opérateur télécom coopératif français, confirme avoir été victime d’un incident de sécurité ayant exposé une partie des...
-L’article TeleCoop piraté : des données clients exposées via une faille Metabase est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 25 Aug 2026 19:40:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Employee benefits platform Paylogix says hackers stole financial and health data</title>
-    <link>https://therecord.media/paylogix-cyberattack-akira-ransomware</link>
-    <description>The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 25 Aug 2026 18:45:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
