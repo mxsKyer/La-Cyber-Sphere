@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FBI disrupts proxy network enabling Chinese espionage operations</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/</link>
+    <description>The FBI has disrupted infrastructure associated with a technical "quartermaster" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 10:17:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Snowflake ends service-account passwords. Now comes the hard part</title>
+    <link>https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/</link>
+    <description>Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions</title>
+    <link>https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html</link>
+    <description>Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 19:14:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Ubiquiti patches three max severity security vulnerabilities</title>
+    <link>https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/</link>
+    <description>Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 09:17:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing</title>
+    <link>https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 26 Aug 2026 18:37:02 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft tests new privacy controls for Windows 11 desktop apps</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/</link>
     <description>Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]</description>
@@ -168,49 +203,6 @@ L’article Docurba : plus de 5 000 lignes d’utilisateurs de la plateforme de�
     <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 25 Aug 2026 10:44:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw</title>
-    <link>https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</link>
-    <description>Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 19:37:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] From Fake Workers to Account Recovery: The Growing Identity Verification Risk</title>
-    <link>https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</link>
-    <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ukraine to give Britain access to battlefield data to train AI</title>
-    <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
-    <description>Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft PowerToys adds Alt+Tab-style switching for an app's windows</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/</link>
-    <description>Microsoft updated its Windows PowerToys toolset with a new utility dubbed "Window Hopper" that lets users switch between an app's windows more quickly. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 09:51:58 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Emil Frey France : une fuite de données expose des leads et des collaborateurs</title>
-    <link>https://www.cyberattaque.org/emil-frey-france-une-fuite-de-donnees-expose-des-leads-et-des-collaborateurs/</link>
-    <description>Emil Frey France, acteur majeur de la distribution automobile, confirme avoir identifié un incident de cybersécurité ayant entraîné...
-L’article Emil Frey France : une fuite de données expose des leads et des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 25 Aug 2026 13:32:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android</title>
-    <link>https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</link>
-    <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 25 Aug 2026 18:49:41 +0530</pubDate>
   </item>
 </channel>
 </rss>
