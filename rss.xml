@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical Avada WordPress theme flaw enables zero-click RCE</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/</link>
+    <description>A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 26 Aug 2026 17:33:20 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit</title>
     <link>https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit</link>
     <description>The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding.</description>
@@ -206,62 +213,6 @@ The vulnerability in question is…</description>
     <description>Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 26 Aug 2026 11:17:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2019-1068 — Microsoft SQL Server Remote Code Execution Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2019-1068</link>
-    <description>Microsoft SQL Server contains a remote code execution vulnerability that could allow an attacker to execute code in the context of the SQL Server Database Engine service account.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-8452 — Citrix NetScaler ADC and NetScaler Gateway Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-8452</link>
-    <description>Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability which could lead to denial of service. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2022-0995 — Linux Kernel Out-of-Bounds Write Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2022-0995</link>
-    <description>Linux Kernel contains an out-of-bounds memory write vulnerability which could allow a local user to gain privileged access or cause a denial of service on the system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2015-5287 — Red Hat Automatic Bug Reporting Tool Privilege Escalation Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-5287</link>
-    <description>Red Hat Automatic Bug Reporting Tool (ABRT) contains a privilege escalation vulnerability that could allow local users with certain permissions to gain privileges via a symlink attack on a file with a predictable name. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2015-3246 — Red Hat Libuser Race Condition Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-3246</link>
-    <description>Red Hat libuser contains a race condition vulnerability that allows authenticated local users to corrupt the /etc/passwd file to cause a denial of service or privilege escalation. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2021-23758 — Ajax.NET Professional Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-23758</link>
-    <description>Ajax.NET Professional (AjaxPro) contains a deserialization of untrusted data vulnerability that could allow for remote code execution via arbitrary .NET classes. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-26</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] LACMA data breach last year exposed social security and medical data</title>
-    <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
-    <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 17:58:14 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers abuse npm mirrors to host phishing redirect pages</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</link>
-    <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 25 Aug 2026 17:39:01 -0400</pubDate>
   </item>
 </channel>
 </rss>
