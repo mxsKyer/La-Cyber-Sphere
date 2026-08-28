@@ -6,6 +6,201 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] GiveWP WordPress donation plugin flaw lets hackers execute server commands</title>
+    <link>https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/</link>
+    <description>A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 14:18:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Qare : une intrusion inquiétante signalée par un hacker, des photos d’enfants exposées</title>
+    <link>https://www.cyberattaque.org/qare-une-intrusion-inquietante-signalee-par-un-hacker-des-photos-denfants-exposees/</link>
+    <description>Qare, plateforme française de téléconsultation médicale, fait l’objet d’un signalement publié par LunarisSec. Le hacker affirme avoir identifié...
+L’article Qare : une intrusion inquiétante signalée par un hacker, des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 28 Aug 2026 17:12:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication</title>
+    <link>https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html</link>
+    <description>Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening.
+
+"This…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 22:42:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 68-year-old imprisoned after making $1.3 million by pirating IPTV services</title>
+    <link>https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/</link>
+    <description>A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 12:36:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PaperCut warns of hackers using printer management software flaw in attacks</title>
+    <link>https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities</link>
+    <description>PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 28 Aug 2026 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 77 Diamonds : 690 000 e-mails revendiqués en fuite</title>
+    <link>https://www.zataz.com/77-diamonds-690-000-e-mails-revendiques-en-fuite/</link>
+    <description>Un professionnel des bijoux en diamants piraté. 690 000 clients et leurs données potentiellement impactés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 28 Aug 2026 16:22:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers</title>
+    <link>https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html</link>
+    <description>Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks.
+
+Topping the list is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 21:50:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Protéger un document image avant de la partager</title>
+    <link>https://www.zataz.com/proteger-un-document-image-avant-de-la-partager/</link>
+    <description>Filigrane, caviardage et suppression des métadonnées : ZATAZ protège les images et vos documents directement dans le navigateur.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 28 Aug 2026 16:04:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body</title>
+    <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 21:26:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code</title>
+    <link>https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html</link>
+    <description>Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 20:57:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Le deface, ce piratage que personne ne regarde</title>
+    <link>https://www.zataz.com/le-deface-ce-piratage-que-personne-ne-regarde/</link>
+    <description>Deface : 975 sites .fr touchés en août. Derrière le barbouillage, accès persistant, influence et compromission.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 28 Aug 2026 15:26:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?</title>
+    <link>https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/</link>
+    <description>AI is accelerating vulnerability discovery, putting pressure on systems built to enrich, prioritize, and remediate flaws at a slower pace. Action1 explains why defenders increasingly need to correlate multiple…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Over 8,300 Gitea servers vulnerable to code execution attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/</link>
+    <description>Over 8,300 Internet-exposed Gitea instances are still unpatched against a critical security flaw exploited in ongoing remote code execution attacks, according to cybersecurity watchdog Shadowserver. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 08:58:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth</title>
+    <link>https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html</link>
+    <description>Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 17:37:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Toy-making giant Hasbro disclose data breach affecting employees</title>
+    <link>https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/</link>
+    <description>Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 07:46:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Key Reasons Why Identity Fabric Matters in 2026</title>
+    <link>https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html</link>
+    <description>An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL</title>
+    <link>https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html</link>
+    <description>ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 16:50:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access</title>
+    <link>https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html</link>
+    <description>VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 16:28:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ServiceNow warns of three max severity security vulnerabilities</title>
+    <link>https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/</link>
+    <description>ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 06:29:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server</title>
+    <link>https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html</link>
+    <description>cPanel has released patches for a security flaw affecting domain parking and addon domain functionality in cPanel and WebHost Manager (WHM), which could allow code execution as the root user.
+
+The vulnerability,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 15:15:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque : des hackers font tomber des réseaux électriques !</title>
+    <link>https://www.zataz.com/cyberattaque-des-hackers-font-tomber-des-reseaux-electriques/</link>
+    <description>Une cyberattaque attribuée à des acteurs liés à l’Iran aurait immobilisé durant quatre jours une petite centrale britannique, sans perturber le réseau électrique national. Selon le Telegraph, des pirates associés au…</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 28 Aug 2026 09:37:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5120998 update released with 35 changes and fixes</title>
+    <link>https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/</link>
+    <description>Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 05:10:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lingor : des données sensibles de clients potentiellement exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/lingor-des-donnees-sensibles-de-clients-potentiellement-exposees-apres-une-cyberattaque/</link>
+    <description>Lingor confirme avoir subi une intrusion dans ses systèmes informatiques accompagnée d’une demande de rançon. L’entreprise indique avoir...
+L’article Lingor : des données sensibles de clients potentiellement exposées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 28 Aug 2026 08:36:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions</title>
+    <link>https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html</link>
+    <description>PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.
+
+The company has released…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 13:55:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations</title>
+    <link>https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html</link>
+    <description>Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.
+
+These campaigns, per…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 28 Aug 2026 13:50:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ultra Premium Direct : les données clients extraites après le piratage d’un prestataire</title>
+    <link>https://www.cyberattaque.org/ultra-premium-direct-les-donnees-clients-extraites-apres-le-piratage-dun-prestataire/</link>
+    <description>Ultra Premium Direct informe ses clients d’un incident de sécurité survenu chez l’un de ses prestataires techniques. Ce...
+L’article Ultra Premium Direct : les données clients extraites après le piratage d’un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 28 Aug 2026 06:59:30 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fuite présumée de données électorales dominicaines</title>
     <link>https://www.zataz.com/fuite-presumee-de-donnees-electorales-dominicaines/</link>
     <description>Fuite JCE revendiquée : 7,1 millions de dossiers et 5,8 millions de photos d’identité potentiellement exposés.</description>
@@ -53,248 +248,6 @@
     <description>OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 28 Aug 2026 00:06:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 2,3 millions de détenteurs crypto français ciblés</title>
-    <link>https://www.zataz.com/23-millions-de-detenteurs-crypto-francais-cibles/</link>
-    <description>Une base de 2,3 millions de détenteurs crypto français expose un risque cyber et physique dans un contexte d’enlèvements.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 17:23:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Eusko : 6 000 adhérents alertés après une cyberattaque visant la monnaie locale basque</title>
-    <link>https://www.cyberattaque.org/eusko-euskal-moneta-6-000-adherents-alertes-apres-une-cyberattaque/</link>
-    <description>Euskal Moneta, l’association qui gère l’Eusko, a été victime d’une cyberattaque détectée le 17 août 2026. Les attaquants...
-L’article Eusko : 6 000 adhérents alertés après une cyberattaque visant la monnaie locale…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 27 Aug 2026 16:47:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PaperCut warns of NG, MF flaw exploited in zero-day attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/</link>
-    <description>PaperCut is warning that hackers are actively exploiting a vulnerability in all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 12:31:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cartes Pokémon, fuite de données et réseaux sociaux : les vols ciblés se multiplient en France</title>
-    <link>https://www.zataz.com/cartes-pokemon-fuite-de-donnees-et-reseaux-sociaux-les-vols-cibles-se-multiplient-en-france/</link>
-    <description>Vols de cartes Pokémon : collectionneurs et boutiques deviennent des cibles pour des criminels parfois très informés via les fuites de données et les réseaux sociaux.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 16:15:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Manchester Airports Group says hackers stole travelers' data</title>
-    <link>https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/</link>
-    <description>The Manchester Airports Group (MAG) disclosed that hackers breached its systems and stole customer data, including Wi-Fi sign-ups from Manchester, Stansted, and East Midlands airports. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 12:12:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TeamPCP : deux suspects arrêtés en Australie</title>
-    <link>https://www.zataz.com/teampcp-deux-suspects-arretes-en-australie/</link>
-    <description>TeamPCP : deux suspects arrêtés après une enquête sur des attaques de supply chain ayant touché plus de 1 000 organisations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 15:37:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SPIP : une faille critique déjà exploitée permet de prendre le contrôle d’un site</title>
-    <link>https://www.cyberattaque.org/spip-une-faille-critique-98-10-deja-exploitee-permet-de-prendre-le-controle-dun-site/</link>
-    <description>Une faille de sécurité critique affecte le CMS français SPIP. Référencée sous l’identifiant CVE-2026-77806 et notée 9,8/10, elle...
-L’article SPIP : une faille critique déjà exploitée permet de prendre le contrôle d’un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 27 Aug 2026 15:37:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Finland appeals court revives case against Eagle S Officers over cable breaks</title>
-    <link>https://therecord.media/finland-appeals-court-revives-case-against-eagle-s</link>
-    <description>The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 27 Aug 2026 15:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html</link>
-    <description>Credit:&amp;nbsp;Hacktron
-Vercel has released security patches for two critical-severity vulnerabilities in the Next.js web framework, both of which allow unauthenticated remote code execution, one exploitable via specially…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 20:43:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories</title>
-    <link>https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html</link>
-    <description>A fake login page. A fake security scan. A fake productivity app. Apparently, pretending to be useful is still one of the easier ways into a machine.
-
-The rest of the week gets stranger: botnets borrowing AI, command…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 20:42:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese and Russian spies stepping up cyberattacks, German companies report</title>
-    <link>https://therecord.media/germany-cyberattacks-china-russia</link>
-    <description>Foreign intelligence services, particularly those from China and Russia, are increasingly behind cyberattacks on German companies, according to a new survey of the country’s private sector.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 27 Aug 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How Threat Research and MDR Help SMBs Build a Defensive Edge</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/</link>
-    <description>Threat research gives security teams insight into how attackers operate, while MDR turns that intelligence into faster detection and response. ESET explains how combining threat intelligence, continuous monitoring, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Android 17 adds ECH support to make web browsing harder to track</title>
-    <link>https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/</link>
-    <description>Google is introducing new network security protections in Android 17 to strengthen connection privacy, address cellular vulnerabilities, and protect the privacy of users' home networks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 10:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Mistertemp’ group piraté : une fuite de données touche le groupe derrière Aquila RH, Lynx RH et Vitalis Médical</title>
-    <link>https://www.cyberattaque.org/mistertemp-group-pirate-une-fuite-de-donnees-touche-le-groupe-derriere-aquila-rh-lynx-rh-et-vitalis-medical/</link>
-    <description>Mistertemp’ group, acteur français majeur de l’intérim et du recrutement, informe des personnes concernées qu’un incident de sécurité...
-L’article Mistertemp’ group piraté : une fuite de données touche le groupe…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 27 Aug 2026 13:40:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers</title>
-    <link>https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html</link>
-    <description>Cybersecurity researchers have disclosed details of a vulnerability in Amazon Kiro, an artificial intelligence (AI)-powered, agentic integrated development environment (IDE), that could facilitate data exfiltration via…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 19:09:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australia arrests alleged TeamPCP hackers behind supply-chain attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/</link>
-    <description>Australian authorities have arrested and charged two young men accused of being part of the TeamPCP hacking group linked to a string of far-reaching developer supply chain attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 09:31:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack on Manchester Airports Group exposes data of 8.7 million customers</title>
-    <link>https://therecord.media/cyberattack-on-manchester-airports-group-exposes-millions-customer-info</link>
-    <description>A spokesperson told The Yorkshire Post that roughly 8.7 million people were impacted, although they did not provide a date range. They added that in the “vast majority” of cases, the only information accessed was an…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 27 Aug 2026 13:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Journaux.fr : 270 000 données de livraison en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/journaux-fr-270-000-donnees-de-facturation-et-de-livraison-revendiquees-apres-une-fuite/</link>
-    <description>Journaux.fr, plateforme française de vente de journaux et magazines en ligne, fait l’objet d’une revendication de fuite de...
-L’article Journaux.fr : 270 000 données de livraison en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 27 Aug 2026 13:01:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australia charges two men for TeamPCP supply-chain hacking spree</title>
-    <link>https://therecord.media/australia-teampcp-hackers-arrested</link>
-    <description>Two men in Australia were charged Wednesday over their alleged membership in TeamPCP, the cybercrime group blamed for one of the most damaging hacking campaigns of the past year.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 27 Aug 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft rolls out fix for Windows 11 crashes, gaming issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/</link>
-    <description>Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Webinar: How Google Workspace breaches happen and what to do next</title>
-    <link>https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/</link>
-    <description>Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 08:16:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Disruptive cyber activity highlights risk from internet-exposed systems and edge devices</title>
-    <link>https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices</link>
-    <description></description>
-    <source>NCSC UK</source>
-    <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Learn How to Build Security Operations Ready for AI-Powered Attacks</title>
-    <link>https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html</link>
-    <description>Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.
-
-Advanced AI models can now help attackers discover vulnerabilities, generate…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 17:26:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks</title>
-    <link>https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html</link>
-    <description>The Australian Federal Police (AFP) has charged two Western Australian men with a combined total of 14 offences over their alleged role in TeamPCP, the cybercrime group behind the March 2026 compromise of the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 17:26:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] What the Data Says About AI in Security Operations in 2026</title>
-    <link>https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html</link>
-    <description>AI is officially mainstream in security operations. According to Prophet Security's State of AI in Security Operations 2026 report (produced from ViB’s survey of 250+ cybersecurity pros), 40% of security teams now use…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Carhartt data breach exposes information of 12.9 million accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/</link>
-    <description>The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 07:10:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
-    <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
-    <description>Authorities in Australia have arrested two men believed to be members of TeamPCP, a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Thu, 27 Aug 2026 11:04:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools</title>
-    <link>https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html</link>
-    <description>Individuals and organizations in Cambodia have emerged as the target of a new campaign that delivers an open-source remote access trojan (RAT) called Spark RAT.
-
-"The samples employ diverse lure themes, suggesting an…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 16:30:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address</title>
-    <link>https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html</link>
-    <description>Threat actors linked by Arctic Wolf to Dark Caracal with medium confidence deployed a previously undocumented Go-based malware framework, GoCaracal, during a June 2026 intrusion at an unnamed communications organization…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 15:03:38 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/</link>
-    <description>CISA has ordered U.S. government agencies to patch their Citrix NetScaler appliances against an actively exploited remote code execution vulnerability by Saturday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 05:16:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ATF confirms “major incident” after recent Qilin breach claims</title>
-    <link>https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/</link>
-    <description>ATF, the regulatory agency that enforces federal laws governing firearms and explosives in the United States, has confirmed that one of its systems was compromised after breach claims made by the Qilin ransomware gang.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 04:13:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New GPUThor Rowhammer Defeats ECC on NVIDIA RTX A6000 to Gain Host Root Access</title>
-    <link>https://thehackernews.com/2026/08/gputhor-rowhammer-defeats-ecc-on-nvidia.html</link>
-    <description>Academic researchers have disclosed a Rowhammer attack impacting NVIDIA workstation GPUs with GDDR6 memory that defeats error correction codes (ECC), the mitigation NVIDIA recommends against GPU Rowhammer, and enables…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 13:43:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs</title>
-    <link>https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 27 Aug 2026 12:35:28 +0530</pubDate>
   </item>
 </channel>
 </rss>
