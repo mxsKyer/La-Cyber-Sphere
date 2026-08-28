@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Fuite présumée de données électorales dominicaines</title>
+    <link>https://www.zataz.com/fuite-presumee-de-donnees-electorales-dominicaines/</link>
+    <description>Fuite JCE revendiquée : 7,1 millions de dossiers et 5,8 millions de photos d’identité potentiellement exposés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 27 Aug 2026 23:02:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Congo : un pirate revendique 110 000 données e-Solde</title>
+    <link>https://www.zataz.com/congo-un-pirate-revendique-110-000-donnees-e-solde/</link>
+    <description>Un pirate revendique 110 000 données e-Solde au Congo et des dizaines d’autres bases compromises dans le monde.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 27 Aug 2026 22:48:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’IA pirate qui promet anonymat et zéro filtre</title>
+    <link>https://www.zataz.com/lia-pirate-qui-promet-anonymat-et-zero-filtre/</link>
+    <description>Une IA testée revendique anonymat sans filtres, capable de générer du code sensible et des images extrêmes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 27 Aug 2026 22:32:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Quand les fuites de données ciblent les victimes</title>
+    <link>https://www.zataz.com/quand-les-fuites-de-donnees-ciblent-les-victimes/</link>
+    <description>Des fuites de données aux home-jackings, comment des informations volées peuvent devenir un outil de ciblage criminel.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 27 Aug 2026 21:40:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Nearly 700 rogue AI agents coordinated in the Hugging Face attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/</link>
+    <description>New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 27 Aug 2026 17:38:53 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] White House bans foreign-made equipment for power generation over cyber backdoor concerns</title>
     <link>https://therecord.media/trump-cyber-electricity-parts</link>
     <description>The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the…</description>
@@ -260,42 +295,6 @@ Advanced AI models can now help attackers discover vulnerabilities, generate…<
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added six flaws to its Known Exploited Vulnerabilities (KEV) catalog, including a high-severity security vulnerability impacting Citrix…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 27 Aug 2026 12:35:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Allo E.Leclerc : un prestataire piraté, des données clients exposées</title>
-    <link>https://www.cyberattaque.org/allo-e-leclerc-un-prestataire-pirate-des-donnees-clients-exposees/</link>
-    <description>L Commerce, la société derrière le service Allo E.Leclerc, informe certains clients qu’un de ses prestataires logistiques externes...
-L’article Allo E.Leclerc : un prestataire piraté, des données clients exposées est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 27 Aug 2026 04:38:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-66384 — JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-66384</link>
-    <description>JFrog Artifactory contains an improper limitation of a pathname to a restricted directory vulnerability. This can allow an authenticated user to write data outside the intended Docker cache path under specific remote-repository conditions.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-27</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-53362 — Linux Kernel Unspecified Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-53362</link>
-    <description>Linux Kernel contains an unspecified vulnerability that can allow for privilege escalation via IPv6 networking subsystem. This vulnerability can impact multiple products, including but not limited to Suse, Red Hat, and other products using Linux. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-27</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2023-49105 — ownCloud Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2023-49105</link>
-    <description>ownCloud contains an improper authentication vulnerability that allows an attacker to access, modify, or delete any file without authentication if the username of a victim is known, and the victim has no signing-key configured.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-27</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Avada WordPress theme flaw enables zero-click RCE</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/</link>
-    <description>A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 26 Aug 2026 17:33:20 -0400</pubDate>
   </item>
 </channel>
 </rss>
