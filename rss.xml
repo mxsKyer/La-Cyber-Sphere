@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles</title>
+    <link>https://www.cyberattaque.org/mairie-tarnos-rancon-cyberattaque/</link>
+    <description>La Ville de Tarnos, dans les Landes, confirme avoir été victime d’une cyberattaque visant son serveur de messagerie....
+L’article Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 29 Aug 2026 20:33:27 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
     <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
     <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover,…</description>
@@ -71,37 +79,6 @@ L’article Zéro Logement Vacant : 48 millions de personnes exposées dans une 
     <description>Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists'…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 29 Aug 2026 03:00:52 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Minea : 533 000 profils et 81,6 millions d’activités exposés dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/minea-533-000-profils-et-816-millions-dactivites-exposes-dans-une-fuite-massive/</link>
-    <description>Minea, société suisse spécialisée dans l’analyse publicitaire pour l’e-commerce et très utilisée en France, fait l’objet d’une importante...
-L’article Minea : 533 000 profils et 81,6 millions d’activités exposés dans…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 28 Aug 2026 20:52:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable</title>
-    <link>https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html</link>
-    <description>Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.
-
-The vulnerability, designated…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 29 Aug 2026 02:08:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] PaperCut releases second emergency patch for exploited flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/</link>
-    <description>PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 28 Aug 2026 15:08:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GiveWP WordPress donation plugin flaw lets hackers execute server commands</title>
-    <link>https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/</link>
-    <description>A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 28 Aug 2026 14:18:55 -0400</pubDate>
   </item>
 </channel>
 </rss>
