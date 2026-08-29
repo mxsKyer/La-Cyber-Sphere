@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Anthropic is cutting Claude Code's current weekly limits by 17%</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/</link>
+    <description>Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 29 Aug 2026 19:11:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SDIS 13 et SDIS 30 : près de 6 900 personnes exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/sdis-13-et-sdis-30-pres-de-6-900-pompiers-exposees-apres-une-cyberattaque/</link>
+    <description>Deux services départementaux d’incendie et de secours français sont visés simultanément par le hacker ChimeraZ. Celui-ci revendique la...
+L’article SDIS 13 et SDIS 30 : près de 6 900 personnes exposées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 29 Aug 2026 22:54:51 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles</title>
     <link>https://www.cyberattaque.org/mairie-tarnos-rancon-cyberattaque/</link>
     <description>La Ville de Tarnos, dans les Landes, confirme avoir été victime d’une cyberattaque visant son serveur de messagerie....
@@ -65,20 +80,6 @@ L’article Marie Blachère : les données RH d’employés revendiqués dans un
 L’article Zéro Logement Vacant : 48 millions de personnes exposées dans une fuite massive est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 29 Aug 2026 04:50:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] McKesson discloses breach after ShinyHunters claims patient data theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/</link>
-    <description>Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 28 Aug 2026 18:40:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network</title>
-    <link>https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html</link>
-    <description>Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists'…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 29 Aug 2026 03:00:52 +0530</pubDate>
   </item>
 </channel>
 </rss>
