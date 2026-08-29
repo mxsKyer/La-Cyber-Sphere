@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Marie Blachère : les données RH d’employés revendiqués dans une fuite</title>
+    <link>https://www.cyberattaque.org/marie-blachere-les-donnees-rh-demployes-revendiques-dans-une-fuite/</link>
+    <description>Marie Blachère, l’une des principales enseignes françaises de boulangerie, fait l’objet d’une revendication de cyberattaque publiée par le...
+L’article Marie Blachère : les données RH d’employés revendiqués dans une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 29 Aug 2026 05:37:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Zéro Logement Vacant : 48 millions de personnes exposées dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/zero-logement-vacant-48-millions-de-personnes-exposees-dans-une-fuite-massive/</link>
+    <description>Zéro Logement Vacant, service numérique de l’État destiné à accompagner les collectivités dans la remise sur le marché...
+L’article Zéro Logement Vacant : 48 millions de personnes exposées dans une fuite massive est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 29 Aug 2026 04:50:33 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] McKesson discloses breach after ShinyHunters claims patient data theft</title>
     <link>https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/</link>
     <description>Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…</description>
@@ -196,47 +212,6 @@ The vulnerability,…</description>
     <description>Une cyberattaque attribuée à des acteurs liés à l’Iran aurait immobilisé durant quatre jours une petite centrale britannique, sans perturber le réseau électrique national. Selon le Telegraph, des pirates associés au…</description>
     <source>ZATAZ</source>
     <pubDate>Fri, 28 Aug 2026 09:37:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5120998 update released with 35 changes and fixes</title>
-    <link>https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/</link>
-    <description>Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 28 Aug 2026 05:10:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lingor : des données sensibles de clients potentiellement exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/lingor-des-donnees-sensibles-de-clients-potentiellement-exposees-apres-une-cyberattaque/</link>
-    <description>Lingor confirme avoir subi une intrusion dans ses systèmes informatiques accompagnée d’une demande de rançon. L’entreprise indique avoir...
-L’article Lingor : des données sensibles de clients potentiellement exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 28 Aug 2026 08:36:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions</title>
-    <link>https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html</link>
-    <description>PaperCut has alerted customers that bad actors are actively exploiting a vulnerability impacting all versions of its PaperCut NG and PaperCut MF print management software in zero-day attacks.
-
-The company has released…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 13:55:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations</title>
-    <link>https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html</link>
-    <description>Cybersecurity researchers have flagged a fresh set of campaigns targeting government and diplomatic organizations in Romania, Spain, and Türkiye between late September 2025 and early April 2026.
-
-These campaigns, per…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 13:50:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ultra Premium Direct : les données clients extraites après le piratage d’un prestataire</title>
-    <link>https://www.cyberattaque.org/ultra-premium-direct-les-donnees-clients-extraites-apres-le-piratage-dun-prestataire/</link>
-    <description>Ultra Premium Direct informe ses clients d’un incident de sécurité survenu chez l’un de ses prestataires techniques. Ce...
-L’article Ultra Premium Direct : les données clients extraites après le piratage d’un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 28 Aug 2026 06:59:30 +0000</pubDate>
   </item>
 </channel>
 </rss>
