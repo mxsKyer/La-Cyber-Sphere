@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
+    <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
+    <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 29 Aug 2026 21:55:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Brave browser adds email aliases to help users evade tracking</title>
     <link>https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/</link>
     <description>The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]</description>
@@ -95,81 +102,6 @@ The vulnerability, designated…</description>
     <description>A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 28 Aug 2026 14:18:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Qare : une intrusion inquiétante signalée par un hacker, des photos d’enfants exposées</title>
-    <link>https://www.cyberattaque.org/qare-une-intrusion-inquietante-signalee-par-un-hacker-des-photos-denfants-exposees/</link>
-    <description>Qare, plateforme française de téléconsultation médicale, fait l’objet d’un signalement publié par LunarisSec. Le hacker affirme avoir identifié...
-L’article Qare : une intrusion inquiétante signalée par un hacker, des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 28 Aug 2026 17:12:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication</title>
-    <link>https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html</link>
-    <description>Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening.
-
-"This…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 22:42:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 68-year-old imprisoned after making $1.3 million by pirating IPTV services</title>
-    <link>https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/</link>
-    <description>A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 28 Aug 2026 12:36:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PaperCut warns of hackers using printer management software flaw in attacks</title>
-    <link>https://therecord.media/papercut-warns-of-hackers-using-printer-management-vulnerabilities</link>
-    <description>PaperCut released an emergency advisory on Thursday evening saying vulnerabilities in their print management software, PaperCut NG and MF, are under active exploitation.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 28 Aug 2026 16:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 77 Diamonds : 690 000 e-mails revendiqués en fuite</title>
-    <link>https://www.zataz.com/77-diamonds-690-000-e-mails-revendiques-en-fuite/</link>
-    <description>Un professionnel des bijoux en diamants piraté. 690 000 clients et leurs données potentiellement impactés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 28 Aug 2026 16:22:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers</title>
-    <link>https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html</link>
-    <description>Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks.
-
-Topping the list is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 21:50:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Protéger un document image avant de la partager</title>
-    <link>https://www.zataz.com/proteger-un-document-image-avant-de-la-partager/</link>
-    <description>Filigrane, caviardage et suppression des métadonnées : ZATAZ protège les images et vos documents directement dans le navigateur.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 28 Aug 2026 16:04:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body</title>
-    <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 21:26:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code</title>
-    <link>https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html</link>
-    <description>Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 20:57:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Le deface, ce piratage que personne ne regarde</title>
-    <link>https://www.zataz.com/le-deface-ce-piratage-que-personne-ne-regarde/</link>
-    <description>Deface : 975 sites .fr touchés en août. Derrière le barbouillage, accès persistant, influence et compromission.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 28 Aug 2026 15:26:17 +0000</pubDate>
   </item>
 </channel>
 </rss>
