@@ -6,6 +6,44 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] McKesson discloses breach after ShinyHunters claims patient data theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/</link>
+    <description>Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 18:40:17 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network</title>
+    <link>https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html</link>
+    <description>Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists'…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 29 Aug 2026 03:00:52 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Minea : 533 000 profils et 81,6 millions d’activités exposés dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/minea-533-000-profils-et-816-millions-dactivites-exposes-dans-une-fuite-massive/</link>
+    <description>Minea, société suisse spécialisée dans l’analyse publicitaire pour l’e-commerce et très utilisée en France, fait l’objet d’une importante...
+L’article Minea : 533 000 profils et 81,6 millions d’activités exposés dans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 28 Aug 2026 20:52:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable</title>
+    <link>https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html</link>
+    <description>Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.
+
+The vulnerability, designated…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 29 Aug 2026 02:08:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] PaperCut releases second emergency patch for exploited flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/</link>
+    <description>PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 28 Aug 2026 15:08:26 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] GiveWP WordPress donation plugin flaw lets hackers execute server commands</title>
     <link>https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/</link>
     <description>A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]</description>
@@ -199,55 +237,6 @@ These campaigns, per…</description>
 L’article Ultra Premium Direct : les données clients extraites après le piratage d’un…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 28 Aug 2026 06:59:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fuite présumée de données électorales dominicaines</title>
-    <link>https://www.zataz.com/fuite-presumee-de-donnees-electorales-dominicaines/</link>
-    <description>Fuite JCE revendiquée : 7,1 millions de dossiers et 5,8 millions de photos d’identité potentiellement exposés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 23:02:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Congo : un pirate revendique 110 000 données e-Solde</title>
-    <link>https://www.zataz.com/congo-un-pirate-revendique-110-000-donnees-e-solde/</link>
-    <description>Un pirate revendique 110 000 données e-Solde au Congo et des dizaines d’autres bases compromises dans le monde.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 22:48:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’IA pirate qui promet anonymat et zéro filtre</title>
-    <link>https://www.zataz.com/lia-pirate-qui-promet-anonymat-et-zero-filtre/</link>
-    <description>Une IA testée revendique anonymat sans filtres, capable de générer du code sensible et des images extrêmes.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 22:32:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Quand les fuites de données ciblent les victimes</title>
-    <link>https://www.zataz.com/quand-les-fuites-de-donnees-ciblent-les-victimes/</link>
-    <description>Des fuites de données aux home-jackings, comment des informations volées peuvent devenir un outil de ciblage criminel.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 27 Aug 2026 21:40:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Nearly 700 rogue AI agents coordinated in the Hugging Face attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/</link>
-    <description>New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 27 Aug 2026 17:38:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] White House bans foreign-made equipment for power generation over cyber backdoor concerns</title>
-    <link>https://therecord.media/trump-cyber-electricity-parts</link>
-    <description>The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 27 Aug 2026 19:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face</title>
-    <link>https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html</link>
-    <description>OpenAI on Wednesday revealed that reward hacking was a key driver behind the artificial intelligence (AI)-powered hack of Hugging Face last month, adding that it found evidence of misaligned behavior as early as late…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 28 Aug 2026 00:06:19 +0530</pubDate>
   </item>
 </channel>
 </rss>
