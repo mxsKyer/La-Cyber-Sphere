@@ -6,6 +6,56 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FulcrumSec claims Manchester Airports hack, theft of 86 GB of data</title>
+    <link>https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/</link>
+    <description>FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 30 Aug 2026 11:00:21 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/</link>
+    <description>Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 30 Aug 2026 10:30:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chrome Web Store extensions caught stealing crypto, browser data</title>
+    <link>https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/</link>
+    <description>Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 30 Aug 2026 10:17:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alaxione : 6,8 millions de patients revendiqués</title>
+    <link>https://www.zataz.com/alaxione-68-millions-de-patients-revendiques/</link>
+    <description>Alaxione visé par une fuite revendiquée de 6,8 millions de patients et plus de 10,1 millions de rendez-vous. La quatrième fuite en un an ?</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 30 Aug 2026 13:58:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un pirate cible à nouveau les SDIS français</title>
+    <link>https://www.zataz.com/un-pirate-cible-a-nouveau-les-sdis-francais/</link>
+    <description>Un pirate informatique cible sept nouveaux SDIS fin août, après une série de fuites touchant déjà les secours français en juillet.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 30 Aug 2026 11:26:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Zéro Logement Vacant visé par une fuite massive ?</title>
+    <link>https://www.zataz.com/zero-logement-vacant-vise-par-une-fuite-massive/</link>
+    <description>Un pirate revendique 149 millions de lignes volées à Zéro Logement Vacant après une compromission de Metabase.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 30 Aug 2026 11:02:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CGT Éduc’Action Créteil : deux sites piratés avant la rentrée</title>
+    <link>https://www.cyberattaque.org/cgt-educaction-creteil-deux-sites-pirates-avant-la-rentree/</link>
+    <description>Les sites de la CGT Éduc’Action Créteil et de la CGT Éduc’Action 77 ont été victimes d’une cyberattaque...
+L’article CGT Éduc’Action Créteil : deux sites piratés avant la rentrée est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 30 Aug 2026 10:42:34 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
     <link>https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</link>
     <description>Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
@@ -43,20 +93,6 @@ L’article Tarnos : une rançon réclamée à la mairie pour récupérer ses do
     <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover,…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 29 Aug 2026 21:55:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Brave browser adds email aliases to help users evade tracking</title>
-    <link>https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/</link>
-    <description>The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 29 Aug 2026 10:19:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un outil pirate à 500 € pour industrialiser la fraude</title>
-    <link>https://www.zataz.com/un-outil-pirate-a-500-e-pour-industrialiser-la-fraude/</link>
-    <description>Un outil cybercriminel centralise logs, SMS et sessions pour accélérer la fraude et structurer le travail des pirates informatiques.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 29 Aug 2026 10:52:45 +0000</pubDate>
   </item>
 </channel>
 </rss>
