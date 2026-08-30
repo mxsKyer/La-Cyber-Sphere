@@ -6,6 +6,37 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FFTir : les données de 300 000 licenciés mis en vente par un hacker</title>
+    <link>https://www.cyberattaque.org/fftir-les-donnees-de-300-000-licencies-mis-en-vente-par-un-hacker/</link>
+    <description>La Fédération française de tir (FFTir) fait l’objet d’une revendication préoccupante. Le hacker Vagrantly affirme vendre un accès...
+L’article FFTir : les données de 300 000 licenciés mis en vente par un hacker est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 30 Aug 2026 18:20:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque : une rentrée scolaire sous tension</title>
+    <link>https://www.zataz.com/cyberattaque-une-rentree-scolaire-sous-tension/</link>
+    <description>Cyberattaque scolaire : plusieurs académies affrontent pannes, affectations retardées et rentrée sous tension.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 30 Aug 2026 17:29:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Courir : une compromission massive de l’infrastructure interne après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/courir-une-compromission-massive-de-linfrastructure-interne-apres-une-cyberattaque/</link>
+    <description>Courir, l’une des principales enseignes françaises spécialisées dans les sneakers et le streetwear, est visée par une revendication...
+L’article Courir : une compromission massive de l’infrastructure interne après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 30 Aug 2026 16:24:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CarteDePeche.fr : les données d’adhérents, dont des mineurs diffusées</title>
+    <link>https://www.cyberattaque.org/cartedepeche-fr-les-donnees-dadherents-dont-des-mineurs-diffusees/</link>
+    <description>CarteDePeche.fr, le site officiel permettant d’acheter une carte de pêche en eau douce en France, fait l’objet d’une...
+L’article CarteDePeche.fr : les données d’adhérents, dont des mineurs diffusées est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 30 Aug 2026 16:14:14 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] FulcrumSec claims Manchester Airports hack, theft of 86 GB of data</title>
     <link>https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/</link>
     <description>FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG…</description>
@@ -86,13 +117,6 @@ L’article SDIS 13 et SDIS 30 : près de 6 900 personnes exposées après une�
 L’article Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 29 Aug 2026 20:33:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
-    <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
-    <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 29 Aug 2026 21:55:03 +0530</pubDate>
   </item>
 </channel>
 </rss>
