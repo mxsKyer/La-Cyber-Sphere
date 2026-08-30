@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
+    <link>https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</link>
+    <description>Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
+
+"While traditional ClickFix campaigns direct…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 30 Aug 2026 13:06:33 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Anthropic is cutting Claude Code's current weekly limits by 17%</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/</link>
     <description>Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]</description>
@@ -48,30 +57,6 @@ L’article Tarnos : une rançon réclamée à la mairie pour récupérer ses do
     <description>Un outil cybercriminel centralise logs, SMS et sessions pour accélérer la fraude et structurer le travail des pirates informatiques.</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 29 Aug 2026 10:52:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Frères Toque : données clients et historiques de commandes exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/freres-toque-donnees-clients-et-historiques-de-commandes-exposes-apres-une-cyberattaque/</link>
-    <description>Frères Toque informe ses clients d’un incident de sécurité ayant touché l’un de ses outils externes utilisé pour...
-L’article Frères Toque : données clients et historiques de commandes exposés après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 29 Aug 2026 10:11:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Easypara : une faille Metabase chez son prestataire expose les coordonnées de certains clients</title>
-    <link>https://www.cyberattaque.org/easypara-une-faille-metabase-chez-son-prestataire-expose-les-coordonnees-de-certains-clients/</link>
-    <description>Easypara informe certains de ses clients d’un incident de sécurité survenu chez l’un de ses prestataires, Shipp, utilisé...
-L’article Easypara : une faille Metabase chez son prestataire expose les coordonnées de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 29 Aug 2026 10:08:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Marie Blachère : les données RH d’employés revendiqués dans une fuite</title>
-    <link>https://www.cyberattaque.org/marie-blachere-les-donnees-rh-demployes-revendiques-dans-une-fuite/</link>
-    <description>Marie Blachère, l’une des principales enseignes françaises de boulangerie, fait l’objet d’une revendication de cyberattaque publiée par le...
-L’article Marie Blachère : les données RH d’employés revendiqués dans une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 29 Aug 2026 05:37:56 +0000</pubDate>
   </item>
 </channel>
 </rss>
