@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] LAPSUS$ réapparaît autour d’une attaque contre Courir</title>
+    <link>https://www.zataz.com/lapsus-reapparait-autour-dune-attaque-contre-courir/</link>
+    <description>LAPSUS$ réapparaît sur un forum pirate, recrute des employés et revendique une compromission étendue de Courir.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 30 Aug 2026 21:23:20 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] FFTir : les données de 300 000 licenciés mis en vente par un hacker</title>
     <link>https://www.cyberattaque.org/fftir-les-donnees-de-300-000-licencies-mis-en-vente-par-un-hacker/</link>
     <description>La Fédération française de tir (FFTir) fait l’objet d’une revendication préoccupante. Le hacker Vagrantly affirme vendre un accès...
@@ -109,14 +116,6 @@ L’article CGT Éduc’Action Créteil : deux sites piratés avant la rentrée 
 L’article SDIS 13 et SDIS 30 : près de 6 900 personnes exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 29 Aug 2026 22:54:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles</title>
-    <link>https://www.cyberattaque.org/mairie-tarnos-rancon-cyberattaque/</link>
-    <description>La Ville de Tarnos, dans les Landes, confirme avoir été victime d’une cyberattaque visant son serveur de messagerie....
-L’article Tarnos : une rançon réclamée à la mairie pour récupérer ses données sensibles est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 29 Aug 2026 20:33:27 +0000</pubDate>
   </item>
 </channel>
 </rss>
