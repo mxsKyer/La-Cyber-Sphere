@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Ne devenez pas le relais involontaire d’une intox</title>
+    <link>https://www.zataz.com/ne-devenez-pas-le-relais-involontaire-dune-intox/</link>
+    <description>Avant de partager un contenu politique spectaculaire, quelques vérifications simples peuvent révéler une possible intox.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 31 Aug 2026 22:37:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cronos blockchain restarts after $74 million Tectonic exploit</title>
+    <link>https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/</link>
+    <description>The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 31 Aug 2026 16:47:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Five plead guilty in latest federal ATM jackpotting case</title>
+    <link>https://therecord.media/kansas-atm-jackpotting-guilty-pleas</link>
+    <description>Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 31 Aug 2026 20:31:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fraudsters steal $6 million from Tectonic crypto platform after inflating token price</title>
     <link>https://therecord.media/crypto-tectonic-hack-cronos</link>
     <description>At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend.</description>
@@ -184,27 +205,6 @@ L’article La financière d’Orion : 20 Go de données clients volés après l
     <description>PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with CVE-2026-81578.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-08-31</pubDate>
-  </item>
-  <item>
-    <title>[Faible] IPTV pirate : les clients pourraient payer le prix fort à la suite du piratage de leur fournisseur</title>
-    <link>https://www.zataz.com/iptv-pirate-les-clients-pourraient-payer-le-prix-fort-a-la-suite-du-piratage-de-leur-fournisseur/</link>
-    <description>Sept fournisseurs IPTV pirates ont été infiltrés, exposant potentiellement les données de milliers de clients.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 30 Aug 2026 22:50:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PwnForums protège-t-il délibérément la Russie ?</title>
-    <link>https://www.zataz.com/pwnforums-protege-t-il-deliberement-la-russie/</link>
-    <description>PwnForums interdit les fuites russes tandis que d’autres cibles restent exposées, une asymétrie qui interroge.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 30 Aug 2026 22:10:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] LAPSUS$ réapparaît autour d’une attaque contre Courir</title>
-    <link>https://www.zataz.com/lapsus-reapparait-autour-dune-attaque-contre-courir/</link>
-    <description>LAPSUS$ réapparaît sur un forum pirate, recrute des employés et revendique une compromission étendue de Courir.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 30 Aug 2026 21:23:20 +0000</pubDate>
   </item>
 </channel>
 </rss>
