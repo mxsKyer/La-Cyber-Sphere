@@ -6,6 +6,83 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Berlin confirms data theft after Rhysida ransomware attack claims</title>
+    <link>https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/</link>
+    <description>Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 31 Aug 2026 09:30:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack</title>
+    <link>https://therecord.media/mckesson-cyberattack-ransomware-pharma</link>
+    <description>The pharmaceutical and healthcare technology company McKesson informed regulators it is in the early stages of investigating a cybersecurity incident involving an unnamed third-party application.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 31 Aug 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Slovenian casinos reopen after cyberattack knocked gaming systems offline</title>
+    <link>https://therecord.media/slovenia-cyberattack-casinos-reopen</link>
+    <description>One of Slovenia’s largest gambling and tourism groups has begun reopening its casinos after a cyberattack forced them to shut down for several days.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 31 Aug 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions</title>
+    <link>https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html</link>
+    <description>The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 31 Aug 2026 17:44:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets</title>
+    <link>https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html</link>
+    <description>Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 31 Aug 2026 17:17:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance</title>
+    <link>https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html</link>
+    <description>Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 31 Aug 2026 17:01:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft says Windows 11 KB5120998 update resets mouse settings</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/</link>
+    <description>Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 31 Aug 2026 06:23:46 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nigerians extradited to US for sextortion, deaths of two teens</title>
+    <link>https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/</link>
+    <description>Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 31 Aug 2026 05:22:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs</title>
+    <link>https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</link>
+    <description>A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS)…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 31 Aug 2026 14:34:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft asks users to ignore 'Antivirus is turned off' errors</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</link>
+    <description>Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 31 Aug 2026 04:29:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims</title>
+    <link>https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 31 Aug 2026 13:26:53 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] La financière d’Orion : 20 Go de données clients volés après le piratage d’un partenaire</title>
     <link>https://www.cyberattaque.org/la-financiere-dorion-20-go-de-donnees-clients-voles-apres-le-piratage-dun-partenaire/</link>
     <description>Le groupe Orion, acteur français de la gestion de patrimoine, a été indirectement touché par une cyberattaque ayant...
@@ -92,37 +169,6 @@ L’article CarteDePeche.fr : les données d’adhérents, dont des mineurs diff
     <description>Alaxione visé par une fuite revendiquée de 6,8 millions de patients et plus de 10,1 millions de rendez-vous. La quatrième fuite en un an ?</description>
     <source>ZATAZ</source>
     <pubDate>Sun, 30 Aug 2026 13:58:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un pirate cible à nouveau les SDIS français</title>
-    <link>https://www.zataz.com/un-pirate-cible-a-nouveau-les-sdis-francais/</link>
-    <description>Un pirate informatique cible sept nouveaux SDIS fin août, après une série de fuites touchant déjà les secours français en juillet.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 30 Aug 2026 11:26:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Zéro Logement Vacant visé par une fuite massive ?</title>
-    <link>https://www.zataz.com/zero-logement-vacant-vise-par-une-fuite-massive/</link>
-    <description>Un pirate revendique 149 millions de lignes volées à Zéro Logement Vacant après une compromission de Metabase.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 30 Aug 2026 11:02:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CGT Éduc’Action Créteil : deux sites piratés avant la rentrée</title>
-    <link>https://www.cyberattaque.org/cgt-educaction-creteil-deux-sites-pirates-avant-la-rentree/</link>
-    <description>Les sites de la CGT Éduc’Action Créteil et de la CGT Éduc’Action 77 ont été victimes d’une cyberattaque...
-L’article CGT Éduc’Action Créteil : deux sites piratés avant la rentrée est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 30 Aug 2026 10:42:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
-    <link>https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</link>
-    <description>Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell.
-
-"While traditional ClickFix campaigns direct…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 30 Aug 2026 13:06:33 +0530</pubDate>
   </item>
 </channel>
 </rss>
