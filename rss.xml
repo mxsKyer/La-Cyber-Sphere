@@ -6,6 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Five Venezuelans plead guilty to ATM jackpotting attacks in US</title>
+    <link>https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/</link>
+    <description>Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 01 Sep 2026 05:15:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis</title>
+    <link>https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</link>
+    <description>Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 01 Sep 2026 13:56:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Recently patched PaperCut zero-days used in data theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/</link>
+    <description>Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 01 Sep 2026 03:48:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</link>
+    <description>Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.
+
+The vulnerabilities in question are listed below -
+
+
+  CVE-2026-0768 (CVSS score: 9.8) - A…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 01 Sep 2026 12:52:30 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Ne devenez pas le relais involontaire d’une intox</title>
     <link>https://www.zataz.com/ne-devenez-pas-le-relais-involontaire-dune-intox/</link>
     <description>Avant de partager un contenu politique spectaculaire, quelques vérifications simples peuvent révéler une possible intox.</description>
@@ -155,34 +188,6 @@ L’article Le Bon Siège : près de 1 000 clients exposés avec adresses et té
     <description>Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 31 Aug 2026 06:23:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nigerians extradited to US for sextortion, deaths of two teens</title>
-    <link>https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/</link>
-    <description>Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 31 Aug 2026 05:22:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs</title>
-    <link>https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</link>
-    <description>A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 31 Aug 2026 14:34:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft asks users to ignore 'Antivirus is turned off' errors</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</link>
-    <description>Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 31 Aug 2026 04:29:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims</title>
-    <link>https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 31 Aug 2026 13:26:53 +0530</pubDate>
   </item>
 </channel>
 </rss>
