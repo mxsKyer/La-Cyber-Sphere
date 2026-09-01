@@ -184,27 +184,5 @@ L’article Le Bon Siège : près de 1 000 clients exposés avec adresses et té
     <source>The Hacker News</source>
     <pubDate>Mon, 31 Aug 2026 13:26:53 +0530</pubDate>
   </item>
-  <item>
-    <title>[Faible] La financière d’Orion : 20 Go de données clients volés après le piratage d’un partenaire</title>
-    <link>https://www.cyberattaque.org/la-financiere-dorion-20-go-de-donnees-clients-voles-apres-le-piratage-dun-partenaire/</link>
-    <description>Le groupe Orion, acteur français de la gestion de patrimoine, a été indirectement touché par une cyberattaque ayant...
-L’article La financière d’Orion : 20 Go de données clients volés après le piratage d’un partenaire…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 31 Aug 2026 04:46:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-81578 — PaperCut NG/MF Missing Authentication for Critical Function Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-81578</link>
-    <description>PaperCut NG/MF contains a missing authentication for critical function vulnerability which allows an unauthenticated remote attacker to modify certain system configurations. This vulnerability can be chained with CVE-2026-82078.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-31</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-82078 — PaperCut NG/MF Unsafe Reflection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-82078</link>
-    <description>PaperCut NG/MF contains an unsafe reflection vulnerability that allows an attacker to manipulate system configuration parameters and execute arbitrary Java bytecode residing on the application classpath under the security context of the PaperCut server process. This vulnerability can be chained with CVE-2026-81578.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-08-31</pubDate>
-  </item>
 </channel>
 </rss>
