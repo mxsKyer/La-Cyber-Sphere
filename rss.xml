@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] FBI Probes Service Selling 153M+ Drivers Licenses</title>
+    <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+    <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers abuse Faronics Deploy admin tool to install ScreenConnect</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/</link>
     <description>Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]</description>
@@ -170,13 +177,6 @@ The vulnerabilities in question are listed below -
   CVE-2026-0768 (CVSS score: 9.8) - A…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 01 Sep 2026 12:52:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ne devenez pas le relais involontaire d’une intox</title>
-    <link>https://www.zataz.com/ne-devenez-pas-le-relais-involontaire-dune-intox/</link>
-    <description>Avant de partager un contenu politique spectaculaire, quelques vérifications simples peuvent révéler une possible intox.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 31 Aug 2026 22:37:45 +0000</pubDate>
   </item>
 </channel>
 </rss>
