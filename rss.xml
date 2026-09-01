@@ -6,11 +6,57 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical Langflow flaw exploited to steal OpenAI and AWS keys</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/</link>
+    <description>Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 01 Sep 2026 13:54:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html</link>
+    <description>Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr.
+
+The vulnerability in question is CVE-2026-82329 (CVSS score:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 01 Sep 2026 23:23:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems</title>
+    <link>https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html</link>
+    <description>Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.
+
+Google Threat Intelligence Group…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 01 Sep 2026 22:49:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Healthcare facilities operator Nutex says patient, employee data stolen in August incident</title>
+    <link>https://therecord.media/nutex-health-data-breach</link>
+    <description>Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 01 Sep 2026 15:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers push malicious Virtualizor update in BGP hijacking attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/</link>
+    <description>Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 01 Sep 2026 10:45:06 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Novocure data breach affects more than 1,400 cancer patients</title>
     <link>https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/</link>
     <description>Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 01 Sep 2026 10:28:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] 13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds</title>
+    <link>https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html</link>
+    <description>Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 01 Sep 2026 19:37:20 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Why Even the Best Edge Security Still Misses High-Risk Sessions</title>
@@ -138,41 +184,6 @@ The vulnerabilities in question are listed below -
     <description>A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 31 Aug 2026 14:51:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales</title>
-    <link>https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html</link>
-    <description>Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 31 Aug 2026 22:54:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Exchange Online outage causes email failures, auth issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/</link>
-    <description>Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 31 Aug 2026 12:56:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI confirms ChatGPT outage as users report errors</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/</link>
-    <description>ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 31 Aug 2026 12:50:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese Fire Ant hackers turn Cisco routers into spying platforms</title>
-    <link>https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/</link>
-    <description>The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 31 Aug 2026 10:52:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Berlin says it won’t pay ransom after hackers steal government data</title>
-    <link>https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data</link>
-    <description>Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 31 Aug 2026 14:45:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
