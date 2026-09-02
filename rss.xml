@@ -6,6 +6,89 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners</title>
+    <link>https://therecord.media/hackers-russia-fundraisers-ukraine</link>
+    <description>Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 02 Sep 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dropbox accounts breached through Lenovo email verification flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/</link>
+    <description>Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 08:30:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FNIM : des bases de données complètes diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/fnim-des-bases-de-donnees-completes-diffusees-apres-une-cyberattaque/</link>
+    <description>La Fédération Nationale Indépendante des Mutuelles (FNIM) est touchée par une cyberattaque revendiquée par les hackers yiranet, Snufkxn...
+L’article FNIM : des bases de données complètes diffusées après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 02 Sep 2026 12:26:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sality, one of the longest-running botnets, finally gets disrupted</title>
+    <link>https://therecord.media/sality-botnet-cyber-doj</link>
+    <description>U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 02 Sep 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] How to Secure Enterprise AI: From Adoption to Incident Readiness</title>
+    <link>https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html</link>
+    <description>The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html</link>
+    <description>SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.
+
+The vulnerabilities, discovered…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 16:23:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LiveTrail : une cyberattaque expose les coordonnées des utilisateurs</title>
+    <link>https://www.cyberattaque.org/livetrail-une-cyberattaque-expose-les-coordonnees-des-utilisateurs/</link>
+    <description>LiveTrail, plateforme bien connue dans l’univers du trail et du suivi de courses, informe ses utilisateurs d’un incident...
+L’article LiveTrail : une cyberattaque expose les coordonnées des utilisateurs est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 02 Sep 2026 10:46:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Defender flags legitimate Google search links as malicious</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/</link>
+    <description>Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 06:29:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends</title>
+    <link>https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</link>
+    <description>Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 14:48:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands</title>
+    <link>https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</link>
+    <description>The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 14:40:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US charges Russian for infecting 80,000 freelancers with malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/</link>
+    <description>A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 05:06:48 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Sality botnet infrastructure dismantled in joint global takedown</title>
     <link>https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</link>
     <description>International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]</description>
@@ -147,65 +230,6 @@ Google Threat Intelligence Group…</description>
     <description>Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 01 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests</title>
-    <link>https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</link>
-    <description>The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 01 Sep 2026 18:38:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Bio en Hauts-de-France : des données personnelles compromises après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/bio-en-hauts-de-france-des-donnees-personnelles-compromises-apres-une-cyberattaque/</link>
-    <description>Bio en Hauts-de-France confirme avoir été victime d’une cyberattaque accompagnée d’un vol de données personnelles. L’organisation informe actuellement...
-L’article Bio en Hauts-de-France : des données personnelles…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 01 Sep 2026 12:38:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/</link>
-    <description>Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 01 Sep 2026 08:38:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian cyber spies target aviation, fintech developers with new malware</title>
-    <link>https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware</link>
-    <description>In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 01 Sep 2026 12:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber risk from frontier AI poses ‘most immediate concern’ to global financial system, watchdog warns</title>
-    <link>https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance</link>
-    <description>Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 01 Sep 2026 12:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones</title>
-    <link>https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</link>
-    <description>The most common way into a company last year was to ask.
-
-A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 01 Sep 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Five Venezuelans plead guilty to ATM jackpotting attacks in US</title>
-    <link>https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/</link>
-    <description>Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 01 Sep 2026 05:15:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Steal METR API Key and Consume AI Credits Worth About $600,000</title>
-    <link>https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</link>
-    <description>METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 01 Sep 2026 14:35:30 +0530</pubDate>
   </item>
 </channel>
 </rss>
