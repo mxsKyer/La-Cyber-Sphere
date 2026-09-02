@@ -6,6 +6,61 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Sality botnet infrastructure dismantled in joint global takedown</title>
+    <link>https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</link>
+    <description>International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 04:00:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another</title>
+    <link>https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</link>
+    <description>Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 13:17:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Dropbox : 5 000 comptes piratés, des milliers de fichiers en fuite</title>
+    <link>https://www.cyberattaque.org/dropbox-pirate-5-000-comptes-compromis-des-milliers-de-fichiers-en-fuite/</link>
+    <description>Dropbox confirme qu’environ 5 000 comptes utilisateurs ont été compromis au cours du mois d’août 2026. Les accès...
+L’article Dropbox : 5 000 comptes piratés, des milliers de fichiers en fuite est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 02 Sep 2026 07:43:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</link>
+    <description>Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.
+
+The vulnerability in question is CVE-2026-9586…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 12:38:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads</title>
+    <link>https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.
+
+The effort was undertaken on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 02 Sep 2026 12:26:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SonicWall warns of actively exploited SMA1000 zero-day flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/</link>
+    <description>SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 02:39:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Géofoncier : plus de 4 millions de dossiers fonciers exposés dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/geofoncier-plus-de-4-millions-de-dossiers-fonciers-exposes-dans-une-fuite-massive/</link>
+    <description>Géofoncier, la plateforme de référence de l’Ordre des géomètres-experts, fait l’objet d’une revendication de cyberattaque. Le hacker ZeroBytes...
+L’article Géofoncier : plus de 4 millions de dossiers fonciers exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 02 Sep 2026 04:28:28 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] FBI Probes Service Selling 153M+ Drivers Licenses</title>
     <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
     <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose…</description>
@@ -151,32 +206,6 @@ A web page tells the visitor to prove they are not a robot. While they read the 
     <description>METR (short for Model Evaluation and Threat Research and pronounced "Meter"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks,…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 01 Sep 2026 14:35:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis</title>
-    <link>https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</link>
-    <description>Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 01 Sep 2026 13:56:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Recently patched PaperCut zero-days used in data theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/</link>
-    <description>Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 01 Sep 2026 03:48:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</link>
-    <description>Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.
-
-The vulnerabilities in question are listed below -
-
-
-  CVE-2026-0768 (CVSS score: 9.8) - A…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 01 Sep 2026 12:52:30 +0530</pubDate>
   </item>
 </channel>
 </rss>
