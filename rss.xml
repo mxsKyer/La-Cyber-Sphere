@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Hackers exploit Sangoma Switchvox flaw to deploy reverse shells</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/</link>
+    <description>Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 02 Sep 2026 17:00:13 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Shipup touché par la faille Metabase : plusieurs grandes enseignes concernées</title>
     <link>https://www.cyberattaque.org/cyberattaque-shipup/</link>
     <description>Shipup, plateforme spécialisée dans le suivi des livraisons et l’expérience post-achat des sites e-commerce, a été touchée par...
@@ -333,13 +340,6 @@ L’article Géofoncier : plus de 4 millions de dossiers fonciers exposés…</d
     <description>BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI Probes Service Selling 153M+ Drivers Licenses</title>
-    <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
-    <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 01 Sep 2026 22:40:28 +0000</pubDate>
   </item>
 </channel>
 </rss>
