@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Coder's registry infrastructure compromised to push malicious modules</title>
+    <link>https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/</link>
+    <description>Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 16:04:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Large group of Serbian opposition, activist figures targeted with spyware</title>
+    <link>https://therecord.media/serbia-spyware-pegasus-europe</link>
+    <description>At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 03 Sep 2026 19:30:41 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] HPE patches critical ArubaOS-CX remote code execution flaw</title>
     <link>https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/</link>
     <description>Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]</description>
@@ -241,44 +255,6 @@ L’article Charbonneaux-Brabant : 2 863 profils professionnels exposés…</des
 L’article Tisséo : près de 3 000 personnes exposées après une cyberattaque est apparu en premier…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 03 Sep 2026 04:14:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit Sangoma Switchvox flaw to deploy reverse shells</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/</link>
-    <description>Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 17:00:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Shipup touché par la faille Metabase : plusieurs grandes enseignes concernées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-shipup/</link>
-    <description>Shipup, plateforme spécialisée dans le suivi des livraisons et l’expérience post-achat des sites e-commerce, a été touchée par...
-L’article Shipup touché par la faille Metabase : plusieurs grandes enseignes concernées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 20:05:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Micromania : ses données clients exposées après une cyberattaque chez Shipup</title>
-    <link>https://www.cyberattaque.org/micromania-ses-donnees-clients-exposees-apres-une-cyberattaque-chez-shipup/</link>
-    <description>Micromania informe certains de ses clients qu’une partie de leurs données personnelles a pu être consultée lors d’une...
-L’article Micromania : ses données clients exposées après une cyberattaque chez Shipup est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 19:46:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] WordPress backup plugin flaw exposes millions of sites to takeover attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/</link>
-    <description>An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 15:28:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Boutique du Volet : une cyberattaque expose les données et l’historique de commandes de clients</title>
-    <link>https://www.cyberattaque.org/la-boutique-du-volet-une-cyberattaque-expose-les-donnees-et-lhistorique-de-commandes-de-clients/</link>
-    <description>La Boutique du Volet informe ses clients d’un incident de sécurité ayant permis à un tiers d’accéder à...
-L’article La Boutique du Volet : une cyberattaque expose les données et l’historique de commandes de clients est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 19:28:20 +0000</pubDate>
   </item>
 </channel>
 </rss>
