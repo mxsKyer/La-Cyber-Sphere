@@ -292,54 +292,5 @@ L’article Géofoncier : plus de 4 millions de dossiers fonciers exposés…</d
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 02 Sep 2026 04:28:28 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-83549 — SonicWall SMA1000 Appliances OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-83549</link>
-    <description>SonicWall SMA1000 Appliances contains an OS command injection vulnerability that could enable a remote authenticated attacker as administrator to execute arbitrary OS commands, resulting in remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-83548 — SonicWall SMA1000 Appliances Server-Side Request Forgery Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-83548</link>
-    <description>SonicWall SMA1000 Appliances contains a server-side request forgery vulnerability that could allow a remote unauthenticated attacker to gain unauthorized access to sensitive functionality and perform unauthorized operations.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-9586 — Sangoma Switchvox SQL Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-9586</link>
-    <description>Sangoma Switchvox contains a SQL injection vulnerability which allows an unauthenticated remote attacker to execute arbitrary SQL statements against the backend PostgreSQL database using a single crafted request, including database operations and remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-82329 — JFrog Artifactory Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-82329</link>
-    <description>JFrog Artifactory contains an improper authentication vulnerability that under default configuration can allow an unauthenticated attacker with network access to obtain administrative privileges. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-49869 — Kestra OSS OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-49869</link>
-    <description>Kestra OSS contains an OS command injection vulnerability that could allow an unauthenticated remote attacker to create and execute arbitrary workflows without credentials.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-48710 — Kludex Starlette HTTP Request/Response Smuggling Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-48710</link>
-    <description>Kludex Starlette contains a HTTP request/response smuggling vulnerability that could allow attackers to inject paths into the host part, prepending the actual path leading to issues such as authentication bypass when the authentication depends on the reconstructed URL’s path. This vulnerability could be chaned with CVE-2026-42271.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-59822 — BerriAI LiteLLM Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-59822</link>
-    <description>BerriAI LiteLLM contains an improper authentication vulnerability in the MCP Streamable HTTP endpoint that could allow an unauthenticated attacker to establish an authenticated MCP session using an arbitrary Bearer token.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-02</pubDate>
-  </item>
 </channel>
 </rss>
