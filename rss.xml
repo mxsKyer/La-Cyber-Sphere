@@ -6,6 +6,61 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Plex warns users to patch security vulnerabilities immediately</title>
+    <link>https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/</link>
+    <description>Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 07:02:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks</title>
+    <link>https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html</link>
+    <description>Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.
+
+According to a new report published by the Symantec Threat Hunter Team today, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 16:13:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means</title>
+    <link>https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html</link>
+    <description>In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 16:06:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/</link>
+    <description>Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 04:55:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone</title>
+    <link>https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</link>
+    <description>The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.
+
+"Our…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 14:13:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon</title>
+    <link>https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</link>
+    <description>The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 11:56:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners</title>
+    <link>https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 10:49:04 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] CMA Occitanie : plus de 1 000 profils professionnels exposés dans une fuite de données</title>
     <link>https://www.cyberattaque.org/chambre-de-metiers-et-de-lartisanat-cyberattaque/</link>
     <description>La Chambre de Métiers et de l&amp;#8217;Artisanat d&amp;#8217;Occitanie est visée par une fuite de données revendiquée par le...
@@ -214,107 +269,6 @@ L’article FNIM : des bases de données complètes diffusées après une cybera
     <description>U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.</description>
     <source>The Record</source>
     <pubDate>Wed, 02 Sep 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How to Secure Enterprise AI: From Adoption to Incident Readiness</title>
-    <link>https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html</link>
-    <description>The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html</link>
-    <description>SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.
-
-The vulnerabilities, discovered…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 16:23:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LiveTrail : une cyberattaque expose les coordonnées des utilisateurs</title>
-    <link>https://www.cyberattaque.org/livetrail-une-cyberattaque-expose-les-coordonnees-des-utilisateurs/</link>
-    <description>LiveTrail, plateforme bien connue dans l’univers du trail et du suivi de courses, informe ses utilisateurs d’un incident...
-L’article LiveTrail : une cyberattaque expose les coordonnées des utilisateurs est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 10:46:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Defender flags legitimate Google search links as malicious</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/</link>
-    <description>Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 06:29:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends</title>
-    <link>https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</link>
-    <description>Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 14:48:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands</title>
-    <link>https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</link>
-    <description>The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 14:40:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US charges Russian for infecting 80,000 freelancers with malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/</link>
-    <description>A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 05:06:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Sality botnet infrastructure dismantled in joint global takedown</title>
-    <link>https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</link>
-    <description>International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 04:00:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another</title>
-    <link>https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</link>
-    <description>Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 13:17:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Dropbox : 5 000 comptes piratés, des milliers de fichiers en fuite</title>
-    <link>https://www.cyberattaque.org/dropbox-pirate-5-000-comptes-compromis-des-milliers-de-fichiers-en-fuite/</link>
-    <description>Dropbox confirme qu’environ 5 000 comptes utilisateurs ont été compromis au cours du mois d’août 2026. Les accès...
-L’article Dropbox : 5 000 comptes piratés, des milliers de fichiers en fuite est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 07:43:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</link>
-    <description>Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.
-
-The vulnerability in question is CVE-2026-9586…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 12:38:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads</title>
-    <link>https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.
-
-The effort was undertaken on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 12:26:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SonicWall warns of actively exploited SMA1000 zero-day flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/</link>
-    <description>SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 02:39:29 -0400</pubDate>
   </item>
 </channel>
 </rss>
