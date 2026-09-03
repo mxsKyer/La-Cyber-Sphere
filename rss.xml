@@ -6,6 +6,109 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] ZeroGaspi : une base de 80 000 clients en vente après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/zerogaspi-une-base-de-80-000-clients-en-vente-apres-une-cyberattaque/</link>
+    <description>ZeroGaspi est visé par une nouvelle revendication de fuite de données. Le hacker ksye affirme avoir récupéré le...
+L’article ZeroGaspi : une base de 80 000 clients en vente après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 16:01:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: KB5120998 mouse reset bug affects only non-English PCs</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/</link>
+    <description>Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 11:22:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI confirms ChatGPT is down ahead of 'Astra' model launch</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/</link>
+    <description>ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 11:13:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic confirms Claude is down, multiple models affected</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/</link>
+    <description>Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 11:02:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Elementor Pro flaw exploited to take over WordPress sites</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/</link>
+    <description>A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 10:52:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Kerberoasting dans Active Directory : fonctionnement et stratégies de défense</title>
+    <link>https://www.zataz.com/kerberoasting-dans-active-directory-fonctionnement-et-strategies-de-defense/</link>
+    <description>Le Kerberoasting figure parmi les techniques post-compromission les plus efficaces contre les environnements Active Directory. Explication.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 03 Sep 2026 14:32:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Your Employee’s Password Appeared in an Infostealer Log. Now What?</title>
+    <link>https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/</link>
+    <description>Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 09:50:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ils sont lààààà : les arnaques aux colis reviennent</title>
+    <link>https://www.zataz.com/ils-sont-laaaaa-les-arnaques-aux-colis-reviennent/</link>
+    <description>Arnaques aux colis, images IA et faux messages : les indices concrets pour repérer un piège avant de cliquer.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 03 Sep 2026 13:50:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ColisExpat : une cyberattaque expose les pièces d’identité et données de compte</title>
+    <link>https://www.cyberattaque.org/colisexpat-une-cyberattaque-expose-les-pieces-didentite-et-donnees-de-compte/</link>
+    <description>ColisExpat, plateforme de réexpédition de colis exploitée par Landmark Global France, informe ses clients d’un important incident de...
+L’article ColisExpat : une cyberattaque expose les pièces d’identité et données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 13:30:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Take-Two resserre son enquête sur les fuites de GTA VI</title>
+    <link>https://www.zataz.com/take-two-resserre-son-enquete-sur-les-fuites-de-gta-vi/</link>
+    <description>CYBERLEEK menace GTA VI et publie un manifeste visant les pratiques commerciales des grands éditeurs de jeux vidéo.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 03 Sep 2026 13:08:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Delicity : les données de clients, restaurateurs et livreurs exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/delicity-cyberattaque-faille-metabase-expose-les-donnees-de-clients-restaurateurs-et-livreurs/</link>
+    <description>Delicity, plateforme française de commande, livraison et réservation pour les restaurants, confirme une fuite de données personnelles survenue...
+L’article Delicity : les données de clients, restaurateurs et livreurs…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 12:37:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft says KB5120998 Windows update resets desktop settings</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/</link>
+    <description>Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US and Canadian court data exposed in Thomson Reuters breach</title>
+    <link>https://therecord.media/thomson-reuters-cyberattack-data</link>
+    <description>Sealed court information and sensitive personal data were exposed in a breach of a Thomson Reuters records platform affecting courts in at least 12 U.S. states, the U.S. Virgin Islands and Canada.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries</title>
+    <link>https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html</link>
+    <description>An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.
+
+Around 45%…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 03 Sep 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Plex warns users to patch security vulnerabilities immediately</title>
     <link>https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/</link>
     <description>Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]</description>
@@ -175,100 +278,6 @@ L’article Ville de Libercourt : 817 Go de données revendiqués après une cyb
 L’article Stade Montois Omnisports : une cyberattaque met plusieurs sites hors service…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 02 Sep 2026 16:17:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SonicWall : deux failles zero-day activement exploitées, dont une notée 10/10</title>
-    <link>https://www.cyberattaque.org/sonicwall-faille-securite-cve-2026-83548-83549/</link>
-    <description>SonicWall a corrigé deux nouvelles failles de sécurité affectant ses équipements d’accès distant SMA 1000. Référencées CVE-2026-83548 et...
-L’article SonicWall : deux failles zero-day activement exploitées, dont une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 15:55:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers exploit critical JFrog Artifactory flaw to forge admin tokens</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/</link>
-    <description>A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 11:47:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New pro-Ukraine hacker group targets Russian companies with custom ransomware</title>
-    <link>https://therecord.media/new-pro-ukraine-hacker-group-custom-ransomware-russia</link>
-    <description>The group, which calls itself VantaCore, has targeted at least seven known victims, Russian cybersecurity firm F6 said in a report published this week.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 02 Sep 2026 15:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nouvelle cyberattaque au Ministère de la Transition écologique : plus de 22 000 profils exposés</title>
-    <link>https://www.cyberattaque.org/ministere-de-la-transition-ecologique-plus-de-22-000-profils-exposes-dans-deux-fuites-distinctes/</link>
-    <description>Le ministère de la Transition écologique fait l’objet d’une nouvelle revendication de cyberattaque. Le hacker mondial, avec la...
-L’article Nouvelle cyberattaque au Ministère de la Transition écologique : plus de 22 000…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 14:32:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code</title>
-    <link>https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html</link>
-    <description>Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 19:36:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware protection for MSPs: A 6-point checklist for faster recovery</title>
-    <link>https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/</link>
-    <description>Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages</title>
-    <link>https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html</link>
-    <description>A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 19:14:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access</title>
-    <link>https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html</link>
-    <description>Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 18:42:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners</title>
-    <link>https://therecord.media/hackers-russia-fundraisers-ukraine</link>
-    <description>Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 02 Sep 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dropbox accounts breached through Lenovo email verification flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/</link>
-    <description>Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 02 Sep 2026 08:30:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FNIM : des bases de données complètes diffusées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/fnim-des-bases-de-donnees-completes-diffusees-apres-une-cyberattaque/</link>
-    <description>La Fédération Nationale Indépendante des Mutuelles (FNIM) est touchée par une cyberattaque revendiquée par les hackers yiranet, Snufkxn...
-L’article FNIM : des bases de données complètes diffusées après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 12:26:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control</title>
-    <link>https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 02 Sep 2026 17:52:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sality, one of the longest-running botnets, finally gets disrupted</title>
-    <link>https://therecord.media/sality-botnet-cyber-doj</link>
-    <description>U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 02 Sep 2026 12:15:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
