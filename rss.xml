@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] French hospital fined €500,000 after breach exposes data of 727,000</title>
+    <link>https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/</link>
+    <description>France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 03 Sep 2026 18:01:37 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Coder's registry infrastructure compromised to push malicious modules</title>
     <link>https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/</link>
     <description>Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]</description>
