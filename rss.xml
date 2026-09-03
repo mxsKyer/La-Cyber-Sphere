@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] CMA Occitanie : plus de 1 000 profils professionnels exposés dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/chambre-de-metiers-et-de-lartisanat-cyberattaque/</link>
+    <description>La Chambre de Métiers et de l&amp;#8217;Artisanat d&amp;#8217;Occitanie est visée par une fuite de données revendiquée par le...
+L’article CMA Occitanie : plus de 1 000 profils professionnels exposés dans une fuite de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 04:31:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BCTI : cartes d’identité et des dossiers immobiliers en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-bcti-cartes-didentite-et-des-dossiers-immobiliers-en-fuite/</link>
+    <description>La plateforme professionnelle partenaires.bcti.fr est visée par une fuite de données revendiquée par le hacker ChimeraZ. Celui-ci affirme...
+L’article BCTI : cartes d’identité et des dossiers immobiliers en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 04:24:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Charbonneaux-Brabant : 2 863 profils professionnels exposés dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/charbonneaux-brabant-2-863-profils-professionnels-exposes-dans-une-fuite-de-donnees/</link>
+    <description>Charbonneaux-Brabant, entreprise française spécialisée dans la chimie, le conditionnement et la distribution de matières premières, est visée par...
+L’article Charbonneaux-Brabant : 2 863 profils professionnels exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 04:20:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Tisséo : près de 3 000 personnes exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/cyberattaque-tisseo-toulouse/</link>
+    <description>Tisséo, le réseau de transports en commun de l’agglomération toulousaine, est visé par une nouvelle fuite de données....
+L’article Tisséo : près de 3 000 personnes exposées après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 03 Sep 2026 04:14:35 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Hackers exploit Sangoma Switchvox flaw to deploy reverse shells</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/</link>
     <description>Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]</description>
@@ -283,14 +315,6 @@ The effort was undertaken on…</description>
     <description>SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 02 Sep 2026 02:39:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Géofoncier : plus de 4 millions de dossiers fonciers exposés dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/geofoncier-plus-de-4-millions-de-dossiers-fonciers-exposes-dans-une-fuite-massive/</link>
-    <description>Géofoncier, la plateforme de référence de l’Ordre des géomètres-experts, fait l’objet d’une revendication de cyberattaque. Le hacker ZeroBytes...
-L’article Géofoncier : plus de 4 millions de dossiers fonciers exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 02 Sep 2026 04:28:28 +0000</pubDate>
   </item>
 </channel>
 </rss>
