@@ -6,6 +6,49 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws</title>
+    <link>https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html</link>
+    <description>Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.
+
+The fixes are available in Plex Media Server 1.43.3 and Plex Desktop…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 04 Sep 2026 13:05:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day</title>
+    <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
+    <description>Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.
+
+The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8),…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 04 Sep 2026 12:48:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests</title>
+    <link>https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html</link>
+    <description>OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model."
+
+The development comes days after the artificial intelligence (AI) company said the model had…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 04 Sep 2026 12:17:52 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Préférence Formations : les données de plus de 5 200 personnes diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/preference-formations-les-donnees-de-plus-de-5-200-personnes-diffusees-apres-une-cyberattaque/</link>
+    <description>Préférence Formations, organisme français spécialisé dans la formation professionnelle, est visé par une fuite de données revendiquée par...
+L’article Préférence Formations : les données de plus de 5 200 personnes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 04 Sep 2026 04:18:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Clinique de Vontes : 4 111 personnes exposées dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/cyberattaque-clinique-de-vontes/</link>
+    <description>La Clinique de Vontes, établissement privé spécialisé en santé mentale situé à Esvres-sur-Indre, est visée par une fuite...
+L’article Clinique de Vontes : 4 111 personnes exposées dans une fuite de données est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 04 Sep 2026 04:16:09 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] French hospital fined €500,000 after breach exposes data of 727,000</title>
     <link>https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/</link>
     <description>France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]</description>
@@ -198,70 +241,6 @@ According to a new report published by the Symantec Threat Hunter Team today, th
     <description>In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 03 Sep 2026 16:06:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Teams, Outlook fail to launch on ARM-based Windows PCs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outlook-fail-to-launch-on-arm-based-windows-pcs/</link>
-    <description>Microsoft is working to fix a known issue that causes crashes and launch failures for Microsoft Teams and New Outlook users after installing updates released since the August 2026 Patch Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 03 Sep 2026 04:55:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone</title>
-    <link>https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html</link>
-    <description>The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.
-
-"Our…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 03 Sep 2026 14:13:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon</title>
-    <link>https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html</link>
-    <description>The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 03 Sep 2026 11:56:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners</title>
-    <link>https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added seven security flaws to its Known Exploited Vulnerabilities (KEV) catalog after they landed in attackers' crosshairs.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 03 Sep 2026 10:49:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CMA Occitanie : plus de 1 000 profils professionnels exposés dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/chambre-de-metiers-et-de-lartisanat-cyberattaque/</link>
-    <description>La Chambre de Métiers et de l&amp;#8217;Artisanat d&amp;#8217;Occitanie est visée par une fuite de données revendiquée par le...
-L’article CMA Occitanie : plus de 1 000 profils professionnels exposés dans une fuite de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 03 Sep 2026 04:31:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BCTI : cartes d’identité et des dossiers immobiliers en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-bcti-cartes-didentite-et-des-dossiers-immobiliers-en-fuite/</link>
-    <description>La plateforme professionnelle partenaires.bcti.fr est visée par une fuite de données revendiquée par le hacker ChimeraZ. Celui-ci affirme...
-L’article BCTI : cartes d’identité et des dossiers immobiliers en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 03 Sep 2026 04:24:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Charbonneaux-Brabant : 2 863 profils professionnels exposés dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/charbonneaux-brabant-2-863-profils-professionnels-exposes-dans-une-fuite-de-donnees/</link>
-    <description>Charbonneaux-Brabant, entreprise française spécialisée dans la chimie, le conditionnement et la distribution de matières premières, est visée par...
-L’article Charbonneaux-Brabant : 2 863 profils professionnels exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 03 Sep 2026 04:20:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Tisséo : près de 3 000 personnes exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/cyberattaque-tisseo-toulouse/</link>
-    <description>Tisséo, le réseau de transports en commun de l’agglomération toulousaine, est visé par une nouvelle fuite de données....
-L’article Tisséo : près de 3 000 personnes exposées après une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 03 Sep 2026 04:14:35 +0000</pubDate>
   </item>
 </channel>
 </rss>
