@@ -199,19 +199,5 @@ L’article Clinique de Vontes : 4 111 personnes exposées dans une fuite de don
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-04</pubDate>
   </item>
-  <item>
-    <title>[Faible] French hospital fined €500,000 after breach exposes data of 727,000</title>
-    <link>https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/</link>
-    <description>France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 03 Sep 2026 18:01:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Coder's registry infrastructure compromised to push malicious modules</title>
-    <link>https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/</link>
-    <description>Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 03 Sep 2026 16:04:24 -0400</pubDate>
-  </item>
 </channel>
 </rss>
