@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI admits it didn't disclose rogue AI wiki hijacking incident</title>
+    <link>https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/</link>
+    <description>OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment"…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 05 Sep 2026 07:11:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ZeroBytes : deux arrestations et des alias à démêler</title>
+    <link>https://www.zataz.com/zerobytes-deux-arrestations-et-des-alias-a-demeler/</link>
+    <description>Deux arrestations frappent l’écosystème pirate du groupe ZeroBytes en France, tandis que les liens avec l&amp;#8217;ancien groupe de hackers Epsilon, plusieurs pseudonymes et des activités postérieures compliquent encore…</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 09:45:58 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Bitbybit Studio : 25 millions de lignes revendiquées</title>
     <link>https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</link>
     <description>Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.</description>
@@ -153,35 +167,6 @@ The flaw, tracked as…</description>
     <description>An anonymous security researcher who uses the "Nightmare Eclipse" handle released a CrowdStrike Falcon zero-day exploit named "FalconFlank" that lets attackers escalate privileges on up-to-date Windows systems. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 04 Sep 2026 09:22:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] G7 urges organizations to prepare for quantum cyber threats</title>
-    <link>https://therecord.media/g7-urges-organizations-to-prepare-for-quantum-threats</link>
-    <description>In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 04 Sep 2026 12:34:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Exchange Online outage causes email delays, 'Server busy' errors</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/</link>
-    <description>Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 08:22:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google warns of new Chrome zero-day flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/</link>
-    <description>Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 07:48:17 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Association des maires de France : 114 000 lignes en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/association-des-maires-de-france-114-000-lignes-en-fuite-apres-une-cyberattaque/</link>
-    <description>Nous vous révélons en exclusivité que l’Association des maires de France et des présidents d’intercommunalité (AMF) est visée...
-L’article Association des maires de France : 114 000 lignes en fuite après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 04 Sep 2026 09:08:31 +0000</pubDate>
   </item>
 </channel>
 </rss>
