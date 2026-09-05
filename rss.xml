@@ -6,6 +6,65 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain</title>
+    <link>https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/</link>
+    <description>A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 05 Sep 2026 10:29:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted</title>
+    <link>https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</link>
+    <description>Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.
+
+The exposed information includes customer names,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 05 Sep 2026 19:47:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber actualités ZATAZ du 6 septembre</title>
+    <link>https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/</link>
+    <description>« `html NEWSLETTER CYBERSÉCURITÉ Cyber actualités ZATAZ Semaine du 31 août au 6 septembre 2026 Bonjour à toutes et tous Cette semaine, les fuites de données occupent une nouvelle fois une place majeure dans l’actualité…</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 14:16:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Togo : une base de contrôle de police exposée ?</title>
+    <link>https://www.zataz.com/togo-une-base-de-controle-de-police-exposee/</link>
+    <description>Togo : une fuite du contrôle de police exposerait plus de 90 000 cartes d’identité.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 14:00:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Belgique : 148 251 citoyens exposés selon un pirate</title>
+    <link>https://www.zataz.com/belgique-148-251-citoyens-exposes-selon-un-pirate/</link>
+    <description>Belgique : un pirate revendique 148 251 fiches exposées, avec IBAN, courriels, téléphones et données personnelles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 13:57:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’Égypte ciblée par une vague de fuites massives</title>
+    <link>https://www.zataz.com/legypte-ciblee-par-une-vague-de-fuites-massives/</link>
+    <description>Assurance, universités et football : des millions de données égyptiennes revendiquées sur des forums pirates.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 13:33:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise sarthoise</title>
+    <link>https://www.cyberattaque.org/jouvet-sas-qilin-revendique-une-cyberattaque-contre-lentreprise-sarthoise/</link>
+    <description>Jouvet SAS, entreprise française spécialisée dans la plomberie, le chauffage et la climatisation, est désormais revendiquée comme victime...
+L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 05 Sep 2026 13:30:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un pirate expose les données de SMS-XBomber</title>
+    <link>https://www.zataz.com/un-pirate-expose-les-donnees-de-sms-xbomber/</link>
+    <description>Un pirate affirme avoir extrait 2 014 données d'un outil qui sature les téléphones de messages, dont des téléphones, cibles et mots de passe en clair.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 13:22:01 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI admits it didn't disclose rogue AI wiki hijacking incident</title>
     <link>https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/</link>
     <description>OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment"…</description>
@@ -95,78 +154,6 @@ L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darw
 "Instead of using these characters to hide instructions from people while exposing them…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 04 Sep 2026 21:27:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US, Britain to coordinate on scam center takedowns</title>
-    <link>https://therecord.media/scam-compounds-coordination-us-uk-memorandum</link>
-    <description>The U.S. Department of Justice and the U.K.'s National Crime Agency and Crown Prosecutor signed a memorandum to cooperate on cases involving Southeast Asian scam operations.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 04 Sep 2026 15:42:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Citrix NetScaler auth bypass now leveraged in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/</link>
-    <description>Attackers have begun targeting a critical-severity Citrix NetScaler auth bypass flaw (CVE-2026-19490) in the wild, according to vulnerability intelligence company Previdian. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 11:25:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution</title>
-    <link>https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html</link>
-    <description>PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.
-
-The flaw, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 20:50:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Deux suspects interpellés après le piratage du fisc</title>
-    <link>https://www.zataz.com/deux-suspects-interpelles-apres-le-piratage-du-fisc/</link>
-    <description>Deux suspects arrêtés après les attaques de ZeroBytes contre le fisc, tandis que l’enquête cyber se poursuit.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 04 Sep 2026 15:13:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic</title>
-    <link>https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</link>
-    <description>A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 20:21:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK account-hack losses surge as new reporting system exposes hidden cases</title>
-    <link>https://therecord.media/uk-account-hack-losses-surge-as-reporting-changes</link>
-    <description>In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 04 Sep 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says some users can’t open the Teams desktop client</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/</link>
-    <description>Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 10:30:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 39 New Methods That Compromise Passkey Authentication</title>
-    <link>https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/</link>
-    <description>Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian data centers face new security requirements amid Ukraine's drone threats</title>
-    <link>https://therecord.media/russia-data-centers-ukraine-drone-threats</link>
-    <description>Russia's data centers are concentrated in areas increasingly exposed to Ukrainian drone attacks. The Kremlin wants them to stiffen their physical defenses.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 04 Sep 2026 13:39:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New CrowdStrike 'FalconFlank' zero-day grants SYSTEM privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-crowdstrike-falconflank-zero-day-grants-system-privileges/</link>
-    <description>An anonymous security researcher who uses the "Nightmare Eclipse" handle released a CrowdStrike Falcon zero-day exploit named "FalconFlank" that lets attackers escalate privileges on up-to-date Windows systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 09:22:01 -0400</pubDate>
   </item>
 </channel>
 </rss>
