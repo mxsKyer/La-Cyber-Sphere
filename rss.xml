@@ -192,12 +192,5 @@ L’article Clinique de Vontes : 4 111 personnes exposées dans une fuite de don
     <source>The Record</source>
     <pubDate>Fri, 04 Sep 2026 04:00:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-85046 — Google Chromium V8 Type Confusion Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-85046</link>
-    <description>Google Chromium V8 contains a type confusion vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-04</pubDate>
-  </item>
 </channel>
 </rss>
