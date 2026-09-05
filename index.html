@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-09-05T15:54:27.870986+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-09-05T18:05:16.619110+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">14</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">14</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">15</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">15</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -569,25 +569,23 @@
       
       <div class="sev-critical" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
         <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg>
+          <svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg>
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities</h2>
-      <p class="dek">Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.
-
-The Arctic Wolf Adversary Research Team said it observed…</p>
-      <div class="byline">Source : <a href="https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html" target="_blank" rel="noopener">The Hacker News</a> · il y a 8 h</div>
+      <h2>Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</h2>
+      <p class="dek">JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to…</p>
+      <div class="byline">Source : <a href="https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html" target="_blank" rel="noopener">The Hacker News</a> · il y a 1 h</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 030</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 052</div>
       </div>
-      <div class="index-value">30<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
-      <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 9 points sur 7 jours
+      <div class="index-value">52<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta" style="color:var(--sev-high);">
+        ▲ 13 points sur 7 jours
         
       </div>
       <canvas id="riskline"></canvas>
@@ -613,30 +611,85 @@ The Arctic Wolf Adversary Research Team said it observed…</p>
       
       
       <article class="story sev-high" id="story-1">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite</h3>
+          <p>La Maison Pour Tous, coopérative française spécialisée dans le logement social, est visée par une fuite de données...
+L’article La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite est apparu en…</p>
+          <a href="https://www.cyberattaque.org/la-maison-pour-tous-les-noms-de-8-000-locataires-diffuses-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-medium" id="story-2">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code</h3>
+          <p>Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
+
+The…</p>
+          <a href="https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-3">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une cyberattaque</h3>
+          <p>Pass Pass, le service régional de mobilité des Hauts-de-France, est visé par une importante fuite de données revendiquée...
+L’article Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une…</p>
+          <a href="https://www.cyberattaque.org/pass-pass-pres-de-19-000-usagers-exposes-commandes-et-factures-diffusees-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-4">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
           <h3>Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain</h3>
           <p>A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]</p>
           <a href="https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
+          <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-2">
+      <article class="story sev-low" id="story-5">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
           <h3>Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted</h3>
@@ -644,57 +697,6 @@ The Arctic Wolf Adversary Research Team said it observed…</p>
 
 The exposed information includes customer names,…</p>
           <a href="https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-3">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Cyber actualités ZATAZ du 6 septembre</h3>
-          <p>« `html NEWSLETTER CYBERSÉCURITÉ Cyber actualités ZATAZ Semaine du 31 août au 6 septembre 2026 Bonjour à toutes et tous Cette semaine, les fuites de données occupent une nouvelle fois une place majeure dans l’actualité…</p>
-          <a href="https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-4">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Togo : une base de contrôle de police exposée ?</h3>
-          <p>Togo : une fuite du contrôle de police exposerait plus de 90 000 cartes d’identité.</p>
-          <a href="https://www.zataz.com/togo-une-base-de-controle-de-police-exposee/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-5">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Belgique : 148 251 citoyens exposés selon un pirate</h3>
-          <p>Belgique : un pirate revendique 148 251 fiches exposées, avec IBAN, courriels, téléphones et données personnelles.</p>
-          <a href="https://www.zataz.com/belgique-148-251-citoyens-exposes-selon-un-pirate/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
         </div>
       </article>
@@ -706,12 +708,12 @@ The exposed information includes customer names,…</p>
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>L’Égypte ciblée par une vague de fuites massives</h3>
-          <p>Assurance, universités et football : des millions de données égyptiennes revendiquées sur des forums pirates.</p>
-          <a href="https://www.zataz.com/legypte-ciblee-par-une-vague-de-fuites-massives/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Cyber actualités ZATAZ du 6 septembre</h3>
+          <p>« `html NEWSLETTER CYBERSÉCURITÉ Cyber actualités ZATAZ Semaine du 31 août au 6 septembre 2026 Bonjour à toutes et tous Cette semaine, les fuites de données occupent une nouvelle fois une place majeure dans l’actualité…</p>
+          <a href="https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
         </div>
       </article>
@@ -722,14 +724,13 @@ The exposed information includes customer names,…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise sarthoise</h3>
-          <p>Jouvet SAS, entreprise française spécialisée dans la plomberie, le chauffage et la climatisation, est désormais revendiquée comme victime...
-L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise…</p>
-          <a href="https://www.cyberattaque.org/jouvet-sas-qilin-revendique-une-cyberattaque-contre-lentreprise-sarthoise/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Togo : une base de contrôle de police exposée ?</h3>
+          <p>Togo : une fuite du contrôle de police exposerait plus de 90 000 cartes d’identité.</p>
+          <a href="https://www.zataz.com/togo-une-base-de-controle-de-police-exposee/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
         </div>
       </article>
@@ -741,12 +742,12 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Un pirate expose les données de SMS-XBomber</h3>
-          <p>Un pirate affirme avoir extrait 2 014 données d'un outil qui sature les téléphones de messages, dont des téléphones, cibles et mots de passe en clair.</p>
-          <a href="https://www.zataz.com/un-pirate-expose-les-donnees-de-sms-xbomber/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Belgique : 148 251 citoyens exposés selon un pirate</h3>
+          <p>Belgique : un pirate revendique 148 251 fiches exposées, avec IBAN, courriels, téléphones et données personnelles.</p>
+          <a href="https://www.zataz.com/belgique-148-251-citoyens-exposes-selon-un-pirate/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
         </div>
       </article>
@@ -757,13 +758,13 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>OpenAI admits it didn't disclose rogue AI wiki hijacking incident</h3>
-          <p>OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment"…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>L’Égypte ciblée par une vague de fuites massives</h3>
+          <p>Assurance, universités et football : des millions de données égyptiennes revendiquées sur des forums pirates.</p>
+          <a href="https://www.zataz.com/legypte-ciblee-par-une-vague-de-fuites-massives/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
         </div>
       </article>
@@ -774,13 +775,14 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>ZeroBytes : deux arrestations et des alias à démêler</h3>
-          <p>Deux arrestations frappent l’écosystème pirate du groupe ZeroBytes en France, tandis que les liens avec l&#8217;ancien groupe de hackers Epsilon, plusieurs pseudonymes et des activités postérieures compliquent encore…</p>
-          <a href="https://www.zataz.com/zerobytes-deux-arrestations-et-des-alias-a-demeler/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise sarthoise</h3>
+          <p>Jouvet SAS, entreprise française spécialisée dans la plomberie, le chauffage et la climatisation, est désormais revendiquée comme victime...
+L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise…</p>
+          <a href="https://www.cyberattaque.org/jouvet-sas-qilin-revendique-une-cyberattaque-contre-lentreprise-sarthoise/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
         </div>
       </article>
@@ -792,12 +794,12 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Bitbybit Studio : 25 millions de lignes revendiquées</h3>
-          <p>Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.</p>
-          <a href="https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Un pirate expose les données de SMS-XBomber</h3>
+          <p>Un pirate affirme avoir extrait 2 014 données d'un outil qui sature les téléphones de messages, dont des téléphones, cibles et mots de passe en clair.</p>
+          <a href="https://www.zataz.com/un-pirate-expose-les-donnees-de-sms-xbomber/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
         </div>
       </article>
@@ -808,13 +810,13 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Une fuite d’accès IT français réapparaît sur un forum pirate</h3>
-          <p>Une annonce sur un forum pirate russe affirme proposer les accès IT de plus de 200 entreprises françaises clientes d’un prestataire.</p>
-          <a href="https://www.zataz.com/une-fuite-dacces-it-francais-reapparait-sur-un-forum-pirate/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>OpenAI admits it didn't disclose rogue AI wiki hijacking incident</h3>
+          <p>OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment"…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-12">Copier le lien</button>
         </div>
       </article>
@@ -826,12 +828,12 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>CareCloud : 3,75 millions de victimes après une cyberattaque</h3>
-          <p>CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.</p>
-          <a href="https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>ZeroBytes : deux arrestations et des alias à démêler</h3>
+          <p>Deux arrestations frappent l’écosystème pirate du groupe ZeroBytes en France, tandis que les liens avec l&#8217;ancien groupe de hackers Epsilon, plusieurs pseudonymes et des activités postérieures compliquent encore…</p>
+          <a href="https://www.zataz.com/zerobytes-deux-arrestations-et-des-alias-a-demeler/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-13">Copier le lien</button>
         </div>
       </article>
@@ -842,13 +844,13 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel</h3>
-          <p>A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a…</p>
-          <a href="https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Bitbybit Studio : 25 millions de lignes revendiquées</h3>
+          <p>Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.</p>
+          <a href="https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
         </div>
       </article>
@@ -859,14 +861,13 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Répar’stores : les données clients exposées après une cyberattaque</h3>
-          <p>Répar’stores, réseau français spécialisé dans la réparation et la modernisation de stores et volets roulants, informe actuellement ses...
-L’article Répar’stores : les données clients exposées après une cyberattaque est…</p>
-          <a href="https://www.cyberattaque.org/reparstores-les-donnees-clients-exposees-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Une fuite d’accès IT français réapparaît sur un forum pirate</h3>
+          <p>Une annonce sur un forum pirate russe affirme proposer les accès IT de plus de 200 entreprises françaises clientes d’un prestataire.</p>
+          <a href="https://www.zataz.com/une-fuite-dacces-it-francais-reapparait-sur-un-forum-pirate/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
         </div>
       </article>
@@ -877,69 +878,104 @@ L’article Répar’stores : les données clients exposées après une cyberatt
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CareCloud : 3,75 millions de victimes après une cyberattaque</h3>
+          <p>CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.</p>
+          <a href="https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-17">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel</h3>
+          <p>A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a…</p>
+          <a href="https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-18">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities</h3>
+          <p>Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.
+
+The Arctic Wolf Adversary Research Team said it observed…</p>
+          <a href="https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-19">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Répar’stores : les données clients exposées après une cyberattaque</h3>
+          <p>Répar’stores, réseau français spécialisé dans la réparation et la modernisation de stores et volets roulants, informe actuellement ses...
+L’article Répar’stores : les données clients exposées après une cyberattaque est…</p>
+          <a href="https://www.cyberattaque.org/reparstores-les-donnees-clients-exposees-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-20">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
           <h3>Accent Rouge : 32 000 fiches clients diffusées après un piratage de son compte Odoo</h3>
           <p>Accent Rouge, entreprise française spécialisée dans l’aménagement intérieur haut de gamme, est touchée par une importante fuite de...
 L’article Accent Rouge : 32 000 fiches clients diffusées après un piratage de son…</p>
           <a href="https://www.cyberattaque.org/accent-rouge-cyberattaque-odoo/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
+          <button class="copy-link-btn" data-copy-target="#story-20">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-17">
+      <article class="story sev-high" id="story-21">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
           <h3>Storia Mundi piraté : 17 850 profils compromis en fuite sur le darweb</h3>
           <p>Storia Mundi, plateforme française consacrée à l’histoire, à l’histoire de l’art et aux sciences humaines, fait l’objet d’une...
 L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darweb est apparu…</p>
           <a href="https://www.cyberattaque.org/storia-mundi-pirate-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-18">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>IDScan sued over alleged data breach affecting 153 million drivers</h3>
-          <p>Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-19">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters</h3>
-          <p>Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.
-
-"Instead of using these characters to hide instructions from people while exposing them…</p>
-          <a href="https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
+          <button class="copy-link-btn" data-copy-target="#story-21">Copier le lien</button>
         </div>
       </article>
 
@@ -968,8 +1004,8 @@ L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darw
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">191</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">42</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">195</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">43</span></div>
         <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">15</span></div>
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1090 min</span></div>
       </div>
@@ -994,6 +1030,18 @@ L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darw
     <p class="france-signals-sub">Le détail exact des signaux comptés dans le bandeau ci-dessus : source française reconnue (CERT-FR, ANSSI, ZATAZ), domaine en <code>.fr</code>, ou mention explicite de la France dans le texte.</p>
     <div class="france-list">
       
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/pass-pass-pres-de-19-000-usagers-exposes-commandes-et-factures-diffusees-apres-une-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/la-maison-pour-tous-les-noms-de-8-000-locataires-diffuses-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
         
         <div class="france-row">
           <span class="fsev sev-low">Faible</span>
@@ -1071,12 +1119,6 @@ L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darw
           <span class="fsev sev-high">Élevé</span>
           <span class="ftitle">Storia Mundi piraté : 17 850 profils compromis en fuite sur le darweb</span>
           <span class="fsource"><a href="https://www.cyberattaque.org/storia-mundi-pirate-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Deux suspects interpellés après le piratage du fisc</span>
-          <span class="fsource"><a href="https://www.zataz.com/deux-suspects-interpelles-apres-le-piratage-du-fisc/" target="_blank" rel="noopener">ZATAZ →</a></span>
         </div>
         
       
@@ -1404,7 +1446,7 @@ L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darw
       ctx.stroke();
     }
 
-    const points = [78, 95, 100, 100, 98, 39, 25, 100, 88, 100, 100, 100, 30];
+    const points = [78, 95, 100, 100, 98, 39, 25, 100, 88, 100, 100, 100, 52];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,

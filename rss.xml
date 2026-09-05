@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</title>
+    <link>https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</link>
+    <description>JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 05 Sep 2026 22:22:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite</title>
+    <link>https://www.cyberattaque.org/la-maison-pour-tous-les-noms-de-8-000-locataires-diffuses-cyberattaque/</link>
+    <description>La Maison Pour Tous, coopérative française spécialisée dans le logement social, est visée par une fuite de données...
+L’article La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 05 Sep 2026 16:24:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code</title>
+    <link>https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html</link>
+    <description>Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 05 Sep 2026 21:35:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/pass-pass-pres-de-19-000-usagers-exposes-commandes-et-factures-diffusees-apres-une-cyberattaque/</link>
+    <description>Pass Pass, le service régional de mobilité des Hauts-de-France, est visé par une importante fuite de données revendiquée...
+L’article Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 05 Sep 2026 16:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain</title>
     <link>https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/</link>
     <description>A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]</description>
@@ -138,22 +170,6 @@ L’article Accent Rouge : 32 000 fiches clients diffusées après un piratage d
 L’article Storia Mundi piraté : 17 850 profils compromis en fuite sur le darweb est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 04 Sep 2026 19:09:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] IDScan sued over alleged data breach affecting 153 million drivers</title>
-    <link>https://www.bleepingcomputer.com/news/security/idscan-sued-over-alleged-data-breach-affecting-153-million-drivers/</link>
-    <description>Multiple lawsuits have been filed against identity verification company IDScan after hackers allegedly breached the service and offered to sell more than 153 million driver's licenses. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 04 Sep 2026 12:56:45 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters</title>
-    <link>https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html</link>
-    <description>Microsoft is alerting of a "high-volume phishing campaign" that's using invisible Unicode tag characters to bypass email filters.
-
-"Instead of using these characters to hide instructions from people while exposing them…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 21:27:15 +0530</pubDate>
   </item>
 </channel>
 </rss>
