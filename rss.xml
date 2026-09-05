@@ -6,6 +6,59 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Bitbybit Studio : 25 millions de lignes revendiquées</title>
+    <link>https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</link>
+    <description>Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 08:36:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Une fuite d’accès IT français réapparaît sur un forum pirate</title>
+    <link>https://www.zataz.com/une-fuite-dacces-it-francais-reapparait-sur-un-forum-pirate/</link>
+    <description>Une annonce sur un forum pirate russe affirme proposer les accès IT de plus de 200 entreprises françaises clientes d’un prestataire.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 08:27:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CareCloud : 3,75 millions de victimes après une cyberattaque</title>
+    <link>https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</link>
+    <description>CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 05 Sep 2026 08:02:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel</title>
+    <link>https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html</link>
+    <description>A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 05 Sep 2026 13:25:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html</link>
+    <description>Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.
+
+The Arctic Wolf Adversary Research Team said it observed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 05 Sep 2026 13:01:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Répar’stores : les données clients exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/reparstores-les-donnees-clients-exposees-apres-une-cyberattaque/</link>
+    <description>Répar’stores, réseau français spécialisé dans la réparation et la modernisation de stores et volets roulants, informe actuellement ses...
+L’article Répar’stores : les données clients exposées après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 05 Sep 2026 05:16:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Accent Rouge : 32 000 fiches clients diffusées après un piratage de son compte Odoo</title>
+    <link>https://www.cyberattaque.org/accent-rouge-cyberattaque-odoo/</link>
+    <description>Accent Rouge, entreprise française spécialisée dans l’aménagement intérieur haut de gamme, est touchée par une importante fuite de...
+L’article Accent Rouge : 32 000 fiches clients diffusées après un piratage de son…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 05 Sep 2026 04:54:42 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Storia Mundi piraté : 17 850 profils compromis en fuite sur le darweb</title>
     <link>https://www.cyberattaque.org/storia-mundi-pirate-cyberattaque/</link>
     <description>Storia Mundi, plateforme française consacrée à l’histoire, à l’histoire de l’art et aux sciences humaines, fait l’objet d’une...
@@ -129,45 +182,6 @@ The flaw, tracked as…</description>
 L’article Association des maires de France : 114 000 lignes en fuite après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 04 Sep 2026 09:08:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws</title>
-    <link>https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html</link>
-    <description>Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.
-
-The vulnerabilities in question are -
-
-
-  CVE-2026-14894 (CVSS score:…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 14:18:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Plex Urges Immediate Updates After Patching Multiple Undisclosed Security Flaws</title>
-    <link>https://thehackernews.com/2026/09/plex-urges-immediate-updates-after.html</link>
-    <description>Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws.
-
-The fixes are available in Plex Media Server 1.43.3 and Plex Desktop…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 13:05:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day</title>
-    <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
-    <description>Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild.
-
-The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8),…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 12:48:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GPT-6 Astra Scores 100% on ExploitBench as OpenAI Blocks PoC Exploit Requests</title>
-    <link>https://thehackernews.com/2026/09/gpt-6-astra-scores-100-on-exploitbench.html</link>
-    <description>OpenAI on Thursday officially unveiled GPT‑6 Astra, which it described as the "world's most intelligent and aligned model."
-
-The development comes days after the artificial intelligence (AI) company said the model had…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 04 Sep 2026 12:17:52 +0530</pubDate>
   </item>
 </channel>
 </rss>
