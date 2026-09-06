@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
+    <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
+    <description>Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&amp;nbsp;CERT…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 06 Sep 2026 15:02:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner</title>
+    <link>https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html</link>
+    <description>Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.
+
+One of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 06 Sep 2026 14:04:20 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] LesCuristes.fr : une cyberattaque expose les messages et coordonnées de 86 000 personnes</title>
     <link>https://www.cyberattaque.org/lescuristes-fr-une-cyberattaque-expose-les-messages-et-coordonnees-de-86-000-personnes/</link>
     <description>LesCuristes.fr, site français spécialisé dans les cures thermales, est touché par une importante fuite de données. Le hacker...
@@ -133,50 +149,6 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
     <description>OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model "misalignment"…</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 05 Sep 2026 07:11:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ZeroBytes : deux arrestations et des alias à démêler</title>
-    <link>https://www.zataz.com/zerobytes-deux-arrestations-et-des-alias-a-demeler/</link>
-    <description>Deux arrestations frappent l’écosystème pirate du groupe ZeroBytes en France, tandis que les liens avec l&amp;#8217;ancien groupe de hackers Epsilon, plusieurs pseudonymes et des activités postérieures compliquent encore…</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 05 Sep 2026 09:45:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bitbybit Studio : 25 millions de lignes revendiquées</title>
-    <link>https://www.zataz.com/bitbybit-studio-25-millions-de-lignes-revendiquees/</link>
-    <description>Bitbybit Studio visé par une fuite revendiquée de 25 millions de lignes mêlant données personnelles et messages IA.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 05 Sep 2026 08:36:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une fuite d’accès IT français réapparaît sur un forum pirate</title>
-    <link>https://www.zataz.com/une-fuite-dacces-it-francais-reapparait-sur-un-forum-pirate/</link>
-    <description>Une annonce sur un forum pirate russe affirme proposer les accès IT de plus de 200 entreprises françaises clientes d’un prestataire.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 05 Sep 2026 08:27:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CareCloud : 3,75 millions de victimes après une cyberattaque</title>
-    <link>https://www.zataz.com/carecloud-375-millions-de-victimes-apres-une-cyberattaque/</link>
-    <description>CareCloud confirme le vol de données médicales et personnelles concernant plus de 3,75 millions de personnes.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 05 Sep 2026 08:02:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel</title>
-    <link>https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html</link>
-    <description>A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 05 Sep 2026 13:25:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html</link>
-    <description>Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.
-
-The Arctic Wolf Adversary Research Team said it observed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 05 Sep 2026 13:01:53 +0530</pubDate>
   </item>
 </channel>
 </rss>
