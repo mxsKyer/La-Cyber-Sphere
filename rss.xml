@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] SPA du Pays de Montbéliard : une cyberattaque met son site hors ligne</title>
+    <link>https://www.cyberattaque.org/spa-du-pays-de-montbeliard-une-cyberattaque-met-son-site-hors-ligne/</link>
+    <description>La SPA du Pays de Montbéliard a annoncé avoir été victime d’une cyberattaque ayant rendu son site Internet...
+L’article SPA du Pays de Montbéliard : une cyberattaque met son site hors ligne est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 06 Sep 2026 16:05:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Footsider : une cyberattaque expose les données de 153 000 comptes</title>
+    <link>https://www.cyberattaque.org/footsider-cyberattaque/</link>
+    <description>Footsider, l’application française de recrutement dans le football cofondée notamment avec Ronaldinho et Yacine Brahimi, est touchée par...
+L’article Footsider : une cyberattaque expose les données de 153 000 comptes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 06 Sep 2026 15:43:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers conceal phishing lures using invisible Unicode characters</title>
+    <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
+    <description>Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 06 Sep 2026 10:23:46 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
     <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
     <description>Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to&amp;nbsp;CERT…</description>
@@ -51,61 +74,6 @@ L’article StyleSmuggler : une faille critique qui frappe Magento est apparu…
     <description>Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 06 Sep 2026 01:44:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</title>
-    <link>https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</link>
-    <description>JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 05 Sep 2026 22:22:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite</title>
-    <link>https://www.cyberattaque.org/la-maison-pour-tous-les-noms-de-8-000-locataires-diffuses-cyberattaque/</link>
-    <description>La Maison Pour Tous, coopérative française spécialisée dans le logement social, est visée par une fuite de données...
-L’article La Maison Pour Tous : les noms de 8 000 locataires diffusés dans une fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 05 Sep 2026 16:24:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code</title>
-    <link>https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html</link>
-    <description>Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 05 Sep 2026 21:35:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/pass-pass-pres-de-19-000-usagers-exposes-commandes-et-factures-diffusees-apres-une-cyberattaque/</link>
-    <description>Pass Pass, le service régional de mobilité des Hauts-de-France, est visé par une importante fuite de données revendiquée...
-L’article Pass Pass : près de 19 000 usagers exposés, commandes et factures diffusées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 05 Sep 2026 16:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain</title>
-    <link>https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/</link>
-    <description>A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 05 Sep 2026 10:29:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted</title>
-    <link>https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</link>
-    <description>Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.
-
-The exposed information includes customer names,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 05 Sep 2026 19:47:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber actualités ZATAZ du 6 septembre</title>
-    <link>https://www.zataz.com/cyber-actualites-zataz-du-6-septembre/</link>
-    <description>« `html NEWSLETTER CYBERSÉCURITÉ Cyber actualités ZATAZ Semaine du 31 août au 6 septembre 2026 Bonjour à toutes et tous Cette semaine, les fuites de données occupent une nouvelle fois une place majeure dans l’actualité…</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 05 Sep 2026 14:16:12 +0000</pubDate>
   </item>
 </channel>
 </rss>
