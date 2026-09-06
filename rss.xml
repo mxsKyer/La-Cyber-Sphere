@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] LesCuristes.fr : une cyberattaque expose les messages et coordonnées de 86 000 personnes</title>
+    <link>https://www.cyberattaque.org/lescuristes-fr-une-cyberattaque-expose-les-messages-et-coordonnees-de-86-000-personnes/</link>
+    <description>LesCuristes.fr, site français spécialisé dans les cures thermales, est touché par une importante fuite de données. Le hacker...
+L’article LesCuristes.fr : une cyberattaque expose les messages et coordonnées de 86 000…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 06 Sep 2026 05:12:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Aveyron : plus de 20 000 profils et 1 500 CV en fuite sur la plateforme emploi du Département</title>
+    <link>https://www.cyberattaque.org/aveyron-cyberattaque-emplois/</link>
+    <description>Une importante fuite de données touche l’écosystème En Aveyron. Le hacker ChimeraZ affirme avoir récupéré puis diffusé une...
+L’article Aveyron : plus de 20 000 profils et 1 500 CV en fuite sur la plateforme emploi du…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 06 Sep 2026 05:06:11 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] StyleSmuggler : une faille critique qui frappe Magento</title>
     <link>https://www.cyberattaque.org/stylesmuggler-faille-critique-magento-adobe-commerce/</link>
     <description>Une nouvelle vulnérabilité zero-day frappe l’écosystème Magento. Baptisée StyleSmuggler par les chercheurs de Sansec, elle permettrait à un...
@@ -161,22 +177,6 @@ L’article Jouvet SAS : Qilin revendique une cyberattaque contre l’entreprise
 The Arctic Wolf Adversary Research Team said it observed…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 05 Sep 2026 13:01:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Répar’stores : les données clients exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/reparstores-les-donnees-clients-exposees-apres-une-cyberattaque/</link>
-    <description>Répar’stores, réseau français spécialisé dans la réparation et la modernisation de stores et volets roulants, informe actuellement ses...
-L’article Répar’stores : les données clients exposées après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 05 Sep 2026 05:16:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Accent Rouge : 32 000 fiches clients diffusées après un piratage de son compte Odoo</title>
-    <link>https://www.cyberattaque.org/accent-rouge-cyberattaque-odoo/</link>
-    <description>Accent Rouge, entreprise française spécialisée dans l’aménagement intérieur haut de gamme, est touchée par une importante fuite de...
-L’article Accent Rouge : 32 000 fiches clients diffusées après un piratage de son…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 05 Sep 2026 04:54:42 +0000</pubDate>
   </item>
 </channel>
 </rss>
