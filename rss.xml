@@ -6,12 +6,115 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations</title>
+    <link>https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/</link>
+    <description>A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 11:39:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] L’ANSSI lance REACTIV et peut imposer des mesures immédiates aux ministères</title>
+    <link>https://www.cyberattaque.org/cyberattaque-anssi-lance-reactiv-et-peut-imposer-des-mesures-immediates-aux-ministeres/</link>
+    <description>Face à la multiplication des cyberattaques et violations de données touchant les services de l’État, le gouvernement renforce...
+L’article L’ANSSI lance REACTIV et peut imposer des mesures immédiates aux ministères est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 07 Sep 2026 15:39:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Mathspace discloses data breach affecting over 1 million people</title>
+    <link>https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/</link>
+    <description>Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 09:05:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Jinko : une cyberattaque expose les données de santé de plus de 3 500 personnes</title>
+    <link>https://www.cyberattaque.org/jinko-une-cyberattaque-expose-les-donnees-de-sante-de-plus-de-3-500-personnes/</link>
+    <description>Jinko, plateforme française spécialisée dans l’accompagnement des personnes atteintes de cancer, est touchée par une fuite de données...
+L’article Jinko : une cyberattaque expose les données de santé de plus de 3 500…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 07 Sep 2026 12:37:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Snexi confirme une fuite de données après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/snexi-confirme-une-fuite-de-donnees-apres-une-cyberattaque/</link>
+    <description>Snexi, spécialiste français des états des lieux et du diagnostic immobilier, confirme avoir été victime d’une cyberattaque le...
+L’article Snexi confirme une fuite de données après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 07 Sep 2026 12:27:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Trezor data breach impact now reaches 81,000 customers</title>
+    <link>https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/</link>
+    <description>Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Berlin investigates new data leak after hackers publish stolen login credentials</title>
+    <link>https://therecord.media/germany-berlin-second-data-breach-city-agencies</link>
+    <description>Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 07 Sep 2026 11:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Your Cloud Security Checklist Doesn't Work the Way You Think It Does</title>
+    <link>https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html</link>
+    <description>If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 17:15:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts</title>
+    <link>https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html</link>
+    <description>Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.
+
+According to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 17:06:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released</title>
+    <link>https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html</link>
+    <description>A TantoSec proof-of-concept turns an AES-CBC "padding oracle" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 16:50:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ChatGPT can now connect to your personal apps to mimic writing style</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/</link>
+    <description>OpenAI appears to be testing a new "Writing Style" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 06:36:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers exploit new MikroTik RouterOS flaws to hijack routers</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/</link>
+    <description>Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 06:32:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ConnectWise warns of new ScreenConnect flaw without patch</title>
+    <link>https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/</link>
+    <description>ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 06:06:38 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] BumFot : une cyberattaque expose les données d’environ 1 300 utilisateurs</title>
     <link>https://www.cyberattaque.org/bumfot-une-cyberattaque-expose-les-donnees-denviron-1-300-utilisateurs/</link>
     <description>BumFot, plateforme française permettant de créer et partager des albums photos privés à l’aide de QR codes, est...
 L’article BumFot : une cyberattaque expose les données d’environ 1 300 utilisateurs est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 07 Sep 2026 09:22:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw</title>
+    <link>https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html</link>
+    <description>Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 14:01:12 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies</title>
@@ -59,13 +162,6 @@ L’article SPA du Pays de Montbéliard : une cyberattaque met son site hors lig
 L’article Footsider : une cyberattaque expose les données de 153 000 comptes…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 06 Sep 2026 15:43:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers conceal phishing lures using invisible Unicode characters</title>
-    <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
-    <description>Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 06 Sep 2026 10:23:46 -0400</pubDate>
   </item>
 </channel>
 </rss>
