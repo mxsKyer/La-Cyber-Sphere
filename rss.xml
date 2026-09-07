@@ -6,6 +6,37 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] CC Yvetot Normandie : près de 250 documents administratifs en fuite</title>
+    <link>https://www.cyberattaque.org/cc-yvetot-normandie-les-documents-administratifs-en-fuite-apres-une-cyberattaque/</link>
+    <description>Des documents attribués à la Communauté de communes Yvetot Normandie sont désormais diffusés gratuitement en ligne sur le...
+L’article CC Yvetot Normandie : près de 250 documents administratifs en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 07 Sep 2026 19:17:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
+    <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
+    <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
+
+"Requiring prior administrative or code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 23:42:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Magento StyleSmuggler zero-day exploited to deploy Linux backdoor</title>
+    <link>https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/</link>
+    <description>A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 07 Sep 2026 12:50:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks</title>
+    <link>https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html</link>
+    <description>Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 21:21:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations</title>
     <link>https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/</link>
     <description>A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]</description>
@@ -19,6 +50,13 @@
 L’article L’ANSSI lance REACTIV et peut imposer des mesures immédiates aux ministères est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 07 Sep 2026 15:39:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More</title>
+    <link>https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html</link>
+    <description>Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 07 Sep 2026 20:06:07 +0530</pubDate>
   </item>
   <item>
     <title>[Élevé] Mathspace discloses data breach affecting over 1 million people</title>
@@ -146,22 +184,6 @@ L’article Cyberattaque contre le SNU, plus de 275 000 comptes revendiqués est
     <description>OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 06 Sep 2026 21:15:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SPA du Pays de Montbéliard : une cyberattaque met son site hors ligne</title>
-    <link>https://www.cyberattaque.org/spa-du-pays-de-montbeliard-une-cyberattaque-met-son-site-hors-ligne/</link>
-    <description>La SPA du Pays de Montbéliard a annoncé avoir été victime d’une cyberattaque ayant rendu son site Internet...
-L’article SPA du Pays de Montbéliard : une cyberattaque met son site hors ligne est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 06 Sep 2026 16:05:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Footsider : une cyberattaque expose les données de 153 000 comptes</title>
-    <link>https://www.cyberattaque.org/footsider-cyberattaque/</link>
-    <description>Footsider, l’application française de recrutement dans le football cofondée notamment avec Ronaldinho et Yacine Brahimi, est touchée par...
-L’article Footsider : une cyberattaque expose les données de 153 000 comptes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 06 Sep 2026 15:43:03 +0000</pubDate>
   </item>
 </channel>
 </rss>
