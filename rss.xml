@@ -6,6 +6,63 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft Plugs Nearly 1,000 Security Holes</title>
+    <link>https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/</link>
+    <description>Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Tue, 08 Sep 2026 21:44:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Aroma-Zone : une cyberattaque chez Shipup expose les données de clients</title>
+    <link>https://www.cyberattaque.org/aroma-zone-une-cyberattaque-chez-shipup-expose-les-donnees-de-clients/</link>
+    <description>Aroma-Zone informe certains de ses clients qu’ils sont concernés par la cyberattaque ayant touché son prestataire Shipup, chargé...
+L’article Aroma-Zone : une cyberattaque chez Shipup expose les données de clients est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 08 Sep 2026 21:10:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Scammer behind $245 million crypto heist pleads guilty to RICO charges</title>
+    <link>https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico</link>
+    <description>Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 20:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DoppelCart fraud network uses 119,000 fake shops to steal credit cards</title>
+    <link>https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/</link>
+    <description>A massive operation dubbed "DoppelCart" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 16:35:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] The EU CRA's Real Question: What Shipped, and When Did You Know?</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/</link>
+    <description>The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 16:24:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/</link>
+    <description>A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 16:08:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CIA official touts agency’s Cyber Mission Center in capture of Venezuela’s Maduro</title>
+    <link>https://therecord.media/cia-cyber-operations-maduro-capture-venezuela</link>
+    <description>A "flawless" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicolás Maduro in January, agency Deputy Director Michael Ellis says.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 19:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian suspect in bank account takeovers is extradited to US</title>
+    <link>https://therecord.media/russian-cybercrime-bank-extradition</link>
+    <description>A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 19:37:42 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Italian tech collective Autistici/Inventati shuts down after US terrorist designation</title>
     <link>https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation</link>
     <description>On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to…</description>
