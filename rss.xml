@@ -6,11 +6,78 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Italian tech collective Autistici/Inventati shuts down after US terrorist designation</title>
+    <link>https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation</link>
+    <description>On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 19:12:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft releases Windows 10 KB5122878 extended security update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/</link>
+    <description>Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 14:49:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Financière d’Uzès : 70 Go de données volées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/financiere-duzes-70-go-de-donnees-volees-apres-une-cyberattaque/</link>
+    <description>La Financière d’Uzès, maison française spécialisée dans la gestion de patrimoine et les services d’investissement, apparaît ce 8...
+L’article Financière d’Uzès : 70 Go de données volées après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 08 Sep 2026 18:30:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/</link>
+    <description>Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 14:18:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 cumulative updates KB5124008 &amp; KB5122880 released</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/</link>
+    <description>Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 13:57:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ‘White hat’ hackers take $47 million bounty after $320 million crypto theft</title>
+    <link>https://therecord.media/liquid-network-blockstream-crypto-theft-hackers-keep-reward</link>
+    <description>Public negotiations between hackers and the operators of the Liquid Network crypto platform ended with the attackers sending back most — but not all — of what they took.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ShinyHunters hackers claim breach of Florida "DAVID" DMV database</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/</link>
+    <description>The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as "DAVID" and stole over 200,000 records about drivers in the state. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 12:35:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Vision2i : une cyberattaque expose une base de contacts de son site WordPress</title>
+    <link>https://www.cyberattaque.org/vision2i-une-cyberattaque-expose-une-base-de-contacts-de-son-site-wordpress/</link>
+    <description>Vision2i est visé par une cyberattaque revendiquée ce 8 septembre 2026 par le hacker Sophia. Un extrait de...
+L’article Vision2i : une cyberattaque expose une base de contacts de son site WordPress est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 08 Sep 2026 16:30:14 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI says ChatGPT outage causes image generation errors</title>
     <link>https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/</link>
     <description>OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 08 Sep 2026 12:28:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution</title>
+    <link>https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html</link>
+    <description>A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.
+
+Cybersecurity company CrowdStrike is tracking the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 21:50:23 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] August updates trigger 0xc0000409 errors on Windows Server 2016</title>
@@ -181,28 +248,32 @@ L’article Cash Investigation : une enquête sur les cyber-arnaques et les fuit
     <pubDate>Tue, 08 Sep 2026 06:42:32 +0000</pubDate>
   </item>
   <item>
-    <title>[Faible] CC Yvetot Normandie : près de 250 documents administratifs en fuite</title>
-    <link>https://www.cyberattaque.org/cc-yvetot-normandie-les-documents-administratifs-en-fuite-apres-une-cyberattaque/</link>
-    <description>Des documents attribués à la Communauté de communes Yvetot Normandie sont désormais diffusés gratuitement en ligne sur le...
-L’article CC Yvetot Normandie : près de 250 documents administratifs en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 19:17:03 +0000</pubDate>
+    <title>[Critique] CVE-2026-85880 — Microsoft Windows Heap-Based Buffer Overflow Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-85880</link>
+    <description>Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-08</pubDate>
   </item>
   <item>
-    <title>[Élevé] PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
-    <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
-    <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.
-
-"Requiring prior administrative or code…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 23:42:09 +0530</pubDate>
+    <title>[Critique] CVE-2026-86218 — N-able N-central Static Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86218</link>
+    <description>N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-08</pubDate>
   </item>
   <item>
-    <title>[Critique] Magento StyleSmuggler zero-day exploited to deploy Linux backdoor</title>
-    <link>https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/</link>
-    <description>A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 12:50:29 -0400</pubDate>
+    <title>[Critique] CVE-2026-81963 — Microsoft Windows Link Following Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-81963</link>
+    <description>Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-08</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-75650 — Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-75650</link>
+    <description>Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-08</pubDate>
   </item>
 </channel>
 </rss>
