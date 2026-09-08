@@ -6,6 +6,65 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials</title>
+    <link>https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html</link>
+    <description>A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.
+
+FreeIPA is the system that determines who…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 16:52:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SAD’S Interim : une cyberattaque expose passeports, NIR et données de santé</title>
+    <link>https://www.cyberattaque.org/sads-interim-une-cyberattaque-expose-passeports-nir-et-donnees-de-sante/</link>
+    <description>SAD’S Interim, important réseau français d’agences d’emploi, est la nouvelle victime revendiquée par le groupe de ransomware Rhysida....
+L’article SAD’S Interim : une cyberattaque expose passeports, NIR et données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 08 Sep 2026 09:47:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell</title>
+    <link>https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html</link>
+    <description>Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.
+
+The vulnerability, now tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 14:43:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams</title>
+    <link>https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html</link>
+    <description>Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.
+
+The campaign, discovered by the DFIR…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 14:13:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 220 million traveler records exposed in Vietnam-linked APIS leak</title>
+    <link>https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/</link>
+    <description>Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 03:35:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing</title>
+    <link>https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html</link>
+    <description>Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.
+
+Grindr,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 12:30:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cash Investigation : une enquête sur les cyber-arnaques et les fuites de données jeudi sur France 2</title>
+    <link>https://www.cyberattaque.org/cash-investigation-une-enquete-sur-les-cyber-arnaques-et-les-fuites-de-donnees-jeudi-sur-france-2/</link>
+    <description>Cash Investigation consacrera son prochain numéro aux cyberattaques, aux fuites de données et aux arnaques qui en découlent....
+L’article Cash Investigation : une enquête sur les cyber-arnaques et les fuites de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 08 Sep 2026 06:42:32 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] CC Yvetot Normandie : près de 250 documents administratifs en fuite</title>
     <link>https://www.cyberattaque.org/cc-yvetot-normandie-les-documents-administratifs-en-fuite-apres-une-cyberattaque/</link>
     <description>Des documents attribués à la Communauté de communes Yvetot Normandie sont désormais diffusés gratuitement en ligne sur le...
@@ -101,67 +160,6 @@ L’article Snexi confirme une fuite de données après une cyberattaque est app
     <description>If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS,…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 07 Sep 2026 17:15:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts</title>
-    <link>https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html</link>
-    <description>Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.
-
-According to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 17:06:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released</title>
-    <link>https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html</link>
-    <description>A TantoSec proof-of-concept turns an AES-CBC "padding oracle" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 16:50:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ChatGPT can now connect to your personal apps to mimic writing style</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/</link>
-    <description>OpenAI appears to be testing a new "Writing Style" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 06:36:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers exploit new MikroTik RouterOS flaws to hijack routers</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/</link>
-    <description>Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 06:32:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] ConnectWise warns of new ScreenConnect flaw without patch</title>
-    <link>https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/</link>
-    <description>ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 06:06:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BumFot : une cyberattaque expose les données d’environ 1 300 utilisateurs</title>
-    <link>https://www.cyberattaque.org/bumfot-une-cyberattaque-expose-les-donnees-denviron-1-300-utilisateurs/</link>
-    <description>BumFot, plateforme française permettant de créer et partager des albums photos privés à l’aide de QR codes, est...
-L’article BumFot : une cyberattaque expose les données d’environ 1 300 utilisateurs est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 09:22:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw</title>
-    <link>https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html</link>
-    <description>Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 14:01:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies</title>
-    <link>https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html</link>
-    <description>Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.
-
-"The payloads are protected with…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 13:23:04 +0530</pubDate>
   </item>
 </channel>
 </rss>
