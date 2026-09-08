@@ -163,27 +163,5 @@ L’article BumFot : une cyberattaque expose les données d’environ 1 300 util
     <source>The Hacker News</source>
     <pubDate>Mon, 07 Sep 2026 13:23:04 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] N-able patches max severity N-central flaw amid ongoing attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/</link>
-    <description>N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 02:17:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre le SNU, plus de 275 000 comptes revendiqués</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-le-snu-plus-de-275-000-comptes-revendiques/</link>
-    <description>Une importante fuite de données visant le Service national universel (SNU) est revendiquée par le hacker LunarisSec. Celui-ci...
-L’article Cyberattaque contre le SNU, plus de 275 000 comptes revendiqués est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 05:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ChatGPT Astra is now rolling out to $20 Plus subscription</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/</link>
-    <description>OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 06 Sep 2026 21:15:43 -0400</pubDate>
-  </item>
 </channel>
 </rss>
