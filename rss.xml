@@ -6,6 +6,122 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI says ChatGPT outage causes image generation errors</title>
+    <link>https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/</link>
+    <description>OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 12:28:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] August updates trigger 0xc0000409 errors on Windows Server 2016</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/</link>
+    <description>Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 11:22:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SAP warns of maximum severity 'OVERPASS' kernel vulnerability</title>
+    <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/</link>
+    <description>SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 10:55:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC</title>
+    <link>https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html</link>
+    <description>Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&amp;nbsp;returned 3,400 of it&amp;nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.
+
+Liquid is a Bitcoin…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 20:24:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/</link>
+    <description>OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the "Critical level" for cybersecurity capabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 10:40:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account</title>
+    <link>https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html</link>
+    <description>Check Point Research said in a&amp;nbsp;report published today&amp;nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 19:49:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Where the backlash against Flock Safety is having the biggest impact</title>
+    <link>https://therecord.media/flock-safety-backlash-places-with-biggest-impact</link>
+    <description>Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 14:03:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours</title>
+    <link>https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html</link>
+    <description>Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 19:18:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Adobe fixes critical Magento zero-day exploited to backdoor servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/</link>
+    <description>Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 09:34:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Webinar: The forgotten Google Workspace access that can lead to a breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/</link>
+    <description>Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 08:40:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack</title>
+    <link>https://therecord.media/france-hacker-arrest-zerobytes</link>
+    <description>French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers build AI frameworks for widescale credential theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/</link>
+    <description>Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 08:03:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack encrypts systems at Bavarian municipal utility</title>
+    <link>https://therecord.media/cyberattack-bavaria-germany-utility</link>
+    <description>A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Windows Server 2025 changes causing app crashes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/</link>
+    <description>Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 08 Sep 2026 07:57:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls</title>
+    <link>https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html</link>
+    <description>Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and&amp;nbsp;demonstrated it spreading&amp;nbsp;among three test phones.
+
+The person being called does not have to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 17:24:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] What It Took to Reach 1 Billion Build Manifests</title>
+    <link>https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html</link>
+    <description>In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 08 Sep 2026 17:19:02 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials</title>
     <link>https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html</link>
     <description>A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.
@@ -87,79 +203,6 @@ L’article CC Yvetot Normandie : près de 250 documents administratifs en fuite
     <description>A zero-day vulnerability dubbed "StyleSmuggler" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 07 Sep 2026 12:50:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks</title>
-    <link>https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html</link>
-    <description>Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 21:21:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations</title>
-    <link>https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/</link>
-    <description>A phishing-as-a-service framework called BigBear 2.0 has been used to bypass multi-factor authentication at 258 organizations and steal more than 5,000 Microsoft 365 credentials. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 11:39:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] L’ANSSI lance REACTIV et peut imposer des mesures immédiates aux ministères</title>
-    <link>https://www.cyberattaque.org/cyberattaque-anssi-lance-reactiv-et-peut-imposer-des-mesures-immediates-aux-ministeres/</link>
-    <description>Face à la multiplication des cyberattaques et violations de données touchant les services de l’État, le gouvernement renforce...
-L’article L’ANSSI lance REACTIV et peut imposer des mesures immédiates aux ministères est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 15:39:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More</title>
-    <link>https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html</link>
-    <description>Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 20:06:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Mathspace discloses data breach affecting over 1 million people</title>
-    <link>https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/</link>
-    <description>Online maths learning platform Mathspace disclosed over the weekend that attackers stole data from more than 1 million students, staff, and parents after breaching its Metabase internal reporting system. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 09:05:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Jinko : une cyberattaque expose les données de santé de plus de 3 500 personnes</title>
-    <link>https://www.cyberattaque.org/jinko-une-cyberattaque-expose-les-donnees-de-sante-de-plus-de-3-500-personnes/</link>
-    <description>Jinko, plateforme française spécialisée dans l’accompagnement des personnes atteintes de cancer, est touchée par une fuite de données...
-L’article Jinko : une cyberattaque expose les données de santé de plus de 3 500…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 12:37:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Snexi confirme une fuite de données après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/snexi-confirme-une-fuite-de-donnees-apres-une-cyberattaque/</link>
-    <description>Snexi, spécialiste français des états des lieux et du diagnostic immobilier, confirme avoir été victime d’une cyberattaque le...
-L’article Snexi confirme une fuite de données après une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 07 Sep 2026 12:27:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Trezor data breach impact now reaches 81,000 customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/</link>
-    <description>Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 07 Sep 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Berlin investigates new data leak after hackers publish stolen login credentials</title>
-    <link>https://therecord.media/germany-berlin-second-data-breach-city-agencies</link>
-    <description>Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 07 Sep 2026 11:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Your Cloud Security Checklist Doesn't Work the Way You Think It Does</title>
-    <link>https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html</link>
-    <description>If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 07 Sep 2026 17:15:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
