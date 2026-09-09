@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited</title>
+    <link>https://therecord.media/microsoft-patch-tuesday-september-2026</link>
+    <description>The new record total for Patch Tuesday is 973 vulnerabilities.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 08 Sep 2026 22:40:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft Plugs Nearly 1,000 Security Holes</title>
     <link>https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/</link>
     <description>Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping…</description>
@@ -303,34 +310,6 @@ Grindr,…</description>
 L’article Cash Investigation : une enquête sur les cyber-arnaques et les fuites de données…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 08 Sep 2026 06:42:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-85880 — Microsoft Windows Heap-Based Buffer Overflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-85880</link>
-    <description>Microsoft Windows Advanced Local Procedure Call contains a heap-based buffer overflow vulnerability that allows an attacker to elevate privileges locally.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-86218 — N-able N-central Static Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86218</link>
-    <description>N-able N-central contains a static code injection vulnerability that could allow for pre-authentication remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-81963 — Microsoft Windows Link Following Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-81963</link>
-    <description>Microsoft Windows Update Stack contains a link following vulnerability that allows a local attacker to escalate privileges locally up to SYSTEM.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-75650 — Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-75650</link>
-    <description>Adobe Commerce and Magento Open Source contain an improper neutralization of special elements used in a template engine vulnerability that could allow an attacker to execute arbitrary code.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-08</pubDate>
   </item>
 </channel>
 </rss>
