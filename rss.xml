@@ -6,6 +6,79 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US says Chinese firms extracted billions of tokens from frontier AI models</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/</link>
+    <description>U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 09 Sep 2026 12:48:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Multiple Chinese hacking groups seen using identical Chrome zero-day exploit</title>
+    <link>https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups</link>
+    <description>A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 09 Sep 2026 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI puts its cyber strategy on paper</title>
+    <link>https://therecord.media/fbi-releases-first-public-cybersecurity-strategy</link>
+    <description>The first public cybersecurity strategy issued by the FBI "directs our teams, our field offices, our global presence" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 09 Sep 2026 15:37:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Veradigm warns of patient data breach after ransomware gang claims attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/</link>
+    <description>Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 09 Sep 2026 11:31:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le Tampon : une cyberattaque frappe la mairie et perturbe fortement les services municipaux</title>
+    <link>https://www.cyberattaque.org/le-tampon-une-cyberattaque-frappe-la-mairie-et-perturbe-fortement-les-services-municipaux/</link>
+    <description>La mairie du Tampon, à La Réunion, est touchée par une cyberattaque depuis la matinée de ce mercredi...
+L’article Le Tampon : une cyberattaque frappe la mairie et perturbe fortement les services municipaux est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 09 Sep 2026 15:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Vol ou perte de smartphone professionnel : protéger les données</title>
+    <link>https://www.zataz.com/vol-ou-perte-de-smartphone-professionnel-proteger-les-donnees/</link>
+    <description>Smartphone professionnel perdu ou volé : le MDM aide à protéger les données, les accès et la flotte mobile.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 09 Sep 2026 14:36:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA</title>
+    <link>https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</link>
+    <description>Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant illicit access to tools from model providers like Google, Anthropic, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 09 Sep 2026 19:53:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MFA's Weakest Link: Account Recovery Is the New Attack Path</title>
+    <link>https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/</link>
+    <description>MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 09 Sep 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ukraine prosecutor general steps down amid scam call center bribery probe</title>
+    <link>https://therecord.media/ukraine-prosecutor-general-scam-center</link>
+    <description>Ukraine’s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 09 Sep 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE</title>
+    <link>https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</link>
+    <description>A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?
+
+For many security teams, answering that means jumping between vulnerability scanners, endpoint…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 09 Sep 2026 17:27:36 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval</title>
     <link>https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html</link>
     <description>A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.
@@ -250,109 +323,6 @@ L’article Financière d’Uzès : 70 Go de données volées après une cyberat
     <description>Public negotiations between hackers and the operators of the Liquid Network crypto platform ended with the attackers sending back most — but not all — of what they took.</description>
     <source>The Record</source>
     <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters hackers claim breach of Florida "DAVID" DMV database</title>
-    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/</link>
-    <description>The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as "DAVID" and stole over 200,000 records about drivers in the state. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 12:35:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Vision2i : une cyberattaque expose une base de contacts de son site WordPress</title>
-    <link>https://www.cyberattaque.org/vision2i-une-cyberattaque-expose-une-base-de-contacts-de-son-site-wordpress/</link>
-    <description>Vision2i est visé par une cyberattaque revendiquée ce 8 septembre 2026 par le hacker Sophia. Un extrait de...
-L’article Vision2i : une cyberattaque expose une base de contacts de son site WordPress est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 08 Sep 2026 16:30:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says ChatGPT outage causes image generation errors</title>
-    <link>https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/</link>
-    <description>OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 12:28:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution</title>
-    <link>https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html</link>
-    <description>A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.
-
-Cybersecurity company CrowdStrike is tracking the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 08 Sep 2026 21:50:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] August updates trigger 0xc0000409 errors on Windows Server 2016</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/</link>
-    <description>Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 11:22:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] SAP warns of maximum severity 'OVERPASS' kernel vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/</link>
-    <description>SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 10:55:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC</title>
-    <link>https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html</link>
-    <description>Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6,&amp;nbsp;returned 3,400 of it&amp;nbsp;the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.
-
-Liquid is a Bitcoin…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 08 Sep 2026 20:24:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/</link>
-    <description>OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the "Critical level" for cybersecurity capabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 10:40:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account</title>
-    <link>https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html</link>
-    <description>Check Point Research said in a&amp;nbsp;report published today&amp;nbsp;that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 08 Sep 2026 19:49:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Where the backlash against Flock Safety is having the biggest impact</title>
-    <link>https://therecord.media/flock-safety-backlash-places-with-biggest-impact</link>
-    <description>Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs).</description>
-    <source>The Record</source>
-    <pubDate>Tue, 08 Sep 2026 14:03:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours</title>
-    <link>https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html</link>
-    <description>Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 08 Sep 2026 19:18:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Adobe fixes critical Magento zero-day exploited to backdoor servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/</link>
-    <description>Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 09:34:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Webinar: The forgotten Google Workspace access that can lead to a breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/</link>
-    <description>Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 08:40:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack</title>
-    <link>https://therecord.media/france-hacker-arrest-zerobytes</link>
-    <description>French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 08 Sep 2026 12:30:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
