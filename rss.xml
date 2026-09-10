@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] AI-powered attack exploited PaperCut flaws to hack 395 organizations</title>
+    <link>https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/</link>
+    <description>A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 11:55:56 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/</link>
+    <description>Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 11:43:58 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] IDScan confirms breach tied to 153 million stolen driver’s licenses</title>
+    <link>https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/</link>
+    <description>Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 10:55:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Play Early Access Abused to Push Thousands of Deceptive Android Apps</title>
+    <link>https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html</link>
+    <description>Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.
+
+Early Access apps are apps that haven't been released on the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 20:06:47 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws</title>
     <link>https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/</link>
     <description>Multiple cyber-espionage groups deployed an exploit kit dubbed "BlueMoon" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]</description>
@@ -153,70 +183,6 @@ LiteLLM is an open-source AI gateway,…</description>
     <description>The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country’s privacy laws.</description>
     <source>The Record</source>
     <pubDate>Wed, 09 Sep 2026 18:11:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Electronic health record company says customer data stolen in breach</title>
-    <link>https://therecord.media/electronic-health-record-company-says-customer-data-stolen-in-breach</link>
-    <description>Veradigm said access was limited to a specific interface, and did not impact the company’s broader environment such as its networks, servers or databases. The incident did not result in operational disruptions, the…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 17:03:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US says Chinese firms extracted billions of tokens from frontier AI models</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/</link>
-    <description>U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 12:48:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week</title>
-    <link>https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html</link>
-    <description>Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 22:04:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Multiple Chinese hacking groups seen using identical Chrome zero-day exploit</title>
-    <link>https://therecord.media/china-hackers-chrome-browser-zero-day-multiple-groups</link>
-    <description>A Google Chrome bug identified in August was exploited by at least four China-linked cyber-espionage groups, according to researchers.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 16:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI puts its cyber strategy on paper</title>
-    <link>https://therecord.media/fbi-releases-first-public-cybersecurity-strategy</link>
-    <description>The first public cybersecurity strategy issued by the FBI "directs our teams, our field offices, our global presence" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 15:37:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Veradigm warns of patient data breach after ransomware gang claims attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/</link>
-    <description>Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 11:31:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le Tampon : une cyberattaque frappe la mairie et perturbe fortement les services municipaux</title>
-    <link>https://www.cyberattaque.org/le-tampon-une-cyberattaque-frappe-la-mairie-et-perturbe-fortement-les-services-municipaux/</link>
-    <description>La mairie du Tampon, à La Réunion, est touchée par une cyberattaque depuis la matinée de ce mercredi...
-L’article Le Tampon : une cyberattaque frappe la mairie et perturbe fortement les services municipaux est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 09 Sep 2026 15:11:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Vol ou perte de smartphone professionnel : protéger les données</title>
-    <link>https://www.zataz.com/vol-ou-perte-de-smartphone-professionnel-proteger-les-donnees/</link>
-    <description>Smartphone professionnel perdu ou volé : le MDM aide à protéger les données, les accès et la flotte mobile.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 09 Sep 2026 14:36:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA</title>
-    <link>https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html</link>
-    <description>Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant illicit access to tools from model providers like Google, Anthropic, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 19:53:55 +0530</pubDate>
   </item>
 </channel>
 </rss>
