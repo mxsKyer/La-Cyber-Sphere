@@ -6,6 +6,43 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 05:10:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft fixes bug that wiped Windows desktop settings</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/</link>
+    <description>Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 04:08:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key</title>
+    <link>https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html</link>
+    <description>Nearly one in ten of the internet-facing LiteLLM servers that&amp;nbsp;Wiz Research&amp;nbsp;scanned in February accepted&amp;nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.
+
+LiteLLM is an open-source AI gateway,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 12:42:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6</title>
+    <link>https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html</link>
+    <description>Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 12:34:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trezor warns users of email provider breach, phishing attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/</link>
+    <description>Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 02:56:33 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
     <description>Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]</description>
@@ -179,75 +216,6 @@ L’article Citadium : des informations clients récupérées lors de la cyberat
     <description>Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 09 Sep 2026 06:11:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok</title>
-    <link>https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html</link>
-    <description>U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting "systematic extraction" of proprietary functionalities and capabilities of American frontier…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 15:02:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox</title>
-    <link>https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html</link>
-    <description>Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.
-
-The medium-severity vulnerability, assigned the CVE identifier…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 14:41:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Man gets 15 years for extorting women with AI-generated porn videos</title>
-    <link>https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/</link>
-    <description>An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 04:44:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root</title>
-    <link>https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html</link>
-    <description>cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 13:49:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans</title>
-    <link>https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html</link>
-    <description>Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an&amp;nbsp;analysis published on September 7.
-
-When Apache loads any of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 13:06:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/</link>
-    <description>An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named "ShieldCrash" right after Microsoft rolled out its September 2026 Patch Tuesday security updates.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 03:30:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed</title>
-    <link>https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html</link>
-    <description>The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.
-
-The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 12:17:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google warns of new Chrome zero-day bug exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/</link>
-    <description>Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 02:25:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html</link>
-    <description>SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 11:55:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
