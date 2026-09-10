@@ -6,6 +6,58 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] September Windows Server updates break Remote Desktop Services</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/</link>
+    <description>Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 16:34:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Surfshark VPN says hackers breached internal testing, proxy servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/</link>
+    <description>Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 15:15:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Excel KB5002914 update breaks copy and paste for some users</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/</link>
+    <description>Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 15:07:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] IDScan confirms breach after hackers offer 153 million driver’s license scans for sale</title>
+    <link>https://therecord.media/idscan-data-breach-notice-drivers-licenses</link>
+    <description>A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 18:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber Command turns to veteran of intelligence agencies for top AI role</title>
+    <link>https://therecord.media/cyber-command-ai-leader-ronzelle-green</link>
+    <description>Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 18:25:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’ésam Caen/Cherbourg victime d’une cyberattaque en pleine rentrée universitaire</title>
+    <link>https://www.cyberattaque.org/lesam-caen-cherbourg-victime-dune-cyberattaque-en-pleine-rentree-universitaire/</link>
+    <description>L’École supérieure d’arts et médias de Caen/Cherbourg (Esam) a été victime d’une cyberattaque le 21 août 2026. L’intrusion...
+L’article L’ésam Caen/Cherbourg victime d’une cyberattaque en pleine rentrée universitaire…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 10 Sep 2026 17:54:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories</title>
+    <link>https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html</link>
+    <description>A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”
+
+An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 23:17:38 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] AI-powered attack exploited PaperCut flaws to hack 395 organizations</title>
     <link>https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/</link>
     <description>A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]</description>
@@ -136,6 +188,27 @@ LiteLLM is an open-source AI gateway,…</description>
     <pubDate>Thu, 10 Sep 2026 02:56:33 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] Multiple crypto companies warn customers of phishing emails after alleged provider breach</title>
+    <link>https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders</link>
+    <description>Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 04:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-67277 — MikroTik RouterOS Missing Authentication for Critical Function Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-67277</link>
+    <description>MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-86060 — MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86060</link>
+    <description>MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-10</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
     <description>Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]</description>
@@ -162,27 +235,6 @@ LiteLLM is an open-source AI gateway,…</description>
     <description>The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction.…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 09 Sep 2026 17:02:14 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy</title>
-    <link>https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime</link>
-    <description>The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 19:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto</title>
-    <link>https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 23:56:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million</title>
-    <link>https://therecord.media/grindr-settles-privacy-lawsuit-hiv-status-35-million</link>
-    <description>The settlement concludes a legal fight that dates to April 2024, when UK users sued for the alleged violations of their country’s privacy laws.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 18:11:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
