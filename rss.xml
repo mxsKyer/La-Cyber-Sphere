@@ -280,40 +280,5 @@ L’article Cyberattaque contre la boutique de la fédération française de ten
     <source>BleepingComputer</source>
     <pubDate>Tue, 08 Sep 2026 21:16:27 -0400</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-20079 — Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20079</link>
-    <description>Cisco Secure Firewall Management Center (FMC) Software and Cisco Security Cloud Control (SCC) Firewall Management contain an authentication Bypass using an alternate path or channel vulnerability that could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-87491 — Google Chromium V8 Out of Bounds Write Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-87491</link>
-    <description>Google Chromium V8 contains an out of bounds write vulnerability that allows a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2025-25249 — Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-25249</link>
-    <description>Fortinet FortiOS, FortiSwitchManager, and FortiSASE contain a heap-based buffer overflow vulnerability that allows an attacker to execute unauthorized code or commands via specially crafted packets.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-19490 — Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-19490</link>
-    <description>Citrix NetScaler ADC and NetScaler Gateway contain an authentication-bypass vulnerability involving an alternate path or channel. When the NetScaler appliance is configured as an AAA virtual server or as a Gateway (SSL VPN, ICA Proxy, CVPN, or RDP Proxy), an unauthenticated remote threat actor may be able to bypass authentication.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-09</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft posts nearly 1,000 bugs for Patch Tuesday as CISA warns two being exploited</title>
-    <link>https://therecord.media/microsoft-patch-tuesday-september-2026</link>
-    <description>The new record total for Patch Tuesday is 973 vulnerabilities.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 08 Sep 2026 22:40:00 GMT</pubDate>
-  </item>
 </channel>
 </rss>
