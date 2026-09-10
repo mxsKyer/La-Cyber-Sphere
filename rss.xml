@@ -249,36 +249,5 @@ The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for�
     <source>The Hacker News</source>
     <pubDate>Wed, 09 Sep 2026 11:55:45 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days</title>
-    <link>https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html</link>
-    <description>Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.
-
-These…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 10:11:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] N-able N-central Pre-Auth RCE Flaw Exploited in the Wild</title>
-    <link>https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 09:57:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre la boutique de la fédération française de tennis : 210 000 commandes exposées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-boutique-proshop-federation-francaise-de-tennis-fft/</link>
-    <description>Une nouvelle fuite de données touche l’écosystème numérique de la Fédération Française de Tennis (FFT). Le groupe de...
-L’article Cyberattaque contre la boutique de la fédération française de tennis : 210 000 commandes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 09 Sep 2026 03:57:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/</link>
-    <description>Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 08 Sep 2026 21:16:27 -0400</pubDate>
-  </item>
 </channel>
 </rss>
