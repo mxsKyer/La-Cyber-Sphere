@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] New Android malware encrypts files, steals data, and harasses victims</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/</link>
+    <description>A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 17:40:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023</title>
+    <link>https://therecord.media/treasury-urges-banks-report-cyber-scams</link>
+    <description>As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 21:15:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] September Windows Server updates break Remote Desktop Services</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/</link>
     <description>Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases,…</description>
@@ -207,34 +221,6 @@ LiteLLM is an open-source AI gateway,…</description>
     <description>MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-10</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
-    <description>Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 17:40:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AdaptHealth confirms 4.1 million people exposed in July cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/</link>
-    <description>Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 17:30:36 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA head says agency must change quickly to prevent the 'worst that could happen'</title>
-    <link>https://therecord.media/cisa-hiring-nick-andersen-warning</link>
-    <description>CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 21:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking</title>
-    <link>https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/</link>
-    <description>The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 17:02:14 -0400</pubDate>
   </item>
 </channel>
 </rss>
