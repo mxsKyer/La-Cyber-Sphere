@@ -6,6 +6,69 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/</link>
+    <description>Multiple cyber-espionage groups deployed an exploit kit dubbed "BlueMoon" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 10:11:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Top 4 Threats We Found by Investigating Every Alert for a Quarter</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/</link>
+    <description>Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers</title>
+    <link>https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted</link>
+    <description>Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 13:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] UK appoints new commander of National Cyber Force</title>
+    <link>https://therecord.media/uk-appoints-new-commander-of-national-cyber-force</link>
+    <description>The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 10 Sep 2026 12:44:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE</title>
+    <link>https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html</link>
+    <description>Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 17:15:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances</title>
+    <link>https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html</link>
+    <description>A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 17:11:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks</title>
+    <link>https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html</link>
+    <description>The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&amp;nbsp;report published on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 17:03:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft says September updates fix mouse settings reset issues</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/</link>
+    <description>Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 10 Sep 2026 07:14:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline</title>
+    <link>https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 10 Sep 2026 16:06:46 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</link>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in…</description>
@@ -154,68 +217,6 @@ L’article Le Tampon : une cyberattaque frappe la mairie et perturbe fortement 
     <description>Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create "stolen keys" that grant illicit access to tools from model providers like Google, Anthropic, and…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 09 Sep 2026 19:53:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MFA's Weakest Link: Account Recovery Is the New Attack Path</title>
-    <link>https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/</link>
-    <description>MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine prosecutor general steps down amid scam call center bribery probe</title>
-    <link>https://therecord.media/ukraine-prosecutor-general-scam-center</link>
-    <description>Ukraine’s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 09 Sep 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE</title>
-    <link>https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html</link>
-    <description>A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?
-
-For many security teams, answering that means jumping between vulnerability scanners, endpoint…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 17:27:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval</title>
-    <link>https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html</link>
-    <description>A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.
-
-The tool runs an agent's commands…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 16:47:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets</title>
-    <link>https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html</link>
-    <description>Bitcoin wallet company Alby has&amp;nbsp;warned of a critical flaw&amp;nbsp;in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 09 Sep 2026 16:13:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Printemps : les données clients dérobées après une cyberattaque chez Shipup</title>
-    <link>https://www.cyberattaque.org/printemps-les-donnees-clients-derobees-apres-une-cyberattaque-chez-shipup/</link>
-    <description>Printemps informe certains de ses clients qu’une partie de leurs données personnelles a été consultée et extraite sans...
-L’article Printemps : les données clients dérobées après une cyberattaque chez Shipup est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 09 Sep 2026 10:17:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Citadium : des informations clients récupérées lors de la cyberattaque contre Shipup</title>
-    <link>https://www.cyberattaque.org/citadium-des-informations-clients-recuperees-lors-de-la-cyberattaque-contre-shipup/</link>
-    <description>Citadium informe certains de ses clients qu’une partie de leurs données personnelles a été consultée et extraite sans...
-L’article Citadium : des informations clients récupérées lors de la cyberattaque contre Shipup est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 09 Sep 2026 10:16:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Over 36,000 exposed Plex servers vulnerable to recent flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/</link>
-    <description>Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 09 Sep 2026 06:11:29 -0400</pubDate>
   </item>
 </channel>
 </rss>
