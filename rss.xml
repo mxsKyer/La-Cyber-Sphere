@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] La CNIL va contrôler le fisc après la cyberattaque de la DGFiP</title>
+    <link>https://www.cyberattaque.org/la-cnil-va-controler-le-fisc-apres-la-cyberattaque-de-la-dgfip/</link>
+    <description>La Commission nationale de l’informatique et des libertés (CNIL) va procéder à un contrôle de la Direction générale...
+L’article La CNIL va contrôler le fisc après la cyberattaque de la DGFiP est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 04:41:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Aqualter : 187 000 numéros de téléphone exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/aqualter-187-000-numeros-de-telephone-exposes-apres-une-cyberattaque/</link>
+    <description>Une fuite de données vise Aqualter, entreprise française spécialisée dans la gestion de l’eau. Le hacker ChimeraZ affirme...
+L’article Aqualter : 187 000 numéros de téléphone exposés après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 03:59:26 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] New Android malware encrypts files, steals data, and harasses victims</title>
     <link>https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/</link>
     <description>A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]</description>
@@ -200,13 +216,6 @@ LiteLLM is an open-source AI gateway,…</description>
     <description>Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 10 Sep 2026 02:56:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Multiple crypto companies warn customers of phishing emails after alleged provider breach</title>
-    <link>https://therecord.media/trezor-bitbox-cointracking-phishing-crypto-holders</link>
-    <description>Subscribers to newsletters from Trezor, CoinTracking and BitBox received corrupted messages through an email provider that all three companies use.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 10 Sep 2026 04:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
