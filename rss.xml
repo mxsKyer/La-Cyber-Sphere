@@ -6,11 +6,64 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Florida confirms DMV database breached via stolen police account</title>
+    <link>https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</link>
+    <description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 15:00:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 2,2 millions de lignes et 50 000 digicodes liées à Citya en fuite après la cyberattaque contre Snexi</title>
+    <link>https://www.cyberattaque.org/citya-snexi-fuite-de-donnees-cyberattaque/</link>
+    <description>Snexi, spécialiste français des états des lieux et du diagnostic immobilier, confirme avoir été victime d’une cyberattaque le...
+L’article 2,2 millions de lignes et 50 000 digicodes liées à Citya en fuite après la…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 19:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft sees some new wrinkles in invoice-scam emails</title>
+    <link>https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers</link>
+    <description>Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 11 Sep 2026 18:40:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Passkey-themed phishing attacks lead to Microsoft 365 data theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/</link>
+    <description>Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 13:26:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Boulanger touché par une revendication de cyberattaque impliquant 132 000 dossiers SAV</title>
+    <link>https://www.cyberattaque.org/boulanger-touche-par-une-cyberattaque-avec-132-000-dossiers-sav-revendiques-en-fuite/</link>
+    <description>Une base attribuée à Boulanger a été mise en ligne le 11 septembre 2026 par le hacker fuie...
+L’article Boulanger touché par une revendication de cyberattaque impliquant 132 000 dossiers SAV est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 16:55:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure</title>
+    <link>https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html</link>
+    <description>GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.
+
+The vulnerability in question is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 22:00:18 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Artifactory flaws chained in attacks deploying backdoor malware</title>
     <link>https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</link>
     <description>Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 11 Sep 2026 12:29:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks</title>
+    <link>https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</link>
+    <description>Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 21:45:29 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Salt victime d’une cyberattaque, des données clients exposées</title>
@@ -167,6 +220,27 @@ L’article Aqualter : 187 000 numéros de téléphone exposés après une cyber
     <pubDate>Fri, 11 Sep 2026 03:59:26 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-42018 — JFrog Artifactory Improper Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-42018</link>
+    <description>JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-11</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-42016 — JFrog Artifactory Incorrect Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-42016</link>
+    <description>JFrog Artifactory contains an incorrect authorization vulnerability that allows leads to privilege escalation attack due to a validation check of the token signature/issuer and not the token’s scope.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-11</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-84869 — ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-84869</link>
+    <description>ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-11</pubDate>
+  </item>
+  <item>
     <title>[Critique] New Android malware encrypts files, steals data, and harasses victims</title>
     <link>https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/</link>
     <description>A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]</description>
@@ -186,51 +260,6 @@ L’article Aqualter : 187 000 numéros de téléphone exposés après une cyber
     <description>Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases,…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 10 Sep 2026 16:34:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Surfshark VPN says hackers breached internal testing, proxy servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/</link>
-    <description>Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 15:15:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Excel KB5002914 update breaks copy and paste for some users</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/</link>
-    <description>Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 15:07:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] IDScan confirms breach after hackers offer 153 million driver’s license scans for sale</title>
-    <link>https://therecord.media/idscan-data-breach-notice-drivers-licenses</link>
-    <description>A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 10 Sep 2026 18:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber Command turns to veteran of intelligence agencies for top AI role</title>
-    <link>https://therecord.media/cyber-command-ai-leader-ronzelle-green</link>
-    <description>Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 10 Sep 2026 18:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’ésam Caen/Cherbourg victime d’une cyberattaque en pleine rentrée universitaire</title>
-    <link>https://www.cyberattaque.org/lesam-caen-cherbourg-victime-dune-cyberattaque-en-pleine-rentree-universitaire/</link>
-    <description>L’École supérieure d’arts et médias de Caen/Cherbourg (Esam) a été victime d’une cyberattaque le 21 août 2026. L’intrusion...
-L’article L’ésam Caen/Cherbourg victime d’une cyberattaque en pleine rentrée universitaire…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 10 Sep 2026 17:54:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories</title>
-    <link>https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html</link>
-    <description>A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?”
-
-An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 23:17:38 +0530</pubDate>
   </item>
 </channel>
 </rss>
