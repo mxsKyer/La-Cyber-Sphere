@@ -6,6 +6,90 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] GitLab urges users to patch max severity path traversal flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</link>
+    <description>GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 07:15:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GreenGo victime d’une cyberattaque : données de comptes, réservations et messages consultés</title>
+    <link>https://www.cyberattaque.org/greengo-victime-dune-cyberattaque-donnees-de-comptes-reservations-et-messages-potentiellement-consultes/</link>
+    <description>GreenGo informe ses clients d’un incident de sécurité ayant permis à un acteur non autorisé d’accéder à un...
+L’article GreenGo victime d’une cyberattaque : données de comptes, réservations et messages consultés est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 10:59:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre la ville de Joigny : 268 795 tentatives d’intrusion en une semaine</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-la-ville-de-joigny-268-795-tentatives-dintrusion-en-une-semaine/</link>
+    <description>La Ville de Joigny et la Communauté de communes du Jovinien, dans l’Yonne, ont fait face à une...
+L’article Cyberattaque contre la ville de Joigny : 268 795 tentatives d’intrusion en une semaine est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 10:34:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/</link>
+    <description>Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 05:39:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Brevo : 138 comptes compromis, une vaste campagne de phishing frappe Trezor et CoinTracking</title>
+    <link>https://www.cyberattaque.org/brevo-cyberattaque-campagne-de-phishing-frappe-trezor-et-cointracking/</link>
+    <description>Brevo, la plateforme française de marketing numérique anciennement connue sous le nom de Sendinblue, a été victime d’un...
+L’article Brevo : 138 comptes compromis, une vaste campagne de phishing frappe Trezor et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 09:13:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</link>
+    <description>Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 03:55:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors</title>
+    <link>https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</link>
+    <description>Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 13:01:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor</title>
+    <link>https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html</link>
+    <description>A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 12:44:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Conti ransomware gang member sentenced to 4 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/</link>
+    <description>A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 02:48:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws</title>
+    <link>https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html</link>
+    <description>PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 12:16:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware</title>
+    <link>https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</link>
+    <description>Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.
+
+The attacks…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 11 Sep 2026 11:49:59 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] La CNIL va contrôler le fisc après la cyberattaque de la DGFiP</title>
     <link>https://www.cyberattaque.org/la-cnil-va-controler-le-fisc-apres-la-cyberattaque-de-la-dgfip/</link>
     <description>La Commission nationale de l’informatique et des libertés (CNIL) va procéder à un contrôle de la Direction générale...
@@ -144,78 +228,6 @@ Early Access apps are apps that haven't been released on the…</description>
     <description>The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through.</description>
     <source>The Record</source>
     <pubDate>Thu, 10 Sep 2026 12:44:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html</link>
-    <description>Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 17:15:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances</title>
-    <link>https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html</link>
-    <description>A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 17:11:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks</title>
-    <link>https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html</link>
-    <description>The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a&amp;nbsp;report published on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 17:03:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says September updates fix mouse settings reset issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/</link>
-    <description>Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 07:14:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline</title>
-    <link>https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 16:06:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 05:10:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft fixes bug that wiped Windows desktop settings</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/</link>
-    <description>Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 04:08:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example "sk-1234" Admin Key</title>
-    <link>https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html</link>
-    <description>Nearly one in ten of the internet-facing LiteLLM servers that&amp;nbsp;Wiz Research&amp;nbsp;scanned in February accepted&amp;nbsp;sk-1234, the example admin key in LiteLLM's own setup guide.
-
-LiteLLM is an open-source AI gateway,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 12:42:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6</title>
-    <link>https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html</link>
-    <description>Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 10 Sep 2026 12:34:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor warns users of email provider breach, phishing attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/</link>
-    <description>Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 02:56:33 -0400</pubDate>
   </item>
 </channel>
 </rss>
