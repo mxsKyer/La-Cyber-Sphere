@@ -208,19 +208,5 @@ LiteLLM is an open-source AI gateway,…</description>
     <source>The Record</source>
     <pubDate>Thu, 10 Sep 2026 04:00:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-67277 — MikroTik RouterOS Missing Authentication for Critical Function Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-67277</link>
-    <description>MikroTik RouterOS contains a missing authenticaion for critical function vulnerability which allows kernel memory disclosure and denial of service in the btest service.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-86060 — MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86060</link>
-    <description>MikroTik RouterOS contains an improper neutralization of argument delimiters in a command vulnerability which allows an attacked to change the trusted RouterOS policy mask, leading to privilege escalation.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-10</pubDate>
-  </item>
 </channel>
 </rss>
