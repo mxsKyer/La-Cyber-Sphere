@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers abused Claude to extract secrets from 1.8M Android apps</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</link>
+    <description>Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 11 Sep 2026 16:19:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device</title>
+    <link>https://therecord.media/florida-shiny-hunters-motor-vehicle</link>
+    <description>The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 11 Sep 2026 20:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NaturaBuy victime d’une cyberattaque, un risque pour les détenteurs d’armes</title>
+    <link>https://www.cyberattaque.org/naturabuy-victime-dune-cyberattaque-un-risque-pour-les-detenteurs-darmes/</link>
+    <description>NaturaBuy informe ses utilisateurs avoir été victime d’une cyberattaque ciblée le 10 septembre 2026. L’attaque a permis à...
+L’article NaturaBuy victime d’une cyberattaque, un risque pour les détenteurs d’armes est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 11 Sep 2026 19:32:55 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Florida confirms DMV database breached via stolen police account</title>
     <link>https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</link>
     <description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police…</description>
@@ -220,6 +242,13 @@ L’article Aqualter : 187 000 numéros de téléphone exposés après une cyber
     <pubDate>Fri, 11 Sep 2026 03:59:26 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-85706 — GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-85706</link>
+    <description>GitLab Community Edition and Enterprise Edition contains a path traversal vulnerability that allows an unauthenticated user to read arbitrary files due to an improper path confinement and missing authentication enforcement in the repository commits API.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-11</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-42018 — JFrog Artifactory Improper Authentication Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-42018</link>
     <description>JFrog Artifactory contains an improper authentication vulnerability that could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.</description>
@@ -239,27 +268,6 @@ L’article Aqualter : 187 000 numéros de téléphone exposés après une cyber
     <description>ConnectWise ScreenConnect contains both an improper privilege management and missing authorization vulnerability that may allow an attacker to file transfer and execution through an active remote sessions without authorization or host confirmation.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-11</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Android malware encrypts files, steals data, and harasses victims</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/</link>
-    <description>A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 17:40:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023</title>
-    <link>https://therecord.media/treasury-urges-banks-report-cyber-scams</link>
-    <description>As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 10 Sep 2026 21:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] September Windows Server updates break Remote Desktop Services</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/</link>
-    <description>Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 10 Sep 2026 16:34:37 -0400</pubDate>
   </item>
 </channel>
 </rss>
