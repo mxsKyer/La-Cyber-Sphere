@@ -51,27 +51,5 @@ L’article GitLab : une faille critique notée 10/10 menace des milliers d’in
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 12 Sep 2026 04:58:09 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Hackers abused Claude to extract secrets from 1.8M Android apps</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</link>
-    <description>Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 16:19:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device</title>
-    <link>https://therecord.media/florida-shiny-hunters-motor-vehicle</link>
-    <description>The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 11 Sep 2026 20:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NaturaBuy victime d’une cyberattaque, un risque pour les détenteurs d’armes</title>
-    <link>https://www.cyberattaque.org/naturabuy-victime-dune-cyberattaque-un-risque-pour-les-detenteurs-darmes/</link>
-    <description>NaturaBuy informe ses utilisateurs avoir été victime d’une cyberattaque ciblée le 10 septembre 2026. L’attaque a permis à...
-L’article NaturaBuy victime d’une cyberattaque, un risque pour les détenteurs d’armes est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 19:32:55 +0000</pubDate>
-  </item>
 </channel>
 </rss>
