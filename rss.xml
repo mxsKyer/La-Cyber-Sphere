@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] When the Whole Company Adopts AI: What It Does to Your SOC</title>
+    <link>https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html</link>
+    <description>Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 12 Sep 2026 15:54:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers</title>
     <link>https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html</link>
     <description>The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.
@@ -136,50 +143,6 @@ The operation has…</description>
     <description>Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude…</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 11 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic caught Russia-linked spies using Claude in hacking operations</title>
-    <link>https://therecord.media/anthropic-russia-hackers-claude</link>
-    <description>Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 11 Sep 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukrainian hacker gets four years in US prison over Conti ransomware attacks</title>
-    <link>https://therecord.media/conti-ransomware-ukraine-hacker</link>
-    <description>A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Your Critical Vulnerabilities Might Not Be Your Biggest Risk</title>
-    <link>https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html</link>
-    <description>Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab urges users to patch max severity path traversal flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</link>
-    <description>GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 07:15:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GreenGo victime d’une cyberattaque : données de comptes, réservations et messages consultés</title>
-    <link>https://www.cyberattaque.org/greengo-victime-dune-cyberattaque-donnees-de-comptes-reservations-et-messages-potentiellement-consultes/</link>
-    <description>GreenGo informe ses clients d’un incident de sécurité ayant permis à un acteur non autorisé d’accéder à un...
-L’article GreenGo victime d’une cyberattaque : données de comptes, réservations et messages consultés est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 10:59:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre la ville de Joigny : 268 795 tentatives d’intrusion en une semaine</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-la-ville-de-joigny-268-795-tentatives-dintrusion-en-une-semaine/</link>
-    <description>La Ville de Joigny et la Communauté de communes du Jovinien, dans l’Yonne, ont fait face à une...
-L’article Cyberattaque contre la ville de Joigny : 268 795 tentatives d’intrusion en une semaine est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 10:34:03 +0000</pubDate>
   </item>
 </channel>
 </rss>
