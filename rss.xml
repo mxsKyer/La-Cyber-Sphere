@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers</title>
+    <link>https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html</link>
+    <description>The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.
+
+On May 12,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 12 Sep 2026 14:37:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] GitLab : une faille critique notée 10/10 menace des milliers d’instances</title>
     <link>https://www.cyberattaque.org/faille-gitlab-cve-2026-85706/</link>
     <description>GitLab a publié en urgence plusieurs correctifs après la découverte d’une vulnérabilité critique permettant à un attaquant non...
@@ -171,67 +180,6 @@ L’article GreenGo victime d’une cyberattaque : données de comptes, réserva
 L’article Cyberattaque contre la ville de Joigny : 268 795 tentatives d’intrusion en une semaine est apparu en premier…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 11 Sep 2026 10:34:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/</link>
-    <description>Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 05:39:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Brevo : 138 comptes compromis, une vaste campagne de phishing frappe Trezor et CoinTracking</title>
-    <link>https://www.cyberattaque.org/brevo-cyberattaque-campagne-de-phishing-frappe-trezor-et-cointracking/</link>
-    <description>Brevo, la plateforme française de marketing numérique anciennement connue sous le nom de Sendinblue, a été victime d’un...
-L’article Brevo : 138 comptes compromis, une vaste campagne de phishing frappe Trezor et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 09:13:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</link>
-    <description>Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 03:55:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors</title>
-    <link>https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</link>
-    <description>Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 13:01:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor</title>
-    <link>https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html</link>
-    <description>A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 12:44:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Conti ransomware gang member sentenced to 4 years in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/</link>
-    <description>A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 02:48:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws</title>
-    <link>https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html</link>
-    <description>PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 12:16:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware</title>
-    <link>https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html</link>
-    <description>Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities.
-
-The attacks…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 11:49:59 +0530</pubDate>
   </item>
 </channel>
 </rss>
