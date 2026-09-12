@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Ekolis visé par une cyberattaque les données de 20 000 personnes exposées</title>
+    <link>https://www.cyberattaque.org/ekolis-vise-par-une-cyberattaque-les-donnees-de-20-000-personnes-exposees/</link>
+    <description>Une importante fuite de données vise Ekolis, entreprise française spécialisée dans la télématique et les solutions connectées pour...
+L’article Ekolis visé par une cyberattaque les données de 20 000 personnes exposées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 12 Sep 2026 14:50:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent</title>
+    <link>https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/</link>
+    <description>The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 12 Sep 2026 10:14:32 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] When the Whole Company Adopts AI: What It Does to Your SOC</title>
     <link>https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html</link>
     <description>Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks…</description>
@@ -79,70 +94,6 @@ L’article 2,2 millions de lignes et 50 000 digicodes liées à Citya en fuite 
     <description>Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from…</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 11 Sep 2026 13:26:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Boulanger touché par une revendication de cyberattaque impliquant 132 000 dossiers SAV</title>
-    <link>https://www.cyberattaque.org/boulanger-touche-par-une-cyberattaque-avec-132-000-dossiers-sav-revendiques-en-fuite/</link>
-    <description>Une base attribuée à Boulanger a été mise en ligne le 11 septembre 2026 par le hacker fuie...
-L’article Boulanger touché par une revendication de cyberattaque impliquant 132 000 dossiers SAV est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 16:55:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure</title>
-    <link>https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html</link>
-    <description>GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.
-
-The vulnerability in question is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 22:00:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Artifactory flaws chained in attacks deploying backdoor malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</link>
-    <description>Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 12:29:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks</title>
-    <link>https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</link>
-    <description>Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 21:45:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Salt victime d’une cyberattaque, des données clients exposées</title>
-    <link>https://www.cyberattaque.org/salt-victime-dune-cyberattaque-des-donnees-clients-exposees/</link>
-    <description>L’opérateur suisse Salt informe ses clients d’un incident de sécurité susceptible d’avoir exposé plusieurs catégories de données personnelles....
-L’article Salt victime d’une cyberattaque, des données clients exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 11 Sep 2026 15:04:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude Used to Automate Exploitation and Data Theft Across Multiple Victims</title>
-    <link>https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html</link>
-    <description>Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 19:59:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection</title>
-    <link>https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html</link>
-    <description>Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.
-
-The operation has…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 11 Sep 2026 19:40:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/</link>
-    <description>Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 11 Sep 2026 10:01:11 -0400</pubDate>
   </item>
 </channel>
 </rss>
