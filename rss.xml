@@ -34,22 +34,5 @@ L’article Ekolis visé par une cyberattaque les données de 20 000 personnes e
     <source>The Hacker News</source>
     <pubDate>Sat, 12 Sep 2026 15:54:44 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers</title>
-    <link>https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html</link>
-    <description>The "major malicious attack" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.
-
-On May 12,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 12 Sep 2026 14:37:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] GitLab : une faille critique notée 10/10 menace des milliers d’instances</title>
-    <link>https://www.cyberattaque.org/faille-gitlab-cve-2026-85706/</link>
-    <description>GitLab a publié en urgence plusieurs correctifs après la découverte d’une vulnérabilité critique permettant à un attaquant non...
-L’article GitLab : une faille critique notée 10/10 menace des milliers d’instances est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 12 Sep 2026 04:58:09 +0000</pubDate>
-  </item>
 </channel>
 </rss>
