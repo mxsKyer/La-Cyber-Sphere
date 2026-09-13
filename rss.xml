@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Sushi&amp;Cie victime d’une cyberattaque plus de 6 000 clients en fuite</title>
+    <link>https://www.cyberattaque.org/sushicie-victime-dune-cyberattaque-plus-de-6-000-clients-en-fuite/</link>
+    <description>Sushi&amp;#38;Cie, restaurant japonais installé à Houdan dans les Yvelines, est visé par une fuite de données revendiquée par...
+L’article Sushi&amp;#038;Cie victime d’une cyberattaque plus de 6 000 clients en fuite est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 13 Sep 2026 15:15:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers exploit Tencent app flaw to deploy GrayRabbit malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/</link>
+    <description>Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 13 Sep 2026 10:26:32 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cybercombattante de Johanna Brousse : la cyberisation du crime organisé</title>
     <link>https://www.cyberattaque.org/cybercombattante-de-johanna-brousse-la-cyberisation-du-crime-organise/</link>
     <description>Nous faisons probablement encore une erreur lorsque nous parlons de la cybercriminalité comme d’une criminalité à part. C’est...
@@ -27,28 +42,6 @@ L’article Groupe MGEL visé par une cyberattaque : 450 000 IBAN et 38 millions
     <description>Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 13 Sep 2026 15:41:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
-    <link>https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 12 Sep 2026 21:24:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Ekolis visé par une cyberattaque les données de 20 000 personnes exposées</title>
-    <link>https://www.cyberattaque.org/ekolis-vise-par-une-cyberattaque-les-donnees-de-20-000-personnes-exposees/</link>
-    <description>Une importante fuite de données vise Ekolis, entreprise française spécialisée dans la télématique et les solutions connectées pour...
-L’article Ekolis visé par une cyberattaque les données de 20 000 personnes exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 12 Sep 2026 14:50:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent</title>
-    <link>https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/</link>
-    <description>The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 12 Sep 2026 10:14:32 -0400</pubDate>
   </item>
 </channel>
 </rss>
