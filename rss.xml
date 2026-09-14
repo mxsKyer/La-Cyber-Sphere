@@ -6,6 +6,94 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Twitch extension with 30K installs exposes users’ OAuth tokens</title>
+    <link>https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/</link>
+    <description>A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 15:03:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers hijack HBO Max Reddit account to push malware in ClickFix ads</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/</link>
+    <description>Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 14:34:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing</title>
+    <link>https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html</link>
+    <description>Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 22:28:42 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries</title>
+    <link>https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html</link>
+    <description>A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 22:26:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Rosello et Fils : près de 60 Go de données revendiqués par un ransomware</title>
+    <link>https://www.cyberattaque.org/rosello-et-fils-pres-de-60-go-de-donnees-revendique-par-un-ransomware/</link>
+    <description>Rosello et Fils, grossiste français spécialisé dans les fruits et légumes, est revendiqué par le groupe ransomware Eclipse....
+L’article Rosello et Fils : près de 60 Go de données revendiqués par un ransomware est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 14 Sep 2026 16:55:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers target exposed Vite dev servers to steal AWS, Azure secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/</link>
+    <description>A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 12:15:58 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Pro-Ukraine Hacking Cat group deploying new malware against Russian targets</title>
+    <link>https://therecord.media/ukraine-malware-russia-ransomware</link>
+    <description>The pro-Ukraine hacktivist group Hacking Cat has evolved from carrying out website defacements and data leaks to more sophisticated and destructive attacks on Russian targets, researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 14 Sep 2026 16:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hundreds of fake government websites target users in Central Asia</title>
+    <link>https://therecord.media/hundreds-of-fake-gov-websites-central-asia-scam</link>
+    <description>The sites are designed to collect victims’ contact details, which scammers then use to target them through phone or email to steal money, personal information or gain access to their devices.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 14 Sep 2026 16:02:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution</title>
+    <link>https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html</link>
+    <description>WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 21:30:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nature &amp; Découvertes touché par une cyberattaque chez un prestataire</title>
+    <link>https://www.cyberattaque.org/nature-decouvertes-touche-par-une-cyberattaque-chez-un-prestataire/</link>
+    <description>Nature &amp;#038; Découvertes informe certains de ses clients d’un incident de sécurité ayant touché le système informatique de...
+L’article Nature &amp;#038; Découvertes touché par une cyberattaque chez un prestataire est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 14 Sep 2026 15:50:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits</title>
+    <link>https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html</link>
+    <description>AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 20:10:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Why Patch Automation Needs Brakes, Not Just an Accelerator</title>
+    <link>https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/</link>
+    <description>Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
     <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
     <description>Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches…</description>
@@ -107,37 +195,6 @@ L’article Caridro Val de Loire : des centaines de fichiers internes publiés a
     <description>The largest electronic spy agency in the world is reorganizing. And fast.</description>
     <source>The Record</source>
     <pubDate>Sun, 13 Sep 2026 21:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fédération francophone de Gymnastique : 209 000 adhérents exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/federation-francophone-de-gymnastique-209-000-adherents-exposes-apres-une-cyberattaque/</link>
-    <description>Une fuite de données particulièrement sensible vise la Fédération francophone de Gymnastique en Belgique. Un acteur utilisant le...
-L’article Fédération francophone de Gymnastique : 209 000 adhérents exposés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 13 Sep 2026 17:59:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Sushi&amp;Cie victime d’une cyberattaque plus de 6 000 clients en fuite</title>
-    <link>https://www.cyberattaque.org/sushicie-victime-dune-cyberattaque-plus-de-6-000-clients-en-fuite/</link>
-    <description>Sushi&amp;#38;Cie, restaurant japonais installé à Houdan dans les Yvelines, est visé par une fuite de données revendiquée par...
-L’article Sushi&amp;#038;Cie victime d’une cyberattaque plus de 6 000 clients en fuite est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 13 Sep 2026 15:15:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit Tencent app flaw to deploy GrayRabbit malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/</link>
-    <description>Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 13 Sep 2026 10:26:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cybercombattante de Johanna Brousse : la cyberisation du crime organisé</title>
-    <link>https://www.cyberattaque.org/cybercombattante-de-johanna-brousse-la-cyberisation-du-crime-organise/</link>
-    <description>Nous faisons probablement encore une erreur lorsque nous parlons de la cybercriminalité comme d’une criminalité à part. C’est...
-L’article Cybercombattante de Johanna Brousse : la cyberisation du crime organisé est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 13 Sep 2026 14:07:04 +0000</pubDate>
   </item>
 </channel>
 </rss>
