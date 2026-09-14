@@ -6,6 +6,50 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Bouteilles et bocaux : une cyberattaque compromet la boutique en ligne et expose des données clients</title>
+    <link>https://www.cyberattaque.org/bouteilles-et-bocaux-une-cyberattaque-compromet-la-boutique-en-ligne-et-expose-des-donnees-clients/</link>
+    <description>Bouteilles et bocaux informe ses clients avoir été victime d’une cyberattaque visant directement sa boutique en ligne. Des...
+L’article Bouteilles et bocaux : une cyberattaque compromet la boutique en ligne et expose…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 14 Sep 2026 21:09:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft releases emergency Windows updates to fix RDS failures</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/</link>
+    <description>Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 16:52:18 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Familea victime d’une cyberattaque : les portails familles inaccessibles</title>
+    <link>https://www.cyberattaque.org/familea-bruguieres-cyberattaque-les-portails-familles-inaccessibles/</link>
+    <description>La mairie de Bruguières, en Haute-Garonne, annonce que les serveurs utilisés pour son portail famille Familea font actuellement...
+L’article Familea victime d’une cyberattaque : les portails familles inaccessibles est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 14 Sep 2026 20:51:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Japan's Digital Agency says VPN flaw exposed 246,000 personnel records</title>
+    <link>https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/</link>
+    <description>Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 16:36:02 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Homebrew 7.0.0 gets built-in GUI, better security controls</title>
+    <link>https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/</link>
+    <description>Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 15:51:04 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Members of ‘Black Axe’ cybercriminal group extradited from South Africa</title>
+    <link>https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa</link>
+    <description>Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 14 Sep 2026 19:40:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Twitch extension with 30K installs exposes users’ OAuth tokens</title>
     <link>https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/</link>
     <description>A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]</description>
@@ -18,6 +62,22 @@
     <description>Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 14 Sep 2026 14:34:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials</title>
+    <link>https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html</link>
+    <description>An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 23:31:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports</title>
+    <link>https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html</link>
+    <description>A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&amp;nbsp;writeup&amp;nbsp;published on September 12.
+
+In Telegram,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 23:28:16 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing</title>
@@ -190,11 +250,11 @@ L’article Caridro Val de Loire : des centaines de fichiers internes publiés a
     <pubDate>Mon, 14 Sep 2026 03:30:00 +0000</pubDate>
   </item>
   <item>
-    <title>[Faible] Thorough reorganization at NSA will create five 'mission centers,' including cyber and AI</title>
-    <link>https://therecord.media/nsa-reorganization-five-mission-centers</link>
-    <description>The largest electronic spy agency in the world is reorganizing. And fast.</description>
-    <source>The Record</source>
-    <pubDate>Sun, 13 Sep 2026 21:36:00 GMT</pubDate>
+    <title>[Critique] CVE-2026-76461 — Cisco Secure Email Gateway SQL Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76461</link>
+    <description>Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-14</pubDate>
   </item>
 </channel>
 </rss>
