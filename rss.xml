@@ -6,6 +6,86 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
+    <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
+    <description>Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 08:15:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Revolut handed customer data to fraudsters using government email account</title>
+    <link>https://therecord.media/revolut-scam-crypto-impersonation</link>
+    <description>British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] AI Changed the Exposure Problem. Validation Needs to Change With It.</title>
+    <link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link>
+    <description>There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Revolut piégé par de fausses demandes gouvernementales : des passeports transmis à un tiers</title>
+    <link>https://www.cyberattaque.org/revolut-piege-par-de-fausses-demandes-gouvernementales-des-passeports-transmis-a-un-tiers/</link>
+    <description>Revolut confirme avoir transmis des données extrêmement sensibles concernant certains de ses clients à un tiers qui n’était...
+L’article Revolut piégé par de fausses demandes gouvernementales : des passeports transmis à…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 14 Sep 2026 10:28:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: September updates cause RDS failures on Windows Server</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/</link>
+    <description>Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 05:50:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Revolut discloses data breach exposing financial info, passports</title>
+    <link>https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/</link>
+    <description>Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 04:48:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Guide : comment avancer sur le projet de mise en conformité NIS2 avec le référentiel ReCyF</title>
+    <link>https://www.zataz.com/guide-comment-avancer-sur-le-projet-de-mise-en-conformite-nis2-avec-le-referentiel-recyf/</link>
+    <description>Guide : comment avancer sur le projet de mise en conformité NIS2 avec le référentiel ReCyF.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 14 Sep 2026 08:40:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La lutte contre la fraude au document et l’usurpation d’identité</title>
+    <link>https://www.zataz.com/la-lutte-contre-la-fraude-au-document-et-lusurpation-didentite/</link>
+    <description>La dématérialisation accélère les échanges, mais elle oblige aussi les organisations à mieux protéger les documents sensibles. Contrats, justificatifs, notifications ou courriers officiels peuvent être copiés, altérés…</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 14 Sep 2026 08:17:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: September updates break audio on some Windows PCs</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/</link>
+    <description>Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 04:08:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title>
+    <link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link>
+    <description>A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.
+
+The extension, named "Twitch Enhanced Viewer |…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 14 Sep 2026 12:54:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA: Hackers now exploit max severity GitLab flaw in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 14 Sep 2026 03:06:27 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Grand Delta Habitat : 188 000 commandes et des données de locataires en fuite</title>
     <link>https://www.cyberattaque.org/grand-delta-habitat-188-000-commandes-cyberattaque/</link>
     <description>Une importante fuite de données vise Grand Delta Habitat, bailleur social implanté dans le sud-est de la France....
@@ -58,21 +138,6 @@ L’article Sushi&amp;#038;Cie victime d’une cyberattaque plus de 6 000 client
 L’article Cybercombattante de Johanna Brousse : la cyberisation du crime organisé est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 13 Sep 2026 14:07:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Groupe MGEL visé par une cyberattaque : 450 000 IBAN et 38 millions de lignes revendiqués</title>
-    <link>https://www.cyberattaque.org/cyberattaque-groupe-mgel-mutuelle-vitalite-sante/</link>
-    <description>Une fuite de données potentiellement massive vise le Groupe MGEL. Un acteur utilisant le pseudonyme RedStone affirme avoir...
-L’article Groupe MGEL visé par une cyberattaque : 450 000 IBAN et 38 millions de lignes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 13 Sep 2026 11:19:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</title>
-    <link>https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</link>
-    <description>Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 13 Sep 2026 15:41:48 +0530</pubDate>
   </item>
 </channel>
 </rss>
