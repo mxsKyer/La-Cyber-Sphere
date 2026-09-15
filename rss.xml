@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution</title>
+    <link>https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html</link>
+    <description>Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-76461, carries a CVSS…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 11:41:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE</title>
+    <link>https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html</link>
+    <description>A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 11:01:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Bouteilles et bocaux : une cyberattaque compromet la boutique en ligne et expose des données clients</title>
     <link>https://www.cyberattaque.org/bouteilles-et-bocaux-une-cyberattaque-compromet-la-boutique-en-ligne-et-expose-des-donnees-clients/</link>
     <description>Bouteilles et bocaux informe ses clients avoir été victime d’une cyberattaque visant directement sa boutique en ligne. Des...
@@ -232,22 +248,6 @@ The extension, named "Twitch Enhanced Viewer |…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 14 Sep 2026 03:06:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Grand Delta Habitat : 188 000 commandes et des données de locataires en fuite</title>
-    <link>https://www.cyberattaque.org/grand-delta-habitat-188-000-commandes-cyberattaque/</link>
-    <description>Une importante fuite de données vise Grand Delta Habitat, bailleur social implanté dans le sud-est de la France....
-L’article Grand Delta Habitat : 188 000 commandes et des données de locataires en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 14 Sep 2026 04:28:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Caridro Val de Loire : des centaines de fichiers internes publiés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/caridro-val-de-loire-des-centaines-de-fichiers-internes-publies-apres-une-cyberattaque/</link>
-    <description>Caridro Val de Loire est visé par une cyberattaque revendiquée par le groupe cybercriminel Qilin. Contrairement à une...
-L’article Caridro Val de Loire : des centaines de fichiers internes publiés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 14 Sep 2026 03:30:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
