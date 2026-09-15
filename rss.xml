@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] AFPA : près d’un million de dossiers revendiqués après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/afpa-pres-dun-million-de-dossiers-revendiques-apres-une-cyberattaque/</link>
+    <description>Une importante fuite de données est revendiquée contre l’AFPA, l’Agence nationale pour la formation professionnelle des adultes. Un...
+L’article AFPA : près d’un million de dossiers revendiqués après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 21:41:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
+    <link>https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</link>
+    <description>Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 17:37:35 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites</title>
     <link>https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/</link>
     <description>Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden…</description>
