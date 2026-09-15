@@ -249,12 +249,5 @@ L’article Caridro Val de Loire : des centaines de fichiers internes publiés a
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 14 Sep 2026 03:30:00 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-76461 — Cisco Secure Email Gateway SQL Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76461</link>
-    <description>Cisco AsyncOS software for Cisco Secure Email Gateway (SEG) contains a SQL injection vulnerability that could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-14</pubDate>
-  </item>
 </channel>
 </rss>
