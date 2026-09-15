@@ -6,11 +6,57 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites</title>
+    <link>https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/</link>
+    <description>Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 16:34:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Norway announces investigations into telecom Telenor’s work with Myanmar junta</title>
+    <link>https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime</link>
+    <description>Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 15 Sep 2026 20:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens</title>
+    <link>https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html</link>
+    <description>Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
+
+Elastic Security Labs is tracking the activity under the moniker…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 00:24:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Maison du Souvenir de Maillé : vingt ans de travail numérique perdus après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/maison-du-souvenir-de-maille-vingt-ans-de-travail-numerique-perdus-apres-une-cyberattaque/</link>
+    <description>La Maison du Souvenir de Maillé, en Indre-et-Loire, a été victime d’une cyberattaque aux conséquences particulièrement lourdes. Selon...
+L’article Maison du Souvenir de Maillé : vingt ans de travail numérique perdus…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 18:47:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CarteDePeche.fr encore visé par une cyberattaque des données de pêcheurs de 2012 à 2026 diffusées</title>
+    <link>https://www.cyberattaque.org/cartedepeche-fr-encore-vise-par-une-cyberattaque-des-donnees-de-pecheurs-de-2012-a-2026-diffusees/</link>
+    <description>CarteDePeche.fr fait une nouvelle fois l’objet d’une publication de données. Le hacker 4me1 affirme avoir récupéré plusieurs fichiers...
+L’article CarteDePeche.fr encore visé par une cyberattaque des données de pêcheurs…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 17:43:57 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] CenterPoint Energy confirms customer data stolen in cyberattack</title>
     <link>https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/</link>
     <description>CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 15 Sep 2026 12:40:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists</title>
+    <link>https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html</link>
+    <description>Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 21:59:51 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Iranian cyber spies used fake MRI scan results to hack ‘enemy of regime’</title>
@@ -216,80 +262,6 @@ The vulnerability, tracked as CVE-2026-76461, carries a CVSS…</description>
     <description>A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 15 Sep 2026 11:01:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bouteilles et bocaux : une cyberattaque compromet la boutique en ligne et expose des données clients</title>
-    <link>https://www.cyberattaque.org/bouteilles-et-bocaux-une-cyberattaque-compromet-la-boutique-en-ligne-et-expose-des-donnees-clients/</link>
-    <description>Bouteilles et bocaux informe ses clients avoir été victime d’une cyberattaque visant directement sa boutique en ligne. Des...
-L’article Bouteilles et bocaux : une cyberattaque compromet la boutique en ligne et expose…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 14 Sep 2026 21:09:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft releases emergency Windows updates to fix RDS failures</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/</link>
-    <description>Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 16:52:18 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Familea victime d’une cyberattaque : les portails familles inaccessibles</title>
-    <link>https://www.cyberattaque.org/familea-bruguieres-cyberattaque-les-portails-familles-inaccessibles/</link>
-    <description>La mairie de Bruguières, en Haute-Garonne, annonce que les serveurs utilisés pour son portail famille Familea font actuellement...
-L’article Familea victime d’une cyberattaque : les portails familles inaccessibles est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 14 Sep 2026 20:51:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Japan's Digital Agency says VPN flaw exposed 246,000 personnel records</title>
-    <link>https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/</link>
-    <description>Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 16:36:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Homebrew 7.0.0 gets built-in GUI, better security controls</title>
-    <link>https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/</link>
-    <description>Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 15:51:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Members of ‘Black Axe’ cybercriminal group extradited from South Africa</title>
-    <link>https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa</link>
-    <description>Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 14 Sep 2026 19:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Twitch extension with 30K installs exposes users’ OAuth tokens</title>
-    <link>https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/</link>
-    <description>A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 15:03:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers hijack HBO Max Reddit account to push malware in ClickFix ads</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/</link>
-    <description>Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 14:34:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials</title>
-    <link>https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html</link>
-    <description>An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 14 Sep 2026 23:31:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports</title>
-    <link>https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html</link>
-    <description>A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a&amp;nbsp;writeup&amp;nbsp;published on September 12.
-
-In Telegram,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 14 Sep 2026 23:28:16 +0530</pubDate>
   </item>
 </channel>
 </rss>
