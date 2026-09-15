@@ -6,6 +6,100 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CISA: Critical VMware RCE flaw now exploited by ransomware gangs</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds</title>
+    <link>https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html</link>
+    <description>With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 17:22:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point</title>
+    <link>https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html</link>
+    <description>Introduction
+
+Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 16:56:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers</title>
+    <link>https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html</link>
+    <description>Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.
+
+The first is an automated effort aimed at internet-exposed Vite development servers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 16:42:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pendant près de trois ans un malware a pu espionner les cartes bancaires des clients des Presses universitaires de Franche-Comté</title>
+    <link>https://www.cyberattaque.org/pendant-pres-de-trois-ans-un-malware-a-pu-espionner-les-cartes-bancaires-des-clients-des-presses-universitaires-de-franche-comte/</link>
+    <description>La boutique en ligne des Presses universitaires de Franche-Comté (PUFC) a été victime d’une cyberattaque particulièrement discrète. Un...
+L’article Pendant près de trois ans un malware a pu espionner les cartes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 10:51:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] IMO : une cyberattaque met hors ligne une partie du suivi mondial des météores</title>
+    <link>https://www.cyberattaque.org/imo-une-cyberattaque-met-hors-ligne-une-partie-du-suivi-mondial-des-meteores/</link>
+    <description>L’International Meteor Organization (IMO), organisation qui coordonne les observations de météores et de bolides à travers le monde,...
+L’article IMO : une cyberattaque met hors ligne une partie du suivi mondial des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 10:47:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suspected Black Axe gang leaders face cybercrime charges in the US</title>
+    <link>https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/</link>
+    <description>Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 05:50:25 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft confirms KB5002914 Excel update breaks copy and paste</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/</link>
+    <description>Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 04:40:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Papouille France touché par la fuite de son compte BLGCloud avec 75 Go et 240 000 fichiers exposés</title>
+    <link>https://www.cyberattaque.org/papouille-france-touche-par-la-fuite-de-son-compte-blgcloud-avec-75-go-et-240-000-fichiers-exposes/</link>
+    <description>Papouille France est la nouvelle entreprise touchée par la série de fuites liée à BlgCloud. Le hacker ChimeraZ...
+L’article Papouille France touché par la fuite de son compte BLGCloud avec 75 Go et 240 000 fichiers…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 07:33:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco patches Secure Email Gateway zero-day exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/</link>
+    <description>Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 15 Sep 2026 03:31:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Centrale Canine : une cyberattaque expose les données de plus de 122 000 personnes</title>
+    <link>https://www.cyberattaque.org/centrale-canine-une-cyberattaque-expose-les-donnees-de-plus-de-122-000-personnes/</link>
+    <description>Une importante fuite de données vise la Centrale Canine. Le hacker ChimeraZ affirme avoir récupéré puis diffusé une...
+L’article Centrale Canine : une cyberattaque expose les données de plus de 122 000 personnes est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 15 Sep 2026 07:18:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server</title>
+    <link>https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html</link>
+    <description>A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an&amp;nbsp;advisory published on September 14.
+
+On such…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 15 Sep 2026 12:22:16 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution</title>
     <link>https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html</link>
     <description>Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.
@@ -168,86 +262,6 @@ The…</description>
     <description>Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human…</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 14 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
-    <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
-    <description>Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 08:15:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Revolut handed customer data to fraudsters using government email account</title>
-    <link>https://therecord.media/revolut-scam-crypto-impersonation</link>
-    <description>British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] AI Changed the Exposure Problem. Validation Needs to Change With It.</title>
-    <link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link>
-    <description>There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 14 Sep 2026 17:28:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Revolut piégé par de fausses demandes gouvernementales : des passeports transmis à un tiers</title>
-    <link>https://www.cyberattaque.org/revolut-piege-par-de-fausses-demandes-gouvernementales-des-passeports-transmis-a-un-tiers/</link>
-    <description>Revolut confirme avoir transmis des données extrêmement sensibles concernant certains de ses clients à un tiers qui n’était...
-L’article Revolut piégé par de fausses demandes gouvernementales : des passeports transmis à…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 14 Sep 2026 10:28:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: September updates cause RDS failures on Windows Server</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/</link>
-    <description>Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 05:50:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Revolut discloses data breach exposing financial info, passports</title>
-    <link>https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/</link>
-    <description>Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 04:48:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Guide : comment avancer sur le projet de mise en conformité NIS2 avec le référentiel ReCyF</title>
-    <link>https://www.zataz.com/guide-comment-avancer-sur-le-projet-de-mise-en-conformite-nis2-avec-le-referentiel-recyf/</link>
-    <description>Guide : comment avancer sur le projet de mise en conformité NIS2 avec le référentiel ReCyF.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 14 Sep 2026 08:40:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La lutte contre la fraude au document et l’usurpation d’identité</title>
-    <link>https://www.zataz.com/la-lutte-contre-la-fraude-au-document-et-lusurpation-didentite/</link>
-    <description>La dématérialisation accélère les échanges, mais elle oblige aussi les organisations à mieux protéger les documents sensibles. Contrats, justificatifs, notifications ou courriers officiels peuvent être copiés, altérés…</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 14 Sep 2026 08:17:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: September updates break audio on some Windows PCs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/</link>
-    <description>Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 04:08:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title>
-    <link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link>
-    <description>A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.
-
-The extension, named "Twitch Enhanced Viewer |…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 14 Sep 2026 12:54:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA: Hackers now exploit max severity GitLab flaw in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 14 Sep 2026 03:06:27 -0400</pubDate>
   </item>
 </channel>
 </rss>
