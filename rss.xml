@@ -6,6 +6,59 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] House passes bill to equip local law enforcement with scam-fighting tools</title>
+    <link>https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams</link>
+    <description>The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 18:28:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Data Broker Radaris Loses Domains in Privacy Fight</title>
+    <link>https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</link>
+    <description>The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 16 Sep 2026 18:14:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Spain's data agency gets first report of AI-powered data breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/</link>
+    <description>The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 13:26:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html</link>
+    <description>A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.
+
+The vulnerability in question is CVE-2026-89026 (CVSS…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 21:20:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] International Meteor Organization says cyberattack dealt ‘critical blow’ to website</title>
+    <link>https://therecord.media/international-meteor-organization-cyberattack</link>
+    <description>A website used around the world for reporting meteors faces weeks of downtime as the organization moves away from systems that were hacked recently.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 15:47:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers</title>
+    <link>https://thehackernews.com/2026/09/three-threat-groups-target-russian.html</link>
+    <description>Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.
+
+The cybersecurity vendor said it has…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 20:57:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude</title>
+    <link>https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html</link>
+    <description>Security researchers at&amp;nbsp;Forever Security&amp;nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 20:06:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Three Ukrainians to face charges for alleged hack of 610,000 Roblox accounts</title>
     <link>https://therecord.media/ukraine-roblox-hacker-arrested</link>
     <description>Three Ukrainians are set to stand trial for allegedly stealing access to more than 610,000 Roblox accounts and selling them to buyers in Russia,  authorities said.</description>
@@ -152,6 +205,13 @@ The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of
     <pubDate>Wed, 16 Sep 2026 10:48:06 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76460</link>
+    <description>Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-16</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-58704 — Google Pixel Improper Authorization Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58704</link>
     <description>Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.</description>
@@ -203,66 +263,6 @@ Elastic Security Labs is tracking the activity under the moniker…</description
 L’article Maison du Souvenir de Maillé : vingt ans de travail numérique perdus…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 15 Sep 2026 18:47:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CarteDePeche.fr encore visé par une cyberattaque des données de pêcheurs de 2012 à 2026 diffusées</title>
-    <link>https://www.cyberattaque.org/cartedepeche-fr-encore-vise-par-une-cyberattaque-des-donnees-de-pecheurs-de-2012-a-2026-diffusees/</link>
-    <description>CarteDePeche.fr fait une nouvelle fois l’objet d’une publication de données. Le hacker 4me1 affirme avoir récupéré plusieurs fichiers...
-L’article CarteDePeche.fr encore visé par une cyberattaque des données de pêcheurs…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 17:43:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CenterPoint Energy confirms customer data stolen in cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/</link>
-    <description>CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 12:40:14 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists</title>
-    <link>https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html</link>
-    <description>Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 15 Sep 2026 21:59:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian cyber spies used fake MRI scan results to hack ‘enemy of regime’</title>
-    <link>https://therecord.media/iran-cyber-spies-use-fake-mri-scans-as-lure</link>
-    <description>According to the United Kingdom’s National Cyber Security Centre (NCSC), Iran has used this and similar cyber activity to “support the repression of individuals who are seen as a threat to the regime, such as…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 16:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Point Vision : une cyberattaque expose des numéros de sécurité sociale et des données de patients</title>
-    <link>https://www.cyberattaque.org/point-vision-une-cyberattaque-expose-des-numeros-de-securite-sociale-et-des-donnees-de-patients/</link>
-    <description>Point Vision informe certains de ses patients d’une violation de données survenue chez un prestataire utilisé pour la...
-L’article Point Vision : une cyberattaque expose des numéros de sécurité sociale et des données de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 16:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BambooToken Malware Uses MQTT to Control Windows and Linux Systems</title>
-    <link>https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html</link>
-    <description>Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 15 Sep 2026 20:53:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Zelensky appoints former police chief to lead Ukraine’s cyber coordination center</title>
-    <link>https://therecord.media/ukraine-cyber-coordination-center-ihor-klymenko</link>
-    <description>Ihor Klymenko, who has experience in law enforcement and as interior minister, will run Ukraine's National Cybersecurity Coordination Center.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 15:09:23 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BambooToken malware controls Windows and Linux systems via MQTT</title>
-    <link>https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/</link>
-    <description>A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 11:00:00 -0400</pubDate>
   </item>
 </channel>
 </rss>
