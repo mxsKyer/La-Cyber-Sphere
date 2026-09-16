@@ -6,6 +6,35 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Windows 11 KB5124008 update breaks domain trust for some users</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/</link>
+    <description>Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 16:39:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Iranian hackers use CHOSEN BRICK Windows malware to spy on targets</title>
+    <link>https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/</link>
+    <description>Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 16:24:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CrowdSec : son code source en fuite après la compromission d’une clé API</title>
+    <link>https://www.cyberattaque.org/crowdsec-son-code-source-en-fuite-apres-la-compromission-dune-cle-api/</link>
+    <description>CrowdSec, éditeur d’une solution de cybersécurité open source, fait à son tour l’objet d’une revendication de compromission. Un...
+L’article CrowdSec : son code source en fuite après la compromission d’une clé API est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 16 Sep 2026 20:13:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Malware bypasses browser checks to force install Chrome, Edge extensions</title>
+    <link>https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/</link>
+    <description>A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 14:50:53 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] House passes bill to equip local law enforcement with scam-fighting tools</title>
     <link>https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams</link>
     <description>The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a…</description>
@@ -205,6 +234,13 @@ The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of
     <pubDate>Wed, 16 Sep 2026 10:48:06 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-87886 — Acronis Backup Incorrect Default Permissions Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-87886</link>
+    <description>Acronis Backup plugin for cPanel &amp; WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-16</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76460</link>
     <description>Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.</description>
@@ -217,52 +253,6 @@ The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of
     <description>Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-16</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] AFPA : près d’un million de dossiers revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/afpa-pres-dun-million-de-dossiers-revendiques-apres-une-cyberattaque/</link>
-    <description>Une importante fuite de données est revendiquée contre l’AFPA, l’Agence nationale pour la formation professionnelle des adultes. Un...
-L’article AFPA : près d’un million de dossiers revendiqués après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 21:41:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
-    <link>https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</link>
-    <description>Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 17:37:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites</title>
-    <link>https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/</link>
-    <description>Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 16:34:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Norway announces investigations into telecom Telenor’s work with Myanmar junta</title>
-    <link>https://therecord.media/norway-investigations-telenor-telecom-myanmar-regime</link>
-    <description>Oslo-based Telenor potentially enabled crimes against humanity and violated sanctions in its dealings with the military regime that took over Myanmar in 2021, Norwegian authorities said.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 20:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens</title>
-    <link>https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html</link>
-    <description>Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.
-
-Elastic Security Labs is tracking the activity under the moniker…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 00:24:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Maison du Souvenir de Maillé : vingt ans de travail numérique perdus après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/maison-du-souvenir-de-maille-vingt-ans-de-travail-numerique-perdus-apres-une-cyberattaque/</link>
-    <description>La Maison du Souvenir de Maillé, en Indre-et-Loire, a été victime d’une cyberattaque aux conséquences particulièrement lourdes. Selon...
-L’article Maison du Souvenir de Maillé : vingt ans de travail numérique perdus…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 18:47:45 +0000</pubDate>
   </item>
 </channel>
 </rss>
