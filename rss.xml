@@ -6,6 +6,120 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Three Ukrainians to face charges for alleged hack of 610,000 Roblox accounts</title>
+    <link>https://therecord.media/ukraine-roblox-hacker-arrested</link>
+    <description>Three Ukrainians are set to stand trial for allegedly stealing access to more than 610,000 Roblox accounts and selling them to buyers in Russia,  authorities said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 14:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] The true cost of a ransomware attack, with and without BCDR</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/</link>
+    <description>The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Propertips by iad visé par une cyberattaque : 413 000 clients et conseillers en fuite</title>
+    <link>https://www.cyberattaque.org/propertips-iad-cyberattaque-nosrezo/</link>
+    <description>Une importante fuite de données vise Propertips by iad, anciennement connu sous le nom NosRezo. Le hacker ChimeraZ...
+L’article Propertips by iad visé par une cyberattaque : 413 000 clients et conseillers en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 16 Sep 2026 13:56:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Flock camera use by internal affairs unit puts DC police at odds with officers’ union</title>
+    <link>https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers</link>
+    <description>Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 13:41:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories</title>
+    <link>https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html</link>
+    <description>Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&amp;nbsp;Shai-Hulud&amp;nbsp;across about 100 internal code repositories.
+
+Before the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 19:07:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix</title>
+    <link>https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html</link>
+    <description>Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.
+
+The attack needs code already running on the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 18:44:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] EU chief wants joint response to cyberattacks, sabotage</title>
+    <link>https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks</link>
+    <description>Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were “mounting on our soil,” pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 13:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ukraine moves to crack down on scam call centers after corruption scandal</title>
+    <link>https://therecord.media/ukraine-call-center-scam-crackdown</link>
+    <description>Ukraine’s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 12:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft says Copilot buttons still missing in classic Outlook</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/</link>
+    <description>Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Webinar: What happens in the first hours of a Google Workspace breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/</link>
+    <description>The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 08:11:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security</title>
+    <link>https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</link>
+    <description>N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 17:28:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation</title>
+    <link>https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html</link>
+    <description>Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.
+
+The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 16:45:58 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Threat Intelligence Alone Won't Close the Exploitation Gap</title>
+    <link>https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html</link>
+    <description>A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 16:45:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical ScreenConnect flaw now actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/</link>
+    <description>Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 07:14:28 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks</title>
+    <link>https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html</link>
+    <description>Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-87886 (CVSS score:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 16 Sep 2026 16:38:54 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Windows Server 2022 reaches end of mainstream support next month</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/</link>
     <description>Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]</description>
@@ -36,6 +150,13 @@
 The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 16 Sep 2026 10:48:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-58704 — Google Pixel Improper Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58704</link>
+    <description>Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-16</pubDate>
   </item>
   <item>
     <title>[Élevé] AFPA : près d’un million de dossiers revendiqués après une cyberattaque</title>
@@ -142,118 +263,6 @@ The…</description>
     <description>A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 15 Sep 2026 11:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers target WordPress sites via third-party WooCommerce plugin</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/</link>
-    <description>Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 10:45:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Electric and gas utility CenterPoint Energy warns of data breach after dark web post</title>
-    <link>https://therecord.media/centerpoint-energy-data-breach</link>
-    <description>Houston-based CenterPoint Energy notified federal regulators about an incident that exposed some customer data on the dark web.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 14:22:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] What Zero-Day Response Should Be in the Post-Mythos Era</title>
-    <link>https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/</link>
-    <description>AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 09:45:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Welyb (AGIRIS) : une faille expose les données de clients de cabinets comptables</title>
-    <link>https://www.cyberattaque.org/cyberattaque-welyb-agiris-une-faille-expose-les-donnees-de-clients-de-cabinets-comptables/</link>
-    <description>Un incident de sécurité lié à Welyb et au Portail AGIRIS CONNECT a entraîné l’exposition de données appartenant...
-L’article Welyb (AGIRIS) : une faille expose les données de clients de cabinets comptables est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 13:03:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] China spy chief points at US AI models in cyber threat warning</title>
-    <link>https://therecord.media/china-spy-chief-warns-of-us-ai-models</link>
-    <description>China's spy chief identified Anthropic’s Claude Mythos and OpenAI’s GPT-5.5-Cyber as signs of what he called a “disruptive upgrade” in cyber capabilities, increasing the speed and potential weaponization of…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 12:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Manhattan DA takes down 12 AI deepfake porn sites</title>
-    <link>https://therecord.media/manhattan-da-takes-down-12-ai-deepfake-porn-sites</link>
-    <description>Manhattan District Attorney Alvin Bragg held a press conference on Monday touting the takedown of the sites, which hosted AI-generated videos of more than 1,200 people. The sites allowed users to use the faces and…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 15 Sep 2026 12:42:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: Critical VMware RCE flaw now exploited by ransomware gangs</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian cyber targeting of dissidents, activists and journalists</title>
-    <link>https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists</link>
-    <description>Advisory on CHOSEN BRICK malware, including technical analysis and advice to help individuals and organisations protect themselves.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists</title>
-    <link>https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists</link>
-    <description>UK and allies provide advice to help organisations and individuals at risk detect and counter the threat from CHOSEN BRICK malware.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds</title>
-    <link>https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html</link>
-    <description>With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 15 Sep 2026 17:22:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point</title>
-    <link>https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html</link>
-    <description>Introduction
-
-Security teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 15 Sep 2026 16:56:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers</title>
-    <link>https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html</link>
-    <description>Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.
-
-The first is an automated effort aimed at internet-exposed Vite development servers…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 15 Sep 2026 16:42:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pendant près de trois ans un malware a pu espionner les cartes bancaires des clients des Presses universitaires de Franche-Comté</title>
-    <link>https://www.cyberattaque.org/pendant-pres-de-trois-ans-un-malware-a-pu-espionner-les-cartes-bancaires-des-clients-des-presses-universitaires-de-franche-comte/</link>
-    <description>La boutique en ligne des Presses universitaires de Franche-Comté (PUFC) a été victime d’une cyberattaque particulièrement discrète. Un...
-L’article Pendant près de trois ans un malware a pu espionner les cartes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 10:51:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] IMO : une cyberattaque met hors ligne une partie du suivi mondial des météores</title>
-    <link>https://www.cyberattaque.org/imo-une-cyberattaque-met-hors-ligne-une-partie-du-suivi-mondial-des-meteores/</link>
-    <description>L’International Meteor Organization (IMO), organisation qui coordonne les observations de météores et de bolides à travers le monde,...
-L’article IMO : une cyberattaque met hors ligne une partie du suivi mondial des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 15 Sep 2026 10:47:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Suspected Black Axe gang leaders face cybercrime charges in the US</title>
-    <link>https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/</link>
-    <description>Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 15 Sep 2026 05:50:25 -0400</pubDate>
   </item>
 </channel>
 </rss>
