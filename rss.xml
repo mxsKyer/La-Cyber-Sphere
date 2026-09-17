@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Le code source de Mistral AI revendiqué en fuite après une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/le-code-source-de-mistral-ai-revendique-en-fuite-apres-une-nouvelle-cyberattaque/</link>
+    <description>Mistral AI fait l’objet d’une nouvelle revendication de compromission. Un hacker utilisant le pseudonyme mrwho affirme avoir récupéré...
+L’article Le code source de Mistral AI revendiqué en fuite après une nouvelle…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 17 Sep 2026 05:44:05 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Anthropic wants Claude to analyze your bank account and financial data</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/</link>
     <description>Anthropic is testing a new personal finance feature called "Claude Money" that will allow you to connect your bank accounts directly to Claude and "understand your money." [...]</description>
@@ -235,24 +243,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score:…</description>
     <description>Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 16 Sep 2026 03:00:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html</link>
-    <description>Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.
-
-"This vulnerability can be leveraged by unauthenticated…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 11:18:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens</title>
-    <link>https://thehackernews.com/2026/09/active-exploitation-attempts-target.html</link>
-    <description>A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.
-
-The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 10:48:06 +0530</pubDate>
   </item>
 </channel>
 </rss>
