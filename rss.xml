@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] New RatHat Android malware uses AI to automate device control</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/</link>
+    <description>A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 17:50:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] European Commission set to push social media restrictions, safety requirements into law</title>
+    <link>https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law</link>
+    <description>The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 17 Sep 2026 20:36:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI details more cases of AI agents taking unauthorized actions</title>
     <link>https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/</link>
     <description>OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…</description>
@@ -208,35 +222,6 @@ The domains…</description>
     <description>Anthropic is testing a new personal finance feature called "Claude Money" that will allow you to connect your bank accounts directly to Claude and "understand your money." [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 16 Sep 2026 20:35:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Key lawmaker suggests action on AI safety legislation will wait until 2027</title>
-    <link>https://therecord.media/frontier-act-ai-bill-house-brett-guthrie</link>
-    <description>“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 21:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5124008 update breaks domain trust for some users</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/</link>
-    <description>Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 16:39:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian hackers use CHOSEN BRICK Windows malware to spy on targets</title>
-    <link>https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/</link>
-    <description>Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 16:24:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CrowdSec : son code source en fuite après la compromission d’une clé API</title>
-    <link>https://www.cyberattaque.org/crowdsec-son-code-source-en-fuite-apres-la-compromission-dune-cle-api/</link>
-    <description>CrowdSec, éditeur d’une solution de cybersécurité open source, fait à son tour l’objet d’une revendication de compromission. Un...
-L’article CrowdSec : son code source en fuite après la compromission d’une clé API est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 16 Sep 2026 20:13:02 +0000</pubDate>
   </item>
 </channel>
 </rss>
