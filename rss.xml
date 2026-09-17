@@ -6,6 +6,120 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] China’s FamousSparrow hackers target Latin America with new backdoor</title>
+    <link>https://therecord.media/china-hackers-latin-america-espionage</link>
+    <description>Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”</description>
+    <source>The Record</source>
+    <pubDate>Thu, 17 Sep 2026 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données sensibles</title>
+    <link>https://www.cyberattaque.org/pays-de-laigle-une-cyberattaque-contre-les-messageries-fait-craindre-une-fuite-de-donnees-sensibles/</link>
+    <description>La Communauté de communes des Pays de L’Aigle, son Centre intercommunal d’action sociale (CIAS) et son office de...
+L’article Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 17 Sep 2026 15:19:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] What Recent AI-Powered Attacks Mean for Your Identity Security</title>
+    <link>https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/</link>
+    <description>AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers claim breach of Russian election systems days before parliamentary vote</title>
+    <link>https://therecord.media/russia-election-hackers-breach</link>
+    <description>An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 17 Sep 2026 13:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Congress eyes new support for Cyber Command after recent suicide deaths</title>
+    <link>https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths</link>
+    <description>Congressional sources say they view the deaths of U.S. Cyber Command personnel as an inflection point, especially as the Pentagon’s appetite for cyber capabilities grows following successful contributions to…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 17 Sep 2026 13:32:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in October</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/</link>
+    <description>Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 09:09:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Greffe du Tribunal de Paris : des adresses privées et données familiales de juges en fuite</title>
+    <link>https://www.cyberattaque.org/greffe-du-tribunal-de-paris-des-adresses-privees-et-donnees-familiales-de-juges-en-fuite/</link>
+    <description>Une fuite de données particulièrement sensible vise le Greffe du Tribunal des Activités Économiques de Paris. Le hacker...
+L’article Greffe du Tribunal de Paris : des adresses privées et données familiales de juges en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 17 Sep 2026 12:48:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Zenfirst victime d’une cyberattaque : des milliers de données de facturation exposées</title>
+    <link>https://www.cyberattaque.org/zenfirst-victime-dune-cyberattaque-des-milliers-de-donnees-de-facturation-exposees/</link>
+    <description>Zenfirst, logiciel français de gestion financière destiné aux entreprises et indépendants, fait l’objet d’une importante fuite de données...
+L’article Zenfirst victime d’une cyberattaque : des milliers de données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 17 Sep 2026 12:45:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone</title>
+    <link>https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html</link>
+    <description>Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&amp;nbsp;advisory&amp;nbsp;on Wednesday.
+
+An attacker who controls a malicious zone…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 18:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Israeli contractor BlackCore trained Angolan officials in online influence operations</title>
+    <link>https://therecord.media/angola-israel-influence-operations-blackcore</link>
+    <description>An Israeli influence-for-hire company trained Angolan government officials to run online influence operations, including by creating fake social media personas and media outlets,  researchers found.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 17 Sep 2026 12:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</title>
+    <link>https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</link>
+    <description>A new CVE drops. Your scanner finds it. The severity score looks ugly.
+
+But that still does not answer the question that matters: Can it actually be exploited in your environment?
+
+Mythos-class AI is compressing the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 17:20:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] US takes down NightmareStresser DDoS-for-hire platform</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/</link>
+    <description>The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 07:33:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISO's Expert Guide to Agentic Pentesting for Websites</title>
+    <link>https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html</link>
+    <description>Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 16:20:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America</title>
+    <link>https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html</link>
+    <description>The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 15:35:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads</title>
+    <link>https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html</link>
+    <description>OpenAI on Wednesday disclosed six new instances of "unexpected or concerning model behavior" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 15:23:38 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Chinese hackers use SparroWocky malware in govt espionage attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/</link>
     <description>The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]</description>
@@ -20,11 +134,34 @@
     <pubDate>Thu, 17 Sep 2026 04:24:48 -0400</pubDate>
   </item>
   <item>
+    <title>[Critique] BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS</title>
+    <link>https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html</link>
+    <description>The Internet Systems Consortium (ISC) has released&amp;nbsp;BIND 9.20.29 and 9.21.26&amp;nbsp;to fix fourteen security flaws it&amp;nbsp;disclosed&amp;nbsp;on 16 September in BIND 9, its open-source DNS server software. One of them…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 13:30:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records</title>
+    <link>https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html</link>
+    <description>A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a&amp;nbsp;notice&amp;nbsp;published…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 13:00:01 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cisco warns of max severity ISE zero-day exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/</link>
     <description>Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 17 Sep 2026 03:20:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks</title>
+    <link>https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html</link>
+    <description>Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.
+
+The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 12:09:40 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Le code source de Mistral AI revendiqué en fuite après une nouvelle cyberattaque</title>
@@ -33,6 +170,15 @@
 L’article Le code source de Mistral AI revendiqué en fuite après une nouvelle…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 17 Sep 2026 05:44:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks</title>
+    <link>https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser.
+
+The domains…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 10:43:46 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Anthropic wants Claude to analyze your bank account and financial data</title>
@@ -104,120 +250,6 @@ L’article CrowdSec : son code source en fuite après la compromission d’une 
     <description>The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 16 Sep 2026 13:26:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html</link>
-    <description>A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.
-
-The vulnerability in question is CVE-2026-89026 (CVSS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 21:20:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] International Meteor Organization says cyberattack dealt ‘critical blow’ to website</title>
-    <link>https://therecord.media/international-meteor-organization-cyberattack</link>
-    <description>A website used around the world for reporting meteors faces weeks of downtime as the organization moves away from systems that were hacked recently.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 15:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers</title>
-    <link>https://thehackernews.com/2026/09/three-threat-groups-target-russian.html</link>
-    <description>Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.
-
-The cybersecurity vendor said it has…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 20:57:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude</title>
-    <link>https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html</link>
-    <description>Security researchers at&amp;nbsp;Forever Security&amp;nbsp;have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 20:06:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Three Ukrainians to face charges for alleged hack of 610,000 Roblox accounts</title>
-    <link>https://therecord.media/ukraine-roblox-hacker-arrested</link>
-    <description>Three Ukrainians are set to stand trial for allegedly stealing access to more than 610,000 Roblox accounts and selling them to buyers in Russia,  authorities said.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 14:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] The true cost of a ransomware attack, with and without BCDR</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/</link>
-    <description>The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Propertips by iad visé par une cyberattaque : 413 000 clients et conseillers en fuite</title>
-    <link>https://www.cyberattaque.org/propertips-iad-cyberattaque-nosrezo/</link>
-    <description>Une importante fuite de données vise Propertips by iad, anciennement connu sous le nom NosRezo. Le hacker ChimeraZ...
-L’article Propertips by iad visé par une cyberattaque : 413 000 clients et conseillers en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 16 Sep 2026 13:56:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Flock camera use by internal affairs unit puts DC police at odds with officers’ union</title>
-    <link>https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers</link>
-    <description>Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 13:41:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories</title>
-    <link>https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html</link>
-    <description>Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread&amp;nbsp;Shai-Hulud&amp;nbsp;across about 100 internal code repositories.
-
-Before the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 19:07:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix</title>
-    <link>https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html</link>
-    <description>Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.
-
-The attack needs code already running on the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 18:44:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] EU chief wants joint response to cyberattacks, sabotage</title>
-    <link>https://therecord.media/eu-chief-wants-joint-response-to-cyberattacks</link>
-    <description>Delivering her annual State of the Union address in Strasbourg, Ursula von der Leyen said threats were “mounting on our soil,” pointing to recent incidents in Denmark, Lithuania and Poland and an attempted drone attack…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 13:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ukraine moves to crack down on scam call centers after corruption scandal</title>
-    <link>https://therecord.media/ukraine-call-center-scam-crackdown</link>
-    <description>Ukraine’s parliament has approved tougher criminal penalties for involvement in fraudulent call centers and the theft of personal data, following a corruption scandal in which prosecutors were accused of taking bribes…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says Copilot buttons still missing in classic Outlook</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/</link>
-    <description>Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Webinar: What happens in the first hours of a Google Workspace breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/</link>
-    <description>The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 08:11:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security</title>
-    <link>https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html</link>
-    <description>N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 16 Sep 2026 17:28:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
