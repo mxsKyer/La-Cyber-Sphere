@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Anthropic wants Claude to analyze your bank account and financial data</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/</link>
+    <description>Anthropic is testing a new personal finance feature called "Claude Money" that will allow you to connect your bank accounts directly to Claude and "understand your money." [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 16 Sep 2026 20:35:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Key lawmaker suggests action on AI safety legislation will wait until 2027</title>
+    <link>https://therecord.media/frontier-act-ai-bill-house-brett-guthrie</link>
+    <description>“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 21:07:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Windows 11 KB5124008 update breaks domain trust for some users</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/</link>
     <description>Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]</description>
@@ -33,6 +47,13 @@ L’article CrowdSec : son code source en fuite après la compromission d’une 
     <description>A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 16 Sep 2026 14:50:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’</title>
+    <link>https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi</link>
+    <description>U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems," after an apparent cyberattack, the U.S. Coast Guard said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 16 Sep 2026 18:46:00 GMT</pubDate>
   </item>
   <item>
     <title>[Critique] House passes bill to equip local law enforcement with scam-fighting tools</title>
@@ -232,27 +253,6 @@ The vulnerability, tracked as CVE-2026-87886 (CVSS score:…</description>
 The vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 16 Sep 2026 10:48:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-87886 — Acronis Backup Incorrect Default Permissions Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-87886</link>
-    <description>Acronis Backup plugin for cPanel &amp; WHM and extension for Plesk contains an incorrect default permissions vulnerability that could allow for privilege escalation.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-16</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-76460 — Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76460</link>
-    <description>Cisco Identity Services Engine (ISE) and Cisco ISE Passive Identity Connector (ISE-PIC) contain an incorrect use of privileged APIs vulnerability that could allow an unauthenticated, remote attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-16</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-58704 — Google Pixel Improper Authorization Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-58704</link>
-    <description>Google Pixel devices contain an improper authorization vulnerability in the cellular modem. A logic error may allow an attacker to bypass permission checks and escalate privileges.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-16</pubDate>
   </item>
 </channel>
 </rss>
