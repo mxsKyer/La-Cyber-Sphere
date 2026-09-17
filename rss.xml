@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI details more cases of AI agents taking unauthorized actions</title>
+    <link>https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/</link>
+    <description>OpenAI has presented new examples of what they call "AI model misalignment" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 14:55:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Pixel : une faille permet d’attaquer un téléphone sans action de la victime</title>
+    <link>https://www.cyberattaque.org/google-pixel-une-faille-permet-dattaquer-un-telephone-sans-action-de-la-victime/</link>
+    <description>Google confirme l’exploitation dans des attaques ciblées d’une faille zero-day affectant les téléphones Pixel. Référencée CVE-2026-58704, la vulnérabilité...
+L’article Google Pixel : une faille permet d’attaquer un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 17 Sep 2026 18:14:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Brevo supply-chain attack injected ClickFix scripts on customer sites</title>
+    <link>https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/</link>
+    <description>Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 17 Sep 2026 13:11:34 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] China’s FamousSparrow hackers target Latin America with new backdoor</title>
     <link>https://therecord.media/china-hackers-latin-america-espionage</link>
     <description>Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”</description>
@@ -215,41 +237,6 @@ The domains…</description>
 L’article CrowdSec : son code source en fuite après la compromission d’une clé API est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 16 Sep 2026 20:13:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Malware bypasses browser checks to force install Chrome, Edge extensions</title>
-    <link>https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/</link>
-    <description>A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 14:50:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Coast Guard, FBI boarded tanker after attack by ‘foreign cyber actors’</title>
-    <link>https://therecord.media/oil-tanker-cyberattack-coast-guard-fbi</link>
-    <description>U.S. personnel boarded an oil tanker in the Gulf of Mexico to “ensure integrity of the vessel’s operational and information technology systems," after an apparent cyberattack, the U.S. Coast Guard said.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 18:46:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] House passes bill to equip local law enforcement with scam-fighting tools</title>
-    <link>https://therecord.media/house-passes-bill-to-equip-local-law-enforcement-scams</link>
-    <description>The Guarding Unprotected Aging Retirees from Deception Act (GUARD) attempts to address a common complaint from the victims of online scams like pig butchering — that such cases typically do not rise to the level of a…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 16 Sep 2026 18:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Data Broker Radaris Loses Domains in Privacy Fight</title>
-    <link>https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/</link>
-    <description>The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 16 Sep 2026 18:14:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Spain's data agency gets first report of AI-powered data breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/</link>
-    <description>The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 16 Sep 2026 13:26:41 -0400</pubDate>
   </item>
 </channel>
 </rss>
