@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Les coordonnées de 120 000 détenteurs d’armes mises en vente sur le dark web</title>
+    <link>https://www.cyberattaque.org/detenteurs-darmes-dans-le-viseur-120-000-personnes-revendiquees-dans-une-fuite-de-donnees-sensibles/</link>
+    <description>Une nouvelle fuite de données particulièrement sensible vise les détenteurs et acheteurs d’armes en France. Le hacker ChimeraZ...
+L’article Les coordonnées de 120 000 détenteurs d’armes mises en vente sur le dark web…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 18 Sep 2026 19:34:54 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] CUC Loisirs &amp; Vacances : des informations de santé de mineurs diffusées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/cuc-loisirs-vacances-des-informations-de-sante-de-mineurs-diffusees-apres-une-cyberattaque/</link>
     <description>CUC Loisirs &amp;#38; Vacances, le pôle enfance du Clermont Université Club à Clermont-Ferrand, fait l’objet depuis le 18...
@@ -20,6 +28,15 @@ L’article CUC Loisirs &amp;#038; Vacances : des informations de santé de mine
 L’article Le Club TotalEnergies touché par une cyberattaque : les historiques de…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 18 Sep 2026 18:08:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</title>
+    <link>https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</link>
+    <description>A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.
+
+Kernel maintainers have fixed all four over the past…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 23:32:24 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution</title>
@@ -179,6 +196,13 @@ L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dan
     <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2025-39682 — Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-39682</link>
+    <description>Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using incorrect zero-copy and queuing assumptions. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-18</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-53266 — Linux Kernel Out-of-Bounds Write Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-53266</link>
     <description>Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
@@ -198,13 +222,6 @@ L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dan
     <description>A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 17 Sep 2026 17:50:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] European Commission set to push social media restrictions, safety requirements into law</title>
-    <link>https://therecord.media/european-commission-set-to-push-social-media-kids-restrictions-into-law</link>
-    <description>The proposal, known as the EU KIDS Act, would block social media platforms from offering accounts to children younger than 13 and establish a bloc-wide minimum age of 15 for account creation.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 17 Sep 2026 20:36:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
