@@ -6,6 +6,102 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Gyazo server flaw exploited to steal 23.6 million user records</title>
+    <link>https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/</link>
+    <description>The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 12:00:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2</title>
+    <link>https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html</link>
+    <description>The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 20:54:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/</link>
+    <description>An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 11:19:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque à la mairie d’Espelette : un faux PDF infecte la messagerie</title>
+    <link>https://www.cyberattaque.org/cyberattaque-a-la-mairie-despelette-un-faux-pdf-infecte-la-messagerie/</link>
+    <description>La mairie d’Espelette, dans les Pyrénées-Atlantiques, a confirmé le piratage de sa boîte mail principale le vendredi 11...
+L’article Cyberattaque à la mairie d’Espelette : un faux PDF infecte la messagerie est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 18 Sep 2026 15:09:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nations take action on North Korean IT workers after UN report</title>
+    <link>https://therecord.media/nations-take-action-on-north-korean-it-worker-schemes</link>
+    <description>A report published Wednesday said that as of July, Vietnam, Laos, Pakistan and Argentina took meaningful steps to respond to allegations involving North Korea listed in an October study.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 18 Sep 2026 14:29:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Secure enterprise sharing with access reviews for Microsoft 365</title>
+    <link>https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/</link>
+    <description>Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Teams will let admins block custom file extensions</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/</link>
+    <description>Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 09:58:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hacking group ‘NightEagle’ targeting China’s high-tech sector expands operations to Russia</title>
+    <link>https://therecord.media/hacking-group-nighteagle-expands-russia-china</link>
+    <description>Over the past year, Russian cybersecurity firm Kaspersky said it investigated several incidents involving the group at Russian businesses.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 18 Sep 2026 13:24:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Webinar: Which Google Workspace security controls actually matter?</title>
+    <link>https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/</link>
+    <description>Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 09:10:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation</title>
+    <link>https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html</link>
+    <description>Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.
+
+The vulnerability, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 18:17:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/</link>
+    <description>Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 18 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.</title>
+    <link>https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html</link>
+    <description>In July 2025, someone registered a domain that used to belong to a content delivery network.&amp;nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 16:31:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents</title>
+    <link>https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html</link>
+    <description>A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 16:31:01 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage</title>
     <link>https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html</link>
     <description>Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.
@@ -51,6 +147,20 @@ The new malware family, per…</description>
 L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dans une fuite…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 18 Sep 2026 05:28:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-53266 — Linux Kernel Out-of-Bounds Write Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-53266</link>
+    <description>Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-18</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2025-39964 — Linux Kernel Race Condition Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-39964</link>
+    <description>Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-18</pubDate>
   </item>
   <item>
     <title>[Élevé] New RatHat Android malware uses AI to automate device control</title>
@@ -112,101 +222,6 @@ This week, those keys sit in AI tools, exposed services, old bugs, weak logins, 
     <description>Alleged Chinese hackers are breaking into government agencies across Latin America using a new backdoor that researchers are calling “SparroWocky.”</description>
     <source>The Record</source>
     <pubDate>Thu, 17 Sep 2026 16:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files</title>
-    <link>https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html</link>
-    <description>Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&amp;nbsp;security…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 17 Sep 2026 21:07:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données sensibles</title>
-    <link>https://www.cyberattaque.org/pays-de-laigle-une-cyberattaque-contre-les-messageries-fait-craindre-une-fuite-de-donnees-sensibles/</link>
-    <description>La Communauté de communes des Pays de L’Aigle, son Centre intercommunal d’action sociale (CIAS) et son office de...
-L’article Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 17 Sep 2026 15:19:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords</title>
-    <link>https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html</link>
-    <description>The Iran-linked "hacktivist" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.
-
-"HEAVYGRAM offers builtin…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 17 Sep 2026 19:33:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] What Recent AI-Powered Attacks Mean for Your Identity Security</title>
-    <link>https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/</link>
-    <description>AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 17 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers claim breach of Russian election systems days before parliamentary vote</title>
-    <link>https://therecord.media/russia-election-hackers-breach</link>
-    <description>An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 17 Sep 2026 13:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Congress eyes new support for Cyber Command after recent suicide deaths</title>
-    <link>https://therecord.media/congress-eyes-support-for-cyber-command-suicide-deaths</link>
-    <description>Congressional sources say they view the deaths of U.S. Cyber Command personnel as an inflection point, especially as the Pentagon’s appetite for cyber capabilities grows following successful contributions to…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 17 Sep 2026 13:32:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 24H2 Home and Pro reach end of support in October</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/</link>
-    <description>Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 17 Sep 2026 09:09:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Greffe du Tribunal de Paris : des adresses privées et données familiales de juges en fuite</title>
-    <link>https://www.cyberattaque.org/greffe-du-tribunal-de-paris-des-adresses-privees-et-donnees-familiales-de-juges-en-fuite/</link>
-    <description>Une fuite de données particulièrement sensible vise le Greffe du Tribunal des Activités Économiques de Paris. Le hacker...
-L’article Greffe du Tribunal de Paris : des adresses privées et données familiales de juges en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 17 Sep 2026 12:48:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Zenfirst victime d’une cyberattaque : des milliers de données de facturation exposées</title>
-    <link>https://www.cyberattaque.org/zenfirst-victime-dune-cyberattaque-des-milliers-de-donnees-de-facturation-exposees/</link>
-    <description>Zenfirst, logiciel français de gestion financière destiné aux entreprises et indépendants, fait l’objet d’une importante fuite de données...
-L’article Zenfirst victime d’une cyberattaque : des milliers de données de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 17 Sep 2026 12:45:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone</title>
-    <link>https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html</link>
-    <description>Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an&amp;nbsp;advisory&amp;nbsp;on Wednesday.
-
-An attacker who controls a malicious zone…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 17 Sep 2026 18:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Israeli contractor BlackCore trained Angolan officials in online influence operations</title>
-    <link>https://therecord.media/angola-israel-influence-operations-blackcore</link>
-    <description>An Israeli influence-for-hire company trained Angolan government officials to run online influence operations, including by creating fake social media personas and media outlets,  researchers found.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 17 Sep 2026 12:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar</title>
-    <link>https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html</link>
-    <description>A new CVE drops. Your scanner finds it. The severity score looks ugly.
-
-But that still does not answer the question that matters: Can it actually be exploited in your environment?
-
-Mythos-class AI is compressing the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 17 Sep 2026 17:20:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
