@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall</title>
+    <link>https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</link>
+    <description>Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 18 Sep 2026 11:47:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dans une fuite massive après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/lorange-bleue-732-000-fiches-dadherents-et-440-000-iban-dans-une-fuite-massive-apres-une-cyberattaque/</link>
+    <description>L’Orange bleue fait l’objet d’une importante revendication de fuite de données. Le hacker Venus1337 affirme avoir récupéré les...
+L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dans une fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 18 Sep 2026 05:28:55 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] New RatHat Android malware uses AI to automate device control</title>
     <link>https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/</link>
     <description>A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]</description>
@@ -35,6 +50,24 @@ L’article Google Pixel : une faille permet d’attaquer un…</description>
     <pubDate>Thu, 17 Sep 2026 18:14:38 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root</title>
+    <link>https://thehackernews.com/2026/09/critical-check-point-management-server.html</link>
+    <description>A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.
+
+The Security Management Server is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 23:38:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories</title>
+    <link>https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html</link>
+    <description>Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.
+
+This week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 23:02:22 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Brevo supply-chain attack injected ClickFix scripts on customer sites</title>
     <link>https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/</link>
     <description>Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]</description>
@@ -49,12 +82,28 @@ L’article Google Pixel : une faille permet d’attaquer un…</description>
     <pubDate>Thu, 17 Sep 2026 16:30:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files</title>
+    <link>https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html</link>
+    <description>Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a&amp;nbsp;security…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 21:07:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données sensibles</title>
     <link>https://www.cyberattaque.org/pays-de-laigle-une-cyberattaque-contre-les-messageries-fait-craindre-une-fuite-de-donnees-sensibles/</link>
     <description>La Communauté de communes des Pays de L’Aigle, son Centre intercommunal d’action sociale (CIAS) et son office de...
 L’article Pays de L’Aigle : une cyberattaque contre les messageries fait craindre une fuite de données…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 17 Sep 2026 15:19:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords</title>
+    <link>https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html</link>
+    <description>The Iran-linked "hacktivist" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.
+
+"HEAVYGRAM offers builtin…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 17 Sep 2026 19:33:13 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] What Recent AI-Powered Attacks Mean for Your Identity Security</title>
@@ -198,23 +247,6 @@ Mythos-class AI is compressing the…</description>
 The vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 17 Sep 2026 12:09:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Le code source de Mistral AI revendiqué en fuite après une nouvelle cyberattaque</title>
-    <link>https://www.cyberattaque.org/le-code-source-de-mistral-ai-revendique-en-fuite-apres-une-nouvelle-cyberattaque/</link>
-    <description>Mistral AI fait l’objet d’une nouvelle revendication de compromission. Un hacker utilisant le pseudonyme mrwho affirme avoir récupéré...
-L’article Le code source de Mistral AI revendiqué en fuite après une nouvelle…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 17 Sep 2026 05:44:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] U.S. Seizes NightmareStresser Domains Linked to Hundreds of Thousands of DDoS Attacks</title>
-    <link>https://thehackernews.com/2026/09/us-seizes-nightmarestresser-domains.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the court-authorized seizure of internet domains associated with a distributed denial-of-service (DDoS)-for-hire service known as NightmareStresser.
-
-The domains…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 17 Sep 2026 10:43:46 +0530</pubDate>
   </item>
 </channel>
 </rss>
