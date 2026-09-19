@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Calling viral AI actress Tilly Norwood? Agree to a face scan first</title>
+    <link>https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/</link>
+    <description>AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her "Talking Tilly" video call service face-scans every caller for an 18+ age check, senses callers' moods during…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 19 Sep 2026 07:38:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws</title>
+    <link>https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html</link>
+    <description>Three researchers at the security firm&amp;nbsp;Hacktron&amp;nbsp;used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 15:31:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE</title>
+    <link>https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html</link>
+    <description>SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 15:01:17 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild</title>
     <link>https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html</link>
     <description>A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
@@ -135,59 +158,6 @@ L’article Cyberattaque à la mairie d’Espelette : un faux PDF infecte la mes
     <description>Over the past year, Russian cybersecurity firm Kaspersky said it investigated several incidents involving the group at Russian businesses.</description>
     <source>The Record</source>
     <pubDate>Fri, 18 Sep 2026 13:24:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Webinar: Which Google Workspace security controls actually matter?</title>
-    <link>https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/</link>
-    <description>Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 18 Sep 2026 09:10:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation</title>
-    <link>https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html</link>
-    <description>Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.
-
-The vulnerability, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 18:17:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/</link>
-    <description>Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 18 Sep 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.</title>
-    <link>https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html</link>
-    <description>In July 2025, someone registered a domain that used to belong to a content delivery network.&amp;nbsp; The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 16:31:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents</title>
-    <link>https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html</link>
-    <description>A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 16:31:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage</title>
-    <link>https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html</link>
-    <description>Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.
-
-The new malware family, per…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 16:10:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Check Point flaw lets hackers execute code with root privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/</link>
-    <description>Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 18 Sep 2026 05:34:33 -0400</pubDate>
   </item>
 </channel>
 </rss>
