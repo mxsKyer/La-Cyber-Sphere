@@ -195,33 +195,5 @@ L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dan
     <source>The Record</source>
     <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2025-39682 — Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-39682</link>
-    <description>Linux Kernel contains an improper check for unusual or exceptional conditions vulnerability in the TLS receive path which allows a zero-length record retrieved from the rx_list to bypass the intended recvmsg() record-type handling, potentially causing subsequent TLS records to be processed using incorrect zero-copy and queuing assumptions. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-53266 — Linux Kernel Out-of-Bounds Write Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-53266</link>
-    <description>Linux Kernel contains an out-of-bounds write vulnerability in the ebtables SNAT target which allows an ARP sender hardware address rewrite to write directly into a nonlinear socket-buffer fragment backed by a splice-imported file page. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-18</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2025-39964 — Linux Kernel Race Condition Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-39964</link>
-    <description>Linux Kernel contains a race condition vulnerability which allows concurrent writes to the same AF_ALG socket causing data to be unpredictably interleaved and creating inconsistencies in the socket's internal state.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-18</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New RatHat Android malware uses AI to automate device control</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/</link>
-    <description>A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 17 Sep 2026 17:50:26 -0400</pubDate>
-  </item>
 </channel>
 </rss>
