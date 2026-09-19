@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild</title>
+    <link>https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html</link>
+    <description>A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.
+
+The vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 13:48:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up</title>
+    <link>https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html</link>
+    <description>Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 13:21:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories</title>
+    <link>https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html</link>
+    <description>An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec&amp;nbsp;said on September 18.
+
+The French security company had kept his GitHub…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 12:44:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild</title>
+    <link>https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 19 Sep 2026 11:54:10 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Les coordonnées de 120 000 détenteurs d’armes mises en vente sur le dark web</title>
     <link>https://www.cyberattaque.org/detenteurs-darmes-dans-le-viseur-120-000-personnes-revendiquees-dans-une-fuite-de-donnees-sensibles/</link>
     <description>Une nouvelle fuite de données particulièrement sensible vise les détenteurs et acheteurs d’armes en France. Le hacker ChimeraZ...
@@ -156,37 +188,6 @@ The new malware family, per…</description>
     <description>Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 18 Sep 2026 05:34:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer</title>
-    <link>https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html</link>
-    <description>A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry.
-
-"The developer likely wrote…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 14:48:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes broken copy and paste for Excel 2016 users</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/</link>
-    <description>Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 18 Sep 2026 03:35:31 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall</title>
-    <link>https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</link>
-    <description>Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 18 Sep 2026 11:47:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dans une fuite massive après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/lorange-bleue-732-000-fiches-dadherents-et-440-000-iban-dans-une-fuite-massive-apres-une-cyberattaque/</link>
-    <description>L’Orange bleue fait l’objet d’une importante revendication de fuite de données. Le hacker Venus1337 affirme avoir récupéré les...
-L’article L’Orange bleue : 732 000 fiches d’adhérents et 440 000 IBAN dans une fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 18 Sep 2026 05:28:55 +0000</pubDate>
   </item>
 </channel>
 </rss>
