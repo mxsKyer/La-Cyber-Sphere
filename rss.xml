@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Biocoop : 2,8 Go de données internes  exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/biocoop-28-go-de-donnees-internes-exposes-apres-une-cyberattaque/</link>
+    <description>Biocoop, réseau français spécialisé dans la distribution de produits biologiques, fait l’objet d’une importante fuite de données revendiquée...
+L’article Biocoop : 2,8 Go de données internes  exposés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 20 Sep 2026 19:10:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Oceania Hotels : les réservations clients exposées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/oceania-hotels-les-reservations-clients-exposees-apres-une-cyberattaque/</link>
     <description>Oceania Hotels informe ses clients d’une fuite de données survenue chez le prestataire chargé d’héberger son moteur de...
@@ -34,30 +42,6 @@ L’article Oceania Hotels : les réservations clients exposées après une cybe
 L’article Hôpital Paris Saint-Joseph : les données de plus de 15 000 patients en fuite est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 20 Sep 2026 04:35:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] VitalWeb : 50 000 dossiers patients avec numéros de sécurité sociale revendiqués</title>
-    <link>https://www.cyberattaque.org/vitalweb-50-000-dossiers-patients-cyberattaque/</link>
-    <description>VitalWeb, l’extranet de VitalAire destiné aux professionnels de santé pour suivre leurs patients à domicile, fait l’objet d’une...
-L’article VitalWeb : 50 000 dossiers patients avec numéros de sécurité sociale…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 19 Sep 2026 19:14:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Faktus : 53,7 Go de données financières et documents sensibles publiés</title>
-    <link>https://www.cyberattaque.org/faktus-cyberattaque-facture/</link>
-    <description>Faktus, société française spécialisée dans le financement de factures et l’affacturage notamment pour les entreprises du BTP, fait...
-L’article Faktus : 53,7 Go de données financières et documents sensibles publiés est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 19 Sep 2026 19:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Whoof : 5 000 adoptants et éleveurs exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/whoof-5-000-adoptants-et-eleveurs-exposes-apres-une-cyberattaque/</link>
-    <description>Whoof, plateforme française spécialisée dans l’adoption responsable de chiens auprès d’éleveurs professionnels, fait l’objet d’une importante fuite de...
-L’article Whoof : 5 000 adoptants et éleveurs exposés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 19 Sep 2026 17:45:32 +0000</pubDate>
   </item>
 </channel>
 </rss>
