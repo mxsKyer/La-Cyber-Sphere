@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Oceania Hotels : les réservations clients exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/oceania-hotels-les-reservations-clients-exposees-apres-une-cyberattaque/</link>
+    <description>Oceania Hotels informe ses clients d’une fuite de données survenue chez le prestataire chargé d’héberger son moteur de...
+L’article Oceania Hotels : les réservations clients exposées après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 20 Sep 2026 16:12:43 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Malicious npm packages evade install-script defenses at runtime</title>
     <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</link>
     <description>An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation…</description>
@@ -50,21 +58,6 @@ L’article Faktus : 53,7 Go de données financières et documents sensibles pub
 L’article Whoof : 5 000 adoptants et éleveurs exposés après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 19 Sep 2026 17:45:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Diamonds Factory : 24 000 dossiers clients revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/diamonds-factory-24-000-commandes-clients-revendiques-apres-une-cyberattaque/</link>
-    <description>Diamonds Factory, spécialiste de la vente de bijoux et diamants, fait l’objet d’une revendication de fuite de données...
-L’article Diamonds Factory : 24 000 dossiers clients revendiqués après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 19 Sep 2026 17:29:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BragJack attacks hijack AI browser agents through malicious extensions</title>
-    <link>https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/</link>
-    <description>BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 19 Sep 2026 10:56:31 -0400</pubDate>
   </item>
 </channel>
 </rss>
