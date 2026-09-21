@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] BigCommerce alerts merchants of data breach linked to Ribon apps</title>
+    <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
+    <description>Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 17:18:49 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CISA alerts of active exploitation of three Linux kernel flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 16:12:17 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] EU data regulator fines Google more than $460 million for location data violations</title>
     <link>https://therecord.media/google-europe-location-data-fine</link>
     <description>Ireland’s Data Protection Commission will fine Google more than €403 million ($462 million) over the tech giant’s processing of location data, concluding an inquiry into the company that began in early 2020.</description>
@@ -191,13 +205,6 @@ L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés�
     <description>Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-21</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia reports thousands of cyberattacks on election infrastructure during vote</title>
-    <link>https://therecord.media/russia-reports-cyberattacks-during-election</link>
-    <description>Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.</description>
-    <source>The Record</source>
-    <pubDate>Sun, 20 Sep 2026 23:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
