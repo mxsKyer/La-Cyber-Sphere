@@ -6,6 +6,72 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] FBI's CJIS v6.1: What Security Teams Need to Know.</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/</link>
+    <description>The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack hits University of Munich, potentially exposing student financial data</title>
+    <link>https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data</link>
+    <description>The university, commonly known as LMU Munich, said Saturday that an attacker accessed enrollment data stored on one of its IT systems.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 14:01:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ShinyHunters cybercrime gang takes over Cl0p ransomware site, demands extortion payment</title>
+    <link>https://therecord.media/shinyhunters-clop-cyberattack-website</link>
+    <description>The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft reminds admins to migrate Entra ID users to passkeys</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/</link>
+    <description>Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 09:16:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LinkedIn wins court order blocking mass scraping of user data</title>
+    <link>https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping</link>
+    <description>The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 12:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google says Gemini breached three companies during security test</title>
+    <link>https://therecord.media/gemini-google-cyber-breach</link>
+    <description>Google’s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May — the latest in a string of similar incidents.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: September updates break File History backup feature</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/</link>
+    <description>Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 07:45:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fédération Française de Spéléologie : 93 000 membres et des données bancaires revendiqués après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/federation-francaise-de-speleologie-93-000-membres-et-des-donnees-bancaires-revendiques-apres-une-cyberattaque/</link>
+    <description>La Fédération Française de Spéléologie (FFS) fait l’objet d’une importante revendication de cyberattaque. Le hacker RedStone affirme avoir...
+L’article Fédération Française de Spéléologie : 93 000 membres et des données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 21 Sep 2026 11:01:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure</title>
+    <link>https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html</link>
+    <description>Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.
+
+"ChainScript has appeared under multiple build names, including ComponentTask33,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 14:09:38 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors</title>
     <link>https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html</link>
     <description>The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again highlighting how the…</description>
@@ -19,6 +85,13 @@
 L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 21 Sep 2026 03:59:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia reports thousands of cyberattacks on election infrastructure during vote</title>
+    <link>https://therecord.media/russia-reports-cyberattacks-during-election</link>
+    <description>Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.</description>
+    <source>The Record</source>
+    <pubDate>Sun, 20 Sep 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Élevé] Biocoop : 2,8 Go de données internes  exposés après une cyberattaque</title>
@@ -35,20 +108,6 @@ L’article Biocoop : 2,8 Go de données internes  exposés après une…</descr
 L’article Oceania Hotels : les réservations clients exposées après une cyberattaque est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 20 Sep 2026 16:12:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious npm packages evade install-script defenses at runtime</title>
-    <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</link>
-    <description>An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 20 Sep 2026 10:11:21 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Researchers escape OpenAI Codex sandbox to run commands on host</title>
-    <link>https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/</link>
-    <description>Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 20 Sep 2026 08:00:00 -0400</pubDate>
   </item>
 </channel>
 </rss>
