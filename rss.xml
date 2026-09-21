@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors</title>
+    <link>https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html</link>
+    <description>The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again highlighting how the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 11:36:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WayToMe : 147 000 utilisateurs et des milliers de trajets exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/waytome-147-000-utilisateurs-et-des-milliers-de-trajets-exposes-apres-une-cyberattaque/</link>
+    <description>WayToMe, plateforme française de livraison de colis entre particuliers, fait l’objet d’une cyberattaque revendiquée par un hacker utilisant...
+L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 21 Sep 2026 03:59:01 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Biocoop : 2,8 Go de données internes  exposés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/biocoop-28-go-de-donnees-internes-exposes-apres-une-cyberattaque/</link>
     <description>Biocoop, réseau français spécialisé dans la distribution de produits biologiques, fait l’objet d’une importante fuite de données revendiquée...
@@ -34,14 +49,6 @@ L’article Oceania Hotels : les réservations clients exposées après une cybe
     <description>Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 20 Sep 2026 08:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hôpital Paris Saint-Joseph : les données de plus de 15 000 patients en fuite</title>
-    <link>https://www.cyberattaque.org/hopital-paris-saint-joseph-cyberattaque/</link>
-    <description>Une fuite de données vise l’Hôpital Paris Saint-Joseph, établissement privé à but non lucratif situé dans le 14e...
-L’article Hôpital Paris Saint-Joseph : les données de plus de 15 000 patients en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 20 Sep 2026 04:35:05 +0000</pubDate>
   </item>
 </channel>
 </rss>
