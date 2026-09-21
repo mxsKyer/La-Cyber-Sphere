@@ -6,6 +6,105 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] EU data regulator fines Google more than $460 million for location data violations</title>
+    <link>https://therecord.media/google-europe-location-data-fine</link>
+    <description>Ireland’s Data Protection Commission will fine Google more than €403 million ($462 million) over the tech giant’s processing of location data, concluding an inquiry into the company that began in early 2020.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 19:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] WordPress Click2Shell flaw lets hackers execute PHP on the server</title>
+    <link>https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/</link>
+    <description>Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 14:23:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft to retire Microsoft 365 Companion apps in December</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/</link>
+    <description>Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 13:54:49 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR</title>
+    <link>https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html</link>
+    <description>A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 23:01:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto</title>
+    <link>https://thehackernews.com/2026/09/contagious-interview-campaign.html</link>
+    <description>The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 22:49:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Amadeus iHotelier : une cyberattaque expose les réservations de plusieurs hôtels en France</title>
+    <link>https://www.cyberattaque.org/amadeus-ihotelier-une-cyberattaque-expose-les-reservations-de-plusieurs-hotels-en-france/</link>
+    <description>Une cyberattaque contre Amadeus iHotelier, plateforme de réservation utilisée par de nombreux établissements hôteliers à travers le monde,...
+L’article Amadeus iHotelier : une cyberattaque expose les réservations de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 21 Sep 2026 17:08:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Altagem : clients, équipes et données opérationnelles exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/altagem-clients-equipes-et-donnees-operationnelles-exposes-apres-une-cyberattaque/</link>
+    <description>Altagem, éditeur français d’un logiciel de gestion destiné aux entreprises disposant d’équipes et d’activités sur le terrain, fait...
+L’article Altagem : clients, équipes et données opérationnelles exposés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 21 Sep 2026 16:59:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Fined €403 Million Over GDPR Violations Tied to Location Data</title>
+    <link>https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html</link>
+    <description>Google has been&amp;nbsp;fined €403 million&amp;nbsp;for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.
+
+Ireland's Data…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 22:27:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google fined €403 million over location data privacy violations</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/</link>
+    <description>Ireland's Data Protection Commission (DPC) has fined Google €403 million ($463M) for multiple GDPR violations related to processing users' location data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 11:41:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Belgian table tennis, gymnastics federations hit by cyberattacks</title>
+    <link>https://therecord.media/belgium-table-tennis-cyberattack</link>
+    <description>Belgium’s national table tennis federation is investigating a cyberattack after a hacker claimed to have stolen data on tens of thousands of members.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes broken Excel copy and paste for all Office users</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/</link>
+    <description>Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 21 Sep 2026 10:42:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks</title>
+    <link>https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html</link>
+    <description>A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.
+
+The trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 19:54:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data</title>
+    <link>https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html</link>
+    <description>Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.
+
+The backdoor "automatically harvests…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 21 Sep 2026 19:45:40 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] FBI's CJIS v6.1: What Security Teams Need to Know.</title>
     <link>https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/</link>
     <description>The FBI's CJIS Security Policy v6.1 strengthens requirements around encryption and vulnerability scanning while continuing the shift toward more continuous security assessment. Specops explains what changed and how…</description>
@@ -87,27 +186,18 @@ L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés�
     <pubDate>Mon, 21 Sep 2026 03:59:01 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-7273 — Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-7273</link>
+    <description>Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-21</pubDate>
+  </item>
+  <item>
     <title>[Faible] Russia reports thousands of cyberattacks on election infrastructure during vote</title>
     <link>https://therecord.media/russia-reports-cyberattacks-during-election</link>
     <description>Claims by officials of cyberattacks against election infrastructure could not be independently verified. Russian officials provided little technical evidence about the attacks or who it claimed who was behind them.</description>
     <source>The Record</source>
     <pubDate>Sun, 20 Sep 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Biocoop : 2,8 Go de données internes  exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/biocoop-28-go-de-donnees-internes-exposes-apres-une-cyberattaque/</link>
-    <description>Biocoop, réseau français spécialisé dans la distribution de produits biologiques, fait l’objet d’une importante fuite de données revendiquée...
-L’article Biocoop : 2,8 Go de données internes  exposés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 20 Sep 2026 19:10:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Oceania Hotels : les réservations clients exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/oceania-hotels-les-reservations-clients-exposees-apres-une-cyberattaque/</link>
-    <description>Oceania Hotels informe ses clients d’une fuite de données survenue chez le prestataire chargé d’héberger son moteur de...
-L’article Oceania Hotels : les réservations clients exposées après une cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 20 Sep 2026 16:12:43 +0000</pubDate>
   </item>
 </channel>
 </rss>
