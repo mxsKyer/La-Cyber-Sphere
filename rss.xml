@@ -6,6 +6,35 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor</title>
+    <link>https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html</link>
+    <description>Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&amp;nbsp;proof-of-concept&amp;nbsp;released on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 12:03:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session</title>
+    <link>https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html</link>
+    <description>A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 11:33:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access</title>
+    <link>https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 11:01:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ColisPort : une fuite dévoile les trajets et contenus de 20 000 colis</title>
+    <link>https://www.cyberattaque.org/colisport-pres-de-20-000-expeditions-en-fuite-apres-une-cyberattaque/</link>
+    <description>ColisPort, plateforme permettant aux particuliers et professionnels d’organiser le transport de colis en France et en Europe, fait...
+L’article ColisPort : une fuite dévoile les trajets et contenus de 20 000 colis est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 22 Sep 2026 04:18:20 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] BigCommerce alerts merchants of data breach linked to Ribon apps</title>
     <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
     <description>Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores.…</description>
@@ -183,21 +212,6 @@ L’article Fédération Française de Spéléologie : 93 000 membres et des don
 "ChainScript has appeared under multiple build names, including ComponentTask33,…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 21 Sep 2026 14:09:38 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors</title>
-    <link>https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html</link>
-    <description>The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based "much smaller organization" in the information technology (IT) services industry, once again highlighting how the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 21 Sep 2026 11:36:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WayToMe : 147 000 utilisateurs et des milliers de trajets exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/waytome-147-000-utilisateurs-et-des-milliers-de-trajets-exposes-apres-une-cyberattaque/</link>
-    <description>WayToMe, plateforme française de livraison de colis entre particuliers, fait l’objet d’une cyberattaque revendiquée par un hacker utilisant...
-L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 21 Sep 2026 03:59:01 +0000</pubDate>
   </item>
 </channel>
 </rss>
