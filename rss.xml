@@ -6,6 +6,88 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] AI is set to help cyber attackers much more than defenders, says UK official</title>
+    <link>https://therecord.media/ai-set-to-help-attackers-more-than-defenders</link>
+    <description>Dave Chismon, the NCSC’s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 22 Sep 2026 13:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Webinar tomorrow: Inside real-world Google Workspace breaches</title>
+    <link>https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/</link>
+    <description>Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 08:57:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] D-Link warns of max severity zero-day bug in DIR-822A routers</title>
+    <link>https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/</link>
+    <description>D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 08:48:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] DORA Year Two: Can Your SOC Actually See the Attack?</title>
+    <link>https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html</link>
+    <description>When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 17:15:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory</title>
+    <link>https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html</link>
+    <description>A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.
+
+The bug, tracked…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 17:08:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE</title>
+    <link>https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html</link>
+    <description>A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to&amp;nbsp;full technical…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 16:47:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque : le scénario d’un « 11-Septembre numérique » inquiète les économistes</title>
+    <link>https://www.cyberattaque.org/cyberattaque-le-scenario-dun-11-septembre-numerique-inquiete-les-economistes/</link>
+    <description>Et si la prochaine grande crise financière ne commençait ni par un krach boursier ni par une faillite...
+L’article Cyberattaque : le scénario d’un « 11-Septembre numérique » inquiète les économistes est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 22 Sep 2026 11:01:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Windows Defender zero-day blocks Microsoft antivirus updates</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/</link>
+    <description>Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 05:55:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal</title>
+    <link>https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html</link>
+    <description>A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 15:08:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA orders feds to patch Zyxel flaw exploited for data theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</link>
+    <description>​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 04:53:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing</title>
+    <link>https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html</link>
+    <description>The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.
+
+"SideCopy campaign operations…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 22 Sep 2026 13:22:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor</title>
     <link>https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html</link>
     <description>Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&amp;nbsp;proof-of-concept&amp;nbsp;released on…</description>
@@ -33,6 +115,13 @@
 L’article ColisPort : une fuite dévoile les trajets et contenus de 20 000 colis est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 22 Sep 2026 04:18:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia's internet shutdowns disrupt warnings about incoming drone attacks</title>
+    <link>https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</link>
+    <description>Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 21 Sep 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Critique] BigCommerce alerts merchants of data breach linked to Ribon apps</title>
@@ -167,51 +256,6 @@ The backdoor "automatically harvests…</description>
     <description>The ShinyHunters extortion group hijacked the dark web leak site of the prolific Cl0p ransomware gang, according to material posted on the site over the weekend.</description>
     <source>The Record</source>
     <pubDate>Mon, 21 Sep 2026 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft reminds admins to migrate Entra ID users to passkeys</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/</link>
-    <description>Microsoft has reminded admins to migrate Entra ID users to phishing-resistant authentication methods to avoid sign-in disruptions after it retires SMS first-factor sign-in starting in February 2027. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 21 Sep 2026 09:16:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LinkedIn wins court order blocking mass scraping of user data</title>
-    <link>https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping</link>
-    <description>The agreement between LinkedIn, ProAPIs and joint business operator Netswift also requires the firms to stop selling and transferring the data, no longer access LinkedIn through fake accounts and delete the data that…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 21 Sep 2026 12:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google says Gemini breached three companies during security test</title>
-    <link>https://therecord.media/gemini-google-cyber-breach</link>
-    <description>Google’s artificial intelligence model Gemini accessed computer systems belonging to three real companies without authorization during a cybersecurity test in May — the latest in a string of similar incidents.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 21 Sep 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: September updates break File History backup feature</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/</link>
-    <description>Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 21 Sep 2026 07:45:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fédération Française de Spéléologie : 93 000 membres et des données bancaires revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/federation-francaise-de-speleologie-93-000-membres-et-des-donnees-bancaires-revendiques-apres-une-cyberattaque/</link>
-    <description>La Fédération Française de Spéléologie (FFS) fait l’objet d’une importante revendication de cyberattaque. Le hacker RedStone affirme avoir...
-L’article Fédération Française de Spéléologie : 93 000 membres et des données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 21 Sep 2026 11:01:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure</title>
-    <link>https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html</link>
-    <description>Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.
-
-"ChainScript has appeared under multiple build names, including ComponentTask33,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 21 Sep 2026 14:09:38 +0530</pubDate>
   </item>
 </channel>
 </rss>
