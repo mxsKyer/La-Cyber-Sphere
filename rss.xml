@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Rogue external MFA providers can steal passwords during logins</title>
+    <link>https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</link>
+    <description>Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 17:45:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sweden fines Miljödata $183,000 over breach affecting 2.2 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/</link>
+    <description>Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 22 Sep 2026 17:40:37 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data</title>
     <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/</link>
     <description>A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases.…</description>
@@ -310,20 +324,6 @@ L’article ColisPort : une fuite dévoile les trajets et contenus de 20 000 col
     <description>Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-22</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia's internet shutdowns disrupt warnings about incoming drone attacks</title>
-    <link>https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</link>
-    <description>Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 21 Sep 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] BigCommerce alerts merchants of data breach linked to Ribon apps</title>
-    <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
-    <description>Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 21 Sep 2026 17:18:49 -0400</pubDate>
   </item>
 </channel>
 </rss>
