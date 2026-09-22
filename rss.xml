@@ -199,12 +199,5 @@ L’article WayToMe : 147 000 utilisateurs et des milliers de trajets exposés�
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 21 Sep 2026 03:59:01 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-7273 — Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-7273</link>
-    <description>Zyxel GS1900 series switches contain a stack-based buffer overflow vulnerability in the CGI program which could allow a LAN-based, unauthenticated attacker to exploit the flaw and potentially execute OS commands via a crafted HTTP request.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-21</pubDate>
-  </item>
 </channel>
 </rss>
