@@ -6,6 +6,71 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Le « deface » revient dans le commerce des données volées</title>
+    <link>https://www.zataz.com/le-deface-revient-dans-le-commerce-des-donnees-volees/</link>
+    <description>Le « deface » revient chez les vendeurs de données, utilisé comme preuve publique d’accès et de compromission.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 23 Sep 2026 09:12:47 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers</title>
+    <link>https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</link>
+    <description>Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.
+
+The flaw,&amp;nbsp;CVE-2026-94127, affects only systems in which APM…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 13:59:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware</title>
+    <link>https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html</link>
+    <description>A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.
+
+The attacks, detected on September 3 and 4,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 13:59:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ryuk ransomware member sentenced to 24 months in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
+    <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 04:20:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</link>
+    <description>F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 03:17:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input</title>
+    <link>https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html</link>
+    <description>A new security vulnerability in Next.js could allow attackers to run code on a server via&amp;nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.
+
+The risk applies when an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 12:34:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite</title>
+    <link>https://www.cyberattaque.org/nis2-enfin-a-lassemblee-nationale-pres-de-deux-ans-apres-la-date-limite/</link>
+    <description>La transposition française de la directive européenne NIS2 va enfin arriver dans l’hémicycle. Le projet de loi relatif...
+L’article NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants</title>
+    <link>https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html</link>
+    <description>The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.
+
+"We have compromised…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 11:00:09 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] BackPower : 47 millions de lignes revendiquées dans une fuite massive</title>
     <link>https://www.cyberattaque.org/cyberatatque-backpower-47-millions-de-lignes-revendiquees-dans-une-fuite-massive/</link>
     <description>BackPower, entreprise française spécialisée dans le reconditionnement et la fabrication de batteries au lithium, fait l’objet d’une cyberattaque...
@@ -291,43 +356,6 @@ L’article Cyberattaque : le scénario d’un « 11-Septembre numérique » inq
     <description>A malicious npm package named "indexed-btree" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 22 Sep 2026 15:08:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA orders feds to patch Zyxel flaw exploited for data theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/</link>
-    <description>​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 04:53:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing</title>
-    <link>https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html</link>
-    <description>The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.
-
-"SideCopy campaign operations…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 13:22:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor</title>
-    <link>https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html</link>
-    <description>Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a&amp;nbsp;proof-of-concept&amp;nbsp;released on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 12:03:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session</title>
-    <link>https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html</link>
-    <description>A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 11:33:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access</title>
-    <link>https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 11:01:59 +0530</pubDate>
   </item>
 </channel>
 </rss>
