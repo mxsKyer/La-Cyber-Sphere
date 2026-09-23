@@ -6,6 +6,46 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] BackPower : 47 millions de lignes revendiquées dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/cyberatatque-backpower-47-millions-de-lignes-revendiquees-dans-une-fuite-massive/</link>
+    <description>BackPower, entreprise française spécialisée dans le reconditionnement et la fabrication de batteries au lithium, fait l’objet d’une cyberattaque...
+L’article BackPower : 47 millions de lignes revendiquées dans une fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 04:01:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Twizzit : 1,53 million de membres de clubs et associations en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-twizzit-1-53-million-de-membres-de-clubs-et-associations-en-fuite/</link>
+    <description>Twizzit, plateforme de gestion utilisée par des milliers de clubs, associations et fédérations européennes, fait l’objet d’une fuite...
+L’article Twizzit : 1,53 million de membres de clubs et associations en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 03:54:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Autobacs : 34 000 rendez-vous atelier exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/autobacs-34-000-rendez-vous-atelier-exposes-apres-une-cyberattaque/</link>
+    <description>Autobacs France, enseigne spécialisée dans l’entretien automobile, les pièces et les accessoires, fait l’objet d’une fuite de données...
+L’article Autobacs : 34 000 rendez-vous atelier exposés après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 03:48:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Uniformation : 1 200 stagiaires en fuite avec leurs numéros de Sécurité sociale</title>
+    <link>https://www.cyberattaque.org/uniformation-1-200-stagiaires-en-fuite-avec-leurs-numeros-de-securite-sociale/</link>
+    <description>Uniformation, l’opérateur de compétences (Opco) de la Cohésion sociale, fait l’objet d’une fuite de données revendiquée le 22...
+L’article Uniformation : 1 200 stagiaires en fuite avec leurs numéros de Sécurité sociale…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 03:43:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MesMarches : 2 535 profils d’exposants en fuite fuite</title>
+    <link>https://www.cyberattaque.org/mesmarches-2-535-profils-dexposants-en-fuite-fuite/</link>
+    <description>MesMarches, plateforme française permettant de rechercher des marchés, foires, salons et autres événements et de mettre en relation...
+L’article MesMarches : 2 535 profils d’exposants en fuite fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 03:35:26 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Rogue external MFA providers can steal passwords during logins</title>
     <link>https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</link>
     <description>Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]</description>
@@ -288,42 +328,6 @@ L’article Cyberattaque : le scénario d’un « 11-Septembre numérique » inq
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 22 Sep 2026 11:01:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ColisPort : une fuite dévoile les trajets et contenus de 20 000 colis</title>
-    <link>https://www.cyberattaque.org/colisport-pres-de-20-000-expeditions-en-fuite-apres-une-cyberattaque/</link>
-    <description>ColisPort, plateforme permettant aux particuliers et professionnels d’organiser le transport de colis en France et en Europe, fait...
-L’article ColisPort : une fuite dévoile les trajets et contenus de 20 000 colis est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 22 Sep 2026 04:18:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-85102 — Check Point Multiple Products Improper Certificate Validation Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-85102</link>
-    <description>Check Point Security Gateway and Check Point Spark Firewall using Site to Site VPN or Remote Access VPN contain an improper certificate validation vulnerability which could allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-22</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-93616 — Check Point Multiple Products Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-93616</link>
-    <description>Check Point Security Management Server, Multi-Domain Security Management Server, Log Server, Multi-Domain Log Server, and SmartEvent contain a path traversal vulnerability that allows an unauthenticated attacker to upload and execute arbitrary scripts.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-22</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-94127 — F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-94127</link>
-    <description>F5 BIG-IP APM contains a heap-based buffer overflow vulnerability when access policy and an OAuth profile are configured on a virtual server. This vulnerability could allow an unauthenticated attacker to perform remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-22</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-93952 — Arista VeloCloud Orchestrator Improper Input Validation Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-93952</link>
-    <description>Arista VeloCloud Orchestrator (VCO) on-prem contains an improper input validation vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-22</pubDate>
   </item>
 </channel>
 </rss>
