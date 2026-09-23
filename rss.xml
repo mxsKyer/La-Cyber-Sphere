@@ -6,11 +6,46 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] New RemControl Android banking malware targets users in Europe and Canada</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</link>
+    <description>A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 17:25:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK regulator to investigate Pornhub parent company for alleged age verification failings</title>
+    <link>https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</link>
+    <description>In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 23 Sep 2026 20:07:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Check Point warns of hackers exploiting Security Gateway VPN RCE flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/</link>
+    <description>Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 15:53:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] No evidence of successful foreign meddling in 2024 election, spy agencies found</title>
+    <link>https://therecord.media/trump-harris-election-meddling-russia</link>
+    <description>U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 23 Sep 2026 19:30:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers start exploiting critical WordPress flaw for code execution</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</link>
     <description>Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 23 Sep 2026 14:31:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</title>
+    <link>https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</link>
+    <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 23:36:30 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] ShinyHunters expose une guerre interne du cybercrime</title>
@@ -275,57 +310,6 @@ L’article Uniformation : 1 200 stagiaires en fuite avec leurs numéros de Séc
 L’article MesMarches : 2 535 profils d’exposants en fuite fuite est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 23 Sep 2026 03:35:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Rogue external MFA providers can steal passwords during logins</title>
-    <link>https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</link>
-    <description>Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 17:45:45 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sweden fines Miljödata $183,000 over breach affecting 2.2 million</title>
-    <link>https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/</link>
-    <description>Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 17:40:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese hackers exploit WordPress, Zyxel flaws to steal govt data</title>
-    <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/</link>
-    <description>A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 16:35:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Paymium : des données personnelles de clients exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/paymium-des-donnees-personnelles-de-clients-exposees-apres-une-cyberattaque/</link>
-    <description>Paymium, plateforme française spécialisée dans l’achat, la vente et la conservation de cryptomonnaies, informe ses clients d’un incident...
-L’article Paymium : des données personnelles de clients exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 22 Sep 2026 20:18:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Canadian regulator opens probe of IDScan for allegedly violating data privacy laws</title>
-    <link>https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach</link>
-    <description>The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 22 Sep 2026 19:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WordPress : une faille critique permet de prendre le contrôle d’un site après un simple clic</title>
-    <link>https://www.cyberattaque.org/cve-2026-87902-wordpress-une-faille-critique-permet-de-prendre-le-controle-dun-site-apres-un-simple-clic/</link>
-    <description>WordPress vient de publier une mise à jour de sécurité pour corriger une vulnérabilité critique dans le cœur...
-L’article WordPress : une faille critique permet de prendre le contrôle d’un site après un simple clic est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 22 Sep 2026 19:33:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/</link>
-    <description>The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 15:13:29 -0400</pubDate>
   </item>
 </channel>
 </rss>
