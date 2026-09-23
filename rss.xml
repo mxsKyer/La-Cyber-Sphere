@@ -6,6 +6,81 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers start exploiting critical WordPress flaw for code execution</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</link>
+    <description>Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 14:31:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ShinyHunters expose une guerre interne du cybercrime</title>
+    <link>https://www.zataz.com/shinyhunters-expose-une-guerre-interne-du-cybercrime/</link>
+    <description>ShinyHunters menace des rivaux et prend en otage, quelques heures, une adresse appartenant aux pirates du groupe Cl0p.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 23 Sep 2026 17:15:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</title>
+    <link>https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</link>
+    <description>The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 22:23:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers</title>
+    <link>https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/</link>
+    <description>A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 12:20:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</title>
+    <link>https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</link>
+    <description>Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.
+
+The chain, which CERT…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 21:36:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] cPanel : une faille critique permet de prendre le contrôle total d’un serveur</title>
+    <link>https://www.cyberattaque.org/cve-2026-87899-cpanel-faille/</link>
+    <description>cPanel vient de corriger plusieurs vulnérabilités importantes dans son panneau d’administration utilisé par de très nombreux hébergeurs web....
+L’article cPanel : une faille critique permet de prendre le contrôle total…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 23 Sep 2026 15:55:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million</title>
+    <link>https://therecord.media/ransomware-ryuk-sentenced-doj</link>
+    <description>An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 23 Sep 2026 15:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] InfraTrust report warns network management systems under attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/</link>
+    <description>Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 10:35:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI investigating alleged ShinyHunters breach of its jobs site</title>
+    <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
+    <description>The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 23 Sep 2026 14:22:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</title>
+    <link>https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</link>
+    <description>A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&amp;nbsp;Cisco Talos said&amp;nbsp;on September 22.
+
+The models can choose to steal Windows…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 23 Sep 2026 19:47:58 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] How One Kubernetes YAML Can Hand Over a GCP Organization</title>
     <link>https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/</link>
     <description>A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this…</description>
@@ -251,113 +326,6 @@ L’article WordPress : une faille critique permet de prendre le contrôle d’u
     <description>The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 22 Sep 2026 15:13:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks</title>
-    <link>https://thehackernews.com/2026/09/check-point-warns-of-management-server.html</link>
-    <description>Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23,&amp;nbsp;the company said.
-
-The flaw, CVE-2026-93616, allows an attacker who can access…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 23:59:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New ClosedQuorum Windows malware uses AI for attack decisions</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</link>
-    <description>A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 14:04:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers</title>
-    <link>https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html</link>
-    <description>WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.
-
-On some servers, that can go further, allowing the attacker to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 23:33:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials</title>
-    <link>https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html</link>
-    <description>Cybersecurity researchers have disclosed details of a malicious npm package named "tw-pkgprobe-7731" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 23:28:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Reducing shadow IT visibility gaps with Wazuh</title>
-    <link>https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/</link>
-    <description>Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 13:17:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises</title>
-    <link>https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html</link>
-    <description>Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) "at every step of the attack chain."
-
-The action, carried out with authorization…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 22:33:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials</title>
-    <link>https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html</link>
-    <description>A critical vulnerability in&amp;nbsp;Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 22:11:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point warns of Management Server zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/</link>
-    <description>Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 12:32:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates</title>
-    <link>https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html</link>
-    <description>A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was&amp;nbsp;published on GitHub&amp;nbsp;on September 19.
-
-The tool, called…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 22 Sep 2026 21:44:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals</title>
-    <link>https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens</link>
-    <description>Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 22 Sep 2026 15:51:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Legalstart : une cyberattaque expose les données personnelles de ses clients</title>
-    <link>https://www.cyberattaque.org/legalstart-une-cyberattaque-expose-les-donnees-personnelles-de-ses-clients/</link>
-    <description>Legalstart, plateforme française de services juridiques en ligne destinée notamment aux entrepreneurs et entreprises, informe certains de ses...
-L’article Legalstart : une cyberattaque expose les données personnelles de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 22 Sep 2026 15:10:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Facture électronique : les premières arnaques repérées</title>
-    <link>https://www.zataz.com/facture-electronique-les-premieres-arnaques-reperees/</link>
-    <description>ZATAZ repère des arnaques à la facture électronique, entre faux portail, logo officiel et pièges liés à la réforme.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 22 Sep 2026 15:05:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/</link>
-    <description>The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 22 Sep 2026 11:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UNCyber recrute un expert en investigations numériques</title>
-    <link>https://www.zataz.com/uncyber-recrute-un-expert-en-investigations-numeriques/</link>
-    <description>L’UNCyber recrute à Pontoise un expert en investigations numériques, forensique et sciences de la donnée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 22 Sep 2026 14:28:39 +0000</pubDate>
   </item>
 </channel>
 </rss>
