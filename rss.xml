@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Horizane Santé : près de 9 000 comptes clients et un accès administrateur en fuite</title>
+    <link>https://www.cyberattaque.org/horizane-sante-pres-de-9-000-comptes-clients-et-un-acces-administrateur-en-fuite/</link>
+    <description>Horizane Santé, entreprise française spécialisée dans les produits de santé, d’hygiène et de bien-être, fait l’objet d’une cyberattaque...
+L’article Horizane Santé : près de 9 000 comptes clients et un accès…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 03:50:55 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Placeholder domain used in dev docs now serves ClickFix attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</link>
     <description>The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell…</description>
@@ -260,63 +268,6 @@ The attacks, detected on September 3 and 4,…</description>
 The risk applies when an…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 23 Sep 2026 12:34:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite</title>
-    <link>https://www.cyberattaque.org/nis2-enfin-a-lassemblee-nationale-pres-de-deux-ans-apres-la-date-limite/</link>
-    <description>La transposition française de la directive européenne NIS2 va enfin arriver dans l’hémicycle. Le projet de loi relatif...
-L’article NIS2 enfin à l’Assemblée nationale près de deux ans après la date limite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants</title>
-    <link>https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html</link>
-    <description>The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.
-
-"We have compromised…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 11:00:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BackPower : 47 millions de lignes revendiquées dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/cyberatatque-backpower-47-millions-de-lignes-revendiquees-dans-une-fuite-massive/</link>
-    <description>BackPower, entreprise française spécialisée dans le reconditionnement et la fabrication de batteries au lithium, fait l’objet d’une cyberattaque...
-L’article BackPower : 47 millions de lignes revendiquées dans une fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 04:01:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Twizzit : 1,53 million de membres de clubs et associations en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-twizzit-1-53-million-de-membres-de-clubs-et-associations-en-fuite/</link>
-    <description>Twizzit, plateforme de gestion utilisée par des milliers de clubs, associations et fédérations européennes, fait l’objet d’une fuite...
-L’article Twizzit : 1,53 million de membres de clubs et associations en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 03:54:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Autobacs : 34 000 rendez-vous atelier exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/autobacs-34-000-rendez-vous-atelier-exposes-apres-une-cyberattaque/</link>
-    <description>Autobacs France, enseigne spécialisée dans l’entretien automobile, les pièces et les accessoires, fait l’objet d’une fuite de données...
-L’article Autobacs : 34 000 rendez-vous atelier exposés après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 03:48:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Uniformation : 1 200 stagiaires en fuite avec leurs numéros de Sécurité sociale</title>
-    <link>https://www.cyberattaque.org/uniformation-1-200-stagiaires-en-fuite-avec-leurs-numeros-de-securite-sociale/</link>
-    <description>Uniformation, l’opérateur de compétences (Opco) de la Cohésion sociale, fait l’objet d’une fuite de données revendiquée le 22...
-L’article Uniformation : 1 200 stagiaires en fuite avec leurs numéros de Sécurité sociale…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 03:43:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MesMarches : 2 535 profils d’exposants en fuite fuite</title>
-    <link>https://www.cyberattaque.org/mesmarches-2-535-profils-dexposants-en-fuite-fuite/</link>
-    <description>MesMarches, plateforme française permettant de rechercher des marchés, foires, salons et autres événements et de mettre en relation...
-L’article MesMarches : 2 535 profils d’exposants en fuite fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 03:35:26 +0000</pubDate>
   </item>
 </channel>
 </rss>
