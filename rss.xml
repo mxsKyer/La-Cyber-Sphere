@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Placeholder domain used in dev docs now serves ClickFix attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</link>
+    <description>The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 23 Sep 2026 18:46:01 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] New RemControl Android banking malware targets users in Europe and Canada</title>
     <link>https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</link>
     <description>A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]</description>
