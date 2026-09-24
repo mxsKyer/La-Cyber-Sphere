@@ -6,6 +6,97 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Doinsport : 1,75 million de réservations de la plateforme sportive revendiquées</title>
+    <link>https://www.cyberattaque.org/cyberattaque-doinsport-175-million-de-reservations-de-la-plateforme-sportive-revendiquees/</link>
+    <description>Doinsport fait de nouveau l’objet d’une importante revendication de fuite de données. Le hacker RedStone affirme avoir récupéré...
+L’article Doinsport : 1,75 million de réservations de la plateforme sportive…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 16:25:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Maileva, filiale de La Poste victime d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/maileva-filiale-de-la-poste-victime-dune-cyberattaque/</link>
+    <description>Maileva, marque de Docaposte spécialisée dans l’envoi et la gestion de courriers, fait face à un incident de...
+L’article Maileva, filiale de La Poste victime d&amp;rsquo;une cyberattaque est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 15:46:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content</title>
+    <link>https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html</link>
+    <description>The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.
+
+"third-party[.]com has been…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 20:57:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ASP : une cyberattaque expose 143 000 lignes de bénéficiaires du Coup de pouce énergie</title>
+    <link>https://www.cyberattaque.org/asp-une-cyberattaque-expose-143-000-lignes-de-beneficiaires-daides-publiques/</link>
+    <description>L’Agence de services et de paiement (ASP), organisme public chargé de gérer et verser de nombreuses aides publiques...
+L’article ASP : une cyberattaque expose 143 000 lignes de bénéficiaires du Coup de pouce énergie est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 14:38:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer</title>
+    <link>https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html</link>
+    <description>An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 19:59:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] FedRAMP VDR &amp; VER: Daily Scans Are Only the Beginning</title>
+    <link>https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/</link>
+    <description>FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kyiv internet providers report major outages after Russian attacks damage data centers</title>
+    <link>https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes</link>
+    <description>At least four internet providers serving Kyiv and other parts of Ukraine suffered partial connectivity losses following Wednesday’s drone attack, according to internet monitoring group NetBlocks.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers now exploit critical Roundcube flaw in code injection attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/</link>
+    <description>A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 09:27:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Astrana latest healthcare tech firm to report data breach to SEC</title>
+    <link>https://therecord.media/astrana-cyberattack-sec-ransomware</link>
+    <description>The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 13:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI agent breached Australian government health website, Albanese says</title>
+    <link>https://therecord.media/openai-australia-health-breach</link>
+    <description>An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5124010 update released with 46 changes and fixes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/</link>
+    <description>Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 08:16:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls</title>
+    <link>https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html</link>
+    <description>The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.
+
+According to Have I Been Squatted, the campaign uses fake Google Play pages branded…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 17:35:27 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Uptoo : 740 000 CV revendiqués après une cyberattaque</title>
     <link>https://www.cyberattaque.org/uptoo-740-000-cv-revendiques-apres-une-cyberattaque/</link>
     <description>Uptoo, cabinet français spécialisé dans le recrutement de commerciaux et de profils liés à la vente, fait l’objet...
@@ -20,6 +111,13 @@ L’article Uptoo : 740 000 CV revendiqués après une cyberattaque est apparu e
 L’article ARNtreal : 101 000 utilisateurs et leurs réseaux sociaux revendiqués…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 24 Sep 2026 11:12:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</title>
+    <link>https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</link>
+    <description>AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 16:30:00 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] CISA: Ransomware gangs now exploiting critical TeamCity flaw</title>
@@ -140,118 +238,6 @@ L’article Horizane Santé : près de 9 000 comptes clients et un accès…</de
     <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 23 Sep 2026 23:36:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters expose une guerre interne du cybercrime</title>
-    <link>https://www.zataz.com/shinyhunters-expose-une-guerre-interne-du-cybercrime/</link>
-    <description>ShinyHunters menace des rivaux et prend en otage, quelques heures, une adresse appartenant aux pirates du groupe Cl0p.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 23 Sep 2026 17:15:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</title>
-    <link>https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</link>
-    <description>The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 22:23:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers</title>
-    <link>https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/</link>
-    <description>A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 12:20:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key</title>
-    <link>https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html</link>
-    <description>Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.
-
-The chain, which CERT…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 21:36:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] cPanel : une faille critique permet de prendre le contrôle total d’un serveur</title>
-    <link>https://www.cyberattaque.org/cve-2026-87899-cpanel-faille/</link>
-    <description>cPanel vient de corriger plusieurs vulnérabilités importantes dans son panneau d’administration utilisé par de très nombreux hébergeurs web....
-L’article cPanel : une faille critique permet de prendre le contrôle total…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 15:55:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million</title>
-    <link>https://therecord.media/ransomware-ryuk-sentenced-doj</link>
-    <description>An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 15:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] InfraTrust report warns network management systems under attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/</link>
-    <description>Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 10:35:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI investigating alleged ShinyHunters breach of its jobs site</title>
-    <link>https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach</link>
-    <description>The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 14:22:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move</title>
-    <link>https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html</link>
-    <description>A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server,&amp;nbsp;Cisco Talos said&amp;nbsp;on September 22.
-
-The models can choose to steal Windows…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 19:47:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How One Kubernetes YAML Can Hand Over a GCP Organization</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/</link>
-    <description>A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI</title>
-    <link>https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html</link>
-    <description>Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 19:22:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Latvia arrests suspected hacker for electronics repair company breach</title>
-    <link>https://therecord.media/latvia-hacker-arrest-cyberattack</link>
-    <description>Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 12:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Burnham announces plan for new UK center to fight disinformation</title>
-    <link>https://therecord.media/uk-disinformation-russia-center</link>
-    <description>The United Kingdom will create a new national center "to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Arista patches actively exploited VeloCloud Orchestrator zero-day</title>
-    <link>https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/</link>
-    <description>Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 08:29:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control</title>
-    <link>https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html</link>
-    <description>A flaw in cPanel's&amp;nbsp;CalDAV and CardDAV service&amp;nbsp;lets anyone with a cPanel hosting account run code as root and take "full control of the server," the company said on September 22.
-
-A&amp;nbsp;second bug in the WP…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 17:46:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
