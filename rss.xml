@@ -6,6 +6,85 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Uptoo : 740 000 CV revendiqués après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/uptoo-740-000-cv-revendiques-apres-une-cyberattaque/</link>
+    <description>Uptoo, cabinet français spécialisé dans le recrutement de commerciaux et de profils liés à la vente, fait l’objet...
+L’article Uptoo : 740 000 CV revendiqués après une cyberattaque est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 11:29:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ARNtreal : 101 000 utilisateurs et leurs réseaux sociaux revendiqués dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/cyberattaque-arntreal-101-000-utilisateurs-et-leurs-reseaux-sociaux-revendiques-dans-une-fuite-massive/</link>
+    <description>ARNtreal, marque française de vêtements qui associe ses produits à une application gamifiée permettant d’accomplir des missions, gagner...
+L’article ARNtreal : 101 000 utilisateurs et leurs réseaux sociaux revendiqués…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 11:12:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA: Ransomware gangs now exploiting critical TeamCity flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/</link>
+    <description>​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 06:42:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Aéroclub de l’AIA : les licences des pilotes et personnels liés à la Défense exposés</title>
+    <link>https://www.cyberattaque.org/acaia-fr-pirate-les-licences-des-pilotes-et-personnels-lies-a-la-defense-expose/</link>
+    <description>Acaia.fr, site lié à un aéroclub de Clermont-Ferrand, fait l’objet d’une importante fuite de données publiée ce 24...
+L’article Aéroclub de l’AIA : les licences des pilotes et personnels liés à la Défense exposés est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 24 Sep 2026 10:12:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI hacked Australian Medicare govt site, probed data providers</title>
+    <link>https://www.bleepingcomputer.com/news/security/openai-hacked-australian-medicare-govt-site-probed-data-providers/</link>
+    <description>OpenAI agents targeted public data providers in multiple countries, probing some for vulnerabilities and exploiting a security weakness in an Australian government portal while performing information-retrieval tasks as…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 05:38:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360</title>
+    <link>https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html</link>
+    <description>ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 14:44:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes bug that broke Windows File History backup feature</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/</link>
+    <description>Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 04:14:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files</title>
+    <link>https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html</link>
+    <description>An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister&amp;nbsp;Anthony Albanese said.
+
+The portal publishes aggregate…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 12:37:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords</title>
+    <link>https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html</link>
+    <description>Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.
+
+According to Proofpoint, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 12:02:03 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html</link>
+    <description>Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.
+
+The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 11:06:18 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Horizane Santé : près de 9 000 comptes clients et un accès administrateur en fuite</title>
     <link>https://www.cyberattaque.org/horizane-sante-pres-de-9-000-comptes-clients-et-un-acces-administrateur-en-fuite/</link>
     <description>Horizane Santé, entreprise française spécialisée dans les produits de santé, d’hygiène et de bien-être, fait l’objet d’une cyberattaque...
@@ -173,101 +252,6 @@ The models can choose to steal Windows…</description>
 A&amp;nbsp;second bug in the WP…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 23 Sep 2026 17:46:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent</title>
-    <link>https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html</link>
-    <description>Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 17:17:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests</title>
-    <link>https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html</link>
-    <description>Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.
-
-Opus 5.5, per Anthropic,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 17:17:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: September Windows updates break Always On VPN connections</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/</link>
-    <description>Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 07:18:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
-    <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
-    <description>A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst&amp;nbsp;said in research published September 22.
-
-The flaw, tracked…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 16:42:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque chez Place des Salariés : des données familiales et administratives compromises</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-place-des-salaries-des-donnees-familiales-et-administratives-compromises/</link>
-    <description>Place des Salariés, plateforme d’avantages pour les salariés exploitée par le groupe français Haxoneo, informe ses utilisateurs d’une...
-L’article Cyberattaque chez Place des Salariés : des données familiales et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 23 Sep 2026 10:10:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une base de propriétaires de voitures français mise en vente</title>
-    <link>https://www.zataz.com/une-base-de-proprietaires-de-voitures-francais-mise-en-vente/</link>
-    <description>Un pirate propose 10,69 millions de fiches de véhicules français. Volume, origine et authenticité restent à vérifier.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 23 Sep 2026 09:29:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Le « deface » revient dans le commerce des données volées</title>
-    <link>https://www.zataz.com/le-deface-revient-dans-le-commerce-des-donnees-volees/</link>
-    <description>Le « deface » revient chez les vendeurs de données, utilisé comme preuve publique d’accès et de compromission.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 23 Sep 2026 09:12:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers</title>
-    <link>https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</link>
-    <description>Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.
-
-The flaw,&amp;nbsp;CVE-2026-94127, affects only systems in which APM…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 13:59:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware</title>
-    <link>https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html</link>
-    <description>A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.
-
-The attacks, detected on September 3 and 4,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 13:59:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ryuk ransomware member sentenced to 24 months in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
-    <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 04:20:05 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</link>
-    <description>F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 03:17:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input</title>
-    <link>https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html</link>
-    <description>A new security vulnerability in Next.js could allow attackers to run code on a server via&amp;nbsp;ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.
-
-The risk applies when an…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 12:34:40 +0530</pubDate>
   </item>
 </channel>
 </rss>
