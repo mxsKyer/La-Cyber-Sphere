@@ -6,6 +6,57 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges</title>
+    <link>https://therecord.media/russia-forensics-technology-doj</link>
+    <description>Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 20:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks</title>
+    <link>https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</link>
+    <description>U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 20:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Carbonato malware uses AI agents to hijack exposed Docker hosts</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/</link>
+    <description>A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 16:10:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation</title>
+    <link>https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty</link>
+    <description>Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox — an illicit platform used by cybercriminals to sell stolen personal…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 24 Sep 2026 18:57:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</title>
+    <link>https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</link>
+    <description>A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats,&amp;nbsp;chained two flaws in OnePlus's own…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 23:40:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories</title>
+    <link>https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html</link>
+    <description>This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.
+
+That is the thread running through the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 24 Sep 2026 23:22:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Exposed GitLab project email addresses let attackers push code</title>
+    <link>https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/</link>
+    <description>Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 24 Sep 2026 13:47:44 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Doinsport : 1,75 million de réservations de la plateforme sportive revendiquées</title>
     <link>https://www.cyberattaque.org/cyberattaque-doinsport-175-million-de-reservations-de-la-plateforme-sportive-revendiquees/</link>
     <description>Doinsport fait de nouveau l’objet d’une importante revendication de fuite de données. Le hacker RedStone affirme avoir récupéré...
@@ -191,6 +242,20 @@ L’article Horizane Santé : près de 9 000 comptes clients et un accès…</de
     <pubDate>Thu, 24 Sep 2026 03:50:55 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-71362 — Adobe Commerce and Magento Incorrect Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-71362</link>
+    <description>Adobe Commerce and Magento contains an incorrect authorization vulnerability that could allow an attacker to leverage this vulnerability to gain elevated access to sensitive resources without any user interaction. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-24</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-5430 — WSO2 Multiple Products Path Traversal Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-5430</link>
+    <description>WSO2 API Control Plane, API Manager, Traffic Manager &amp; Universal Gateway contain a path traversal vulnerability that could allow for unrestricted file upload and lead to remote code execution. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-24</pubDate>
+  </item>
+  <item>
     <title>[Faible] Placeholder domain used in dev docs now serves ClickFix attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</link>
     <description>The "third-party.com" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell…</description>
@@ -203,41 +268,6 @@ L’article Horizane Santé : près de 9 000 comptes clients et un accès…</de
     <description>A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 23 Sep 2026 17:25:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK regulator to investigate Pornhub parent company for alleged age verification failings</title>
-    <link>https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</link>
-    <description>In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 20:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point warns of hackers exploiting Security Gateway VPN RCE flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/</link>
-    <description>Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 15:53:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] No evidence of successful foreign meddling in 2024 election, spy agencies found</title>
-    <link>https://therecord.media/trump-harris-election-meddling-russia</link>
-    <description>U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 23 Sep 2026 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers start exploiting critical WordPress flaw for code execution</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</link>
-    <description>Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 23 Sep 2026 14:31:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</title>
-    <link>https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</link>
-    <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 23 Sep 2026 23:36:30 +0530</pubDate>
   </item>
 </channel>
 </rss>
