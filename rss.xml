@@ -6,6 +6,121 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Crypto CEO accuses North Korea of stealing $387 million from Bitget platform</title>
+    <link>https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft</link>
+    <description>The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 25 Sep 2026 15:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cyberattack hits Welsh police force, may have affected staff data</title>
+    <link>https://therecord.media/wales-cyberattack-police-breach</link>
+    <description>Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 25 Sep 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/</link>
+    <description>OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 10:54:33 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance</title>
+    <link>https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/</link>
+    <description>AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 10:51:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] GeoNat’îdF : les données de 3 400 utilisateurs de la plateforme biodiversité francilienne piraté</title>
+    <link>https://www.cyberattaque.org/geonatidf-les-donnees-de-3-400-utilisateurs-de-la-plateforme-biodiversite-francilienne-pirate/</link>
+    <description>GeoNat’îdF, la plateforme régionale consacrée aux données naturalistes d’Île-de-France, fait l’objet d’une fuite de données revendiquée ce 25...
+L’article GeoNat’îdF : les données de 3 400 utilisateurs de la plateforme…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 25 Sep 2026 14:16:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Pharmaland : près de 6 800 fiches liées aux pharmacies en fuite</title>
+    <link>https://www.cyberattaque.org/pharmaland-cyberattaque-pres-de-6-800-fiches-liees-aux-pharmacies-en-fuite/</link>
+    <description>Pharmaland, logiciel français de gestion destiné aux pharmacies d’officine, fait l’objet d’une fuite de données revendiquée ce 25...
+L’article Pharmaland : près de 6 800 fiches liées aux pharmacies en fuite est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 25 Sep 2026 13:50:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Plurélya : les données de 150 114 agents publics et enfants mises en vente sur le dark web</title>
+    <link>https://www.cyberattaque.org/cyberattaque-plurelya-les-donnees-de-150-114-agents-publics-et-enfants-mises-en-vente-sur-le-dark-web/</link>
+    <description>Plurélya, organisme historique de gestion des œuvres sociales des agents de la fonction publique, fait l’objet d’une importante...
+L’article Plurélya : les données de 150 114 agents publics et enfants mises en vente sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 25 Sep 2026 13:07:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft plans to deprecate Windows Deployment Services</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/</link>
+    <description>Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 08:40:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Doubts grow over claims OpenAI agent hacked Australian Medicare portal</title>
+    <link>https://therecord.media/openai-australia-breach-cyber</link>
+    <description>Researchers are questioning whether an OpenAI agent needed to hack an Australian government health portal to access it, after a review of the website’s archived code found it explicitly directed visitors to an…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 25 Sep 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Rydox marketplace admin pleads guilty, faces 22 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/</link>
+    <description>A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 07:35:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The SOC Doesn't Need to Start Over with Every Alert</title>
+    <link>https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html</link>
+    <description>Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.
+
+The routine version looks like…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 25 Sep 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise</title>
+    <link>https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html</link>
+    <description>Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets.&amp;nbsp;
+
+"At 18:31 UTC on September 24, 2026, Bitget's security systems identified…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 25 Sep 2026 16:05:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Recent Windows updates cause desktop loading issues</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/</link>
+    <description>Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 06:30:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Century 21 : les données de près de 131 000 personnes mises en vente après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/century-21-les-donnees-de-pres-de-131-000-personnes-mises-en-vente-apres-une-cyberattaque/</link>
+    <description>Century 21 France fait l’objet d’une nouvelle revendication de fuite de données. Le hacker weykofa affirme avoir récupéré...
+L’article Century 21 : les données de près de 131 000 personnes mises en vente après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 25 Sep 2026 10:29:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild</title>
+    <link>https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html</link>
+    <description>The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.
+
+The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 25 Sep 2026 15:44:02 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers steal $351.6 million in Bitget crypto exchange hack</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-steal-3516-million-in-bitget-crypto-exchange-hack/</link>
     <description>​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]</description>
@@ -27,6 +142,20 @@ The data came from disk…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 25 Sep 2026 10:16:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-65660 — Microsoft SharePoint Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-65660</link>
+    <description>Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-25</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-67279 — Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-67279</link>
+    <description>Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-25</pubDate>
   </item>
   <item>
     <title>[Faible] MacSync malware uses public iCloud calendars to deliver new payloads</title>
@@ -101,119 +230,6 @@ L’article Doinsport : 1,75 million de réservations de la plateforme sportive�
 L’article Maileva, filiale de La Poste victime d&amp;rsquo;une cyberattaque est apparu en premier sur…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 24 Sep 2026 15:46:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content</title>
-    <link>https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html</link>
-    <description>The "third-party[.]com" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.
-
-"third-party[.]com has been…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 24 Sep 2026 20:57:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ASP : une cyberattaque expose 143 000 lignes de bénéficiaires du Coup de pouce énergie</title>
-    <link>https://www.cyberattaque.org/asp-une-cyberattaque-expose-143-000-lignes-de-beneficiaires-daides-publiques/</link>
-    <description>L’Agence de services et de paiement (ASP), organisme public chargé de gérer et verser de nombreuses aides publiques...
-L’article ASP : une cyberattaque expose 143 000 lignes de bénéficiaires du Coup de pouce énergie est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 24 Sep 2026 14:38:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer</title>
-    <link>https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html</link>
-    <description>An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 24 Sep 2026 19:59:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] FedRAMP VDR &amp; VER: Daily Scans Are Only the Beginning</title>
-    <link>https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/</link>
-    <description>FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Kyiv internet providers report major outages after Russian attacks damage data centers</title>
-    <link>https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes</link>
-    <description>At least four internet providers serving Kyiv and other parts of Ukraine suffered partial connectivity losses following Wednesday’s drone attack, according to internet monitoring group NetBlocks.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 24 Sep 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers now exploit critical Roundcube flaw in code injection attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/</link>
-    <description>A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 09:27:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Astrana latest healthcare tech firm to report data breach to SEC</title>
-    <link>https://therecord.media/astrana-cyberattack-sec-ransomware</link>
-    <description>The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 24 Sep 2026 13:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI agent breached Australian government health website, Albanese says</title>
-    <link>https://therecord.media/openai-australia-health-breach</link>
-    <description>An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 24 Sep 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 KB5124010 update released with 46 changes and fixes</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/</link>
-    <description>Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 08:16:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls</title>
-    <link>https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html</link>
-    <description>The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.
-
-According to Have I Been Squatted, the campaign uses fake Google Play pages branded…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 24 Sep 2026 17:35:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Uptoo : 740 000 CV revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/uptoo-740-000-cv-revendiques-apres-une-cyberattaque/</link>
-    <description>Uptoo, cabinet français spécialisé dans le recrutement de commerciaux et de profils liés à la vente, fait l’objet...
-L’article Uptoo : 740 000 CV revendiqués après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 24 Sep 2026 11:29:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ARNtreal : 101 000 utilisateurs et leurs réseaux sociaux revendiqués dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/cyberattaque-arntreal-101-000-utilisateurs-et-leurs-reseaux-sociaux-revendiques-dans-une-fuite-massive/</link>
-    <description>ARNtreal, marque française de vêtements qui associe ses produits à une application gamifiée permettant d’accomplir des missions, gagner...
-L’article ARNtreal : 101 000 utilisateurs et leurs réseaux sociaux revendiqués…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 24 Sep 2026 11:12:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore</title>
-    <link>https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html</link>
-    <description>AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 24 Sep 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA: Ransomware gangs now exploiting critical TeamCity flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/</link>
-    <description>​The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies on Wednesday that ransomware gangs are now also exploiting a critical JetBrains TeamCity vulnerability patched in July. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 06:42:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Aéroclub de l’AIA : les licences des pilotes et personnels liés à la Défense exposés</title>
-    <link>https://www.cyberattaque.org/acaia-fr-pirate-les-licences-des-pilotes-et-personnels-lies-a-la-defense-expose/</link>
-    <description>Acaia.fr, site lié à un aéroclub de Clermont-Ferrand, fait l’objet d’une importante fuite de données publiée ce 24...
-L’article Aéroclub de l’AIA : les licences des pilotes et personnels liés à la Défense exposés est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 24 Sep 2026 10:12:32 +0000</pubDate>
   </item>
 </channel>
 </rss>
