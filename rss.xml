@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions</title>
+    <link>https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/</link>
+    <description>A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&amp;#038;T customers in 2024 was sentenced to 70 months in…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Fri, 25 Sep 2026 21:44:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Kiteworks urges 6-hour server shutdown over potential zero-day attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/</link>
+    <description>Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 17:41:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/</link>
+    <description>The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 25 Sep 2026 16:57:55 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kiteworks urges customers to stop using platform after warning from federal intelligence agencies</title>
+    <link>https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident</link>
+    <description>Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 25 Sep 2026 20:19:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings</title>
+    <link>https://therecord.media/labcorp-to-overhaul-security-practices-settlement</link>
+    <description>Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 25 Sep 2026 19:35:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Réassurez-moi : les données personnelles et financières de clients exfiltrées</title>
     <link>https://www.cyberattaque.org/reassurez-moi-cyberattaque/</link>
     <description>Réassurez-moi, courtier français spécialisé notamment dans l’assurance emprunteur et la mutuelle santé, informe ses clients d’une cyberattaque ayant...
@@ -191,6 +226,13 @@ The data came from disk…</description>
     <pubDate>Fri, 25 Sep 2026 10:16:34 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-87902 — WordPress Core Remote File Inclusion Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-87902</link>
+    <description>WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme directories, leading to remote code execution.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-25</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-65660 — Microsoft SharePoint Code Injection Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-65660</link>
     <description>Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.</description>
@@ -203,34 +245,6 @@ The data came from disk…</description>
     <description>Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-09-25</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MacSync malware uses public iCloud calendars to deliver new payloads</title>
-    <link>https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/</link>
-    <description>A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 16:53:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Digital forensics firm with US federal contracts covered up ties to Russia, DOJ alleges</title>
-    <link>https://therecord.media/russia-forensics-technology-doj</link>
-    <description>Two executives at a data extraction and digital forensics company that sold several U.S. agencies its software were arrested for allegedly lying about the fact that its technology is made in Russia.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 24 Sep 2026 20:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lawmakers introduce bill for voluntary telecom cyber rules after Salt Typhoon hacks</title>
-    <link>https://therecord.media/lawmakers-introduce-bill-for-voluntary-telecom-cyber-rules</link>
-    <description>U.S. Sens. Mark Warner (D-VA) and Ted Cruz (R-TX) introduced the Telecommunications Cybersecurity and Resilience Act on Thursday, arguing that the new effort was necessary in light of the Salt Typhoon attacks which saw…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 24 Sep 2026 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Carbonato malware uses AI agents to hijack exposed Docker hosts</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/</link>
-    <description>A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 24 Sep 2026 16:10:48 -0400</pubDate>
   </item>
 </channel>
 </rss>
