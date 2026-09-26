@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Celinni : les propriétaires de bijoux exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/celinni-les-proprietaires-de-bijoux-exposes-apres-une-cyberattaque/</link>
+    <description>Celinni, maison française spécialisée dans la joaillerie et les diamants naturels, fait l’objet d’une revendication de cyberattaque. Un...
+L’article Celinni : les propriétaires de bijoux exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 26 Sep 2026 05:24:59 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] U.S. Soldier Gets 70 Months in Prison for AT&amp;T, Verizon Extortions</title>
     <link>https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/</link>
     <description>A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&amp;#038;T customers in 2024 was sentenced to 70 months in…</description>
@@ -208,22 +216,6 @@ The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a…</descrip
     <description>​Cryptocurrency exchange Bitget disclosed today that suspected North Korean hackers have stolen $351.6 million from its hot and warm wallets. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 25 Sep 2026 04:33:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data</title>
-    <link>https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html</link>
-    <description>A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday.
-
-The data came from disk…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 25 Sep 2026 10:19:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV</title>
-    <link>https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 25 Sep 2026 10:16:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
