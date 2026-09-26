@@ -225,26 +225,5 @@ The data came from disk…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 25 Sep 2026 10:16:34 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-87902 — WordPress Core Remote File Inclusion Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-87902</link>
-    <description>WordPress Core contains a remote file inclusion vulnerability which could allow an unauthenticated attacker to make page-template resolution include a chosen readable local `.php` file outside the active theme directories, leading to remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-25</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-65660 — Microsoft SharePoint Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-65660</link>
-    <description>Microsoft SharePoint contains a code injection vulnerability which could allow an authorized attacker to execute code over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-25</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-67279 — Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-67279</link>
-    <description>Mikrotik RouterOS contains an improper enforcement of behavioral workflow vulnerability that could allow an unauthenticated client to open a session channel and send an exec request. This vulnerability can be chained to achieve unauthenticated exploitation of CVE-2026-86060.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-25</pubDate>
-  </item>
 </channel>
 </rss>
