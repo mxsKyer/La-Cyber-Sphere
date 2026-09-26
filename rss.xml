@@ -6,6 +6,30 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/</link>
+    <description>The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 26 Sep 2026 15:03:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CAPM Europe : 200 Go d’e-mails, documents et données CRM diffusés</title>
+    <link>https://www.cyberattaque.org/capm-europe-cyberattaque-200-go-de-mails-documents-et-donnees-crm-diffuses/</link>
+    <description>CAPM Europe, important spécialiste français des chariots élévateurs et du matériel de manutention, apparaît dans une nouvelle publication...
+L’article CAPM Europe : 200 Go d’e-mails, documents et données CRM diffusés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 26 Sep 2026 18:40:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</title>
+    <link>https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html</link>
+    <description>The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.
+
+The new findings…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 26 Sep 2026 23:52:52 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/</link>
     <description>Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]</description>
@@ -139,35 +163,6 @@ L’article Celinni : les propriétaires de bijoux exposés après une cyberatta
     <description>Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some…</description>
     <source>The Record</source>
     <pubDate>Fri, 25 Sep 2026 20:19:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings</title>
-    <link>https://therecord.media/labcorp-to-overhaul-security-practices-settlement</link>
-    <description>Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 25 Sep 2026 19:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Réassurez-moi : les données personnelles et financières de clients exfiltrées</title>
-    <link>https://www.cyberattaque.org/reassurez-moi-cyberattaque/</link>
-    <description>Réassurez-moi, courtier français spécialisé notamment dans l’assurance emprunteur et la mutuelle santé, informe ses clients d’une cyberattaque ayant...
-L’article Réassurez-moi : les données personnelles et financières…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 25 Sep 2026 18:59:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Elementor WordPress flaw lets attackers create admin accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/</link>
-    <description>A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 25 Sep 2026 14:13:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/</link>
-    <description>The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 25 Sep 2026 13:24:20 -0400</pubDate>
   </item>
 </channel>
 </rss>
