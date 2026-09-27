@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] SDIS 80 : près de 2 500 sapeurs-pompiers et agents de la Somme dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/sdis-80-pres-de-2-500-sapeurs-pompiers-et-agents-de-la-somme-dans-une-fuite-de-donnees/</link>
+    <description>Le Service départemental d’incendie et de secours de la Somme (SDIS 80) fait l’objet d’une fuite de données...
+L’article SDIS 80 : près de 2 500 sapeurs-pompiers et agents de la Somme dans une fuite de données est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 27 Sep 2026 04:26:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cigusto : les données de 150 000 clients de l’enseigne de vape revendiquées</title>
     <link>https://www.cyberattaque.org/cigusto-les-donnees-de-150-000-clients-de-lenseigne-de-vape-revendiquees/</link>
     <description>Cigusto, réseau français spécialisé dans la cigarette électronique et les produits de vapotage, fait l’objet d’une nouvelle revendication...
@@ -135,14 +143,6 @@ L’article Communauto : les permis de conduire des membres volés après une cy
 "Kiteworks…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 26 Sep 2026 13:18:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Celinni : les propriétaires de bijoux exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/celinni-les-proprietaires-de-bijoux-exposes-apres-une-cyberattaque/</link>
-    <description>Celinni, maison française spécialisée dans la joaillerie et les diamants naturels, fait l’objet d’une revendication de cyberattaque. Un...
-L’article Celinni : les propriétaires de bijoux exposés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 26 Sep 2026 05:24:59 +0000</pubDate>
   </item>
 </channel>
 </rss>
