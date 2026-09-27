@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</title>
+    <link>https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</link>
+    <description>Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 27 Sep 2026 13:17:57 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] SDIS 80 : près de 2 500 sapeurs-pompiers et agents de la Somme dans une fuite de données</title>
     <link>https://www.cyberattaque.org/sdis-80-pres-de-2-500-sapeurs-pompiers-et-agents-de-la-somme-dans-une-fuite-de-donnees/</link>
     <description>Le Service départemental d’incendie et de secours de la Somme (SDIS 80) fait l’objet d’une fuite de données...
@@ -81,68 +88,6 @@ L’article Carrefour : des données clients exposées après la cyberattaque de
     <description>Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 26 Sep 2026 10:19:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI's AI agents accidentally uploaded user-provided images to third-party sites</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/</link>
-    <description>OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 26 Sep 2026 08:28:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Aestria : les données clients et outils internes d’un prestataire cyber en fuite</title>
-    <link>https://www.cyberattaque.org/aestria-les-donnees-clients-et-outils-internes-dun-prestataire-cyber-en-fuite/</link>
-    <description>Aestria, société française spécialisée dans les services informatiques, les réseaux et la cybersécurité, fait l’objet d’une importante revendication...
-L’article Aestria : les données clients et outils internes d’un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 26 Sep 2026 11:47:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells</title>
-    <link>https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</link>
-    <description>Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.
-
-The ShinyHunters-linked activity involves the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 26 Sep 2026 17:16:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Communauto : les permis de conduire des membres volés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/communauto-permis-cyberattaque-voles/</link>
-    <description>Communauto, service d’autopartage présent notamment à Paris et en Île-de-France, informe certains de ses membres d’un incident de...
-L’article Communauto : les permis de conduire des membres volés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 26 Sep 2026 11:33:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Zero Trust for AI Agents Starts With Fixing Zero Visibility</title>
-    <link>https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html</link>
-    <description>The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 26 Sep 2026 16:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link</title>
-    <link>https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</link>
-    <description>Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 26 Sep 2026 15:25:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild</title>
-    <link>https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 26 Sep 2026 14:19:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack</title>
-    <link>https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</link>
-    <description>Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.
-
-"Kiteworks…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 26 Sep 2026 13:18:33 +0530</pubDate>
   </item>
 </channel>
 </rss>
