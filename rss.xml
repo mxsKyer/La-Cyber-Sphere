@@ -6,6 +6,54 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Alaxione : 8,6 millions de patients revendiqués dans une nouvelle fuite</title>
+    <link>https://www.cyberattaque.org/alaxione-86-millions-de-patients-revendiques-dans-une-nouvelle-fuite/</link>
+    <description>Alaxione, société française de e-santé spécialisée dans la gestion des agendas médicaux et du parcours patient, fait l’objet...
+L’article Alaxione : 8,6 millions de patients revendiqués dans une nouvelle fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:58:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Oracio : les adresses de 96 000 personnes exposées avec 1 856 digicodes après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/oracio-les-adresses-de-96-000-personnes-exposees-avec-1-856-digicodes-apres-une-cyberattaque/</link>
+    <description>Oracio, application française utilisée par les professionnels pour réaliser et gérer des états des lieux immobiliers, fait l’objet...
+L’article Oracio : les adresses de 96 000 personnes exposées avec 1 856 digicodes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:52:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Kiassure : 42 000 dossiers clients dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/kiassure-42-000-dossiers-clients-dans-une-fuite-de-donnees/</link>
+    <description>Kiassure, courtier grossiste français spécialisé dans l’assurance santé et la prévoyance, fait l’objet d’une importante revendication de fuite...
+L’article Kiassure : 42 000 dossiers clients dans une fuite de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:46:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Azaé : près de 3 700 fichiers révèlent des informations médicales sur des bénéficiaires</title>
+    <link>https://www.cyberattaque.org/azae-cyberattaque-fichiers-revelent-des-informations-medicales-sur-des-beneficiaires/</link>
+    <description>Azaé, réseau français spécialisé dans les services à la personne et l’aide à domicile, fait l’objet d’une importante...
+L’article Azaé : près de 3 700 fichiers révèlent des informations médicales sur des bénéficiaires…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:41:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque chez Portalia : 22 000 documents en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-portalia-22-000-documents-en-fuite/</link>
+    <description>Portalia, entreprise française spécialisée dans le portage salarial, fait l’objet d’une importante fuite de données revendiquée ce 28...
+L’article Cyberattaque chez Portalia : 22 000 documents en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:33:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Planity : 17 244 fiches clients diffusées après une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/planity-17-244-fiches-clients-diffusees-apres-une-nouvelle-cyberattaque/</link>
+    <description>Planity, leader français de la réservation en ligne pour les salons de coiffure, instituts de beauté et professionnels...
+L’article Planity : 17 244 fiches clients diffusées après une nouvelle cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 03:29:34 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/</link>
     <description>OpenAI is testing a new always-on assistant called "o", and references to the unannounced feature briefly showed up on the company's website. [...]</description>
@@ -55,28 +103,6 @@ L’article Agefiph : les données de 3 700 personnes en situation de handicap�
     <description>Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 27 Sep 2026 13:17:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SDIS 80 : près de 2 500 sapeurs-pompiers et agents de la Somme dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/sdis-80-pres-de-2-500-sapeurs-pompiers-et-agents-de-la-somme-dans-une-fuite-de-donnees/</link>
-    <description>Le Service départemental d’incendie et de secours de la Somme (SDIS 80) fait l’objet d’une fuite de données...
-L’article SDIS 80 : près de 2 500 sapeurs-pompiers et agents de la Somme dans une fuite de données est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 27 Sep 2026 04:26:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-88771 — Citrix NetScaler Improper Input Validation Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-88771</link>
-    <description>Citrix NetScaler ADC and NetScaler Gateway contain an improper input validation vulnerability that could allow an unauthenticated attacker to execute arbitrary commands.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-27</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-88772 — Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-88772</link>
-    <description>Citrix NetScaler ADC and NetScaler Gateway contain an improper restriction of operations within the bounds of a memory buffer vulnerability that could allow for remote code execution or denial of service</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-27</pubDate>
   </item>
 </channel>
 </rss>
