@@ -6,11 +6,49 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Japan's Keio confirms ransomware attack disrupted business systems</title>
+    <link>https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/</link>
+    <description>Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 28 Sep 2026 16:56:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Times Car confirms data breach affecting 6.6 million user accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/</link>
+    <description>Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 28 Sep 2026 16:31:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Talentplug : près de 119 000 candidatures diffusées sur le Dark Web</title>
+    <link>https://www.cyberattaque.org/talentplug-cyberattaque-pres-de-119-000-candidatures-diffusees-sur-le-dark-web/</link>
+    <description>Talentplug, solution française utilisée par les entreprises pour diffuser leurs offres d’emploi et centraliser les candidatures, fait l’objet...
+L’article Talentplug : près de 119 000 candidatures diffusées sur le Dark…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 28 Sep 2026 20:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dutch police confirm arrest in ShinyHunters hacking investigation</title>
+    <link>https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/</link>
+    <description>Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 28 Sep 2026 15:49:10 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns</title>
     <link>https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant</link>
     <description>A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site.</description>
     <source>The Record</source>
     <pubDate>Mon, 28 Sep 2026 19:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</title>
+    <link>https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html</link>
+    <description>Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.
+
+The vulnerability, tracked as CVE-2026-86950, refers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 29 Sep 2026 00:48:01 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Misconfigured Supabase apps expose data in over 16,000 databases</title>
@@ -26,6 +64,15 @@
 L’article Colec victime d’une cyberattaque, 3,36 Go de données en fuite est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 28 Sep 2026 18:49:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks</title>
+    <link>https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html</link>
+    <description>Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in&amp;nbsp;a technical analysis.
+
+The malware has been seen in a small number of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 29 Sep 2026 00:05:42 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] IAM for AI agents: A Practical Enterprise Framework</title>
@@ -271,13 +318,6 @@ L’article Cyberattaque chez Portalia : 22 000 documents en fuite est apparu en
 L’article Planity : 17 244 fiches clients diffusées après une nouvelle cyberattaque est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 28 Sep 2026 03:29:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/</link>
-    <description>OpenAI is testing a new always-on assistant called "o", and references to the unannounced feature briefly showed up on the company's website. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 27 Sep 2026 19:40:39 -0400</pubDate>
   </item>
 </channel>
 </rss>
