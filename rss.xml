@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Alaxione : les données de santé de 16,2 millions de personnes en fuite, 67 centres Point Vision concernés</title>
+    <link>https://www.cyberattaque.org/alaxione-les-donnees-de-sante-de-162-millions-de-personnes-en-fuite-67-centres-point-vision-concernes/</link>
+    <description>La fuite visant Alaxione prend une nouvelle ampleur et se place comme la plus grosse fuite de données...
+L’article Alaxione : les données de santé de 16,2 millions de personnes en fuite, 67 centres Point Vision…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 29 Sep 2026 03:14:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Orisha : 1,3 million de personnes et 143 000 IBAN revendiqués après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/orisha-groupe-kel-13-million-de-personnes-et-143-000-iban-revendiques-apres-une-cyberattaque/</link>
+    <description>KEL, éditeur de logiciels de gestion immobilière intégré à Orisha Real Estate, fait l’objet d’une revendication de cyberattaque...
+L’article Orisha : 1,3 million de personnes et 143 000 IBAN revendiqués après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 29 Sep 2026 02:58:43 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Japan's Keio confirms ransomware attack disrupted business systems</title>
     <link>https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/</link>
     <description>Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]</description>
@@ -270,54 +286,6 @@ Microsoft, which is tracking the activity under the…</description>
     <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 28 Sep 2026 02:24:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alaxione : 8,6 millions de patients revendiqués dans une nouvelle fuite</title>
-    <link>https://www.cyberattaque.org/alaxione-86-millions-de-patients-revendiques-dans-une-nouvelle-fuite/</link>
-    <description>Alaxione, société française de e-santé spécialisée dans la gestion des agendas médicaux et du parcours patient, fait l’objet...
-L’article Alaxione : 8,6 millions de patients revendiqués dans une nouvelle fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:58:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Oracio : les adresses de 96 000 personnes exposées avec 1 856 digicodes après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/oracio-les-adresses-de-96-000-personnes-exposees-avec-1-856-digicodes-apres-une-cyberattaque/</link>
-    <description>Oracio, application française utilisée par les professionnels pour réaliser et gérer des états des lieux immobiliers, fait l’objet...
-L’article Oracio : les adresses de 96 000 personnes exposées avec 1 856 digicodes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:52:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Kiassure : 42 000 dossiers clients dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/kiassure-42-000-dossiers-clients-dans-une-fuite-de-donnees/</link>
-    <description>Kiassure, courtier grossiste français spécialisé dans l’assurance santé et la prévoyance, fait l’objet d’une importante revendication de fuite...
-L’article Kiassure : 42 000 dossiers clients dans une fuite de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:46:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Azaé : près de 3 700 fichiers révèlent des informations médicales sur des bénéficiaires</title>
-    <link>https://www.cyberattaque.org/azae-cyberattaque-fichiers-revelent-des-informations-medicales-sur-des-beneficiaires/</link>
-    <description>Azaé, réseau français spécialisé dans les services à la personne et l’aide à domicile, fait l’objet d’une importante...
-L’article Azaé : près de 3 700 fichiers révèlent des informations médicales sur des bénéficiaires…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:41:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque chez Portalia : 22 000 documents en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-portalia-22-000-documents-en-fuite/</link>
-    <description>Portalia, entreprise française spécialisée dans le portage salarial, fait l’objet d’une importante fuite de données revendiquée ce 28...
-L’article Cyberattaque chez Portalia : 22 000 documents en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:33:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Planity : 17 244 fiches clients diffusées après une nouvelle cyberattaque</title>
-    <link>https://www.cyberattaque.org/planity-17-244-fiches-clients-diffusees-apres-une-nouvelle-cyberattaque/</link>
-    <description>Planity, leader français de la réservation en ligne pour les salons de coiffure, instituts de beauté et professionnels...
-L’article Planity : 17 244 fiches clients diffusées après une nouvelle cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 28 Sep 2026 03:29:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
