@@ -6,6 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Scribd confirme une cyberattaque ayant exposé les données de certains utilisateurs</title>
+    <link>https://www.cyberattaque.org/scribd-confirme-une-cyberattaque-ayant-expose-les-donnees-de-certains-utilisateurs/</link>
+    <description>Scribd confirme avoir été victime d’une cyberattaque ayant permis à un tiers non autorisé d’accéder à ses systèmes...
+L’article Scribd confirme une cyberattaque ayant exposé les données de certains utilisateurs est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 07:46:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution</title>
+    <link>https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</link>
+    <description>Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.
+
+The vulnerability,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 30 Sep 2026 11:00:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DECOClim confirme une cyberattaque : les commandes sont exposées</title>
+    <link>https://www.cyberattaque.org/decoclim-confirme-une-cyberattaque-les-commandes-sont-exposees/</link>
+    <description>DECOClim, entreprise spécialisée dans les solutions décoratives destinées notamment à dissimuler les climatiseurs et pompes à chaleur, informe...
+L’article DECOClim confirme une cyberattaque : les commandes sont…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 04:45:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FFRandonnée : 1,43 million de fiches d’adhérents en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/ffrandonnee-143-million-de-fiches-dadherents-en-fuite-apres-une-cyberattaque/</link>
+    <description>La Fédération Française de la Randonnée Pédestre (FFRandonnée) fait l’objet d’une importante revendication de fuite de données. Le...
+L’article FFRandonnée : 1,43 million de fiches d’adhérents en fuite après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 04:28:15 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft is rolling out Linux container support to WSL</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/</link>
     <description>Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]</description>
@@ -207,52 +240,6 @@ L’article L’ANSSI vient de publier son rapport choc sur la cyberattaque de l
 "It is true that this month a 24-year-old man from Amsterdam was arrested in an…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 29 Sep 2026 14:05:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Apple patches CoreGraphics zero-day flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/</link>
-    <description>Apple released security updates to fix a zero-day vulnerability exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 03:33:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials</title>
-    <link>https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</link>
-    <description>A malicious MCP server could trick an application built on the official&amp;nbsp;MCP Python SDK&amp;nbsp;into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 11:38:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions</title>
-    <link>https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html</link>
-    <description>OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 10:42:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot</title>
-    <link>https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html</link>
-    <description>OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 10:15:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Alaxione : les données de santé de 16,2 millions de personnes en fuite, 67 centres Point Vision concernés</title>
-    <link>https://www.cyberattaque.org/alaxione-les-donnees-de-sante-de-162-millions-de-personnes-en-fuite-67-centres-point-vision-concernes/</link>
-    <description>La fuite visant Alaxione prend une nouvelle ampleur et se place comme la plus grosse fuite de données...
-L’article Alaxione : les données de santé de 16,2 millions de personnes en fuite, 67 centres Point Vision…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 29 Sep 2026 03:14:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Orisha : 1,3 million de personnes et 143 000 IBAN revendiqués après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/orisha-groupe-kel-13-million-de-personnes-et-143-000-iban-revendiques-apres-une-cyberattaque/</link>
-    <description>KEL, éditeur de logiciels de gestion immobilière intégré à Orisha Real Estate, fait l’objet d’une revendication de cyberattaque...
-L’article Orisha : 1,3 million de personnes et 143 000 IBAN revendiqués après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 29 Sep 2026 02:58:43 +0000</pubDate>
   </item>
 </channel>
 </rss>
