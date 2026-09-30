@@ -6,12 +6,113 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] DIVD says Zammad zero-days enabled AI-driven network breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/</link>
+    <description>The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 30 Sep 2026 15:49:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] After reports on suicide deaths, Pentagon puts Cyber Command on notice</title>
+    <link>https://therecord.media/cyber-command-suicide-deaths-pentagon-memo</link>
+    <description>An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 30 Sep 2026 19:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation</title>
+    <link>https://therecord.media/google-vulnerabilities-cyberattacks-ai</link>
+    <description>Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 30 Sep 2026 19:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SDIS 66 : 118 892 interventions et près de 100 000 documents médicaux revendiqués par un hacker</title>
+    <link>https://www.cyberattaque.org/sdis-66-118-892-interventions-et-pres-de-100-000-documents-medicaux-revendiques-par-un-hacker/</link>
+    <description>Le Service départemental d’incendie et de secours des Pyrénées-Orientales (SDIS 66) fait l’objet d’une importante revendication de fuite...
+L’article SDIS 66 : 118 892 interventions et près de 100 000 documents médicaux…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 18:25:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] École vétérinaire d’Alfort : des accès administrateurs et cookies de session revendiqués par un hacker</title>
+    <link>https://www.cyberattaque.org/ecole-veterinaire-dalfort-des-acces-administrateurs-et-cookies-de-session-revendiques-par-un-hacker/</link>
+    <description>L’École nationale vétérinaire d’Alfort (EnvA) fait l’objet d’une alerte de sécurité après une publication du hacker lucifer3d, associé...
+L’article École vétérinaire d’Alfort : des accès administrateurs et cookies de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 18:20:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Over 543,000 valid credentials exposed in public GitHub repositories</title>
+    <link>https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/</link>
+    <description>More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 30 Sep 2026 14:08:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets</title>
+    <link>https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html</link>
+    <description>Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.
+
+The attack…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 30 Sep 2026 22:16:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks</title>
+    <link>https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html</link>
+    <description>Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 30 Sep 2026 22:02:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 30 Sep 2026 11:49:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’ANSSI révèle un été noir pour l’État : près de 55 millions de profils concernés par des fuites de données</title>
+    <link>https://www.cyberattaque.org/lanssi-revele-un-ete-noir-pour-letat-pres-de-55-millions-de-profils-concernes-par-des-fuites-de-donnees/</link>
+    <description>Près de 55 millions de personnes, usagers ou comptes apparaissent dans les différents volumes chiffrés par l’ANSSI dans...
+L’article L’ANSSI révèle un été noir pour l’État : près de 55 millions de profils concernés par…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 15:28:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager</title>
+    <link>https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</link>
+    <description>Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&amp;nbsp;advisory&amp;nbsp;on September 30.
+
+The flaw,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 30 Sep 2026 20:54:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Adéquat : les données de candidats exposées pendant trois mois</title>
+    <link>https://www.cyberattaque.org/adequat-les-donnees-de-candidats-exposees-pendant-trois-mois/</link>
+    <description>Adéquat Intérim &amp;#38; Recrutement confirme avoir été victime d’un incident de sécurité ayant touché son site jobadequat.fr. Dans...
+L’article Adéquat : les données de candidats exposées pendant trois mois est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 30 Sep 2026 15:24:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Fiducial : 65 Go de données judiciaires et financières revendiqués par un ransomware</title>
     <link>https://www.cyberattaque.org/fiducial-65-go-de-donnees-judiciaires-et-financieres-revendiques-par-un-ransomware/</link>
     <description>Fiducial, groupe français présent dans l’expertise comptable, la banque, le droit, l’informatique et les services aux entreprises, est...
 L’article Fiducial : 65 Go de données judiciaires et financières revendiqués par…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 30 Sep 2026 15:05:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures</title>
+    <link>https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html</link>
+    <description>Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.
+
+Huntress, which observed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 30 Sep 2026 20:30:15 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Distinxion (autos.fr) : près de 500 000 prospects exposés après une cyberattaque</title>
@@ -189,6 +290,13 @@ L’article FFRandonnée : 1,43 million de fiches d’adhérents en fuite après
     <pubDate>Tue, 29 Sep 2026 20:40:57 -0400</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76504</link>
+    <description>Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-09-30</pubDate>
+  </item>
+  <item>
     <title>[Faible] Signal adds encypted local backup support to iOS, desktop apps</title>
     <link>https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/</link>
     <description>Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]</description>
@@ -215,104 +323,6 @@ L’article FFRandonnée : 1,43 million de fiches d’adhérents en fuite après
     <description>The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.</description>
     <source>The Record</source>
     <pubDate>Tue, 29 Sep 2026 20:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI tells ShinyHunters members to turn themselves in after recent arrest</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/</link>
-    <description>The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 16:09:55 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI apologizes for agents breaching Australian government websites without authorization</title>
-    <link>https://therecord.media/openai-apologizes-australia-medicare-breach</link>
-    <description>The artificial intelligence giant acknowledged it botched its response to the incidents and should have done more to promptly notify and work with the Australian government in the days after it discovered the breaches.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 29 Sep 2026 19:48:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit Citrix NetScaler zero-day to deploy web shells</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/</link>
-    <description>Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 14:37:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Former US Air Force members sent to prison over BEC attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/</link>
-    <description>Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 14:09:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks</title>
-    <link>https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html</link>
-    <description>An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.
-
-Neither the tax administration nor France's national…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 23:17:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Windows 11 2026 Update released, here's everything you need to know</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/</link>
-    <description>Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 13:37:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses</title>
-    <link>https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html</link>
-    <description>A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 22:50:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor</title>
-    <link>https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html</link>
-    <description>Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers,&amp;nbsp;according to Microsoft.
-
-The campaigns, aimed at people and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 29 Sep 2026 22:50:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SFR : près de 16 000 dossiers de rendez-vous de raccordement diffusés sur le Darknet</title>
-    <link>https://www.cyberattaque.org/sfr-pres-de-16-000-dossiers-de-rendez-vous-de-raccordement-diffuses-sur-le-darknet/</link>
-    <description>SFR est visé par une nouvelle fuite de données publiée ce 29 septembre 2026. Le hacker Syrv4x diffuse...
-L’article SFR : près de 16 000 dossiers de rendez-vous de raccordement diffusés sur le Darknet est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 29 Sep 2026 17:11:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Spectre v2 attack variant leaks Linux root password hash in minutes</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/</link>
-    <description>A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 13:10:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Krys Group : les données de plus de 8 000 personnes diffusées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/krys-group-les-donnees-de-plus-de-8-000-personnes-diffusees-apres-une-cyberattaque/</link>
-    <description>Krys Group, leader français de l’optique et acteur majeur de l’audition, est visé par une fuite de données...
-L’article Krys Group : les données de plus de 8 000 personnes diffusées après une cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 29 Sep 2026 17:03:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Laboratoire LCS : les données de 30 000 porteurs de lentilles en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-laboratoire-lcs-les-donnees-de-30-000-porteurs-de-lentilles-en-fuite/</link>
-    <description>Laboratoire LCS, fabricant français de lentilles de contact de spécialité basé à Caen, fait l’objet d’une fuite de...
-L’article Laboratoire LCS : les données de 30 000 porteurs de lentilles en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 29 Sep 2026 16:59:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Automated AI agent used to breach cybersecurity nonprofit DIVD</title>
-    <link>https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/</link>
-    <description>The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as "loud and very, very messy." [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 11:39:19 -0400</pubDate>
   </item>
 </channel>
 </rss>
