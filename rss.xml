@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft is rolling out Linux container support to WSL</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/</link>
+    <description>Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 29 Sep 2026 20:40:57 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Signal adds encypted local backup support to iOS, desktop apps</title>
     <link>https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/</link>
     <description>Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]</description>
@@ -246,13 +253,6 @@ L’article Alaxione : les données de santé de 16,2 millions de personnes en f
 L’article Orisha : 1,3 million de personnes et 143 000 IBAN revendiqués après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 29 Sep 2026 02:58:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-86950 — Apple Multiple Products Out-of-Bounds Write Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-86950</link>
-    <description>Apple iOS, macOS, and iPadOS contain an out-of-bounds write vulnerability in CoreGraphics that may lead to arbitrary code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-29</pubDate>
   </item>
 </channel>
 </rss>
