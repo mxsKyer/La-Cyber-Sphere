@@ -6,6 +6,61 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft</title>
+    <link>https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</link>
+    <description>Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 10:51:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MetaMask Security Incident Prompts Exit of Affected Ethereum Validators</title>
+    <link>https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</link>
+    <description>MetaMask on Thursday said it's responding to what it described as an "ongoing security incident" impacting part of its infrastructure.
+
+"We are actively addressing and remediating the issue internally, in coordination…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 10:40:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
+    <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
+    <description>Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 10:05:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] VosFactures touché par une cyberattaque : les factures exposés</title>
+    <link>https://www.cyberattaque.org/vosfactures-touche-par-une-cyberattaque-les-factures-exposes/</link>
+    <description>VosFactures confirme être indirectement touché par une importante cyberattaque ayant visé l’un de ses prestataires techniques. L’incident a...
+L’article VosFactures touché par une cyberattaque : les factures exposés est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 01 Oct 2026 04:22:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] GPS Santé : 150 000 patients revendiqués après l’exploitation d’un compte médecin</title>
+    <link>https://www.cyberattaque.org/gps-sante-150-000-patients-cyberattaque/</link>
+    <description>GPS Santé fait l’objet d’une importante revendication de fuite de données. Le hacker Quantique affirme avoir récupéré les...
+L’article GPS Santé : 150 000 patients revendiqués après l’exploitation d’un compte médecin…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 01 Oct 2026 03:54:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Avantages Jeunes : 318 000 profils en fuite, des milliers de mineurs exposés</title>
+    <link>https://www.cyberattaque.org/avantages-jeunes-cyberattaque-318-000-profils-en-fuite-des-milliers-de-mineurs-exposes/</link>
+    <description>La plateforme Avantages Jeunes fait l’objet d’une importante fuite de données revendiquée dans la nuit du 1er octobre...
+L’article Avantages Jeunes : 318 000 profils en fuite, des milliers de mineurs exposés est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 01 Oct 2026 03:45:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cookson-CLAL confirme une cyberattaque : les numéros de carte bancaire volés</title>
+    <link>https://www.cyberattaque.org/cookson-clal-confirme-une-cyberattaque-les-numeros-de-carte-bancaire-voles/</link>
+    <description>Cookson-CLAL confirme un incident de sécurité particulièrement sensible ayant entraîné le vol de données complètes de cartes bancaires...
+L’article Cookson-CLAL confirme une cyberattaque : les numéros de carte bancaire…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 01 Oct 2026 03:38:10 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] US sanctions 10 over ATM malware scheme tied to Tren de Aragua</title>
     <link>https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua</link>
     <description>Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.</description>
@@ -319,38 +374,6 @@ DTLS, the TLS variant used for UDP traffic,…</description>
 L’article Scribd confirme une cyberattaque ayant exposé les données de certains utilisateurs est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 30 Sep 2026 07:46:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution</title>
-    <link>https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</link>
-    <description>Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.
-
-The vulnerability,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 30 Sep 2026 11:00:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DECOClim confirme une cyberattaque : les commandes sont exposées</title>
-    <link>https://www.cyberattaque.org/decoclim-confirme-une-cyberattaque-les-commandes-sont-exposees/</link>
-    <description>DECOClim, entreprise spécialisée dans les solutions décoratives destinées notamment à dissimuler les climatiseurs et pompes à chaleur, informe...
-L’article DECOClim confirme une cyberattaque : les commandes sont…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 04:45:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FFRandonnée : 1,43 million de fiches d’adhérents en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/ffrandonnee-143-million-de-fiches-dadherents-en-fuite-apres-une-cyberattaque/</link>
-    <description>La Fédération Française de la Randonnée Pédestre (FFRandonnée) fait l’objet d’une importante revendication de fuite de données. Le...
-L’article FFRandonnée : 1,43 million de fiches d’adhérents en fuite après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 04:28:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft is rolling out Linux container support to WSL</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/</link>
-    <description>Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 20:40:57 -0400</pubDate>
   </item>
 </channel>
 </rss>
