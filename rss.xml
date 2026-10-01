@@ -6,6 +6,69 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US sanctions 10 over ATM malware scheme tied to Tren de Aragua</title>
+    <link>https://therecord.media/us-sanctions-10-atm-jackpotting-tren-de-aragua</link>
+    <description>Treasury’s Office of Foreign Assets Control (OFAC) targeted multiple Venezuelan nationals and several companies they control that are part of the effort to launder the money stolen from dozens of ATMs.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 30 Sep 2026 22:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alaxione : une nouvelle vente de données revendiquée</title>
+    <link>https://www.zataz.com/alaxione-une-nouvelle-vente-de-donnees-revendiquee/</link>
+    <description>Alaxione : une nouvelle vente revendique 16,2 millions de personnes. Le pirate me communique mes données !</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 22:20:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le pirate Storm affiche ses victimes sur une carte interactive !</title>
+    <link>https://www.zataz.com/le-pirate-storm-affiche-ses-victimes-sur-une-carte-interactive/</link>
+    <description>Le pirate Storm affiche des cibles sur une carte interactive et recrute des affiliés en mode 2.0.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 21:58:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Everest menace de publier des données attribués à Securitas</title>
+    <link>https://www.zataz.com/everest-menace-de-publier-des-donnees-attribues-a-securitas/</link>
+    <description>Everest menace Securitas de publier des données liées à la vidéosurveillance.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 21:14:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Campus Cyber Summit 2026 : l’IA au cœur des choix cyber</title>
+    <link>https://www.zataz.com/campus-cyber-summit-2026-lia-au-coeur-des-choix-cyber/</link>
+    <description>Campus Cyber Summit 2026 à Lille : programme, IA, NIS 2, cyber assurance, OSINT et CTF.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 21:00:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Élections et ingérences : la CNIL ouvre le débat</title>
+    <link>https://www.zataz.com/elections-et-ingerences-la-cnil-ouvre-le-debat/</link>
+    <description>Le 16 novembre 2026, la CNIL débattra du ciblage politique, de la désinformation et des ingérences électorales.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 20:45:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian state hackers use new RedFlick technique to push malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/</link>
+    <description>The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed "RedFlick" to deploy its signature CosmicPulse backdoor. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 30 Sep 2026 16:34:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Automakers routinely share personally identifiable connected-car data with third parties, report says</title>
+    <link>https://therecord.media/automakers-routinely-share-connected-car-data-third-parties</link>
+    <description>A new study reveals fresh details about how drivers are exposed to a web of large corporations participating in the advertising ecosystem.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 30 Sep 2026 20:32:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fuite de données : le guide interactif de ZATAZ</title>
+    <link>https://www.zataz.com/fuite-de-donnees-le-guide-interactif-de-zataz/</link>
+    <description>Fuite de données : ZATAZ propose un guide interactif pour sécuriser ses comptes et organiser ses démarches jusqu’à 90 jours.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 30 Sep 2026 20:30:53 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] DIVD says Zammad zero-days enabled AI-driven network breach</title>
     <link>https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/</link>
     <description>The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]</description>
@@ -288,41 +351,6 @@ L’article FFRandonnée : 1,43 million de fiches d’adhérents en fuite après
     <description>Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 29 Sep 2026 20:40:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-76504 — Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76504</link>
-    <description>Cisco Catalyst SD-WAN Manager contains a hex encoding vulnerability that could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user due to improper handling of URI encoding in an HTTP request.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-09-30</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Signal adds encypted local backup support to iOS, desktop apps</title>
-    <link>https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/</link>
-    <description>Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 17:30:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] US Air Force members given over 6 years in prison for cyber theft of more than $2 million</title>
-    <link>https://therecord.media/us-air-force-members-given-6-year-sentence-cyber</link>
-    <description>According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 29 Sep 2026 21:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Custom ChatGPTs push ClickFix attacks to deploy RAT malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/</link>
-    <description>Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 29 Sep 2026 16:59:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Controversial spyware firm Paragon to go public by end of year</title>
-    <link>https://therecord.media/controversial-spyware-firm-paragon-to-go-public</link>
-    <description>The company plans to close the deal around the end of the year at which point Paragon will begin trading on Nasdaq under the REDLattice umbrella.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 29 Sep 2026 20:35:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
