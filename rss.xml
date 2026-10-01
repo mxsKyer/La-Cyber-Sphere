@@ -6,6 +6,77 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Researchers find Chinese hacking campaigns targeting AI firms, Asian governments</title>
+    <link>https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan</link>
+    <description>Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 01 Oct 2026 18:16:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Réseaux sociaux : les historiques qui deviennent des preuves</title>
+    <link>https://www.zataz.com/reseaux-sociaux-les-historiques-qui-deviennent-des-preuves/</link>
+    <description>Affaire Bardella / Mediapart : historiques des réseaux sociaux. Comment des archives Messenger peuvent étayer une enquête et ses vérifications.</description>
+    <source>ZATAZ</source>
+    <pubDate>Thu, 01 Oct 2026 17:27:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers</title>
+    <link>https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html</link>
+    <description>Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 22:25:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories</title>
+    <link>https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html</link>
+    <description>This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 22:15:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police disrupt KillSec ransomware, arrest suspected teenage leader</title>
+    <link>https://therecord.media/killsec-ransomware-raas-arrests-europe</link>
+    <description>European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 01 Oct 2026 15:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory</title>
+    <link>https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html</link>
+    <description>Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 01 Oct 2026 20:07:35 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police dismantle KillSec ransomware gang allegedly led by 16-year-old</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/</link>
+    <description>An international law enforcement operation dubbed "Operation KillSwitch" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 01 Oct 2026 10:25:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ADMR : près de 10 000 comptes internes exposés dans une nouvelle fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-admr-pres-de-10-000-comptes-internes-exposes-dans-une-nouvelle-fuite/</link>
+    <description>L’ADMR fait de nouveau l’objet d’une importante exposition de données. Le hacker Quantique annonce la diffusion d’une base...
+L’article ADMR : près de 10 000 comptes internes exposés dans une nouvelle fuite est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 01 Oct 2026 14:04:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Day-One Hole in Zero Trust Architecture</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/</link>
+    <description>Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 01 Oct 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Kiteworks patches max severity code injection vulnerability</title>
+    <link>https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/</link>
+    <description>Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 01 Oct 2026 09:51:08 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Facturation électronique : la premiére fuite de données confirmée !</title>
     <link>https://www.zataz.com/facturation-electronique-la-premiere-fuite-decouverte/</link>
     <description>Alerte VosFactures : échanges suspendus avec l’AIFE, obligations de facturation et risques liés aux prestataires.</description>
@@ -228,138 +299,6 @@ L’article Cookson-CLAL confirme une cyberattaque : les numéros de carte banca
     <description>An August 31 memo obtained by Recorded Future News shows that the Pentagon's assistant secretary for cyber policy made specific demands of U.S. Cyber Command leadership after reports of a cluster of suicide deaths.</description>
     <source>The Record</source>
     <pubDate>Wed, 30 Sep 2026 19:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Google: Vulnerability disclosures double to 10,000 per month as AI fuels exploitation</title>
-    <link>https://therecord.media/google-vulnerabilities-cyberattacks-ai</link>
-    <description>Vulnerability disclosures continue to skyrocket, doubling over the course of the year to more than 10,000 each month, Google researchers warned.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 30 Sep 2026 19:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SDIS 66 : 118 892 interventions et près de 100 000 documents médicaux revendiqués par un hacker</title>
-    <link>https://www.cyberattaque.org/sdis-66-118-892-interventions-et-pres-de-100-000-documents-medicaux-revendiques-par-un-hacker/</link>
-    <description>Le Service départemental d’incendie et de secours des Pyrénées-Orientales (SDIS 66) fait l’objet d’une importante revendication de fuite...
-L’article SDIS 66 : 118 892 interventions et près de 100 000 documents médicaux…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 18:25:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] École vétérinaire d’Alfort : des accès administrateurs et cookies de session revendiqués par un hacker</title>
-    <link>https://www.cyberattaque.org/ecole-veterinaire-dalfort-des-acces-administrateurs-et-cookies-de-session-revendiques-par-un-hacker/</link>
-    <description>L’École nationale vétérinaire d’Alfort (EnvA) fait l’objet d’une alerte de sécurité après une publication du hacker lucifer3d, associé...
-L’article École vétérinaire d’Alfort : des accès administrateurs et cookies de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 18:20:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Over 543,000 valid credentials exposed in public GitHub repositories</title>
-    <link>https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/</link>
-    <description>More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 30 Sep 2026 14:08:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets</title>
-    <link>https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html</link>
-    <description>Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.
-
-The attack…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 30 Sep 2026 22:16:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks</title>
-    <link>https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html</link>
-    <description>Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 30 Sep 2026 22:02:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 30 Sep 2026 11:49:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’ANSSI révèle un été noir pour l’État : près de 55 millions de profils concernés par des fuites de données</title>
-    <link>https://www.cyberattaque.org/lanssi-revele-un-ete-noir-pour-letat-pres-de-55-millions-de-profils-concernes-par-des-fuites-de-donnees/</link>
-    <description>Près de 55 millions de personnes, usagers ou comptes apparaissent dans les différents volumes chiffrés par l’ANSSI dans...
-L’article L’ANSSI révèle un été noir pour l’État : près de 55 millions de profils concernés par…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 15:28:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager</title>
-    <link>https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html</link>
-    <description>Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an&amp;nbsp;advisory&amp;nbsp;on September 30.
-
-The flaw,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 30 Sep 2026 20:54:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Adéquat : les données de candidats exposées pendant trois mois</title>
-    <link>https://www.cyberattaque.org/adequat-les-donnees-de-candidats-exposees-pendant-trois-mois/</link>
-    <description>Adéquat Intérim &amp;#38; Recrutement confirme avoir été victime d’un incident de sécurité ayant touché son site jobadequat.fr. Dans...
-L’article Adéquat : les données de candidats exposées pendant trois mois est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 15:24:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Fiducial : 65 Go de données judiciaires et financières revendiqués par un ransomware</title>
-    <link>https://www.cyberattaque.org/fiducial-65-go-de-donnees-judiciaires-et-financieres-revendiques-par-un-ransomware/</link>
-    <description>Fiducial, groupe français présent dans l’expertise comptable, la banque, le droit, l’informatique et les services aux entreprises, est...
-L’article Fiducial : 65 Go de données judiciaires et financières revendiqués par…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 15:05:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures</title>
-    <link>https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html</link>
-    <description>Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.
-
-Huntress, which observed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 30 Sep 2026 20:30:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Distinxion (autos.fr) : près de 500 000 prospects exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/distinxion-autos-fr-pres-de-500-000-prospects-exposes-apres-une-cyberattaque/</link>
-    <description>Distinxion, réseau français spécialisé dans la vente de véhicules d’occasion récents et à faible kilométrage, est visé par...
-L’article Distinxion (autos.fr) : près de 500 000 prospects exposés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 14:50:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco warns of new SD-WAN zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/</link>
-    <description>Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 30 Sep 2026 10:46:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI's Third Wave: Coworkers Break the Security Model That Worked for Agents</title>
-    <link>https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/</link>
-    <description>Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 30 Sep 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mobile malware warning from Ukrainian researchers includes iPhone exploit kit</title>
-    <link>https://therecord.media/ukraine-ssscip-mobile-malware-warning-ios-android</link>
-    <description>'Hit and run' iPhone malware known as DarkSword is part of a wave of Russian attacks on iOS and Android devices, according to Ukraine's SSSCIP.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 30 Sep 2026 14:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Région Centre-Val de Loire : des milliers de dossiers en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/region-centre-val-de-loire-des-milliers-de-dossiers-en-fuite-apres-une-cyberattaque/</link>
-    <description>La Région Centre-Val de Loire fait l’objet d’une fuite de données particulièrement sensible. Le hacker Syrv4x a publié...
-L’article Région Centre-Val de Loire : des milliers de dossiers en fuite après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 30 Sep 2026 13:50:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
