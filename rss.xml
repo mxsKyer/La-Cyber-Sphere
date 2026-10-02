@@ -258,12 +258,5 @@ L’article Cookson-CLAL confirme une cyberattaque : les numéros de carte banca
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 01 Oct 2026 03:38:10 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-104286 — Fortinet FortiMail Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-104286</link>
-    <description>Fortinet FortiMail contains a path traversal and an improper neutralization of NULL byte or NULL character vulnerability that may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-01</pubDate>
-  </item>
 </channel>
 </rss>
