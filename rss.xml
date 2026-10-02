@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft’s X account hacked in crypto pump-and-dump scheme</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/</link>
+    <description>On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 05:29:56 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</title>
+    <link>https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</link>
+    <description>Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.
+
+With malicious Android…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 13:31:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes</title>
+    <link>https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 11:19:50 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Fortinet warns of critical FortiMail flaw exploited in zero-day attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/</link>
     <description>Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]</description>
@@ -169,94 +192,6 @@ A "core cluster of the…</description>
     <description>The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 01 Oct 2026 05:44:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Orkyn : les données de santé de patients volés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/orkyn-les-donnees-de-sante-de-patients-voles-apres-une-cyberattaque/</link>
-    <description>Orkyn confirme une cyberattaque ayant entraîné l’accès non autorisé à un fichier contenant des données personnelles et de...
-L’article Orkyn : les données de santé de patients volés après une cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 09:26:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version</title>
-    <link>https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html</link>
-    <description>Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.
-
-"It delivers…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 13:19:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Metamask discloses security incident affecting its infrastructure</title>
-    <link>https://www.bleepingcomputer.com/news/security/metamask-discloses-security-incident-affecting-its-infrastructure/</link>
-    <description>On Thursday, cryptocurrency wallet provider MetaMask has disclosed an ongoing infrastructure security incident affecting some of its infrastructure. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 03:33:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path</title>
-    <link>https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html</link>
-    <description>Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.
-
-The trigger is a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 11:24:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft</title>
-    <link>https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</link>
-    <description>Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 10:51:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MetaMask Security Incident Prompts Exit of Affected Ethereum Validators</title>
-    <link>https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</link>
-    <description>MetaMask on Thursday said it's responding to what it described as an "ongoing security incident" impacting part of its infrastructure.
-
-"We are actively addressing and remediating the issue internally, in coordination…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 10:40:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
-    <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
-    <description>Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 10:05:34 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] VosFactures touché par une cyberattaque : les factures exposés</title>
-    <link>https://www.cyberattaque.org/vosfactures-touche-par-une-cyberattaque-les-factures-exposes/</link>
-    <description>VosFactures confirme être indirectement touché par une importante cyberattaque ayant visé l’un de ses prestataires techniques. L’incident a...
-L’article VosFactures touché par une cyberattaque : les factures exposés est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 04:22:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] GPS Santé : 150 000 patients revendiqués après l’exploitation d’un compte médecin</title>
-    <link>https://www.cyberattaque.org/gps-sante-150-000-patients-cyberattaque/</link>
-    <description>GPS Santé fait l’objet d’une importante revendication de fuite de données. Le hacker Quantique affirme avoir récupéré les...
-L’article GPS Santé : 150 000 patients revendiqués après l’exploitation d’un compte médecin…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 03:54:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Avantages Jeunes : 318 000 profils en fuite, des milliers de mineurs exposés</title>
-    <link>https://www.cyberattaque.org/avantages-jeunes-cyberattaque-318-000-profils-en-fuite-des-milliers-de-mineurs-exposes/</link>
-    <description>La plateforme Avantages Jeunes fait l’objet d’une importante fuite de données revendiquée dans la nuit du 1er octobre...
-L’article Avantages Jeunes : 318 000 profils en fuite, des milliers de mineurs exposés est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 03:45:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cookson-CLAL confirme une cyberattaque : les numéros de carte bancaire volés</title>
-    <link>https://www.cyberattaque.org/cookson-clal-confirme-une-cyberattaque-les-numeros-de-carte-bancaire-voles/</link>
-    <description>Cookson-CLAL confirme un incident de sécurité particulièrement sensible ayant entraîné le vol de données complètes de cartes bancaires...
-L’article Cookson-CLAL confirme une cyberattaque : les numéros de carte bancaire…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 03:38:10 +0000</pubDate>
   </item>
 </channel>
 </rss>
