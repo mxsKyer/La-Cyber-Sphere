@@ -6,6 +6,92 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] FMG Sales &amp; Marketing : plus de 10 000 intervenants exposés dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/fmg-sales-marketing-cyberattaque-plus-de-10-000-intervenants-exposes-dans-une-fuite-de-donnees/</link>
+    <description>Une base attribuée à FMG Sales &amp;#38; Marketing vient d’être diffusée gratuitement par le hacker Syrv4x. Celui-ci revendique...
+L’article FMG Sales &amp;#038; Marketing : plus de 10 000 intervenants exposés dans une fuite de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 20:38:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus</title>
+    <link>https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists</link>
+    <description>The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 02 Oct 2026 20:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cnam : près de 900 000 fiches et 16 000 profils d’enseignants en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-cnam-pres-de-16-000-profils-denseignants-exposes-dans-une-fuite-de-donnees/</link>
+    <description>Le Conservatoire national des arts et métiers (Cnam) est visé par deux importantes publications de données attribuées au...
+L’article Cnam : près de 900 000 fiches et 16 000 profils d’enseignants en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 20:17:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bipartisan backlash to ALPRs grows as two high-profile bills are introduced</title>
+    <link>https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc</link>
+    <description>Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 02 Oct 2026 19:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Frontline Education breach exposes school district employee data</title>
+    <link>https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/</link>
+    <description>Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 15:01:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Warlock ransomware breach SharePoint in water, telecom operator attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/</link>
+    <description>The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 14:33:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers</title>
+    <link>https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html</link>
+    <description>A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&amp;nbsp;said in an advisory.
+
+The gateway is the service that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 23:03:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign</title>
+    <link>https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html</link>
+    <description>Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.
+
+The activity, which has targeted government and policy organizations in Taiwan,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 23:03:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes</title>
+    <link>https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</link>
+    <description>Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.
+
+The vulnerabilities are…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 22:32:12 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Région Hauts-de-France : des données personnelles exposées suite à une cyberattaque chez ATEXO</title>
+    <link>https://www.cyberattaque.org/region-hauts-de-france-des-donnees-personnelles-exposees-suite-a-une-cyberattaque-chez-atexo/</link>
+    <description>La Région Hauts-de-France informe certaines personnes d’un incident de sécurité ayant touché ATEXO, l’un de ses prestataires. Une...
+L’article Région Hauts-de-France : des données personnelles exposées suite à une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 16:51:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] GitLab warns of critical RCE vulnerability in AI Gateway service</title>
+    <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/</link>
+    <description>GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 12:20:05 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] FitnessBoutique : près de 2 millions de fiches clients en vente sur le darkweb</title>
     <link>https://www.cyberattaque.org/fitnessboutique-cyberattaque/</link>
     <description>FitnessBoutique, enseigne française spécialisée dans les équipements de fitness et la nutrition sportive, fait l’objet d’une importante revendication...
@@ -131,62 +217,6 @@ With malicious Android…</description>
     <description>Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 01 Oct 2026 18:42:49 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Autonomous AI agents tried to hack US, Canadian government websites</title>
-    <link>https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/</link>
-    <description>Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 16:52:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iranian accused of hacking American universities extradited from Montenegro</title>
-    <link>https://therecord.media/iran-montenegro-hacker-extradition</link>
-    <description>An Iranian national accused by the U.S. of taking part in dozens of breaches involving the theft of academic data and intellectual property has been extradited from Montenegro.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 01 Oct 2026 20:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Microsoft says threat actors are ahead in the early AI race</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/</link>
-    <description>Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 15:32:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI software attempted to secretly scrape data from dozens of prominent websites</title>
-    <link>https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites</link>
-    <description>The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 01 Oct 2026 19:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers find Chinese hacking campaigns targeting AI firms, Asian governments</title>
-    <link>https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan</link>
-    <description>Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 01 Oct 2026 18:16:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Réseaux sociaux : les historiques qui deviennent des preuves</title>
-    <link>https://www.zataz.com/reseaux-sociaux-les-historiques-qui-deviennent-des-preuves/</link>
-    <description>Affaire Bardella / Mediapart : historiques des réseaux sociaux. Comment des archives Messenger peuvent étayer une enquête et ses vérifications.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 01 Oct 2026 17:27:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers</title>
-    <link>https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html</link>
-    <description>Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 22:25:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories</title>
-    <link>https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html</link>
-    <description>This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 22:15:38 +0530</pubDate>
   </item>
 </channel>
 </rss>
