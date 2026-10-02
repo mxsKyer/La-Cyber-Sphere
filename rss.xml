@@ -6,6 +6,89 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FitnessBoutique : près de 2 millions de fiches clients en vente sur le darkweb</title>
+    <link>https://www.cyberattaque.org/fitnessboutique-cyberattaque/</link>
+    <description>FitnessBoutique, enseigne française spécialisée dans les équipements de fitness et la nutrition sportive, fait l’objet d’une importante revendication...
+L’article FitnessBoutique : près de 2 millions de fiches clients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 15:37:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US sanctions Tren de Aragua gang members in ATM hacks crackdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/</link>
+    <description>The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 11:20:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Genae Écully : les habitudes de fréquentation de 1 848 adhérents exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/genae-ecully-cyberattaque-fitnesskpi-1-848-adherents-exposes-avec-leurs-paiements-et-habitudes-de-frequentation/</link>
+    <description>La salle de sport Genae Écully, située près de Lyon, est concernée par une importante exposition de données...
+L’article Genae Écully : les habitudes de fréquentation de 1 848 adhérents exposés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 14:34:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Mississippi mayor says ransomware incident led city to shut down systems</title>
+    <link>https://therecord.media/vicksburg-mississippi-government-ransomware-attack</link>
+    <description>Government services were temporarily disrupted by ransomware in Vicksburg, Mississippi. Mayor Willis Thompson said the FBI and other authorities are investigating.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 02 Oct 2026 14:06:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 'Warlock' ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries</title>
+    <link>https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks</link>
+    <description>The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 02 Oct 2026 14:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The EDR blind spot: 3 ways browser attacks evade endpoint telemetry</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/</link>
+    <description>Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Dell asks admins to patch max severity CSM flaws as soon as possible</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/</link>
+    <description>Dell has patched two maximum severity vulnerabilities in the Container Storage Modules (CSM) that connect Dell enterprise storage arrays to Kubernetes environments. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 02 Oct 2026 08:37:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling</title>
+    <link>https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html</link>
+    <description>OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.
+
+"We have parted ways with three individuals for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 17:53:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report</title>
+    <link>https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html</link>
+    <description>The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 02 Oct 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Santé : 82 % des établissements français ont eu connaissance de vulnérabilités en un an</title>
+    <link>https://www.cyberattaque.org/sante-82-des-etablissements-francais-ont-eu-connaissance-de-vulnerabilites-en-un-an/</link>
+    <description>Mots de passe administrateur présents dans le code, logiciels de santé accessibles sur Internet sans authentification, défauts de...
+L’article Santé : 82 % des établissements français ont eu connaissance de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 11:00:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LDLC victime d’une cyberattaque : les données personnelles de clients exposées</title>
+    <link>https://www.cyberattaque.org/ldlc-victime-dune-cyberattaque-les-donnees-personnelles-de-clients-exposees/</link>
+    <description>Le groupe LDLC confirme avoir subi un incident de sécurité après qu’un acteur malveillant a obtenu un accès...
+L’article LDLC victime d’une cyberattaque : les données personnelles de clients exposées est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 02 Oct 2026 09:46:47 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft’s X account hacked in crypto pump-and-dump scheme</title>
     <link>https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/</link>
     <description>On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]</description>
@@ -27,6 +110,20 @@ With malicious Android…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 02 Oct 2026 11:19:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-102489 — Zammad GmbH Zammad Session Fixation Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102489</link>
+    <description>Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-02</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-102490 — Zammad GmbH Zammad Improper Privilege Management Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102490</link>
+    <description>Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-02</pubDate>
   </item>
   <item>
     <title>[Critique] Fortinet warns of critical FortiMail flaw exploited in zero-day attacks</title>
@@ -90,108 +187,6 @@ With malicious Android…</description>
     <description>This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 01 Oct 2026 22:15:38 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police disrupt KillSec ransomware, arrest suspected teenage leader</title>
-    <link>https://therecord.media/killsec-ransomware-raas-arrests-europe</link>
-    <description>European police said raids against the KillSec ransomware-as-a-service operation included the arrest of a high-profile teen suspect.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 01 Oct 2026 15:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory</title>
-    <link>https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html</link>
-    <description>Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 20:07:35 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police dismantle KillSec ransomware gang allegedly led by 16-year-old</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/</link>
-    <description>An international law enforcement operation dubbed "Operation KillSwitch" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 10:25:14 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ADMR : près de 10 000 comptes internes exposés dans une nouvelle fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-admr-pres-de-10-000-comptes-internes-exposes-dans-une-nouvelle-fuite/</link>
-    <description>L’ADMR fait de nouveau l’objet d’une importante exposition de données. Le hacker Quantique annonce la diffusion d’une base...
-L’article ADMR : près de 10 000 comptes internes exposés dans une nouvelle fuite est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 14:04:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Day-One Hole in Zero Trust Architecture</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/</link>
-    <description>Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Kiteworks patches max severity code injection vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/</link>
-    <description>Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 09:51:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Facturation électronique : la premiére fuite de données confirmée !</title>
-    <link>https://www.zataz.com/facturation-electronique-la-premiere-fuite-decouverte/</link>
-    <description>Alerte VosFactures : échanges suspendus avec l’AIFE, obligations de facturation et risques liés aux prestataires.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 01 Oct 2026 13:16:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattack on major Polish invoicing platform exposes customer data</title>
-    <link>https://therecord.media/poland-cyberattack-invoice-software</link>
-    <description>One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 01 Oct 2026 12:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How Financial Services Companies Can Modernize Their Software Supply Chain</title>
-    <link>https://thehackernews.com/2026/10/how-financial-services-companies-can.html</link>
-    <description>Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 17:15:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft enables Windows settings backup by default for orgs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/</link>
-    <description>Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 07:14:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] dr.veto : plus de 31 000 propriétaires et leurs animaux diffusés sur le Dark Web</title>
-    <link>https://www.cyberattaque.org/dr-veto-plus-de-31-000-proprietaires-et-leurs-animaux-diffuses-sur-le-dark-web/</link>
-    <description>Une base attribuée à dr.veto, logiciel de gestion destiné aux cliniques vétérinaires et développé par Hubvet, vient d’être...
-L’article dr.veto : plus de 31 000 propriétaires et leurs animaux diffusés sur le Dark Web…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 01 Oct 2026 10:44:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates</title>
-    <link>https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html</link>
-    <description>OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.
-
-A "core cluster of the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 16:12:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV</title>
-    <link>https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 01 Oct 2026 16:03:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers stole Pentagon personnel records of over 3 million people</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/</link>
-    <description>The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 05:44:28 -0400</pubDate>
   </item>
 </channel>
 </rss>
