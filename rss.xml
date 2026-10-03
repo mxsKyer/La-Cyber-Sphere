@@ -197,26 +197,5 @@ With malicious Android…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 02 Oct 2026 11:19:50 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-102489 — Zammad GmbH Zammad Session Fixation Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102489</link>
-    <description>Zammad GmbH Zammad contains a session fixation vulnerability that can lead to remote code execution as the zammad user. This vulnerability can be chained with CVE-2026-102490.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-102490 — Zammad GmbH Zammad Improper Privilege Management Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102490</link>
-    <description>Zammad GmbH Zammad contains an improper privilege management vulnerability that can allow the local zammad user to escalate privileges to root. This vulnerability can be chained with CVE-2026-102489.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-02</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Fortinet warns of critical FortiMail flaw exploited in zero-day attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/</link>
-    <description>Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 01 Oct 2026 18:42:49 -0400</pubDate>
-  </item>
 </channel>
 </rss>
