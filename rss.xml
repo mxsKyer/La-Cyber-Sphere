@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ShinyHunters hacker reportedly detained in Jordan, aiding FBI</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/</link>
+    <description>A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 03 Oct 2026 15:09:38 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</title>
     <link>https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html</link>
     <description>The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.
@@ -68,43 +75,6 @@ L’article CAPEB : 3,9 millions de lignes diffusées, 500 000…</description>
 L’article CGT de l&amp;rsquo;Aude: plus de 76 000 personnes exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 03 Oct 2026 05:38:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FMG Sales &amp; Marketing : plus de 10 000 intervenants exposés dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/fmg-sales-marketing-cyberattaque-plus-de-10-000-intervenants-exposes-dans-une-fuite-de-donnees/</link>
-    <description>Une base attribuée à FMG Sales &amp;#38; Marketing vient d’être diffusée gratuitement par le hacker Syrv4x. Celui-ci revendique...
-L’article FMG Sales &amp;#038; Marketing : plus de 10 000 intervenants exposés dans une fuite de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 20:38:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus</title>
-    <link>https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists</link>
-    <description>The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 02 Oct 2026 20:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cnam : près de 900 000 fiches et 16 000 profils d’enseignants en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-cnam-pres-de-16-000-profils-denseignants-exposes-dans-une-fuite-de-donnees/</link>
-    <description>Le Conservatoire national des arts et métiers (Cnam) est visé par deux importantes publications de données attribuées au...
-L’article Cnam : près de 900 000 fiches et 16 000 profils d’enseignants en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 20:17:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bipartisan backlash to ALPRs grows as two high-profile bills are introduced</title>
-    <link>https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc</link>
-    <description>Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 02 Oct 2026 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Frontline Education breach exposes school district employee data</title>
-    <link>https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/</link>
-    <description>Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 02 Oct 2026 15:01:40 -0400</pubDate>
   </item>
 </channel>
 </rss>
