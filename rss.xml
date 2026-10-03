@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</title>
+    <link>https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html</link>
+    <description>The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.
+
+In a "Security…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 03 Oct 2026 20:08:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware</title>
+    <link>https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html</link>
+    <description>The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 03 Oct 2026 20:06:33 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Danish university DTU breach exposes data of up to 200,000 people</title>
     <link>https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/</link>
     <description>The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data.…</description>
@@ -89,70 +105,6 @@ L’article Cnam : près de 900 000 fiches et 16 000 profils d’enseignants en 
     <description>Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including…</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 02 Oct 2026 15:01:40 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Warlock ransomware breach SharePoint in water, telecom operator attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/</link>
-    <description>The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 02 Oct 2026 14:33:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers</title>
-    <link>https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html</link>
-    <description>A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab&amp;nbsp;said in an advisory.
-
-The gateway is the service that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 23:03:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign</title>
-    <link>https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html</link>
-    <description>Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.
-
-The activity, which has targeted government and policy organizations in Taiwan,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 23:03:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes</title>
-    <link>https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html</link>
-    <description>Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.
-
-The vulnerabilities are…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 22:32:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Région Hauts-de-France : des données personnelles exposées suite à une cyberattaque chez ATEXO</title>
-    <link>https://www.cyberattaque.org/region-hauts-de-france-des-donnees-personnelles-exposees-suite-a-une-cyberattaque-chez-atexo/</link>
-    <description>La Région Hauts-de-France informe certaines personnes d’un incident de sécurité ayant touché ATEXO, l’un de ses prestataires. Une...
-L’article Région Hauts-de-France : des données personnelles exposées suite à une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 16:51:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] GitLab warns of critical RCE vulnerability in AI Gateway service</title>
-    <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-rce-vulnerability-in-ai-gateway-service/</link>
-    <description>GitLab warned customers today to immediately patch a critical AI Gateway vulnerability that could let attackers run arbitrary commands on vulnerable instances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 02 Oct 2026 12:20:05 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FitnessBoutique : près de 2 millions de fiches clients en vente sur le darkweb</title>
-    <link>https://www.cyberattaque.org/fitnessboutique-cyberattaque/</link>
-    <description>FitnessBoutique, enseigne française spécialisée dans les équipements de fitness et la nutrition sportive, fait l’objet d’une importante revendication...
-L’article FitnessBoutique : près de 2 millions de fiches clients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 15:37:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US sanctions Tren de Aragua gang members in ATM hacks crackdown</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-sanctions-tren-de-aragua-members-in-atm-jackpotting-crackdown/</link>
-    <description>The U.S. Treasury Department has sanctioned eight members of the Venezuelan gang Tren de Aragua (TdA) for their role in the theft of millions of dollars in ATM jackpotting attacks across the United States. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 02 Oct 2026 11:20:53 -0400</pubDate>
   </item>
 </channel>
 </rss>
