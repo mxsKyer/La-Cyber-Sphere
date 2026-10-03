@@ -6,6 +6,15 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations</title>
+    <link>https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html</link>
+    <description>Featuring:
+
+Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 03 Oct 2026 16:30:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] FMG Sales &amp; Marketing : plus de 10 000 intervenants exposés dans une fuite de données</title>
     <link>https://www.cyberattaque.org/fmg-sales-marketing-cyberattaque-plus-de-10-000-intervenants-exposes-dans-une-fuite-de-donnees/</link>
     <description>Une base attribuée à FMG Sales &amp;#38; Marketing vient d’être diffusée gratuitement par le hacker Syrv4x. Celui-ci revendique...
@@ -150,52 +159,6 @@ L’article Genae Écully : les habitudes de fréquentation de 1 848 adhérents 
 "We have parted ways with three individuals for…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 02 Oct 2026 17:53:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Why CISOs Struggle to Answer the Board's Three Hardest Questions, and How to Fix the Report</title>
-    <link>https://thehackernews.com/2026/10/why-cisos-struggle-to-answer-boards.html</link>
-    <description>The quarterly board meeting is two weeks out. The security team is pulling exports from the identity provider, the cloud posture tool, the vulnerability scanner, the SIEM and the EDR console. Someone is building a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Santé : 82 % des établissements français ont eu connaissance de vulnérabilités en un an</title>
-    <link>https://www.cyberattaque.org/sante-82-des-etablissements-francais-ont-eu-connaissance-de-vulnerabilites-en-un-an/</link>
-    <description>Mots de passe administrateur présents dans le code, logiciels de santé accessibles sur Internet sans authentification, défauts de...
-L’article Santé : 82 % des établissements français ont eu connaissance de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 11:00:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LDLC victime d’une cyberattaque : les données personnelles de clients exposées</title>
-    <link>https://www.cyberattaque.org/ldlc-victime-dune-cyberattaque-les-donnees-personnelles-de-clients-exposees/</link>
-    <description>Le groupe LDLC confirme avoir subi un incident de sécurité après qu’un acteur malveillant a obtenu un accès...
-L’article LDLC victime d’une cyberattaque : les données personnelles de clients exposées est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 02 Oct 2026 09:46:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft’s X account hacked in crypto pump-and-dump scheme</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/</link>
-    <description>On Thursday, unknown attackers hijacked the official Microsoft account on X, which has over 13 million followers, in what appeared to be a pump-and-dump scheme promoting a crypto token. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 02 Oct 2026 05:29:56 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</title>
-    <link>https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</link>
-    <description>Google has announced a new security measure that limits access to Android's accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled.
-
-With malicious Android…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 13:31:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes</title>
-    <link>https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 02 Oct 2026 11:19:50 +0530</pubDate>
   </item>
 </channel>
 </rss>
