@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] OFB : 165 000 dossiers de permis de chasser exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/ofb-165-000-dossiers-de-permis-de-chasser-exposes-apres-une-cyberattaque/</link>
+    <description>L’Office français de la biodiversité (OFB) fait l’objet d’une alerte de sécurité après la découverte d’une vulnérabilité de...
+L’article OFB : 165 000 dossiers de permis de chasser exposés après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Anthropic asks Claude users to share voice data for AI model training</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/</link>
     <description>Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]</description>
@@ -39,29 +47,6 @@
     <description>A suspected ShinyHunters hacking group member known online as "Rey" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 03 Oct 2026 15:09:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</title>
-    <link>https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html</link>
-    <description>The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.
-
-In a "Security…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 03 Oct 2026 20:08:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware</title>
-    <link>https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html</link>
-    <description>The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 03 Oct 2026 20:06:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Danish university DTU breach exposes data of up to 200,000 people</title>
-    <link>https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/</link>
-    <description>The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 03 Oct 2026 10:35:20 -0400</pubDate>
   </item>
 </channel>
 </rss>
