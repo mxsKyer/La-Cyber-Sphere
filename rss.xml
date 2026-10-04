@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Anthropic asks Claude users to share voice data for AI model training</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/</link>
+    <description>Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 04 Oct 2026 06:53:21 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members</title>
     <link>https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html</link>
     <description>A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the…</description>
@@ -55,23 +62,6 @@ In a "Security…</description>
     <description>The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data.…</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 03 Oct 2026 10:35:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cours Thalès : 40 070 données de facturation exposées après une faille IDOR</title>
-    <link>https://www.cyberattaque.org/cyberattaque-cours-thales-40-070-donnees-de-facturation-exposees-apres-une-faille-idor/</link>
-    <description>Cours Thalès, organisme français de soutien scolaire et de préparation aux formations sélectives, fait l’objet d’une importante fuite...
-L’article Cours Thalès : 40 070 données de facturation exposées après une faille…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 03 Oct 2026 13:38:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations</title>
-    <link>https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html</link>
-    <description>Featuring:
-
-Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 03 Oct 2026 16:30:00 +0530</pubDate>
   </item>
 </channel>
 </rss>
