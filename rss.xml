@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members</title>
+    <link>https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html</link>
+    <description>A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 04 Oct 2026 12:52:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing</title>
+    <link>https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html</link>
+    <description>A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 04 Oct 2026 12:50:32 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Google Gemini could soon get full access to your Mac’s files, apps and the web</title>
     <link>https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/</link>
     <description>Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]</description>
@@ -58,30 +72,6 @@ L’article Cours Thalès : 40 070 données de facturation exposées après une 
 Cybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 03 Oct 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CNEH : 645 Go de données menacées de diffusion par un ransomware</title>
-    <link>https://www.cyberattaque.org/cyberattaque-centre-national-de-expertise-hospitaliere/</link>
-    <description>Le Centre National de l’Expertise Hospitalière (CNEH) fait l’objet d’une importante revendication de cyberattaque par le groupe ransomware...
-L’article CNEH : 645 Go de données menacées de diffusion par un ransomware…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 03 Oct 2026 07:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CAPEB : 3,9 millions de lignes diffusées, 500 000 artisans en fuite</title>
-    <link>https://www.cyberattaque.org/capeb-cyberattaque-3-9-millions-de-lignes-diffusees-500-000-artisans-en-fuite/</link>
-    <description>La CAPEB, organisation professionnelle représentant les petites entreprises artisanales du bâtiment, fait l’objet d’une importante revendication de fuite...
-L’article CAPEB : 3,9 millions de lignes diffusées, 500 000…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 03 Oct 2026 05:56:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CGT de l’Aude: plus de 76 000 personnes exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/cgt-plus-de-100-000-personnes-exposees-apres-la-decouverte-dune-vulnerabilite/</link>
-    <description>Une importante exposition de données semble concerner principalement la CGT de l’Aude. Après la découverte d’une vulnérabilité affectant...
-L’article CGT de l&amp;rsquo;Aude: plus de 76 000 personnes exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 03 Oct 2026 05:38:36 +0000</pubDate>
   </item>
 </channel>
 </rss>
