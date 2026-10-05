@@ -6,6 +6,140 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] KillSec démantelé, son opérateur présumé a 16 ans</title>
+    <link>https://www.zataz.com/killsec-demantele-son-operateur-presume-a-16-ans/</link>
+    <description>KillSec démantelé : trois arrestations, 110 To sécurisés et un opérateur présumé de 16 ans, selon Europol.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 05 Oct 2026 15:37:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Denmark population registry data breach affects 8.8 million people</title>
+    <link>https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/</link>
+    <description>Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 11:21:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Dell System Update flaw lets hackers gain root privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/</link>
+    <description>Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 10:53:06 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] South Korea probes bank breaches amid suspected AI-powered attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/</link>
+    <description>South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 10:22:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests</title>
+    <link>https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html</link>
+    <description>A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 19:50:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Belarusian hacktivists spent two years inside Russian healthcare network, researchers say</title>
+    <link>https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network</link>
+    <description>Russian cybersecurity researchers attributed a quiet two-year espionage campaign to the Belarusian Cyber Partisans, a group better known for public attacks against governments and infrastructure.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 13:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] tenfold CE: Our free Identity Governance tool just got 2 new features</title>
+    <link>https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/</link>
+    <description>tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 09:33:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Japanese media group Nikkei discloses intrusions targeting employees and users</title>
+    <link>https://therecord.media/nikkei-cyberattack-japan-data</link>
+    <description>The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 13:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alleged dev of Ploutus ATM malware appears in US court after arrest</title>
+    <link>https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/</link>
+    <description>The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 09:01:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Data breach at Denmark’s national population register exposes 8.8 million people</title>
+    <link>https://therecord.media/denmark-breach-register-cyberattack</link>
+    <description>Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Credential Layer Is Expanding Faster Than Security Teams Can See It</title>
+    <link>https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html</link>
+    <description>Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 17:25:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2</title>
+    <link>https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html</link>
+    <description>Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.
+
+"Cling is notable not…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 17:16:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access</title>
+    <link>https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html</link>
+    <description>Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.
+
+"Some developers are using Full…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 16:08:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI will show visual ads in ChatGPT while you generate images</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/</link>
+    <description>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 06:28:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Windows KB5124010 update crashes some games and apps</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/</link>
+    <description>Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 05:37:56 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google halts open-source bug bounty program amid AI spam surge</title>
+    <link>https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/</link>
+    <description>Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 04:27:46 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE</title>
+    <link>https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html</link>
+    <description>A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.
+
+The vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 13:39:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline</title>
+    <link>https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html</link>
+    <description>Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.
+
+The vulnerability, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 12:10:19 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Sport 2000 : 483 953 réservations en fuite après une nouvelle cyberattaque</title>
     <link>https://www.cyberattaque.org/sport-2000-483-953-reservations-en-fuite-apres-une-nouvelle-cyberattaque/</link>
     <description>Sport 2000 est de nouveau touché par une importante fuite de données liée à son outil interne Pilot....
@@ -35,27 +169,6 @@ L’article QPM Pro : un spécialiste des solutions informatiques…</descriptio
 L’article OFB : 165 000 dossiers de permis de chasser exposés après une cyberattaque est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic asks Claude users to share voice data for AI model training</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/</link>
-    <description>Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 04 Oct 2026 06:53:21 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members</title>
-    <link>https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html</link>
-    <description>A suspected member of the ShinyHunters digital extortion group, who goes by the online alias "Rey," has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 04 Oct 2026 12:52:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing</title>
-    <link>https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html</link>
-    <description>A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 04 Oct 2026 12:50:32 +0530</pubDate>
   </item>
 </channel>
 </rss>
