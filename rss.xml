@@ -6,11 +6,99 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool</title>
+    <link>https://therecord.media/wikimedia-foundation-openai-agents-report</link>
+    <description>Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 21:26:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Rejetto HFS servers now actively scanned for critical RCE flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/</link>
+    <description>Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 16:20:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement</title>
+    <link>https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</link>
+    <description>Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 19:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ouverture Fine, spécialiste de la serrurerie victime d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/ouverture-fine-specialiste-de-la-serrurerie-victime-dune-cyberattaque/</link>
+    <description>Ouverture Fine, entreprise française spécialisée dans le matériel, les solutions de sécurité et la formation pour les professionnels...
+L’article Ouverture Fine, spécialiste de la serrurerie victime d’une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 05 Oct 2026 18:56:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Réussir.fr : plus de 3,2 millions d’enregistrements en vente après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/reussir-fr-plus-de-32-millions-denregistrements-en-vente-apres-une-cyberattaque/</link>
+    <description>Le portail Réussir.fr, spécialisé dans l’information professionnelle agricole et agroalimentaire, fait l’objet d’une importante revendication de cyberattaque. Le...
+L’article Réussir.fr : plus de 3,2 millions…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 05 Oct 2026 18:34:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CJIS Online : une fuite de 469 169 fiches revendiquée</title>
+    <link>https://www.zataz.com/cjis-online-une-fuite-de-469-169-fiches-revendiquee/</link>
+    <description>CJIS Online : une fuite de 469 169 fiches revendiquée en octobre 2026, avec des coordonnées de policiers américains.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 05 Oct 2026 18:08:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] US, Australia warn of latest Citrix vulnerability after NetScaler advisory</title>
+    <link>https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability</link>
+    <description>Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 17:22:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] IQVIA fined $7.8 million for failing to properly anonymize health data</title>
+    <link>https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/</link>
+    <description>Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 05 Oct 2026 13:19:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data</title>
+    <link>https://therecord.media/atb-ukraine-cyberattack-ransomware</link>
+    <description>Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ZATAZ dans le top 10 tech français : merci à vous !</title>
+    <link>https://www.zataz.com/zataz-dans-le-top-10-tech-francais-merci-a-vous/</link>
+    <description>Damien Bancal, ZATAZ, se classe 6e du Tyto Tech 500 France 2026, 2e journaliste et 1er sur les questions Cyber. Merci à tous ceux qui nous suivent.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 05 Oct 2026 16:29:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes</title>
+    <link>https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html</link>
+    <description>Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.
+
+The vulnerability, tracked…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 05 Oct 2026 21:51:52 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] KillSec démantelé, son opérateur présumé a 16 ans</title>
     <link>https://www.zataz.com/killsec-demantele-son-operateur-presume-a-16-ans/</link>
     <description>KillSec démantelé : trois arrestations, 110 To sécurisés et un opérateur présumé de 16 ans, selon Europol.</description>
     <source>ZATAZ</source>
     <pubDate>Mon, 05 Oct 2026 15:37:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] University of Illinois Chicago affected by ransomware attack on medical school</title>
+    <link>https://therecord.media/ransomware-university-illinois-chicago</link>
+    <description>A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 05 Oct 2026 15:30:00 GMT</pubDate>
   </item>
   <item>
     <title>[Élevé] Denmark population registry data breach affects 8.8 million people</title>
@@ -146,29 +234,6 @@ The vulnerability, tracked as…</description>
 L’article Sport 2000 : 483 953 réservations en fuite après une nouvelle cyberattaque est apparu en premier sur…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 05 Oct 2026 04:16:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Citrix patches NetScaler SAML zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/</link>
-    <description>Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 04 Oct 2026 17:58:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] QPM Pro : un spécialiste des solutions informatiques victime d’une cyberattaque</title>
-    <link>https://www.cyberattaque.org/qpm-pro-un-specialiste-des-solutions-informatiques-victime-dune-cyberattaque/</link>
-    <description>QPM Pro, entreprise française spécialisée dans les équipements et solutions informatiques pour les professionnels, fait l’objet d’une revendication...
-L’article QPM Pro : un spécialiste des solutions informatiques…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 04 Oct 2026 20:56:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OFB : 165 000 dossiers de permis de chasser exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/ofb-165-000-dossiers-de-permis-de-chasser-exposes-apres-une-cyberattaque/</link>
-    <description>L’Office français de la biodiversité (OFB) fait l’objet d’une alerte de sécurité après la découverte d’une vulnérabilité de...
-L’article OFB : 165 000 dossiers de permis de chasser exposés après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 04 Oct 2026 17:00:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
