@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Sport 2000 : 483 953 réservations en fuite après une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/sport-2000-483-953-reservations-en-fuite-apres-une-nouvelle-cyberattaque/</link>
+    <description>Sport 2000 est de nouveau touché par une importante fuite de données liée à son outil interne Pilot....
+L’article Sport 2000 : 483 953 réservations en fuite après une nouvelle cyberattaque est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 05 Oct 2026 04:16:27 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Citrix patches NetScaler SAML zero-day exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/</link>
     <description>Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be…</description>
