@@ -6,6 +6,108 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Alleged ATM malware creator appears in Nebraska court after arrest</title>
+    <link>https://therecord.media/atm-malware-creator-appears-in-nebraska-court</link>
+    <description>Aguirre was added to the FBI’s “Top 10 Most Wanted Fugitives” list in March, becoming the first cybercriminal added to the list.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 06 Oct 2026 15:53:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] South Korean officials believe AI agents were used to hack several banks</title>
+    <link>https://therecord.media/south-korean-bank-hacks-ai-agents</link>
+    <description>The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks’…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 06 Oct 2026 15:29:22 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/</link>
+    <description>A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 06 Oct 2026 11:16:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Osaka Metropolitan University cancels classes after suspected ransomware attack</title>
+    <link>https://therecord.media/osaka-university-cancels-classes-ransomware</link>
+    <description>Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 06 Oct 2026 14:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] How to secure RMM software: 8 controls MSPs should test</title>
+    <link>https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/</link>
+    <description>RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 06 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gefradis visé par une cyberattaque : plus de 100 000 lignes de données clients mises en vente</title>
+    <link>https://www.cyberattaque.org/gefradis-vise-par-une-cyberattaque-plus-de-100-000-lignes-de-donnees-clients-mises-en-vente/</link>
+    <description>Gefradis, entreprise française spécialisée dans la vente de menuiseries sur mesure, fait l’objet d’une importante revendication de fuite...
+L’article Gefradis visé par une cyberattaque : plus de 100 000 lignes de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 06 Oct 2026 13:30:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware</title>
+    <link>https://therecord.media/clickfix-campaign-ukraine-lunex-stealer</link>
+    <description>CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 06 Oct 2026 13:17:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Armurerie Douillet : 7 546 documents en fuite, des détenteurs d’armes identifiables avec leur adresse</title>
+    <link>https://www.cyberattaque.org/cyberattaque-armurerie-douillet-7-546-documents-en-fuite-des-detenteurs-darmes-identifiables-avec-leur-adresse/</link>
+    <description>Armurerie Douillet-Dreumont, armurerie française spécialisée dans la chasse et le tir sportif, fait l’objet d’une importante revendication de...
+L’article Armurerie Douillet : 7 546 documents en fuite, des détenteurs…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 06 Oct 2026 11:58:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings</title>
+    <link>https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html</link>
+    <description>A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 06 Oct 2026 17:27:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits</title>
+    <link>https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/</link>
+    <description>The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 06 Oct 2026 07:31:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies</title>
+    <link>https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html</link>
+    <description>The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 06 Oct 2026 16:56:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers</title>
+    <link>https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html</link>
+    <description>In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 06 Oct 2026 16:32:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nikkei discloses breaches of employees’ Microsoft, Google email accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/</link>
+    <description>Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 06 Oct 2026 05:25:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports</title>
+    <link>https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html</link>
+    <description>Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.
+
+The change, in effect since October 1, means researchers can no longer submit security flaws in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 06 Oct 2026 14:51:47 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Bati-Avenue touché par la cyberattaque Shipup : des clients Amazon et ManoMano exposés</title>
     <link>https://www.cyberattaque.org/bati-avenue-touche-par-la-cyberattaque-shipup-des-clients-amazon-et-manomano-exposes/</link>
     <description>Bati-Avenue, spécialiste français de la vente en ligne de matériel et d’outillage pour les professionnels du bâtiment, confirme...
@@ -61,6 +163,13 @@ That's…</description>
 "Instead of downloading and executing remote payloads like the typical…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 06 Oct 2026 10:52:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Shares in British clothing company ASOS dive after hackers apparently send push notification</title>
+    <link>https://therecord.media/asos-push-notification-apparently-sent-by-hackers</link>
+    <description>Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 06 Oct 2026 04:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Faible] OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU</title>
@@ -149,122 +258,6 @@ L’article Réussir.fr : plus de 3,2 millions…</description>
 The vulnerability, tracked…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 05 Oct 2026 21:51:52 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] KillSec démantelé, son opérateur présumé a 16 ans</title>
-    <link>https://www.zataz.com/killsec-demantele-son-operateur-presume-a-16-ans/</link>
-    <description>KillSec démantelé : trois arrestations, 110 To sécurisés et un opérateur présumé de 16 ans, selon Europol.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 05 Oct 2026 15:37:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] University of Illinois Chicago affected by ransomware attack on medical school</title>
-    <link>https://therecord.media/ransomware-university-illinois-chicago</link>
-    <description>A ransomware attack that affected the University of Illinois Chicago (UIC) College of Medicine resulted in the theft of some information from its servers.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 05 Oct 2026 15:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Denmark population registry data breach affects 8.8 million people</title>
-    <link>https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/</link>
-    <description>Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 11:21:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Dell System Update flaw lets hackers gain root privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/</link>
-    <description>Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 10:53:06 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] South Korea probes bank breaches amid suspected AI-powered attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/</link>
-    <description>South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 10:22:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests</title>
-    <link>https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html</link>
-    <description>A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 05 Oct 2026 19:50:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Belarusian hacktivists spent two years inside Russian healthcare network, researchers say</title>
-    <link>https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network</link>
-    <description>Russian cybersecurity researchers attributed a quiet two-year espionage campaign to the Belarusian Cyber Partisans, a group better known for public attacks against governments and infrastructure.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 05 Oct 2026 13:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] tenfold CE: Our free Identity Governance tool just got 2 new features</title>
-    <link>https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/</link>
-    <description>tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 09:33:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Japanese media group Nikkei discloses intrusions targeting employees and users</title>
-    <link>https://therecord.media/nikkei-cyberattack-japan-data</link>
-    <description>The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 05 Oct 2026 13:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alleged dev of Ploutus ATM malware appears in US court after arrest</title>
-    <link>https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/</link>
-    <description>The U.S. Department of Justice has announced the arrest of the alleged developer of Ploutus malware, used to steal millions of dollars in ATM jackpotting attacks across the United States. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 09:01:45 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Data breach at Denmark’s national population register exposes 8.8 million people</title>
-    <link>https://therecord.media/denmark-breach-register-cyberattack</link>
-    <description>Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Credential Layer Is Expanding Faster Than Security Teams Can See It</title>
-    <link>https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html</link>
-    <description>Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 05 Oct 2026 17:25:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2</title>
-    <link>https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html</link>
-    <description>Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.
-
-"Cling is notable not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 05 Oct 2026 17:16:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access</title>
-    <link>https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html</link>
-    <description>Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.
-
-"Some developers are using Full…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 05 Oct 2026 16:08:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI will show visual ads in ChatGPT while you generate images</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/</link>
-    <description>OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 06:28:45 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows KB5124010 update crashes some games and apps</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/</link>
-    <description>Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 05 Oct 2026 05:37:56 -0400</pubDate>
   </item>
 </channel>
 </rss>
