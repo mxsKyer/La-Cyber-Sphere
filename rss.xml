@@ -6,6 +6,146 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US posts $10 million reward for accused Chinese ‘Hafnium’ hacker</title>
+    <link>https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward</link>
+    <description>U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 19:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Attackers Hijack .gh, .sl, and .as Registries to Obtain Certificates for Google Domains</title>
+    <link>https://thehackernews.com/2026/10/attackers-hijack-gh-sl-and-as.html</link>
+    <description>Attackers compromised three country-code top-level domains (ccTLDs) and obtained unauthorized HTTPS certificates for several Google domains, Google&amp;nbsp;said on October 6.
+
+Google's own systems were not breached, but…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 08 Oct 2026 00:18:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] $11 million plan for psychological support at Cyber Command gets fresh boost from lawmakers</title>
+    <link>https://therecord.media/cyber-command-mental-health-support-program-bipartisan-letters</link>
+    <description>Lawmakers who oversee military cyber policy as well as the Fort Meade, Maryland, hub for those agencies say an $11 million mental health program should be locked in to defense spending legislation.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 18:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Arizona courts say hackers stole info on more than 1.3 million people</title>
+    <link>https://therecord.media/arizona-courts-say-hackers-stole-info-on-over-1-million</link>
+    <description>The investigation into the incident revealed cybercriminals were able to breach the Fines/Fees and Restitution Enforcement (FARE) Program, a statewide program that helps the court collect outstanding debts tied to…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 18:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PRO&amp;Cie : l’enseigne d’électroménager piratée, les données personnelles de clients exposées</title>
+    <link>https://www.cyberattaque.org/procie-lenseigne-delectromenager-piratee-les-donnees-personnelles-de-clients-exposees/</link>
+    <description>PRO&amp;#38;Cie, enseigne française spécialisée dans l’électroménager, l’image et le son, confirme avoir été victime d’une cyberattaque ayant permis...
+L’article PRO&amp;#038;Cie : l’enseigne d’électroménager piratée, les…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 07 Oct 2026 17:56:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Al Bayyinah : la librairie musulmane victime d’une cyberattaque, les données clients exposées</title>
+    <link>https://www.cyberattaque.org/al-bayyinah-la-librairie-musulmane-victime-dune-cyberattaque-donnees-clients-exposees/</link>
+    <description>Al Bayyinah, librairie musulmane et maison d’édition française, confirme avoir été victime d’une cyberattaque ayant permis à un...
+L’article Al Bayyinah : la librairie musulmane victime d’une cyberattaque, les données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 07 Oct 2026 17:45:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer</title>
+    <link>https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html</link>
+    <description>Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.
+
+The campaign has been…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 23:13:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Enchères TikTok : quels droits pour les acheteurs ?</title>
+    <link>https://www.zataz.com/encheres-tiktok-quels-droits-pour-les-acheteurs/</link>
+    <description>Enchères sur TikTok : rétractation, retours et garanties, les droits des acheteurs face aux vendeurs professionnels.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 17:37:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances</title>
+    <link>https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html</link>
+    <description>SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 21:47:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un pirate recherche des accès aux réseaux d’entreprises</title>
+    <link>https://www.zataz.com/un-pirate-recherche-des-acces-aux-reseaux-dentreprises/</link>
+    <description>Un pirate recherche des accès aux réseaux d’entreprises et impose des critères de discrétion et d’exclusivité.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 16:11:41 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bitcoins volés : un ex-agent condamné à rembourser</title>
+    <link>https://www.zataz.com/bitcoins-voles-un-ex-agent-condamne-a-rembourser/</link>
+    <description>Un ex-agent de la NCA doit rembourser plus de deux millions d’euros après le vol de bitcoins saisis sur le darknet.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 15:44:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Outlook to block MSIX attachments starting November</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/</link>
+    <description>Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 11:44:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Biocorp : une cyberattaque WordPress piège les visiteurs avec un faux reCAPTCHA</title>
+    <link>https://www.cyberattaque.org/biocorp-une-cyberattaque-wordpress-piege-les-visiteurs-avec-un-faux-recaptcha/</link>
+    <description>Biocorp, entreprise française, du groupe Novo Nordisk, spécialisée dans la conception et la fabrication de dispositifs médicaux et...
+L’article Biocorp : une cyberattaque WordPress piège les visiteurs avec un faux…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 07 Oct 2026 15:37:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely</title>
+    <link>https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html</link>
+    <description>A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 21:04:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Carrefour : une fuite recyclée pour gagner en réputation</title>
+    <link>https://www.zataz.com/carrefour-une-fuite-recyclee-pour-gagner-en-reputation/</link>
+    <description>Une base attribuée à Carrefour circule sur des forums depuis des années : données recyclées, réputation et revendications.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 15:34:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet</title>
+    <link>https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html</link>
+    <description>Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 21:03:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] PoeLLM malware infects exposed AI servers in cryptomining attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/</link>
+    <description>A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 11:04:08 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dark web : un vendeur de cocaïne arrêté</title>
+    <link>https://www.zataz.com/dark-web-un-vendeur-de-cocaine-arrete/</link>
+    <description>Un vendeur du dark web est accusé d’avoir expédié des milliers de colis de cocaïne depuis 2022.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 15:03:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Oklahoma judge’s Flock ruling shows the power of Supreme Court’s digital evidence decision</title>
+    <link>https://therecord.media/oklahoma-flock-ruing-supreme-court-chatrie-decision</link>
+    <description>How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Adecco : une base de 2022 proposée à la vente</title>
     <link>https://www.zataz.com/adecco-une-base-de-2022-proposee-a-la-vente/</link>
     <description>Une base attribuée à Adecco et datée de 2022 est proposée à la vente. Son authenticité reste à confirmer.</description>
@@ -175,87 +315,6 @@ The arbitrary file access flaw,…</description>
     <description>Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 06 Oct 2026 17:00:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit 32 zero-days on first day of Pwn2Own Ireland</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/</link>
-    <description>On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 15:21:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes</title>
-    <link>https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html</link>
-    <description>Cybersecurity researchers have disclosed details of a "human-operated phishing platform" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 00:08:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan</title>
-    <link>https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html</link>
-    <description>Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.
-
-Threat actors…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 23:54:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Medialog : des réservations d’hôtels exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/medialog-des-reservations-dhotels-exposees-apres-une-cyberattaque/</link>
-    <description>Medialog informe ses clients d’un incident de sécurité ayant permis à un acteur non autorisé d’accéder à des...
-L’article Medialog : des réservations d’hôtels exposées après une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 18:14:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Atlassian warns of critical file-access flaw in Jira, Confluence</title>
-    <link>https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/</link>
-    <description>Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 13:34:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ASOS confirme la cyberattaque : les hackers menacent de faire fuiter les données clients</title>
-    <link>https://www.cyberattaque.org/asos-confirme-la-cyberattaque-les-hackers-menacent-de-faire-fuiter-les-donnees-clients/</link>
-    <description>ASOS, l’un des géants mondiaux de la mode en ligne avec 16,5 millions de clients actifs, confirme être...
-L’article ASOS confirme la cyberattaque : les hackers menacent de faire fuiter les données clients est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 16:34:47 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ASOS confirms data breach after “HACKED” in-app notifications</title>
-    <link>https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/</link>
-    <description>UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 12:33:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alleged ATM malware creator appears in Nebraska court after arrest</title>
-    <link>https://therecord.media/atm-malware-creator-appears-in-nebraska-court</link>
-    <description>Aguirre was added to the FBI’s “Top 10 Most Wanted Fugitives” list in March, becoming the first cybercriminal added to the list.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 06 Oct 2026 15:53:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] South Korean officials believe AI agents were used to hack several banks</title>
-    <link>https://therecord.media/south-korean-bank-hacks-ai-agents</link>
-    <description>The personal data of at least 68,000 people was reportedly exposed in breaches of at least seven financial institutions, with officials saying they believe a Chinese cybersecurity tool was used to hack the banks’…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 06 Oct 2026 15:29:22 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/</link>
-    <description>A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 11:16:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Osaka Metropolitan University cancels classes after suspected ransomware attack</title>
-    <link>https://therecord.media/osaka-university-cancels-classes-ransomware</link>
-    <description>Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 06 Oct 2026 14:52:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
