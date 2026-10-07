@@ -6,6 +6,170 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Adecco : une base de 2022 proposée à la vente</title>
+    <link>https://www.zataz.com/adecco-une-base-de-2022-proposee-a-la-vente/</link>
+    <description>Une base attribuée à Adecco et datée de 2022 est proposée à la vente. Son authenticité reste à confirmer.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 14:25:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber experts call on CISA to create mandatory federal OT rules</title>
+    <link>https://therecord.media/cyber-experts-call-on-cisa-require-ot-security</link>
+    <description>The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 14:03:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware has a new target. Is your backup ready?</title>
+    <link>https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/</link>
+    <description>Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach</title>
+    <link>https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</link>
+    <description>The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 13:49:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
+    <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
+    <description>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang.…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gold Service : des fraudeurs contactent déjà des clients après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/gold-service-des-clients-cibles-apres-une-cyberattaque/</link>
+    <description>Gold Service, spécialiste de l’achat et de la vente d’or et de métaux précieux, confirme dans un email...
+L’article Gold Service : des fraudeurs contactent déjà des clients après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 07 Oct 2026 13:43:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CGT : une base diffusée, des chiffres gonflés par les doublons</title>
+    <link>https://www.zataz.com/cgt-une-base-diffusee-des-chiffres-gonfles-par-les-doublons/</link>
+    <description>Une base attribuée à la CGT circule sur un forum pirate. Ses nombreux doublons gonflent les chiffres annoncés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 13:38:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker</title>
+    <link>https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie</link>
+    <description>A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dread : deux adresses détournées par un pirate</title>
+    <link>https://www.zataz.com/dread-deux-adresses-detournees-par-un-pirate/</link>
+    <description>Deux adresses des forums pirates Dread détournées : un hacker revendique l’attaque, menace les administrateurs et exige réparation.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 13:05:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] FBI, Secret Service add to warnings of FortiBleed credential stealing campaign</title>
+    <link>https://therecord.media/fortibleed-warning-fbi-secret-service</link>
+    <description>Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 07 Oct 2026 12:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers exploit critical Atlassian flaw after public PoC release</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/</link>
+    <description>A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 08:49:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Qilin : le Japon remet un suspect à l’Allemagne</title>
+    <link>https://www.zataz.com/qilin-le-japon-remet-un-suspect-a-lallemagne/</link>
+    <description>Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle central dans le groupe de rançongiciel Qilin.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 12:15:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow</title>
+    <link>https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html</link>
+    <description>The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 17:27:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials</title>
+    <link>https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html</link>
+    <description>The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 17:26:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details</title>
+    <link>https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html</link>
+    <description>Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.
+
+The arbitrary file access flaw,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 17:19:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] What Is Agentic Pentesting? What It Proves, and Where It Stops.</title>
+    <link>https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html</link>
+    <description>If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 17:12:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SonicWall warns of max severity SSRF flaw in SMA1000 gateways</title>
+    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/</link>
+    <description>SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 07:37:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] FLOCKER relance son programme de rançongiciel</title>
+    <link>https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/</link>
+    <description>Aprés sa disparition, le pirate FLOCKER recherche des affiliés via son outil revendiqué pour Windows, Linux et macOS.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 11:16:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Musician sent to prison for $10 million streaming fraud using AI bots</title>
+    <link>https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/</link>
+    <description>A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 06:35:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Advantest confirms personal information stolen in ransomware attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/</link>
+    <description>Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 06:27:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Convention de Budapest : 25 ans face au cybercrime</title>
+    <link>https://www.zataz.com/convention-de-budapest-25-ans-face-au-cybercrime/</link>
+    <description>Convention de Budapest : 25 ans de coopération face au cybercrime, aux preuves électroniques et à l’IA.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 10:10:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws</title>
+    <link>https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html</link>
+    <description>Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 13:37:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] 100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer</title>
+    <link>https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html</link>
+    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 07 Oct 2026 12:27:54 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ninja Forms plugin flaw exploited to hack WordPress sites</title>
     <link>https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/</link>
     <description>Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.…</description>
@@ -92,110 +256,6 @@ L’article ASOS confirme la cyberattaque : les hackers menacent de faire fuiter
     <description>Osaka Metropolitan University said on Tuesday that the outage left its internal network, email and a range of administrative and academic systems unavailable.</description>
     <source>The Record</source>
     <pubDate>Tue, 06 Oct 2026 14:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] How to secure RMM software: 8 controls MSPs should test</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/</link>
-    <description>RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Gefradis visé par une cyberattaque : plus de 100 000 lignes de données clients mises en vente</title>
-    <link>https://www.cyberattaque.org/gefradis-vise-par-une-cyberattaque-plus-de-100-000-lignes-de-donnees-clients-mises-en-vente/</link>
-    <description>Gefradis, entreprise française spécialisée dans la vente de menuiseries sur mesure, fait l’objet d’une importante revendication de fuite...
-L’article Gefradis visé par une cyberattaque : plus de 100 000 lignes de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 13:30:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware</title>
-    <link>https://therecord.media/clickfix-campaign-ukraine-lunex-stealer</link>
-    <description>CERT-UA found fake Cloudflare verification pages that led visitors into a now-familiar ClickFix trap. This time the goal was to infect machines with an infostealer.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 06 Oct 2026 13:17:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Incident affecting ASOS customers</title>
-    <link>https://www.ncsc.gov.uk/news/incident-affecting-asos-customers</link>
-    <description>ASOS has said it is investigating a cyber incident and that some customer personal information may have been accessed.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Armurerie Douillet : 7 546 documents en fuite, des détenteurs d’armes identifiables avec leur adresse</title>
-    <link>https://www.cyberattaque.org/cyberattaque-armurerie-douillet-7-546-documents-en-fuite-des-detenteurs-darmes-identifiables-avec-leur-adresse/</link>
-    <description>Armurerie Douillet-Dreumont, armurerie française spécialisée dans la chasse et le tir sportif, fait l’objet d’une importante revendication de...
-L’article Armurerie Douillet : 7 546 documents en fuite, des détenteurs…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 11:58:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings</title>
-    <link>https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html</link>
-    <description>A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 17:27:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits</title>
-    <link>https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/</link>
-    <description>The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 07:31:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies</title>
-    <link>https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html</link>
-    <description>The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 16:56:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers</title>
-    <link>https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html</link>
-    <description>In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 16:32:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nikkei discloses breaches of employees’ Microsoft, Google email accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/</link>
-    <description>Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 05:25:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports</title>
-    <link>https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html</link>
-    <description>Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.
-
-The change, in effect since October 1, means researchers can no longer submit security flaws in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 14:51:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bati-Avenue touché par la cyberattaque Shipup : des clients Amazon et ManoMano exposés</title>
-    <link>https://www.cyberattaque.org/bati-avenue-touche-par-la-cyberattaque-shipup-des-clients-amazon-et-manomano-exposes/</link>
-    <description>Bati-Avenue, spécialiste français de la vente en ligne de matériel et d’outillage pour les professionnels du bâtiment, confirme...
-L’article Bati-Avenue touché par la cyberattaque Shipup : des clients Amazon et ManoMano…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 09:17:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hespéride : 7 700 clients touchés par une cyberattaque chez un prestataire</title>
-    <link>https://www.cyberattaque.org/hesperide-7-700-clients-touches-par-une-cyberattaque-chez-un-prestataire/</link>
-    <description>Hespéride informe environ 7 700 clients d’une violation de données survenue chez l’un de ses prestataires techniques. Si...
-L’article Hespéride : 7 700 clients touchés par une cyberattaque chez un prestataire est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 06 Oct 2026 08:28:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Engineer sentenced for locking over 3,000 devices on employer network</title>
-    <link>https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/</link>
-    <description>A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 04:19:24 -0400</pubDate>
   </item>
 </channel>
 </rss>
