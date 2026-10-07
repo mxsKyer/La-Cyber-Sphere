@@ -197,46 +197,5 @@ L’article Hespéride : 7 700 clients touchés par une cyberattaque chez un pre
     <source>BleepingComputer</source>
     <pubDate>Tue, 06 Oct 2026 04:19:24 -0400</pubDate>
   </item>
-  <item>
-    <title>[Faible] Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products</title>
-    <link>https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html</link>
-    <description>A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory.
-
-The attacker must…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 12:28:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach</title>
-    <link>https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html</link>
-    <description>The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees.
-
-That's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 12:26:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account</title>
-    <link>https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html</link>
-    <description>Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 11:30:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits</title>
-    <link>https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html</link>
-    <description>A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.
-
-"Instead of downloading and executing remote payloads like the typical…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 06 Oct 2026 10:52:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Shares in British clothing company ASOS dive after hackers apparently send push notification</title>
-    <link>https://therecord.media/asos-push-notification-apparently-sent-by-hackers</link>
-    <description>Several mysteries surround what appeared to be an unauthorized push notification sent to customers of London-based clothing company ASOS.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 06 Oct 2026 04:00:00 GMT</pubDate>
-  </item>
 </channel>
 </rss>
