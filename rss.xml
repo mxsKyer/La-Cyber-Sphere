@@ -6,6 +6,186 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Leaked chats show Russian extortion gang sending ‘agents’ into US law firms</title>
+    <link>https://therecord.media/leaked-chats-show-russian-extortion-gang-sending-agents-to-law-firms</link>
+    <description>In leaked chats, members track dozens of victims, haggle over multimillion-dollar payments and direct operatives based in the United States whom they call “agents.”</description>
+    <source>The Record</source>
+    <pubDate>Thu, 08 Oct 2026 14:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Peggy Sage : 106 000 fichiers sensibles diffusés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/peggy-sage-106-000-fichiers-sensibles-diffuses-apres-une-cyberattaque/</link>
+    <description>Peggy Sage, marque française de cosmétiques et de produits professionnels de beauté basée à Bonneville, en Haute-Savoie, refait...
+L’article Peggy Sage : 106 000 fichiers sensibles diffusés après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 14:35:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Eau Cœur d’Essonne : 55 000 contrats d’eau en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/eau-coeur-dessonne-55-000-contrats-deau-en-fuite-apres-une-cyberattaque/</link>
+    <description>Eau Cœur d’Essonne, la régie publique chargée de la distribution et de la facturation de l’eau potable dans...
+L’article Eau Cœur d’Essonne : 55 000 contrats d’eau en fuite après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 14:31:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OAuth grants pile up faster than you can review them. Here's how to keep up.</title>
+    <link>https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/</link>
+    <description>OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers target two South Korean megachurches, potentially exposing congregant data</title>
+    <link>https://therecord.media/south-korea-hackers-megachurches</link>
+    <description>Two of South Korea's largest Protestant churches are investigating cyberattacks that may have exposed sensitive information about hundreds of thousands of members, including personal details, financial records and…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 08 Oct 2026 13:55:56 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre Bordeaux Sciences Agro : les données de conventions de stage extraites</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-bordeaux-sciences-agro-les-donnees-de-conventions-de-stage-extraites/</link>
+    <description>Bordeaux Sciences Agro confirme une violation de données ayant touché son application de gestion des conventions de stage....
+L’article Cyberattaque contre Bordeaux Sciences Agro : les données de conventions de stage…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 13:41:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Uranium crypto exchange hacker convicted for stealing $53 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/</link>
+    <description>A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 09:18:36 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Thousands of cheap Android phones shipped with ad-fraud malware</title>
+    <link>https://therecord.media/cheap-androids-shipped-with-ad-fraud-malware</link>
+    <description>"It’s on the phone before the owner switches it on for the first time, and it can’t be uninstalled," researchers at Bitdefender said about ad fraud malware found on thousands of cheap Android devices.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] TrainMe : la filiale de Decathlon touchée par une fuite de données, des informations de santé exposées</title>
+    <link>https://www.cyberattaque.org/trainme-la-filiale-de-decathlon-touchee-par-une-fuite-de-donnees-des-informations-de-sante-exposees/</link>
+    <description>TrainMe, plateforme française de coaching sportif appartenant au groupe Decathlon, informe ses utilisateurs d’un incident de sécurité ayant...
+L’article TrainMe : la filiale de Decathlon touchée par une fuite de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 12:59:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Aqua-Store : les données clients et historiques de commandes volés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/aqua-store-les-donnees-clients-et-historiques-de-commandes-voles-apres-une-cyberattaque/</link>
+    <description>Aqua-Store, boutique française spécialisée dans la vente en ligne de matériel et d’accessoires pour aquariums et bassins, confirme...
+L’article Aqua-Store : les données clients et historiques de commandes volés après…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 12:32:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian-aligned spies upgrade malware used in attacks on Ukrainian transport, energy firms</title>
+    <link>https://therecord.media/russia-ukraine-malware-transportation</link>
+    <description>Russian-aligned hackers have targeted Ukrainian transportation, manufacturing and energy companies with a constantly evolving malware strain designed to harvest system data, according to new research.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 08 Oct 2026 12:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Teams to get support for third-party deepfake detection tools</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/</link>
+    <description>Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 08:08:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Major Yandex data center in Russia hit by Ukrainian drone strike</title>
+    <link>https://therecord.media/yandex-russia-drone-ukraine</link>
+    <description>A drone strike on a large Yandex data center caused a significant disruption to the Russian tech giant's network, with connectivity reportedly falling to around 70 percent of normal levels.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Les Cousins : un hacker intercepte les données de cartes bancaires</title>
+    <link>https://www.cyberattaque.org/cyberattaque-les-cousins-un-hacker-intercepte-les-donnees-de-cartes-bancaires/</link>
+    <description>Les Cousins, entreprise française spécialisée dans la vente de produits et de matériel pour la céramique, la poterie...
+L’article Les Cousins : un hacker intercepte les données de cartes bancaires est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 11:53:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ASOS links data breach to social engineering attack, credential theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/</link>
+    <description>ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 07:42:46 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] PUBLICA : une fuite de données à la Caisse fédérale de pensions suisse</title>
+    <link>https://www.cyberattaque.org/publica-une-fuite-de-donnees-a-la-caisse-federale-de-pensions-suisse/</link>
+    <description>PUBLICA, la Caisse fédérale de pensions suisse, confirme être concernée par une fuite de données consécutive à une...
+L’article PUBLICA : une fuite de données à la Caisse fédérale de pensions suisse est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 11:35:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Centre National du Droit du Travail : 150 000 lignes revendiquées après une faille SQL</title>
+    <link>https://www.cyberattaque.org/centre-national-du-droit-du-travail-150-000-lignes-revendiquees-apres-une-faille-sql/</link>
+    <description>Le Centre National du Droit du Travail ferait l’objet d’une importante fuite de données. Un utilisateur utilisant le...
+L’article Centre National du Droit du Travail : 150 000 lignes revendiquées après une faille SQL…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 11:07:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Scouts et Guides de France : 71 000 lignes en fuite, des données de jeunes et de leurs parents exposées</title>
+    <link>https://www.cyberattaque.org/scouts-et-guides-de-france-71-000-lignes-en-fuite-des-donnees-de-jeunes-et-de-leurs-parents-exposees/</link>
+    <description>Les Scouts et Guides de France (SGDF), l’un des principaux mouvements de scoutisme français, font l’objet d’une importante...
+L’article Scouts et Guides de France : 71 000 lignes en fuite, des données de jeunes et de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 10:55:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Assurimo : 674 000 clients exposés, 1,6 milliard d’euros de primes dans la fuite</title>
+    <link>https://www.cyberattaque.org/assurimo-674-000-clients-exposes-16-milliard-deuros-de-primes-dans-la-fuite/</link>
+    <description>Assurimo, courtier français spécialisé dans l’assurance immobilière, fait l’objet d’une revendication de fuite de données d’une ampleur particulièrement...
+L’article Assurimo : 674 000 clients exposés, 1,6 milliard…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 08 Oct 2026 10:43:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia</title>
+    <link>https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html</link>
+    <description>Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 08 Oct 2026 16:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Owner of Empire cybercrime market gets 40 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/</link>
+    <description>The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 06:29:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases</title>
+    <link>https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html</link>
+    <description>Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.
+
+"The extensions masquerade as wallet…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 08 Oct 2026 15:16:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks</title>
+    <link>https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html</link>
+    <description>The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 08 Oct 2026 13:12:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data</title>
+    <link>https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 08 Oct 2026 13:11:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Justice.fr : plus de 7 000 personnes en fuite après une cyberattaque</title>
     <link>https://www.cyberattaque.org/justice-fr-plus-de-7-000-personnes-en-fuite-apres-une-cyberattaque/</link>
     <description>Justice.fr, le portail officiel français d’information sur la justice et les procédures juridiques, fait l’objet d’une nouvelle revendication...
@@ -218,163 +398,6 @@ L’article Biocorp : une cyberattaque WordPress piège les visiteurs avec un fa
     <description>How a recent Supreme Court decision on geofencing influenced a federal judge to toss a sheriff's Flock camera evidence in a drug trafficking case.</description>
     <source>The Record</source>
     <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Adecco : une base de 2022 proposée à la vente</title>
-    <link>https://www.zataz.com/adecco-une-base-de-2022-proposee-a-la-vente/</link>
-    <description>Une base attribuée à Adecco et datée de 2022 est proposée à la vente. Son authenticité reste à confirmer.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 14:25:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber experts call on CISA to create mandatory federal OT rules</title>
-    <link>https://therecord.media/cyber-experts-call-on-cisa-require-ot-security</link>
-    <description>The Operational Technology Cybersecurity Coalition released a white paper urging the CISA to create a new directive centered around operational technology, which is used to monitor and control critical infrastructure.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 07 Oct 2026 14:03:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware has a new target. Is your backup ready?</title>
-    <link>https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/</link>
-    <description>Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Senate passes healthcare cybersecurity bill after 190 million impacted by Change Healthcare breach</title>
-    <link>https://therecord.media/senate-passes-healthcare-cyber-bill-after-change-breach</link>
-    <description>The Health Care Cybersecurity and Resiliency Act of 2026 was passed by unanimous consent last week, potentially expanding federal cyber requirements for healthcare organizations.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 07 Oct 2026 13:49:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters Extorted Boeing Spin-off Prior to Arrests</title>
-    <link>https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/</link>
-    <description>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang.…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 07 Oct 2026 13:48:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Gold Service : des fraudeurs contactent déjà des clients après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/gold-service-des-clients-cibles-apres-une-cyberattaque/</link>
-    <description>Gold Service, spécialiste de l’achat et de la vente d’or et de métaux précieux, confirme dans un email...
-L’article Gold Service : des fraudeurs contactent déjà des clients après une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 07 Oct 2026 13:43:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CGT : une base diffusée, des chiffres gonflés par les doublons</title>
-    <link>https://www.zataz.com/cgt-une-base-diffusee-des-chiffres-gonfles-par-les-doublons/</link>
-    <description>Une base attribuée à la CGT circule sur un forum pirate. Ses nombreux doublons gonflent les chiffres annoncés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 13:38:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian cyberattacks against UK are 'Putin Tax' costing $3.3 billion, says lawmaker</title>
-    <link>https://therecord.media/russia-cyberattacks-on-britain-putin-tax-graeme-downie</link>
-    <description>A report by a Labour MP and an academic argues that if the British public cannot see what Russian activity costs, it cannot weigh that burden against the cost of defending against it.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 07 Oct 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Dread : deux adresses détournées par un pirate</title>
-    <link>https://www.zataz.com/dread-deux-adresses-detournees-par-un-pirate/</link>
-    <description>Deux adresses des forums pirates Dread détournées : un hacker revendique l’attaque, menace les administrateurs et exige réparation.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 13:05:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI, Secret Service add to warnings of FortiBleed credential stealing campaign</title>
-    <link>https://therecord.media/fortibleed-warning-fbi-secret-service</link>
-    <description>Users of two types of Fortinet hardware should take steps to limit their exposure to a now-global credential stealing campaign, U.S. federal law enforcement says.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 07 Oct 2026 12:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit critical Atlassian flaw after public PoC release</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/</link>
-    <description>A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 08:49:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Qilin : le Japon remet un suspect à l’Allemagne</title>
-    <link>https://www.zataz.com/qilin-le-japon-remet-un-suspect-a-lallemagne/</link>
-    <description>Le Japon remet à l’Allemagne un Russe de 28 ans soupçonné d’un rôle central dans le groupe de rançongiciel Qilin.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 12:15:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow</title>
-    <link>https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html</link>
-    <description>The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 17:27:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials</title>
-    <link>https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html</link>
-    <description>The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 17:26:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details</title>
-    <link>https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html</link>
-    <description>Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.
-
-The arbitrary file access flaw,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 17:19:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] What Is Agentic Pentesting? What It Proves, and Where It Stops.</title>
-    <link>https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html</link>
-    <description>If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 17:12:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SonicWall warns of max severity SSRF flaw in SMA1000 gateways</title>
-    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/</link>
-    <description>SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 07:37:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FLOCKER relance son programme de rançongiciel</title>
-    <link>https://www.zataz.com/flocker-relance-son-programme-de-rancongiciel/</link>
-    <description>Aprés sa disparition, le pirate FLOCKER recherche des affiliés via son outil revendiqué pour Windows, Linux et macOS.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 11:16:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Musician sent to prison for $10 million streaming fraud using AI bots</title>
-    <link>https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/</link>
-    <description>A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 06:35:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Advantest confirms personal information stolen in ransomware attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/</link>
-    <description>Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 06:27:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Convention de Budapest : 25 ans face au cybercrime</title>
-    <link>https://www.zataz.com/convention-de-budapest-25-ans-face-au-cybercrime/</link>
-    <description>Convention de Budapest : 25 ans de coopération face au cybercrime, aux preuves électroniques et à l’IA.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 10:10:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws</title>
-    <link>https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html</link>
-    <description>Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 07 Oct 2026 13:37:38 +0530</pubDate>
   </item>
 </channel>
 </rss>
