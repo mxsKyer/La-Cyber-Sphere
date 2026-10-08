@@ -6,6 +6,42 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Trump Mobile : BYOD revendique 3 615 dossiers piratés</title>
+    <link>https://www.zataz.com/trump-mobile-byod-revendique-3-615-dossiers-pirates/</link>
+    <description>BYOD revendique le piratage du Trump Mobile et menace une autre organisation portant sur 12 millions d’utilisateurs de cryptomonnaies.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 07 Oct 2026 23:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware recovery CEO charged over secret ransom payments</title>
+    <link>https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/</link>
+    <description>The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 19:04:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</link>
+    <description>The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 17:28:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] France Travail : 62 848 fiches d’agents revendiquées après une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/france-travail-62-848-fiches-dagents-revendiquees-apres-une-nouvelle-cyberattaque/</link>
+    <description>France Travail fait l’objet d’une nouvelle revendication de fuite de données. Un acteur utilisant le pseudonyme 0xRune affirme...
+L’article France Travail : 62 848 fiches d’agents revendiquées après une nouvelle…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 07 Oct 2026 20:50:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers hijack Google domains after breaching ccTLD registries</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/</link>
+    <description>Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 07 Oct 2026 16:50:13 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] US posts $10 million reward for accused Chinese ‘Hafnium’ hacker</title>
     <link>https://therecord.media/accused-hafnium-hacker-zhang-yu-10million-reward</link>
     <description>U.S. officials say Zhang Yu was a prominent figure in the Hafnium campaign, which saw hackers breach thousands of computers and steal troves of documents.</description>
@@ -308,13 +344,6 @@ The arbitrary file access flaw,…</description>
     <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 07 Oct 2026 12:27:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ninja Forms plugin flaw exploited to hack WordPress sites</title>
-    <link>https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/</link>
-    <description>Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 06 Oct 2026 17:00:27 -0400</pubDate>
   </item>
 </channel>
 </rss>
