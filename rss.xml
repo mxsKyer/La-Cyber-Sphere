@@ -13,6 +13,22 @@
     <pubDate>Sat, 10 Oct 2026 00:55:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions</title>
+    <link>https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html</link>
+    <description>The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.
+
+To that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 09 Oct 2026 12:09:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/</link>
+    <description>The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 09 Oct 2026 01:41:04 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] FBI disrupts Chinese hacking tools used to breach critical infrastructure</title>
     <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/</link>
     <description>The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other…</description>
@@ -335,58 +351,6 @@ L’article Assurimo : 674 000 clients exposés, 1,6 milliard…</description>
 "The extensions masquerade as wallet…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 08 Oct 2026 15:16:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks</title>
-    <link>https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html</link>
-    <description>The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 08 Oct 2026 13:12:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data</title>
-    <link>https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 08 Oct 2026 13:11:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Justice.fr : plus de 7 000 personnes en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/justice-fr-plus-de-7-000-personnes-en-fuite-apres-une-cyberattaque/</link>
-    <description>Justice.fr, le portail officiel français d’information sur la justice et les procédures juridiques, fait l’objet d’une nouvelle revendication...
-L’article Justice.fr : plus de 7 000 personnes en fuite après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 08 Oct 2026 06:46:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland</title>
-    <link>https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/</link>
-    <description>​​​On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 08 Oct 2026 02:32:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Tensorlake npm Package Compromised to Deliver Shai-Hulud Credential-Stealing Worm</title>
-    <link>https://thehackernews.com/2026/10/tensorlake-npm-package-compromised-to.html</link>
-    <description>The npm package known as "tensorlake," a TypeScript software development kit (SDK) for Tensorlake applications, sandboxes, and cloud services, was compromised as part of a ChainDrop / Shai-Hulud supply chain…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 08 Oct 2026 11:16:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Oh ! La Bonne Pizza : 370 fiches clients diffusées gratuitement, téléphones et emails exposés</title>
-    <link>https://www.cyberattaque.org/oh-la-bonne-pizza-370-fiches-clients-diffusees-gratuitement-telephones-et-emails-exposes/</link>
-    <description>Oh ! La Bonne Pizza, pizzeria française proposant notamment de la vente à emporter, fait l’objet d’une revendication...
-L’article Oh ! La Bonne Pizza : 370 fiches clients diffusées gratuitement, téléphones et emails…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 08 Oct 2026 04:17:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France Pare-Brise : 38 000 fichiers diffusés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/france-pare-brise-38-000-fichiers-diffuses-apres-une-cyberattaque/</link>
-    <description>France Pare-Brise, spécialiste français de la réparation et du remplacement de vitrages automobiles, fait l’objet d’une nouvelle revendication...
-L’article France Pare-Brise : 38 000 fichiers diffusés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 08 Oct 2026 04:03:01 +0000</pubDate>
   </item>
 </channel>
 </rss>
