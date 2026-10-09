@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Co-creator of Empire Market dark web marketplace given 40-year sentence</title>
+    <link>https://therecord.media/co-creator-empire-dark-net-market-sentenced</link>
+    <description>Raheim Hamilton, 30, pleaded guilty earlier this year to a drug conspiracy charge and agreed to forfeit more than $100 million worth of Bitcoin and several properties in Virginia.</description>
+    <source>The Record</source>
+    <pubDate>Sat, 10 Oct 2026 00:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI disrupts Chinese hacking tools used to breach critical infrastructure</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/</link>
+    <description>The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 08 Oct 2026 17:42:51 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal</title>
     <link>https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal</link>
     <description>The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records and payroll and tax information, Rep. Steven Horsford (D-NV) said in a…</description>
@@ -373,77 +387,6 @@ L’article Oh ! La Bonne Pizza : 370 fiches clients diffusées gratuitement, t�
 L’article France Pare-Brise : 38 000 fichiers diffusés après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 08 Oct 2026 04:03:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2015-3306 — ProFTPD Improper Access Control Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-3306</link>
-    <description>ProFTPD contains an improper access control vulnerability that could allow remote attackers to read and write to arbitrary files via the site cpfr and site cpto commands.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2021-3199 — ONLYOFFICE Docs Server Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2021-3199</link>
-    <description>ONLYOFFICE Docs contains a path traversal vulnerability that can occur when JWT is used, via a /.. sequence in an image upload parameter and could allow for remote code execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2023-22894 — Strapi Cleartext Storage of Sensitive Information Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2023-22894</link>
-    <description>Strapi contains a cleartext storage of sensitive information vulnerability that could allow attackers with access to the admin panel to discover sensitive user details via the query filter. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version. This vulnerability can be chained with CVE-2023-22621 to achieve remote code execution. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2016-3081 — Apache Struts Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2016-3081</link>
-    <description>Apache Struts contains a command injection vulnerability that could allow remote attackers to execute arbitrary code via method:prefix when Dynamic Method Invocation is enabled.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-08</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2015-5477 —  ISC BIND Data Processing Errors Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2015-5477</link>
-    <description>ISC BIND contains a data processing errors vulnerability that could allow remote attackers to cause a denial of service via TKEY queries.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-08</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trump Mobile : BYOD revendique 3 615 dossiers piratés</title>
-    <link>https://www.zataz.com/trump-mobile-byod-revendique-3-615-dossiers-pirates/</link>
-    <description>BYOD revendique le piratage du Trump Mobile et menace une autre organisation portant sur 12 millions d’utilisateurs de cryptomonnaies.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 07 Oct 2026 23:11:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware recovery CEO charged over secret ransom payments</title>
-    <link>https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/</link>
-    <description>The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 19:04:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</link>
-    <description>The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 17:28:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] France Travail : 62 848 fiches d’agents revendiquées après une nouvelle cyberattaque</title>
-    <link>https://www.cyberattaque.org/france-travail-62-848-fiches-dagents-revendiquees-apres-une-nouvelle-cyberattaque/</link>
-    <description>France Travail fait l’objet d’une nouvelle revendication de fuite de données. Un acteur utilisant le pseudonyme 0xRune affirme...
-L’article France Travail : 62 848 fiches d’agents revendiquées après une nouvelle…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 07 Oct 2026 20:50:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers hijack Google domains after breaching ccTLD registries</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/</link>
-    <description>Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 07 Oct 2026 16:50:13 -0400</pubDate>
   </item>
 </channel>
 </rss>
