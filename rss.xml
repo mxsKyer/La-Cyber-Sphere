@@ -13,6 +13,20 @@
     <pubDate>Sat, 10 Oct 2026 00:55:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</link>
+    <description>Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 09 Oct 2026 16:31:37 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</title>
+    <link>https://thehackernews.com/2026/10/credential-stealing-github-actions.html</link>
+    <description>Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 10 Oct 2026 00:44:28 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Japan confirms arrest of Russian Qilin operative, extradition to Germany</title>
     <link>https://therecord.media/japan-germany-ransomware-arrest</link>
     <description>Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.</description>
@@ -244,20 +258,6 @@ To that…</description>
     <description>The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 09 Oct 2026 01:41:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI disrupts Chinese hacking tools used to breach critical infrastructure</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/</link>
-    <description>The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 08 Oct 2026 17:42:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal</title>
-    <link>https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal</link>
-    <description>The proposed sale would include about 100 million emails, 500 million Microsoft Teams messages, employment contracts, employee and timecard records and payroll and tax information, Rep. Steven Horsford (D-NV) said in a…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 08 Oct 2026 20:27:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
