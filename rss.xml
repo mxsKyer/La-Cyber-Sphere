@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management</title>
+    <link>https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/</link>
+    <description>Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 10 Oct 2026 08:30:39 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</title>
+    <link>https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</link>
+    <description>In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 10 Oct 2026 16:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws</title>
+    <link>https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html</link>
+    <description>Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 10 Oct 2026 14:48:45 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Courtiers Partenaires : les recherches immobilières de 57 000 personnes mises en vente sur le darkweb</title>
     <link>https://www.cyberattaque.org/courtiers-partenaires-les-recherches-immobilieres-de-57-000-personnes-mises-en-vente-sur-le-darkweb/</link>
     <description>Courtiers Partenaires, réseau suisse spécialisé dans le courtage immobilier, fait l’objet d’une importante revendication de fuite de données....
@@ -192,104 +213,6 @@ L’article Quick : les données des membres du programme fidélité exposées a
 AnyDesk…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 09 Oct 2026 18:29:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects</title>
-    <link>https://thehackernews.com/2026/10/anthropic-launches-free-ai.html</link>
-    <description>Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).
-
-"It's an opt-in service informed by our experience using Claude…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 18:17:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge</title>
-    <link>https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html</link>
-    <description>Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.
-
-Details of the flaws…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 18:17:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Max severity SonicWall SMA1000 flaw now exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/</link>
-    <description>Attackers are exploiting a maximum-severity vulnerability in SonicWall SMA1000 appliances (CVE-2026-102255) that was patched on Tuesday, three days ago. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 08:32:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies</title>
-    <link>https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 17:51:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ASP frappé par une nouvelle cyberattaque : 29 611 personnes exposées</title>
-    <link>https://www.cyberattaque.org/asp-frappe-par-une-nouvelle-cyberattaque-29-611-personnes-exposees/</link>
-    <description>L’Agence de services et de paiement (ASP) fait l’objet d’une nouvelle revendication de fuite de données particulièrement sensible....
-L’article ASP frappé par une nouvelle cyberattaque : 29 611 personnes exposées est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 09 Oct 2026 11:30:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition</title>
-    <link>https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html</link>
-    <description>As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The "Horizons of Identity Security" report from…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Man admits to running network of 15,000 money mules for cybercriminals</title>
-    <link>https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/</link>
-    <description>​A Ukrainian-Russian dual citizen has pleaded guilty to running a massive money laundering operation that laundered millions for cybercriminals worldwide. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 07:14:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Outdated Windows devices will stop receiving security updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/</link>
-    <description>Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year's Windows Update certificate rotation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 06:12:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys</title>
-    <link>https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html</link>
-    <description>A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 14:33:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Citrix warns admins to patch new NetScaler RCE flaw immediately</title>
-    <link>https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/</link>
-    <description>Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 04:27:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own</title>
-    <link>https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html</link>
-    <description>Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 13:56:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments</title>
-    <link>https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html</link>
-    <description>Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 13:41:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI Seizes 7 Domains, Disrupts Flax Typhoon Tools Used in Critical Infrastructure Intrusions</title>
-    <link>https://thehackernews.com/2026/10/fbi-seizes-7-domains-disrupts-flax.html</link>
-    <description>The U.S. Federal Bureau of Investigation (FBI) and Department of Justice (DoJ) have announced the disruption of malicious tools used by a China-linked advanced persistent threat group known as Flax Typhoon.
-
-To that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 12:09:29 +0530</pubDate>
   </item>
 </channel>
 </rss>
