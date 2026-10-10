@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyber exec arrested in case allegedly tied to ShinyHunters hackers</title>
+    <link>https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</link>
+    <description>Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 10 Oct 2026 11:07:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ARTEX AI, Claude agents used in cyberattacks on South Korean banks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/</link>
+    <description>The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 10 Oct 2026 10:16:17 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Infogreffe : 3,7 millions de lignes revendiquées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/infogreffe-37-millions-de-lignes-revendiquees-apres-une-cyberattaque/</link>
+    <description>Infogreffe, le portail français permettant d’accéder aux informations légales et économiques des entreprises enregistrées au registre du commerce,...
+L’article Infogreffe : 3,7 millions de lignes revendiquées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 10 Oct 2026 13:29:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management</title>
     <link>https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/</link>
     <description>Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure…</description>
@@ -100,119 +122,6 @@ L’article Wimoov : une cyberttaque touche la plateforme WIN est apparu…</des
 L’article VACAF : 1,39 million de lignes en fuite, les données de familles et d’enfants exposées…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 09 Oct 2026 18:10:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack</title>
-    <link>https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html</link>
-    <description>The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a&amp;nbsp;post on X.
-
-ShinyHunters is the extortion group that said in September it had&amp;nbsp;breached the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 23:15:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto</title>
-    <link>https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/</link>
-    <description>Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 13:17:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI arrests another suspected ShinyHunters hacker after agency breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/</link>
-    <description>The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 13:02:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands</title>
-    <link>https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html</link>
-    <description>Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.
-
-"Compared with the variants we usually observe, P7 reduces its on-device footprint,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 21:59:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Primaire de la gauche : une cyberattaque perturbe le vote en ligne dès son ouverture</title>
-    <link>https://www.cyberattaque.org/primaire-de-la-gauche-une-cyberattaque-perturbe-le-vote-en-ligne-des-son-ouverture/</link>
-    <description>La primaire de la gauche sociale-démocrate pour l’élection présidentielle de 2027 est perturbée par une cyberattaque depuis l’ouverture...
-L’article Primaire de la gauche : une cyberattaque perturbe le vote en ligne dès…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 09 Oct 2026 16:23:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Quick : les données des membres du programme fidélité exposées après une intrusion</title>
-    <link>https://www.cyberattaque.org/quick-les-donnees-des-membres-du-programme-fidelite-exposees-apres-une-intrusion/</link>
-    <description>Quick informe les membres de son programme de fidélité Qlub Quick d’un incident de sécurité ayant permis un...
-L’article Quick : les données des membres du programme fidélité exposées après une intrusion est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 09 Oct 2026 16:15:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty</title>
-    <link>https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty</link>
-    <description>Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 16:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hundreds of thousands impacted by data breach at biosensor firm iRhythm</title>
-    <link>https://therecord.media/irhythm-data-breach-reports</link>
-    <description>A company known for wearable cardiac sensors, iRhythm, has begun notifying states of the impact of a data breach from the summer.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 16:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FBI touts another ShinyHunters arrest in response to data breach</title>
-    <link>https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation</link>
-    <description>“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate," FBI Director Kash Patel said.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 15:41:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Germany arrests alleged core Qilin ransomware member after extradition</title>
-    <link>https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/</link>
-    <description>Germany has arrested a Russian national suspected of being a leading member of the Qilin ransomware group following extradition from Japan earlier this month. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 11:38:56 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Belarusian hacktivists admit to 2023 breach of Russian state healthcare network</title>
-    <link>https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack</link>
-    <description>The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 14:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] How to keep AI agents within their permissions</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/</link>
-    <description>AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT</title>
-    <link>https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt</link>
-    <description>A Latin American propaganda operation run by Russians and a cluster of Iranian fake journalist identities each had help from now-closed ChatGPT accounts, OpenAI's safety team said.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 13:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TP-Link Sued by Four More U.S. States Over Router Security and China Ties</title>
-    <link>https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html</link>
-    <description>Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with &amp;nbsp;Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 18:52:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access</title>
-    <link>https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html</link>
-    <description>Security researchers have&amp;nbsp;published a full working exploit&amp;nbsp;for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection.
-
-AnyDesk…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 09 Oct 2026 18:29:22 +0530</pubDate>
   </item>
 </channel>
 </rss>
