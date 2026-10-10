@@ -94,34 +94,5 @@ L’article Wimoov : une cyberttaque touche la plateforme WIN est apparu…</des
     <source>Krebs on Security</source>
     <pubDate>Sat, 10 Oct 2026 00:17:42 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</link>
-    <description>Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 09 Oct 2026 16:31:37 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories</title>
-    <link>https://thehackernews.com/2026/10/credential-stealing-github-actions.html</link>
-    <description>Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 10 Oct 2026 00:44:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Japan confirms arrest of Russian Qilin operative, extradition to Germany</title>
-    <link>https://therecord.media/japan-germany-ransomware-arrest</link>
-    <description>Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 09 Oct 2026 18:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] VACAF : 1,39 million de lignes en fuite, les données de familles et d’enfants exposées</title>
-    <link>https://www.cyberattaque.org/vacaf-cyberattaque-caf/</link>
-    <description>VACAF, le dispositif utilisé par les Caisses d’allocations familiales pour gérer les aides aux vacances des familles et...
-L’article VACAF : 1,39 million de lignes en fuite, les données de familles et d’enfants exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 09 Oct 2026 18:10:00 +0000</pubDate>
-  </item>
 </channel>
 </rss>
