@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Infogreffe visé par une revendication de fuite de données</title>
+    <link>https://www.zataz.com/infogreffe-vise-par-une-revendication-de-fuite-de-donnees/</link>
+    <description>Infogreffe visé par une revendication de fuite : un pirate évoque des profils et des secrets techniques sensibles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 11 Oct 2026 13:04:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Reconnaissance faciale : un visage masqué reste identifiable</title>
+    <link>https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable/</link>
+    <description>Reconnaissance faciale partielle : une enquête OSINT révèle les risques d'identification des militaires masqués.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 11 Oct 2026 12:26:54 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyber exec arrested in case allegedly tied to ShinyHunters hackers</title>
     <link>https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/</link>
     <description>Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters…</description>
@@ -26,27 +40,6 @@
 L’article Infogreffe : 3,7 millions de lignes revendiquées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 10 Oct 2026 13:29:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management</title>
-    <link>https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/</link>
-    <description>Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 10 Oct 2026 08:30:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't</title>
-    <link>https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</link>
-    <description>In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 10 Oct 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws</title>
-    <link>https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html</link>
-    <description>Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 10 Oct 2026 14:48:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
