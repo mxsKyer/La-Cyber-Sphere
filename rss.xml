@@ -6,6 +6,121 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] TFG London cyberattack disrupts systems at Hobbs and Whistles retailers</title>
+    <link>https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/</link>
+    <description>TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 12:44:18 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
+    <link>https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html</link>
+    <description>GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 21:48:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says</title>
+    <link>https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out</link>
+    <description>The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 16:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’</title>
+    <link>https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us</link>
+    <description>More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 16:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ivanti warns of Connect Secure zero-day exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/</link>
+    <description>Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 11:45:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Docker Hub flaw let attackers impersonate users, tamper with images</title>
+    <link>https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/</link>
+    <description>Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 11:20:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] North Korean hackers target Ukrainian experts for possible intelligence on Russia's war</title>
+    <link>https://therecord.media/north-korea-hackers-russia-ukraine</link>
+    <description>North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 15:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The MFA Gaps Attackers are Still Exploiting</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/</link>
+    <description>Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SAP warns of maximum severity OAuth2 SSRF security flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/</link>
+    <description>SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 09:51:02 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers</title>
+    <link>https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos</link>
+    <description>One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 13:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ledger says hardware implant in cryptocurrency wallets stole recovery phrases</title>
+    <link>https://therecord.media/ledger-cryptocurrency-wallet-implant-theft</link>
+    <description>Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 13:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation</title>
+    <link>https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html</link>
+    <description>The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 18:42:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls</title>
+    <link>https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html</link>
+    <description>The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.
+
+With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 17:27:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network</title>
+    <link>https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html</link>
+    <description>Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.
+
+LG has issued a fix, according…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 16:39:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Product Walkthrough: Bitdefender AI Visibility and Control</title>
+    <link>https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html</link>
+    <description>A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.
+
+A developer adds a coding&amp;nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.
+
+Someone…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 16:00:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers</title>
     <link>https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html</link>
     <description>Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.
@@ -74,6 +189,13 @@ L’article MaQuestionMedicale : 369 899 échanges de…</description>
     <pubDate>Tue, 13 Oct 2026 04:28:20 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-104935 — Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-104935</link>
+    <description>Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-13</pubDate>
+  </item>
+  <item>
     <title>[Faible] Norway fines Microsoft ad firm $9.6 million over Grindr data sharing</title>
     <link>https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/</link>
     <description>Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country.…</description>
@@ -101,124 +223,6 @@ L’article Solutions30 : 10,3 millions de lignes mises en vente,…</descriptio
     <description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local…</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 12 Oct 2026 14:51:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Ledger confirms spy chip implant behind wallet crypto thefts</title>
-    <link>https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/</link>
-    <description>Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 12:27:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack shuts down refrigerators at French supermarkets</title>
-    <link>https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/</link>
-    <description>Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 11:23:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More</title>
-    <link>https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html</link>
-    <description>Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 20:46:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption</title>
-    <link>https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/</link>
-    <description>A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Retail giant Ahold Delhaize takes systems offline after cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/</link>
-    <description>Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a "cybersecurity incident" affecting its network. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 09:51:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab warns of max severity code execution vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/</link>
-    <description>GitLab warned users today to immediately patch a maximum-severity vulnerability in the CI/CD Regular Expression Compiler that could let remote attackers run arbitrary code on targeted instances. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 09:09:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ukraine strikes third Yandex data center, disrupting digital services across Russia</title>
-    <link>https://therecord.media/ukraine-strikes-third-yandex-data-center</link>
-    <description>A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud services, payments, deliveries and other online services across the…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 12 Oct 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows 11 23H2 reaches end of support in 30 days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/</link>
-    <description>Microsoft has reminded customers that systems running Windows 11 23H2 Enterprise, Education, and IoT Enterprise editions will stop receiving security updates next month. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 07:58:33 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bring Your Own Agent: Your Employees' Assistants Are Already Logged In</title>
-    <link>https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html</link>
-    <description>The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 17:25:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une cyberattaque dérègle le froid des supermarchés</title>
-    <link>https://www.zataz.com/une-cyberattaque-deregle-le-froid-des-supermarches/</link>
-    <description>Une cyberattaque vise le froid des supermarchés : stocks détruits, pertes estimées et précédents analysés par ZATAZ.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 12 Oct 2026 11:29:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports</title>
-    <link>https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html</link>
-    <description>Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.
-
-On Friday, the company said it was…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 16:51:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch</title>
-    <link>https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html</link>
-    <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.
-
-The vulnerability, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 16:06:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Danfoss au cœur de la cyberattaque qui fait chauffer les frigos d’Intermarché, Super U et Leclerc</title>
-    <link>https://www.cyberattaque.org/danfoss-au-coeur-de-la-cyberattaque-qui-fait-chauffer-les-frigos-dintermarche-super-u-et-leclerc/</link>
-    <description>Danfoss se retrouve désormais au centre de l’enquête sur la cyberattaque qui frappe les systèmes frigorifiques de nombreux...
-L’article Danfoss au cœur de la cyberattaque qui fait chauffer les frigos d’Intermarché,…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 12 Oct 2026 10:27:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Data centers russes : la guerre hybride frappe le cloud</title>
-    <link>https://www.zataz.com/data-centers-russes-la-guerre-hybride-frappe-le-cloud/</link>
-    <description>Frappes sur Yandex : les data centers au cœur de la guerre hybride, entre pannes cloud et soupçons sur les bots.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 12 Oct 2026 10:02:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Intermarché et Super U : une cyberattaque dérègle le froid dans des centaines de magasins</title>
-    <link>https://www.cyberattaque.org/intermarche-et-super-u-une-cyberattaque-deregle-le-froid-dans-des-centaines-de-magasins/</link>
-    <description>Une cyberattaque d’ampleur inhabituelle touche depuis la nuit de dimanche à lundi les systèmes frigorifiques de centaines de...
-L’article Intermarché et Super U : une cyberattaque dérègle le froid dans des centaines de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 12 Oct 2026 09:45:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Vacaf : 1,39 million de lignes revendiquées à la vente</title>
-    <link>https://www.zataz.com/vacaf-139-million-de-lignes-revendiquees-a-la-vente/</link>
-    <description>Vacaf : un vendeur pirate informatique revendique 1,39 million de lignes sur des familles et des enfants.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 12 Oct 2026 09:32:42 +0000</pubDate>
   </item>
 </channel>
 </rss>
