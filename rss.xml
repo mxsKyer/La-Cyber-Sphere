@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Norway fines Microsoft ad firm $9.6 million over Grindr data sharing</title>
+    <link>https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/</link>
+    <description>Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 12 Oct 2026 16:13:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Solutions30 : 10,3 millions de lignes mises en vente, les clients de grands groupes exposés</title>
+    <link>https://www.cyberattaque.org/solutions30-103-millions-de-lignes-mises-en-vente-les-clients-de-grands-groupes-exposes/</link>
+    <description>Solutions30, l’un des principaux spécialistes européens des interventions techniques pour les télécoms, l’énergie et l’informatique, fait l’objet d’une...
+L’article Solutions30 : 10,3 millions de lignes mises en vente,…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 12 Oct 2026 19:50:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Yandex confirms service outage as users lose access to cloud files</title>
+    <link>https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/</link>
+    <description>Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 12 Oct 2026 15:23:01 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Anthropic takes risky AI tests offline after models breach govt sites</title>
     <link>https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/</link>
     <description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local…</description>
@@ -153,41 +175,6 @@ The critical vulnerability in question is CVE-2026-85097 (CVSS…</description>
 L’article AlloExtra : 14 516 CV de candidats…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 12 Oct 2026 03:43:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lookup : un site fermé, trois adolescents interpellés</title>
-    <link>https://www.zataz.com/lookup-un-site-ferme-trois-adolescents-interpelles/</link>
-    <description>Une plateforme de lookup fermée en France : trois adolescents interpellés et les risques des données compilées.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 12 Oct 2026 00:18:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NudeLeaksTeens : plus de 17 000 femmes identifiées</title>
-    <link>https://www.zataz.com/nudeleaksteens-plus-de-17-000-femmes-identifiees/</link>
-    <description>NudeLeaksTeens démantelé : plus de 17 000 victimes, trois sites fermés et deux frères interpellés en France.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 11 Oct 2026 23:07:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattack disrupts refrigeration at hundreds of French supermarkets</title>
-    <link>https://therecord.media/cyberattack-disrupts-refridgeration-in-france</link>
-    <description>A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country’s largest grocery chains.</description>
-    <source>The Record</source>
-    <pubDate>Sun, 11 Oct 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Piratage du FBI : un correctif oublié chez un prestataire</title>
-    <link>https://www.zataz.com/piratage-du-fbi-un-correctif-oublie-chez-un-prestataire/</link>
-    <description>Le FBI évoque un correctif non installé après le piratage revendiqué par ShinyHunters.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 11 Oct 2026 22:56:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ASOS : une menace de fuite envoyée aux clients</title>
-    <link>https://www.zataz.com/asos-une-menace-de-fuite-envoyee-aux-clients/</link>
-    <description>ASOS signale un possible accès aux données clients après une notification pirate. ZATAZ analyse les revendications.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 11 Oct 2026 22:23:01 +0000</pubDate>
   </item>
 </channel>
 </rss>
