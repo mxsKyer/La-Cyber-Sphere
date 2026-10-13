@@ -6,6 +6,74 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers</title>
+    <link>https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html</link>
+    <description>Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.
+
+The attackers reached…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 14:18:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control</title>
+    <link>https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html</link>
+    <description>Two of 31 newly disclosed flaws in Progress Software's&amp;nbsp;MarkLogic Server&amp;nbsp;database could let an account given only some management privileges take administrator control of the server, the company says.
+
+Progress…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 14:14:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code</title>
+    <link>https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html</link>
+    <description>GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.
+
+"GitLab has remediated an issue…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 14:13:37 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque des supermarchés : les clients paieront la note</title>
+    <link>https://www.cyberattaque.org/cyberattaque-des-supermarches-les-clients-paieront-la-note/</link>
+    <description>Des millions d’euros de pertes annoncés pour la cyberattaque des supermarchés : et si la note était, au...
+L’article Cyberattaque des supermarchés : les clients paieront la note est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 06:34:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies</title>
+    <link>https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html</link>
+    <description>Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 11:30:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France Utilitaires : près de 10 000 comptes clients exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/france-utilitaires-pres-de-10-000-comptes-clients-exposes-apres-une-cyberattaque/</link>
+    <description>France Utilitaires, site français spécialisé dans la vente de véhicules utilitaires, fait l’objet d’une importante revendication de cyberattaque....
+L’article France Utilitaires : près de 10 000 comptes clients exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 04:37:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] iad France : 112 780 annonces et 8 592 profils de conseillers En fuite</title>
+    <link>https://www.cyberattaque.org/iad-france-112-780-annonces-et-8-592-profils-de-conseillers-en-fuite/</link>
+    <description>iad France, l’un des principaux réseaux français de mandataires immobiliers, est visé par une nouvelle revendication de fuite...
+L’article iad France : 112 780 annonces et 8 592 profils de conseillers En fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 04:33:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MaQuestionMedicale : 369 899 échanges de téléconsultation mis en vente sur le darkweb</title>
+    <link>https://www.cyberattaque.org/maquestionmedicale-369-899-echanges-de-teleconsultation-mis-en-vente-sur-le-darkweb/</link>
+    <description>MaQuestionMedicale.fr, plateforme française de télémédecine permettant aux patients d’échanger à distance avec des professionnels de santé, fait l’objet...
+L’article MaQuestionMedicale : 369 899 échanges de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 04:28:20 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Norway fines Microsoft ad firm $9.6 million over Grindr data sharing</title>
     <link>https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/</link>
     <description>Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country.…</description>
@@ -151,30 +219,6 @@ L’article Intermarché et Super U : une cyberattaque dérègle le froid dans d
     <description>Vacaf : un vendeur pirate informatique revendique 1,39 million de lignes sur des familles et des enfants.</description>
     <source>ZATAZ</source>
     <pubDate>Mon, 12 Oct 2026 09:32:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html</link>
-    <description>A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.
-
-The critical vulnerability in question is CVE-2026-85097 (CVSS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 14:32:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records</title>
-    <link>https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html</link>
-    <description>Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 12 Oct 2026 12:56:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AlloExtra : 14 516 CV de candidats mis en vente après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/alloextra-14-516-cv-de-candidats-mis-en-vente-apres-une-cyberattaque/</link>
-    <description>AlloExtra, plateforme française spécialisée dans l’emploi en hôtellerie-restauration, fait l’objet d’une revendication particulièrement sensible. Un hacker utilisant le...
-L’article AlloExtra : 14 516 CV de candidats…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 12 Oct 2026 03:43:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
