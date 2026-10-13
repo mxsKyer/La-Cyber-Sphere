@@ -6,6 +6,123 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Ghostscript flaw lets hackers hijack servers via PDF uploads</title>
+    <link>https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/</link>
+    <description>A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 17:33:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic warns self-replicating AI could spread to your smart devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/</link>
+    <description>Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 17:16:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue</title>
+    <link>https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas</link>
+    <description>More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 20:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide</title>
+    <link>https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint</link>
+    <description>An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 20:12:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/</link>
+    <description>Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 15:56:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft releases Windows 10 KB5126657 extended security update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/</link>
+    <description>Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 15:47:30 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Meta confirme une cyberattaque : du code source volé et 1 500 employés exposés</title>
+    <link>https://www.cyberattaque.org/meta-confirme-une-cyberattaque-du-code-source-vole-et-1-500-personnes-exposees/</link>
+    <description>Meta, la maison mère de Facebook, Instagram et WhatsApp, confirme avoir été victime d&amp;#8217;une cyberattaque ayant permis le...
+L’article Meta confirme une cyberattaque : du code source volé et 1 500 employés exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 19:22:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WeFix : 6 009 dossiers de réparation en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/wefix-6-009-dossiers-de-reparation-en-fuite-apres-une-cyberattaque/</link>
+    <description>WeFix, spécialiste français de la réparation de smartphones appartenant au groupe Fnac Darty, fait l’objet d’une revendication de...
+L’article WeFix : 6 009 dossiers de réparation en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 19:15:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Windows 11 24H2 Home and Pro reached end of support</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/</link>
+    <description>Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 15:04:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ecologic : 46 467 lignes exposent des comptes utilisateurs et des incidents internes</title>
+    <link>https://www.cyberattaque.org/ecologic-46-467-lignes-exposent-des-comptes-utilisateurs-et-des-incidents-internes/</link>
+    <description>Ecologic, éco-organisme français agréé par les pouvoirs publics pour organiser la collecte et le recyclage de plusieurs catégories...
+L’article Ecologic : 46 467 lignes exposent des comptes utilisateurs et des incidents…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 13 Oct 2026 18:22:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</title>
+    <link>https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html</link>
+    <description>Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 23:50:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK Housing Ombudsman Service investigates 'security incident'</title>
+    <link>https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/</link>
+    <description>The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 14:19:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another</title>
+    <link>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</link>
+    <description>A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 23:33:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Windows 11 KB5127648 &amp; KB5126653 cumulative updates released</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/</link>
+    <description>Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 13 Oct 2026 13:49:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
+    <link>https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html</link>
+    <description>An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&amp;nbsp;Volexity said&amp;nbsp;on October 13. Ivanti has released fixes for two of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 23:03:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft</title>
+    <link>https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html</link>
+    <description>A flaw in SAP's&amp;nbsp;Cloud SDK for Python&amp;nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&amp;nbsp;security advisory&amp;nbsp;on October 13. The flaw affects multi-tenant…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 13 Oct 2026 22:58:50 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] TFG London cyberattack disrupts systems at Hobbs and Whistles retailers</title>
     <link>https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/</link>
     <description>TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]</description>
@@ -189,40 +306,18 @@ L’article MaQuestionMedicale : 369 899 échanges de…</description>
     <pubDate>Tue, 13 Oct 2026 04:28:20 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-96951 — Microsoft Windows Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96951</link>
+    <description>Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-13</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-104935 — Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-104935</link>
     <description>Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-10-13</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Norway fines Microsoft ad firm $9.6 million over Grindr data sharing</title>
-    <link>https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/</link>
-    <description>Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 16:13:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Solutions30 : 10,3 millions de lignes mises en vente, les clients de grands groupes exposés</title>
-    <link>https://www.cyberattaque.org/solutions30-103-millions-de-lignes-mises-en-vente-les-clients-de-grands-groupes-exposes/</link>
-    <description>Solutions30, l’un des principaux spécialistes européens des interventions techniques pour les télécoms, l’énergie et l’informatique, fait l’objet d’une...
-L’article Solutions30 : 10,3 millions de lignes mises en vente,…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 12 Oct 2026 19:50:57 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Yandex confirms service outage as users lose access to cloud files</title>
-    <link>https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/</link>
-    <description>Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 15:23:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic takes risky AI tests offline after models breach govt sites</title>
-    <link>https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/</link>
-    <description>Anthropic announced that its internal AI models undergoing "high-risk and cybersecurity evaluations" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 12 Oct 2026 14:51:59 -0400</pubDate>
   </item>
 </channel>
 </rss>
