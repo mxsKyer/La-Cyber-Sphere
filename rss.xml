@@ -6,6 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave</title>
+    <link>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</link>
+    <description>Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.
+
+The protected area is a VBS enclave, an isolated slice of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 11:22:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hôpitaux, eau potable, électricité : ces failles connues qui pourraient paralyser la France</title>
+    <link>https://www.cyberattaque.org/hopitaux-eau-potable-electricite-ces-failles-connues-qui-pourraient-paralyser-la-france/</link>
+    <description>Et si la prochaine cyberattaque ne visait plus des réfrigérateurs, mais des hôpitaux, des stations de traitement de...
+L’article Hôpitaux, eau potable, électricité : ces failles connues qui pourraient paralyser la…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 14 Oct 2026 05:10:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug</title>
+    <link>https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html</link>
+    <description>Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.
+
+These include 1,102 flaws in Windows,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 10:04:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room</title>
+    <link>https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html</link>
+    <description>A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 07:29:25 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft Patches More Than 1,400 Security Flaws</title>
     <link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
     <description>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…</description>
@@ -277,47 +310,6 @@ Progress…</description>
 "GitLab has remediated an issue…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 13 Oct 2026 14:13:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque des supermarchés : les clients paieront la note</title>
-    <link>https://www.cyberattaque.org/cyberattaque-des-supermarches-les-clients-paieront-la-note/</link>
-    <description>Des millions d’euros de pertes annoncés pour la cyberattaque des supermarchés : et si la note était, au...
-L’article Cyberattaque des supermarchés : les clients paieront la note est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 06:34:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies</title>
-    <link>https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html</link>
-    <description>Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 11:30:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France Utilitaires : près de 10 000 comptes clients exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/france-utilitaires-pres-de-10-000-comptes-clients-exposes-apres-une-cyberattaque/</link>
-    <description>France Utilitaires, site français spécialisé dans la vente de véhicules utilitaires, fait l’objet d’une importante revendication de cyberattaque....
-L’article France Utilitaires : près de 10 000 comptes clients exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 04:37:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] iad France : 112 780 annonces et 8 592 profils de conseillers En fuite</title>
-    <link>https://www.cyberattaque.org/iad-france-112-780-annonces-et-8-592-profils-de-conseillers-en-fuite/</link>
-    <description>iad France, l’un des principaux réseaux français de mandataires immobiliers, est visé par une nouvelle revendication de fuite...
-L’article iad France : 112 780 annonces et 8 592 profils de conseillers En fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 04:33:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MaQuestionMedicale : 369 899 échanges de téléconsultation mis en vente sur le darkweb</title>
-    <link>https://www.cyberattaque.org/maquestionmedicale-369-899-echanges-de-teleconsultation-mis-en-vente-sur-le-darkweb/</link>
-    <description>MaQuestionMedicale.fr, plateforme française de télémédecine permettant aux patients d’échanger à distance avec des professionnels de santé, fait l’objet...
-L’article MaQuestionMedicale : 369 899 échanges de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 04:28:20 +0000</pubDate>
   </item>
 </channel>
 </rss>
