@@ -6,6 +6,93 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Ledger asks sellers across Asia to halt sales after supply-chain attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/</link>
+    <description>Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 13:46:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/</link>
+    <description>Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 13:29:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Spyware manufacturer had access to data harvested by former Polish government, current PM says</title>
+    <link>https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government</link>
+    <description>Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country’s previous ruling party “one of the biggest scandals in Polish history since the…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 16:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</title>
+    <link>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.
+
+The indictment charges…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 22:04:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes VPN issues caused by September Windows updates</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/</link>
+    <description>Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 10:27:01 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] U.K. Sanctions Cryptomus for RU Money Laundering</title>
+    <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
+    <description>The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Blind Spots of Agentic Pentesting and How to Close Them</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/</link>
+    <description>AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals</title>
+    <link>https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms</link>
+    <description>The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 13:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Climb Up : près de 151 000 profils en vente sur le darkweb après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/climb-up-pres-de-151-000-profils-en-vente-sur-le-darkweb-apres-une-cyberattaque/</link>
+    <description>Climb Up, réseau français de salles d’escalade indoor, fait l’objet d’une importante revendication de fuite de données. Le...
+L’article Climb Up : près de 151 000 profils en vente sur le darkweb après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 14 Oct 2026 13:17:04 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Global takedown hits network behind 1 billion phishing messages</title>
+    <link>https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/</link>
+    <description>A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 09:12:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian travel booking platform suspends reservations after cyberattack</title>
+    <link>https://therecord.media/russia-anywayanyday-travel-website-cyberattack</link>
+    <description>Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 13:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA warns admins to immediately fix Ivanti flaw exploited as zero-day</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 08:58:07 -0400</pubDate>
+  </item>
+  <item>
     <title>[Moyen] CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</title>
     <link>https://therecord.media/new-ivanti-microsoft-bugs-exploitation</link>
     <description>The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.</description>
@@ -240,113 +327,6 @@ The…</description>
     <description>A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 13 Oct 2026 23:33:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Windows 11 KB5127648 &amp; KB5126653 cumulative updates released</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/</link>
-    <description>Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 13:49:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far</title>
-    <link>https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html</link>
-    <description>An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm&amp;nbsp;Volexity said&amp;nbsp;on October 13. Ivanti has released fixes for two of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 23:03:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft</title>
-    <link>https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html</link>
-    <description>A flaw in SAP's&amp;nbsp;Cloud SDK for Python&amp;nbsp;can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a&amp;nbsp;security advisory&amp;nbsp;on October 13. The flaw affects multi-tenant…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 22:58:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] TFG London cyberattack disrupts systems at Hobbs and Whistles retailers</title>
-    <link>https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/</link>
-    <description>TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 12:44:18 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking</title>
-    <link>https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html</link>
-    <description>GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 21:48:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says</title>
-    <link>https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out</link>
-    <description>The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 16:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’</title>
-    <link>https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us</link>
-    <description>More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 16:05:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ivanti warns of Connect Secure zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/</link>
-    <description>Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 11:45:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Docker Hub flaw let attackers impersonate users, tamper with images</title>
-    <link>https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/</link>
-    <description>Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 11:20:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] North Korean hackers target Ukrainian experts for possible intelligence on Russia's war</title>
-    <link>https://therecord.media/north-korea-hackers-russia-ukraine</link>
-    <description>North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 15:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The MFA Gaps Attackers are Still Exploiting</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/</link>
-    <description>Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] SAP warns of maximum severity OAuth2 SSRF security flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/</link>
-    <description>SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 09:51:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers</title>
-    <link>https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos</link>
-    <description>One of St. Petersburg's major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video…</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 13:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ledger says hardware implant in cryptocurrency wallets stole recovery phrases</title>
-    <link>https://therecord.media/ledger-cryptocurrency-wallet-implant-theft</link>
-    <description>Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 13:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation</title>
-    <link>https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html</link>
-    <description>The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 18:42:32 +0530</pubDate>
   </item>
 </channel>
 </rss>
