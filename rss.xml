@@ -6,6 +6,92 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</title>
+    <link>https://therecord.media/new-ivanti-microsoft-bugs-exploitation</link>
+    <description>The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 12:35:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Congressional probe faults Match Group for failing to rein in dating app scams</title>
+    <link>https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams</link>
+    <description>The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 12:32:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
+    <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 18:00:42 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution</title>
+    <link>https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</link>
+    <description>A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.
+
+The curl…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 17:43:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team</title>
+    <link>https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</link>
+    <description>Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 17:20:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hirudo Android malware replaces banking apps to evade security checks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/</link>
+    <description>A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 07:41:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days</title>
+    <link>https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</link>
+    <description>A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.
+
+Its researchers built the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 16:49:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks</title>
+    <link>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</link>
+    <description>Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 16:38:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.</title>
+    <link>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</link>
+    <description>The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.
+
+TL;DR
+
+
+  During an authorized assessment, an AI pentesting agent found a critical…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 16:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Recent Windows updates may trigger Remote Desktop failures</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/</link>
+    <description>Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enabled. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 06:48:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
+    <link>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</link>
+    <description>A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 13:16:57 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave</title>
     <link>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</link>
     <description>Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.
@@ -44,6 +130,13 @@ These include 1,102 flaws in Windows,…</description>
     <description>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…</description>
     <source>Krebs on Security</source>
     <pubDate>Tue, 13 Oct 2026 23:24:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Saudi national charged with planting spy device in OpenAI executive conference room</title>
+    <link>https://therecord.media/saudi-national-charged-with-spy-device-openai</link>
+    <description>Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 13 Oct 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Faible] OpenAI engineer arrested for allegedly planting spy device in office</title>
@@ -254,62 +347,6 @@ The…</description>
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 13 Oct 2026 18:42:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] [Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls</title>
-    <link>https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html</link>
-    <description>The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.
-
-With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 17:27:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network</title>
-    <link>https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html</link>
-    <description>Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.
-
-LG has issued a fix, according…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 16:39:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Product Walkthrough: Bitdefender AI Visibility and Control</title>
-    <link>https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html</link>
-    <description>A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.
-
-A developer adds a coding&amp;nbsp;assistant as an editor extension, and nothing shows up in the installed programs list.
-
-Someone…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 16:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers</title>
-    <link>https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html</link>
-    <description>Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.
-
-The attackers reached…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 14:18:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control</title>
-    <link>https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html</link>
-    <description>Two of 31 newly disclosed flaws in Progress Software's&amp;nbsp;MarkLogic Server&amp;nbsp;database could let an account given only some management privileges take administrator control of the server, the company says.
-
-Progress…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 14:14:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code</title>
-    <link>https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html</link>
-    <description>GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.
-
-"GitLab has remediated an issue…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 14:13:37 +0530</pubDate>
   </item>
 </channel>
 </rss>
