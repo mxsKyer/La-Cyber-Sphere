@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] North Macedonian police arrest alleged administrator behind OLVX cybercrime market</title>
+    <link>https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia</link>
+    <description>A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 21:10:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Brooklyn DA’s office disrupts crypto scam targeting Russian community</title>
+    <link>https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers</link>
+    <description>Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 20:33:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/</link>
+    <description>The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 15:41:43 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
+    <link>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</link>
+    <description>Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&amp;nbsp;said in an advisory&amp;nbsp;on Wednesday.
+
+The attacker…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 00:08:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Ledger asks sellers across Asia to halt sales after supply-chain attack</title>
     <link>https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/</link>
     <description>Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it…</description>
@@ -13,11 +43,25 @@
     <pubDate>Wed, 14 Oct 2026 13:46:50 -0400</pubDate>
   </item>
   <item>
+    <title>[Faible] Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App</title>
+    <link>https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</link>
+    <description>Attackers exploited a flaw in an optional Nextcloud app,&amp;nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&amp;nbsp;reported the issue on GitHub, with the first…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 23:08:31 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/</link>
     <description>Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 14 Oct 2026 13:29:14 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages</title>
+    <link>https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</link>
+    <description>Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 14 Oct 2026 22:39:15 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Spyware manufacturer had access to data harvested by former Polish government, current PM says</title>
@@ -212,6 +256,34 @@ These include 1,102 flaws in Windows,…</description>
     <pubDate>Wed, 14 Oct 2026 07:29:25 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-0322 — Palo Alto Networks PAN-OS Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-0322</link>
+    <description>Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-14</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-105133 — Ahsay AhsayCBS Improper Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-105133</link>
+    <description>Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-14</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-76519 — Cisco Secure Email Gateway Relative Path Traversal Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76519</link>
+    <description>Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-14</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-105134 — Ahsay AhsayCBS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-105134</link>
+    <description>Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-14</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft Patches More Than 1,400 Security Flaws</title>
     <link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
     <description>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…</description>
@@ -238,95 +310,6 @@ These include 1,102 flaws in Windows,…</description>
     <description>A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 13 Oct 2026 17:33:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic warns self-replicating AI could spread to your smart devices</title>
-    <link>https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/</link>
-    <description>Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 17:16:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Two arrested as DOJ takes down laptop farms responsible for $3 million in North Korean revenue</title>
-    <link>https://therecord.media/north-korea-laptop-farms-worker-scams-doj-raids-texas</link>
-    <description>More than 40 residences in Texas were the target of a federal operation in September to clamp down on remote worker scams that feed money back to the North Korean regime.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 20:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FTC: Company netted at least $60 million charging sextortion victims for help it didn’t provide</title>
-    <link>https://therecord.media/sextortion-assistance-company-alleged-fraud-ftc-complaint</link>
-    <description>An Ohio-based company charged individuals thousands of dollars to fight sextortion scams, but the operation itself was fraudulent, according to a Federal Trade Commission complaint.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 20:12:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/</link>
-    <description>Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 15:56:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft releases Windows 10 KB5126657 extended security update</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/</link>
-    <description>Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 15:47:30 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Meta confirme une cyberattaque : du code source volé et 1 500 employés exposés</title>
-    <link>https://www.cyberattaque.org/meta-confirme-une-cyberattaque-du-code-source-vole-et-1-500-personnes-exposees/</link>
-    <description>Meta, la maison mère de Facebook, Instagram et WhatsApp, confirme avoir été victime d&amp;#8217;une cyberattaque ayant permis le...
-L’article Meta confirme une cyberattaque : du code source volé et 1 500 employés exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 19:22:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WeFix : 6 009 dossiers de réparation en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/wefix-6-009-dossiers-de-reparation-en-fuite-apres-une-cyberattaque/</link>
-    <description>WeFix, spécialiste français de la réparation de smartphones appartenant au groupe Fnac Darty, fait l’objet d’une revendication de...
-L’article WeFix : 6 009 dossiers de réparation en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 19:15:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows 11 24H2 Home and Pro reached end of support</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/</link>
-    <description>Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 15:04:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ecologic : 46 467 lignes exposent des comptes utilisateurs et des incidents internes</title>
-    <link>https://www.cyberattaque.org/ecologic-46-467-lignes-exposent-des-comptes-utilisateurs-et-des-incidents-internes/</link>
-    <description>Ecologic, éco-organisme français agréé par les pouvoirs publics pour organiser la collecte et le recyclage de plusieurs catégories...
-L’article Ecologic : 46 467 lignes exposent des comptes utilisateurs et des incidents…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 13 Oct 2026 18:22:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets</title>
-    <link>https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html</link>
-    <description>Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 23:50:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK Housing Ombudsman Service investigates 'security incident'</title>
-    <link>https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/</link>
-    <description>The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 14:19:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another</title>
-    <link>https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html</link>
-    <description>A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 13 Oct 2026 23:33:18 +0530</pubDate>
   </item>
 </channel>
 </rss>
