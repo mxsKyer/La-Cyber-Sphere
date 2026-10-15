@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] BodySwap : les données de 10 309 utilisateurs du service d’images pour adultes en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-bodyswap-les-donnees-de-10-309-utilisateurs-du-service-dimages-pour-adultes-en-fuite/</link>
+    <description>BodySwap, service en ligne de génération d’images et de vidéos par intelligence artificielle proposant notamment des fonctions d’échange...
+L’article BodySwap : les données de 10 309 utilisateurs du service d’images…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 04:48:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/</link>
     <description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
@@ -245,22 +253,6 @@ The protected area is a VBS enclave, an isolated slice of…</description>
 L’article Hôpitaux, eau potable, électricité : ces failles connues qui pourraient paralyser la…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 14 Oct 2026 05:10:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug</title>
-    <link>https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html</link>
-    <description>Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.
-
-These include 1,102 flaws in Windows,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 10:04:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room</title>
-    <link>https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html</link>
-    <description>A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 07:29:25 +0530</pubDate>
   </item>
 </channel>
 </rss>
