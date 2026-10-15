@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/</link>
+    <description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 14 Oct 2026 18:56:47 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] North Macedonian police arrest alleged administrator behind OLVX cybercrime market</title>
     <link>https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia</link>
     <description>A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.</description>
@@ -254,62 +261,6 @@ These include 1,102 flaws in Windows,…</description>
     <description>A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 14 Oct 2026 07:29:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-0322 — Palo Alto Networks PAN-OS Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-0322</link>
-    <description>Palo Alto Networks PAN-OS contains a code injection vulnerability that could allow an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-105133 — Ahsay AhsayCBS Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-105133</link>
-    <description>Ahsay AhsayCBS contains an improper authentication vulnerability that could allow a remote attacker to bypass authentication via manipulation of the random parameter in the API component’s checkSysPwd function. This vulnerability can be chained with CVE-2026-105134.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-76519 — Cisco Secure Email Gateway Relative Path Traversal Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76519</link>
-    <description>Cisco Secure Email Gateway contains a relative path traversal vulnerability that could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-14</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-105134 — Ahsay AhsayCBS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-105134</link>
-    <description>Ahsay AhsayCBS contains a command injection vulnerability that could allow a remote attacker to execute operating system commands via manipulation of the random parameter in the Replication Receiver component’s /rps/api/json/UpdateReceivers.do endpoint. This vulnerability can be chained with CVE-2026-105133.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-14</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches More Than 1,400 Security Flaws</title>
-    <link>https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/</link>
-    <description>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 13 Oct 2026 23:24:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Saudi national charged with planting spy device in OpenAI executive conference room</title>
-    <link>https://therecord.media/saudi-national-charged-with-spy-device-openai</link>
-    <description>Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 13 Oct 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI engineer arrested for allegedly planting spy device in office</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/</link>
-    <description>A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 18:33:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ghostscript flaw lets hackers hijack servers via PDF uploads</title>
-    <link>https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/</link>
-    <description>A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 13 Oct 2026 17:33:26 -0400</pubDate>
   </item>
 </channel>
 </rss>
