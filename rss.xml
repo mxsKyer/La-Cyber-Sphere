@@ -6,12 +6,69 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft fixes bug causing Windows black screens, Explorer crashes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/</link>
+    <description>Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 05:10:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories</title>
+    <link>https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html</link>
+    <description>The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.
+
+The spike, according to GitGuardian, was observed on October 8 and 9,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 14:15:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK Legal Aid Agency: Hackers stole records dating back to 1978</title>
+    <link>https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/</link>
+    <description>The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 04:06:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts</title>
+    <link>https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html</link>
+    <description>Threat actors are exploiting a critical security flaw in Langflow, according to an alert from Previdian.
+
+Langflow is an open-source platform that allows developers to build artificial intelligence (AI) applications and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 12:37:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches</title>
+    <link>https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html</link>
+    <description>Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners.
+
+The vulnerabilities in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 12:13:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation</title>
+    <link>https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html</link>
+    <description>Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.
+
+The vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 11:47:58 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] BodySwap : les données de 10 309 utilisateurs du service d’images pour adultes en fuite</title>
     <link>https://www.cyberattaque.org/cyberattaque-bodyswap-les-donnees-de-10-309-utilisateurs-du-service-dimages-pour-adultes-en-fuite/</link>
     <description>BodySwap, service en ligne de génération d’images et de vidéos par intelligence artificielle proposant notamment des fonctions d’échange...
 L’article BodySwap : les données de 10 309 utilisateurs du service d’images…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 15 Oct 2026 04:48:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions</title>
+    <link>https://therecord.media/ukraine-says-starshield-working-again-after-disruption</link>
+    <description>The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 14 Oct 2026 23:00:00 GMT</pubDate>
   </item>
   <item>
     <title>[Critique] Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
@@ -229,30 +286,6 @@ TL;DR
     <description>Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enabled. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 14 Oct 2026 06:48:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host</title>
-    <link>https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html</link>
-    <description>A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 13:16:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave</title>
-    <link>https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html</link>
-    <description>Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.
-
-The protected area is a VBS enclave, an isolated slice of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 11:22:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hôpitaux, eau potable, électricité : ces failles connues qui pourraient paralyser la France</title>
-    <link>https://www.cyberattaque.org/hopitaux-eau-potable-electricite-ces-failles-connues-qui-pourraient-paralyser-la-france/</link>
-    <description>Et si la prochaine cyberattaque ne visait plus des réfrigérateurs, mais des hôpitaux, des stations de traitement de...
-L’article Hôpitaux, eau potable, électricité : ces failles connues qui pourraient paralyser la…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 14 Oct 2026 05:10:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
