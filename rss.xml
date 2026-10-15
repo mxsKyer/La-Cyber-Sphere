@@ -6,6 +6,130 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Couleur CE : des billets de cinéma exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/couleur-ce-des-billets-de-cinema-exposes-apres-une-cyberattaque/</link>
+    <description>Couleur CE, plateforme proposant notamment des services de billetterie aux comités sociaux et économiques, est concernée par un...
+L’article Couleur CE : des billets de cinéma exposés après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 15:13:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978</title>
+    <link>https://therecord.media/uk-legal-aid-cyberattack-data</link>
+    <description>A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 15 Oct 2026 14:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</title>
+    <link>https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html</link>
+    <description>A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.
+
+Help TDS is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 19:41:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Is AI pentesting as good as a human pentester?</title>
+    <link>https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/</link>
+    <description>AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 10:01:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suspected Kazakhstan-linked hackers target governments across former Soviet states</title>
+    <link>https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage</link>
+    <description>A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 15 Oct 2026 13:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: Windows Server 2022 reached end of mainstream support</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/</link>
+    <description>Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 09:18:36 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks</title>
+    <link>https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html</link>
+    <description>NGINX released&amp;nbsp;versions 1.30.6 and 1.31.7&amp;nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.
+
+There are three memory bugs that F5, the company behind NGINX, says…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 18:28:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing</title>
+    <link>https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html</link>
+    <description>Next.js released an&amp;nbsp;out-of-band security update&amp;nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.
+
+One…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 17:58:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules</title>
+    <link>https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html</link>
+    <description>Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.
+
+An attacker cannot reach…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 17:37:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police arrests 95 suspects in international CSAM crackdown action</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/</link>
+    <description>Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 07:55:38 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early</title>
+    <link>https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html</link>
+    <description>Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 17:16:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Why AI Confidence Is Not Validation</title>
+    <link>https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html</link>
+    <description>AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 16:34:35 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1</title>
+    <link>https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html</link>
+    <description>The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 16:12:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] TailleurAuto : un code malveillant a siphonné les données saisies lors des commandes</title>
+    <link>https://www.cyberattaque.org/cyberattaque-tailleurauto-un-code-malveillant-a-siphonne-les-donnees-saisies-lors-des-commandes/</link>
+    <description>TailleurAuto, spécialiste français des housses et tapis automobiles sur mesure, informe actuellement certains de ses clients d’un incident...
+L’article TailleurAuto : un code malveillant a siphonné les données saisies…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 10:40:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ASCOR confirme une fuite de données après une cyberattaque chez un prestataire</title>
+    <link>https://www.cyberattaque.org/ascor-confirme-une-fuite-de-donnees-apres-une-cyberattaque-chez-un-prestataire/</link>
+    <description>ASCOR, organisme français spécialisé dans la formation à distance, confirme avoir été touché par une fuite de données...
+L’article ASCOR confirme une fuite de données après une cyberattaque chez un prestataire est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 10:38:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Grande Pharmacie des Halles : les ordonnances de patients diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/grande-pharmacie-des-halles-les-ordonnances-de-patients-diffusees-apres-une-cyberattaque/</link>
+    <description>La Grande Pharmacie des Halles, officine lilloise ouverte 24 heures sur 24 et 7 jours sur 7, fait...
+L’article Grande Pharmacie des Halles : les ordonnances de patients diffusées après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 10:20:10 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft fixes bug causing Windows black screens, Explorer crashes</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/</link>
     <description>Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]</description>
@@ -150,142 +274,6 @@ The attacker…</description>
 The indictment charges…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 14 Oct 2026 22:04:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes VPN issues caused by September Windows updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/</link>
-    <description>Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 10:27:01 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] U.K. Sanctions Cryptomus for RU Money Laundering</title>
-    <link>https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</link>
-    <description>The United Kingdom has issued economic sanctions against Cryptomus, a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 14 Oct 2026 14:22:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Blind Spots of Agentic Pentesting and How to Close Them</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/</link>
-    <description>AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals</title>
-    <link>https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms</link>
-    <description>The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 13:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Climb Up : près de 151 000 profils en vente sur le darkweb après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/climb-up-pres-de-151-000-profils-en-vente-sur-le-darkweb-apres-une-cyberattaque/</link>
-    <description>Climb Up, réseau français de salles d’escalade indoor, fait l’objet d’une importante revendication de fuite de données. Le...
-L’article Climb Up : près de 151 000 profils en vente sur le darkweb après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 14 Oct 2026 13:17:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Global takedown hits network behind 1 billion phishing messages</title>
-    <link>https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/</link>
-    <description>A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 09:12:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian travel booking platform suspends reservations after cyberattack</title>
-    <link>https://therecord.media/russia-anywayanyday-travel-website-cyberattack</link>
-    <description>Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 13:05:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA warns admins to immediately fix Ivanti flaw exploited as zero-day</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 08:58:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</title>
-    <link>https://therecord.media/new-ivanti-microsoft-bugs-exploitation</link>
-    <description>The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 12:35:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Congressional probe faults Match Group for failing to rein in dating app scams</title>
-    <link>https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams</link>
-    <description>The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 12:32:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts</title>
-    <link>https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 18:00:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution</title>
-    <link>https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html</link>
-    <description>A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.
-
-The curl…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 17:43:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team</title>
-    <link>https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html</link>
-    <description>Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 17:20:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hirudo Android malware replaces banking apps to evade security checks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/</link>
-    <description>A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 07:41:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days</title>
-    <link>https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html</link>
-    <description>A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.
-
-Its researchers built the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 16:49:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks</title>
-    <link>https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 16:38:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.</title>
-    <link>https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html</link>
-    <description>The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.
-
-TL;DR
-
-
-  During an authorized assessment, an AI pentesting agent found a critical…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 16:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Recent Windows updates may trigger Remote Desktop failures</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/</link>
-    <description>Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the "Administrator protection" security feature is enabled. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 06:48:09 -0400</pubDate>
   </item>
 </channel>
 </rss>
