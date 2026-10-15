@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Federal bankruptcy courts dealing with outages after contractor cyberattack</title>
+    <link>https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage</link>
+    <description>The incident, which involved a government contractor, has halted all production of bankruptcy notices.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 15 Oct 2026 20:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/</link>
+    <description>Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 16:25:04 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</title>
+    <link>https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</link>
+    <description>A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 01:54:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Android gets AI defenses against messaging scams, fake calls</title>
+    <link>https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/</link>
+    <description>Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 15:48:43 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Zero-click spyware infecting devices through online ads, researchers say</title>
     <link>https://therecord.media/spyware-citizen-lab-advertising</link>
     <description>Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.</description>
@@ -269,27 +297,6 @@ L’article BodySwap : les données de 10 309 utilisateurs du service d’images
     <description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 14 Oct 2026 18:56:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] North Macedonian police arrest alleged administrator behind OLVX cybercrime market</title>
-    <link>https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia</link>
-    <description>A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 21:10:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Brooklyn DA’s office disrupts crypto scam targeting Russian community</title>
-    <link>https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers</link>
-    <description>Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 20:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/</link>
-    <description>The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 15:41:43 -0400</pubDate>
   </item>
 </channel>
 </rss>
