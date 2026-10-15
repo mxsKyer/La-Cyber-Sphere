@@ -6,6 +6,68 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Zero-click spyware infecting devices through online ads, researchers say</title>
+    <link>https://therecord.media/spyware-citizen-lab-advertising</link>
+    <description>Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
+    <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
+    <description>Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.
+
+The rest gets interesting in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 00:19:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/</link>
+    <description>A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 14:20:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Arch Linux packages push malware with root privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/</link>
+    <description>A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 15 Oct 2026 13:12:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Mairie de Saillans : sa messagerie utilisée pour envoyer de fausses factures après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/mairie-de-saillans-sa-messagerie-utilisee-pour-envoyer-de-fausses-factures-apres-une-cyberattaque/</link>
+    <description>La mairie de Saillans, dans la Drôme, est victime d’un piratage informatique ayant permis à des individus malveillants...
+L’article Mairie de Saillans : sa messagerie utilisée pour envoyer de fausses factures après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 16:53:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/la-clinique-veterinaire-voltaire-a-dijon-victime-dune-cyberattaque/</link>
+    <description>La Clinique vétérinaire Voltaire de Dijon est confrontée depuis le 13 octobre 2026 à une cyberattaque qui perturbe...
+L’article La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 15 Oct 2026 16:16:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
+    <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
+    <description>Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 21:31:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks</title>
+    <link>https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html</link>
+    <description>The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).
+
+The activity, observed from June 2025 through…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 15 Oct 2026 21:30:26 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Couleur CE : des billets de cinéma exposés après une cyberattaque</title>
     <link>https://www.cyberattaque.org/couleur-ce-des-billets-de-cinema-exposes-apres-une-cyberattaque/</link>
     <description>Couleur CE, plateforme proposant notamment des services de billetterie aux comités sociaux et économiques, est concernée par un...
@@ -188,6 +250,13 @@ L’article BodySwap : les données de 10 309 utilisateurs du service d’images
     <pubDate>Thu, 15 Oct 2026 04:48:12 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-21589</link>
+    <description>Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-15</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions</title>
     <link>https://therecord.media/ukraine-says-starshield-working-again-after-disruption</link>
     <description>The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the…</description>
@@ -221,59 +290,6 @@ L’article BodySwap : les données de 10 309 utilisateurs du service d’images
     <description>The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 14 Oct 2026 15:41:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability</title>
-    <link>https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html</link>
-    <description>Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco&amp;nbsp;said in an advisory&amp;nbsp;on Wednesday.
-
-The attacker…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 00:08:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ledger asks sellers across Asia to halt sales after supply-chain attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/</link>
-    <description>Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 13:46:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App</title>
-    <link>https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html</link>
-    <description>Attackers exploited a flaw in an optional Nextcloud app,&amp;nbsp;Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators&amp;nbsp;reported the issue on GitHub, with the first…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 23:08:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/</link>
-    <description>Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 13:29:14 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages</title>
-    <link>https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html</link>
-    <description>Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 22:39:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Spyware manufacturer had access to data harvested by former Polish government, current PM says</title>
-    <link>https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government</link>
-    <description>Prime Minister Donald Tusk, who ordered the investigation, on Monday called the sprawling spyware operation spearheaded by the country’s previous ruling party “one of the biggest scandals in Polish history since the…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 16:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud</title>
-    <link>https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.
-
-The indictment charges…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 14 Oct 2026 22:04:31 +0530</pubDate>
   </item>
 </channel>
 </rss>
