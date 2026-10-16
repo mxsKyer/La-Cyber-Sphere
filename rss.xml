@@ -277,26 +277,5 @@ L’article BodySwap : les données de 10 309 utilisateurs du service d’images
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 15 Oct 2026 04:48:12 +0000</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-21589 — Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-21589</link>
-    <description>Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories accessible to external parties vulnerability which could allow an unauthenticated attacker to access specific files within the web application root directory in affected versions.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-15</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine says Elon Musk's Starshield service partially restored after restrictions disrupted drone missions</title>
-    <link>https://therecord.media/ukraine-says-starshield-working-again-after-disruption</link>
-    <description>The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 14 Oct 2026 23:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/</link>
-    <description>Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 14 Oct 2026 18:56:47 -0400</pubDate>
-  </item>
 </channel>
 </rss>
