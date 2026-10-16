@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
+    <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
+    <description>A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 23:18:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Targeted ads installed Candiru spyware in zero-click attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/</link>
+    <description>Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 16 Oct 2026 13:20:03 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor</title>
+    <link>https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</link>
+    <description>Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 22:13:39 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
     <link>https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</link>
     <description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an…</description>
@@ -163,6 +184,20 @@ L’article Ouest-France : une cyberattaque touche les formulaires d’abonnemen
     <pubDate>Fri, 16 Oct 2026 04:37:46 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2025-61624 — Fortinet Multiple Products Path Traversal Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-61624</link>
+    <description>FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific CLI commands.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-16</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-102764 — BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102764</link>
+    <description>BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-16</pubDate>
+  </item>
+  <item>
     <title>[Faible] Federal bankruptcy courts dealing with outages after contractor cyberattack</title>
     <link>https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage</link>
     <description>The incident, which involved a government contractor, has halted all production of bankruptcy notices.</description>
@@ -189,44 +224,6 @@ L’article Ouest-France : une cyberattaque touche les formulaires d’abonnemen
     <description>Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 15 Oct 2026 15:48:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Zero-click spyware infecting devices through online ads, researchers say</title>
-    <link>https://therecord.media/spyware-citizen-lab-advertising</link>
-    <description>Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
-    <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
-    <description>Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories.
-
-The rest gets interesting in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 00:19:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/</link>
-    <description>A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 14:20:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Arch Linux packages push malware with root privileges</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/</link>
-    <description>A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 13:12:31 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mairie de Saillans : sa messagerie utilisée pour envoyer de fausses factures après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/mairie-de-saillans-sa-messagerie-utilisee-pour-envoyer-de-fausses-factures-apres-une-cyberattaque/</link>
-    <description>La mairie de Saillans, dans la Drôme, est victime d’un piratage informatique ayant permis à des individus malveillants...
-L’article Mairie de Saillans : sa messagerie utilisée pour envoyer de fausses factures après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 15 Oct 2026 16:53:02 +0000</pubDate>
   </item>
 </channel>
 </rss>
