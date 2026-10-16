@@ -6,6 +6,77 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
+    <link>https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html</link>
+    <description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 21:46:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Proofpoint lines up $6.3 billion deal for Varonis’ data security</title>
+    <link>https://therecord.media/proofpoint-varonis-cybersecurity-acquisition</link>
+    <description>Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 16 Oct 2026 14:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract</title>
+    <link>https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html</link>
+    <description>OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 19:33:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Employees using personal ChatGPT at work? Here's what IT admins need to do</title>
+    <link>https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/</link>
+    <description>Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 16 Oct 2026 09:50:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia</title>
+    <link>https://therecord.media/russia-datasuckers-hackers-arrested</link>
+    <description>Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 16 Oct 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Offerz : les données de 115 000 clients exposées après une cyberattaque contre sons environnement de test</title>
+    <link>https://www.cyberattaque.org/offerz-les-donnees-de-115-000-clients-exposees-apres-une-cyberattaque-contre-sons-environnement-de-test/</link>
+    <description>Offerz, boutique en ligne suisse spécialisée notamment dans les bons cadeaux, cartes prépayées et codes numériques, confirme un...
+L’article Offerz : les données de 115 000 clients exposées après une cyberattaque contre…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 16 Oct 2026 13:05:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Baltimore suburb confirms August data breach after ransomware claims</title>
+    <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
+    <description>Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 16 Oct 2026 13:05:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day</title>
+    <link>https://therecord.media/beyond-trust-cyberattack-china</link>
+    <description>An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 16 Oct 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Burger King Japan data breach exposes 11 million customer records</title>
+    <link>https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/</link>
+    <description>Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 16 Oct 2026 08:01:29 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI Decision Models and Their Impact on AI SOC Platforms</title>
+    <link>https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html</link>
+    <description>In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 16 Oct 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattaque des Républicains : site piraté et les données des adhérents menacées</title>
     <link>https://www.cyberattaque.org/cyberattaque-des-republicains-site-pirate-et-les-donnees-des-adherents-menacees/</link>
     <description>Le site officiel des Républicains (LR), parti politique français présidé par Bruno Retailleau, a été victime d&amp;#8217;une cyberattaque...
@@ -156,109 +227,6 @@ The rest gets interesting in…</description>
 L’article Mairie de Saillans : sa messagerie utilisée pour envoyer de fausses factures après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 15 Oct 2026 16:53:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque</title>
-    <link>https://www.cyberattaque.org/la-clinique-veterinaire-voltaire-a-dijon-victime-dune-cyberattaque/</link>
-    <description>La Clinique vétérinaire Voltaire de Dijon est confrontée depuis le 13 octobre 2026 à une cyberattaque qui perturbe...
-L’article La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 15 Oct 2026 16:16:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads</title>
-    <link>https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html</link>
-    <description>Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 21:31:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks</title>
-    <link>https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html</link>
-    <description>The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).
-
-The activity, observed from June 2025 through…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 21:30:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Couleur CE : des billets de cinéma exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/couleur-ce-des-billets-de-cinema-exposes-apres-une-cyberattaque/</link>
-    <description>Couleur CE, plateforme proposant notamment des services de billetterie aux comités sociaux et économiques, est concernée par un...
-L’article Couleur CE : des billets de cinéma exposés après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 15 Oct 2026 15:13:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978</title>
-    <link>https://therecord.media/uk-legal-aid-cyberattack-data</link>
-    <description>A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 15 Oct 2026 14:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams</title>
-    <link>https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html</link>
-    <description>A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.
-
-Help TDS is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 19:41:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Is AI pentesting as good as a human pentester?</title>
-    <link>https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/</link>
-    <description>AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Suspected Kazakhstan-linked hackers target governments across former Soviet states</title>
-    <link>https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage</link>
-    <description>A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 15 Oct 2026 13:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows Server 2022 reached end of mainstream support</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/</link>
-    <description>Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 09:18:36 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks</title>
-    <link>https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html</link>
-    <description>NGINX released&amp;nbsp;versions 1.30.6 and 1.31.7&amp;nbsp;on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.
-
-There are three memory bugs that F5, the company behind NGINX, says…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 18:28:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing</title>
-    <link>https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html</link>
-    <description>Next.js released an&amp;nbsp;out-of-band security update&amp;nbsp;on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.
-
-One…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 17:58:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules</title>
-    <link>https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html</link>
-    <description>Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.
-
-An attacker cannot reach…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 15 Oct 2026 17:37:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police arrests 95 suspects in international CSAM crackdown action</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/</link>
-    <description>Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 07:55:38 -0400</pubDate>
   </item>
 </channel>
 </rss>
