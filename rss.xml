@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Critical BlockStrap flaw lets hackers run code on Magento servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/</link>
+    <description>Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 16 Oct 2026 16:00:59 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
     <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
     <description>A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and…</description>
@@ -196,34 +203,6 @@ L’article Ouest-France : une cyberattaque touche les formulaires d’abonnemen
     <description>BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-10-16</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Federal bankruptcy courts dealing with outages after contractor cyberattack</title>
-    <link>https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage</link>
-    <description>The incident, which involved a government contractor, has halted all production of bankruptcy notices.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 15 Oct 2026 20:46:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/</link>
-    <description>Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 16:25:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</title>
-    <link>https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</link>
-    <description>A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 01:54:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Android gets AI defenses against messaging scams, fake calls</title>
-    <link>https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/</link>
-    <description>Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 15 Oct 2026 15:48:43 -0400</pubDate>
   </item>
 </channel>
 </rss>
