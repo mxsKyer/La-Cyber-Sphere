@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyberattaque d’O’Tacos : 334 474 adresses de livraison avec codes d’accès en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-dotacos-334-474-adresses-de-livraison-avec-codes-dacces-en-fuite/</link>
+    <description>O’Tacos, l’une des principales enseignes françaises de restauration rapide spécialisée dans le « French tacos », fait l’objet...
+L’article Cyberattaque d’O’Tacos : 334 474 adresses de livraison avec codes d’accès en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 05:59:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Inter-Etab : 286 773 dossiers d’élèves et leurs familles en fuite</title>
+    <link>https://www.cyberattaque.org/inter-etab-286-773-dossiers-deleves-et-leurs-familles-en-fuite/</link>
+    <description>Pour seulement 250 dollars, le hacker Angel_Batista affirme vendre une base contenant 286 773 dossiers d’élèves français provenant...
+L’article Inter-Etab : 286 773 dossiers d’élèves et leurs familles en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 05:53:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre Nomad Education : 4,85 millions de comptes mis en vente sur le darkweb</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-nomad-education-485-millions-de-comptes-mis-en-vente-sur-le-darkweb/</link>
+    <description>Nomad Education, plateforme française de révision scolaire destinée aux élèves et étudiants, fait l’objet d’une importante revendication de...
+L’article Cyberattaque contre Nomad Education : 4,85 millions de comptes mis…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 05:48:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservation en fuite</title>
+    <link>https://www.cyberattaque.org/courtepaille-bayeux-8-734-lignes-issues-de-loutil-de-reservation-en-fuite/</link>
+    <description>Le restaurant Courtepaille Bayeux fait l’objet d’une revendication de fuite de données publiée le 16 octobre 2026. Le...
+L’article Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservation en fuite est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 05:39:56 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical BlockStrap flaw lets hackers run code on Magento servers</title>
     <link>https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/</link>
     <description>Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]</description>
@@ -172,23 +204,6 @@ L’article Les ports de Marseille et La Rochelle ciblés par des hackers prorus
     <description>BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 16 Oct 2026 02:18:08 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions</title>
-    <link>https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</link>
-    <description>A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH.
-
-The attack involves the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 10:29:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ouest-France : une cyberattaque touche les formulaires d’abonnement de l’offre jeunes</title>
-    <link>https://www.cyberattaque.org/ouest-france-une-cyberattaque-touche-les-formulaires-dabonnement-de-loffre-jeunes/</link>
-    <description>Ouest-France informe certains de ses abonnés d’un incident de sécurité ayant touché ses formulaires de souscription. Les données...
-L’article Ouest-France : une cyberattaque touche les formulaires d’abonnement de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 04:37:46 +0000</pubDate>
   </item>
 </channel>
 </rss>
