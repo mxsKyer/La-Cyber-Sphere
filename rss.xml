@@ -6,6 +6,86 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Centrale Canine : 1,48 million de chiens avec puces et emails d’éleveurs en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-centrale-canine-148-million-de-chiens-avec-puces-et-emails-deleveurs-en-fuite/</link>
+    <description>Un mois après une première exposition massive de données liée à la Centrale Canine, le hacker ChimeraZ revendique...
+L’article Centrale Canine : 1,48 million de chiens avec puces et emails d’éleveurs en fuite est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:34:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Zabun : 892 288 personnes issues de dossiers immobiliers en fuite</title>
+    <link>https://www.cyberattaque.org/zabun-892-288-personnes-issues-de-dossiers-immobiliers-en-fuite/</link>
+    <description>Une fuite potentiellement massive touche le secteur immobilier belge. Le hacker ChimeraZ affirme avoir récupéré une partie de...
+L’article Zabun : 892 288 personnes issues de dossiers immobiliers en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Franc-maçonnerie : 987 comptes de la Grande Loge Féminine de France diffusés</title>
+    <link>https://www.cyberattaque.org/franc-maconnerie-987-comptes-de-la-grande-loge-feminine-de-france-diffuses-dont-des-acces-administrateurs/</link>
+    <description>Une nouvelle obédience maçonnique française apparaît dans une fuite de données. Le hacker ChimeraZ revendique la publication d&amp;#8217;une...
+L’article Franc-maçonnerie : 987 comptes de la Grande Loge Féminine de France…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:25:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FFTir : 40 Go de données revendiqués, 586 854 personnes et des certificats médicaux dans les fichiers</title>
+    <link>https://www.cyberattaque.org/fftir-40-go-de-donnees-revendiques-586-854-personnes-et-des-certificats-medicaux-dans-les-fichiers/</link>
+    <description>Une nouvelle publication visant la Fédération Française de Tir (FFTir) vient d’apparaître. Le hacker ChimeraZ affirme mettre en...
+L’article FFTir : 40 Go de données revendiqués, 586 854 personnes et des certificats…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:20:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hauts-de-France encore ciblés : 1 066 élèves et parents exposés dans une fuite du PRREL</title>
+    <link>https://www.cyberattaque.org/hauts-de-france-encore-cibles-1-066-eleves-et-parents-exposes-dans-une-fuite-du-prrel/</link>
+    <description>La Région Hauts-de-France apparaît une nouvelle fois dans les revendications du hacker ChimeraZ. Le pirate affirme avoir récupéré...
+L’article Hauts-de-France encore ciblés : 1 066 élèves et parents exposés dans une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:15:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Armurerie Laudier : 3 789 possesseurs d’armes exposés dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/armurerie-laudier-3-789-possesseurs-darmes-exposes-dans-une-fuite-de-donnees/</link>
+    <description>Quelques minutes après avoir mis en vente une base attribuée à l’Armurerie Gilles, le hacker ChimeraZ revendique une...
+L’article Armurerie Laudier : 3 789 possesseurs d&amp;rsquo;armes exposés dans une fuite de données est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:13:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Armurerie Gilles : 35 303 clients exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/armurerie-gilles-35-303-clients-exposes-apres-une-cyberattaque/</link>
+    <description>Une nouvelle fuite touche le secteur particulièrement sensible des armes et du tir sportif. Le hacker ChimeraZ affirme...
+L’article Armurerie Gilles : 35 303 clients exposés après une cyberattaque est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 19:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Adetel : une cyberattaque expose 11 356 lignes de salariés, véhicules et projets</title>
+    <link>https://www.cyberattaque.org/adetel-une-cyberattaque-expose-11-356-lignes-de-salaries-vehicules-et-projets/</link>
+    <description>Une base de données attribuée à Adetel Group vient d’être publiée gratuitement par le hacker Syrv4x. L’archive annoncée...
+L’article Adetel : une cyberattaque expose 11 356 lignes de salariés, véhicules et projets est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 18:28:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Be-in-Home : une base SQL de 30 000 utilisateurs refait surface</title>
+    <link>https://www.cyberattaque.org/be-in-home-une-base-sql-de-30-000-utilisateurs-refait-surface/</link>
+    <description>Une importante base de données attribuée à Be-in-Home.fr vient d’être remise en circulation gratuitement. Le hacker Tanaka annonce...
+L’article Be-in-Home : une base SQL de 30 000 utilisateurs refait surface est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 18:23:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Paroisse Saint-Urbain–Sainte-Marie : les emails des fidèles exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/paroisse-saint-urbain-sainte-marie-les-emails-des-fideles-exposes-apres-une-cyberattaque/</link>
+    <description>Une paroisse des Hauts-de-Seine vient de confirmer une fuite de données personnelles après l’envoi d’un message de phishing...
+L’article Paroisse Saint-Urbain–Sainte-Marie : les emails des fidèles exposés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 18:14:26 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/</link>
     <description>ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]</description>
@@ -139,13 +219,6 @@ L’article Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservati
     <description>Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 16 Oct 2026 16:00:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
-    <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
-    <description>A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 23:18:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
