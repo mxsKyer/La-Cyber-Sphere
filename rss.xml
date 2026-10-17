@@ -6,6 +6,42 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Leboncoin et Vinted : des notifications suspectes</title>
+    <link>https://www.zataz.com/leboncoin-et-vinted-des-notifications-suspectes/</link>
+    <description>Notifications suspectes sur Leboncoin et Vinted : des redirections vers des casinos pirates.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 11:02:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Doctolib : mon opposition à l’IA reste sans réponse claire</title>
+    <link>https://www.zataz.com/doctolib-mon-opposition-a-lia-reste-sans-reponse-claire/</link>
+    <description>Doctolib répond sur le marketing à une opposition à l’IA : récit, délais RGPD et droits rappelés par la CNIL.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 10:33:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaques : les supermarchés européens perturbés</title>
+    <link>https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/</link>
+    <description>Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 09:50:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</title>
+    <link>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</link>
+    <description>Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 17 Oct 2026 11:46:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Franc-maçonnerie : 3 400 documents de la Grande Loge Traditionnelle de France diffusés par un hacker</title>
+    <link>https://www.cyberattaque.org/franc-maconnerie-3-400-documents-de-la-grande-loge-traditionnelle-de-france-diffuses-par-un-hacker/</link>
+    <description>Après plusieurs bases de données françaises, le hacker Angel_Batista revendique cette fois la diffusion de 3 400 documents...
+L’article Franc-maçonnerie : 3 400 documents de la Grande Loge Traditionnelle de France…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 17 Oct 2026 06:08:56 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattaque d’O’Tacos : 334 474 adresses de livraison avec codes d’accès en fuite</title>
     <link>https://www.cyberattaque.org/cyberattaque-dotacos-334-474-adresses-de-livraison-avec-codes-dacces-en-fuite/</link>
     <description>O’Tacos, l’une des principales enseignes françaises de restauration rapide spécialisée dans le « French tacos », fait l’objet...
@@ -143,67 +179,6 @@ L’article Offerz : les données de 115 000 clients exposées après une cybera
 L’article Cyberattaque des Républicains : site piraté et les données des adhérents…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 16 Oct 2026 11:20:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cyberattaque : le géant japonais des logiciels Sourcenext expose 22,5 millions de comptes</title>
-    <link>https://www.cyberattaque.org/cyberattaque-le-geant-japonais-des-logiciels-sourcenext-expose-225-millions-de-comptes/</link>
-    <description>Sourcenext, l&amp;#8217;un des grands éditeurs japonais de logiciels, notamment connu pour ses solutions antivirus et de cybersécurité, vient...
-L’article Cyberattaque : le géant japonais des logiciels Sourcenext expose…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 10:34:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: October Windows update may break Smart App Control</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/</link>
-    <description>Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 16 Oct 2026 04:44:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BAE Systems cyberattack disrupts US federal court operations</title>
-    <link>https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/</link>
-    <description>The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 16 Oct 2026 03:37:35 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers</title>
-    <link>https://thehackernews.com/2026/10/china-linked-hackers-exploited.html</link>
-    <description>The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 12:25:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing</title>
-    <link>https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html</link>
-    <description>AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In&amp;nbsp;said in an advisory&amp;nbsp;on October 15.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 12:23:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le Havre : une cyberattaque paralyse les Terminaux de Normandie</title>
-    <link>https://www.cyberattaque.org/le-havre-une-cyberattaque-paralyse-les-terminaux-de-normandie/</link>
-    <description>Les Terminaux de Normandie, opérateur de manutention portuaire installé au Havre, font face à un incident informatique majeur...
-L’article Le Havre : une cyberattaque paralyse les Terminaux de Normandie est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 06:40:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Les ports de Marseille et La Rochelle ciblés par des hackers prorusses</title>
-    <link>https://www.cyberattaque.org/cyberattaque-les-ports-de-marseille-et-la-rochelle-cibles-par-des-hackers-prorusses/</link>
-    <description>Le secteur maritime et portuaire français fait l&amp;#8217;objet d&amp;#8217;une campagne de cyberattaques revendiquée par le groupe de hackers...
-L’article Les ports de Marseille et La Rochelle ciblés par des hackers prorusses…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 06:22:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] BeyondTrust patches zero-day exploited in attacks since August</title>
-    <link>https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/</link>
-    <description>BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 16 Oct 2026 02:18:08 -0400</pubDate>
   </item>
 </channel>
 </rss>
