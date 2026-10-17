@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Cyberattaques : des sites français ciblés par des pirates</title>
+    <link>https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/</link>
+    <description>Des pirates ciblent des industriels français et des opérateurs étatiques. L'un des groupes vend DDoS et exfiltration de données !</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 13:03:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Phishing : une opération frappe trois kits pirate</title>
+    <link>https://www.zataz.com/phishing-une-operation-frappe-trois-kits-pirate/</link>
+    <description>Une opération vise CoGUI et deux kits de phishing, avec saisies de domaines et action judiciaire.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 11:36:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Taxis et VTC : ce que vos données révèlent de vous</title>
+    <link>https://www.zataz.com/taxis-et-vtc-ce-que-vos-donnees-revelent-de-vous/</link>
+    <description>Taxis, VTC, automobile : les affaires révélées par ZATAZ éclairent les risques liés aux données personnelles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 17 Oct 2026 11:28:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon</title>
+    <link>https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html</link>
+    <description>Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.
+
+The package, named "imgdecode," was uploaded to the package…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 17 Oct 2026 16:41:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Leboncoin et Vinted : des notifications suspectes</title>
     <link>https://www.zataz.com/leboncoin-et-vinted-des-notifications-suspectes/</link>
     <description>Notifications suspectes sur Leboncoin et Vinted : des redirections vers des casinos pirates.</description>
@@ -114,71 +144,6 @@ L’article Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservati
     <description>Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.</description>
     <source>The Record</source>
     <pubDate>Fri, 16 Oct 2026 14:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract</title>
-    <link>https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html</link>
-    <description>OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 19:33:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Employees using personal ChatGPT at work? Here's what IT admins need to do</title>
-    <link>https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/</link>
-    <description>Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 16 Oct 2026 09:50:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia</title>
-    <link>https://therecord.media/russia-datasuckers-hackers-arrested</link>
-    <description>Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 16 Oct 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Offerz : les données de 115 000 clients exposées après une cyberattaque contre sons environnement de test</title>
-    <link>https://www.cyberattaque.org/offerz-les-donnees-de-115-000-clients-exposees-apres-une-cyberattaque-contre-sons-environnement-de-test/</link>
-    <description>Offerz, boutique en ligne suisse spécialisée notamment dans les bons cadeaux, cartes prépayées et codes numériques, confirme un...
-L’article Offerz : les données de 115 000 clients exposées après une cyberattaque contre…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 13:05:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Baltimore suburb confirms August data breach after ransomware claims</title>
-    <link>https://therecord.media/anne-arundel-county-maryland-confirms-data-breach</link>
-    <description>Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 16 Oct 2026 13:05:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day</title>
-    <link>https://therecord.media/beyond-trust-cyberattack-china</link>
-    <description>An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 16 Oct 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Burger King Japan data breach exposes 11 million customer records</title>
-    <link>https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/</link>
-    <description>Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 16 Oct 2026 08:01:29 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Decision Models and Their Impact on AI SOC Platforms</title>
-    <link>https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html</link>
-    <description>In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 16 Oct 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque des Républicains : site piraté et les données des adhérents menacées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-des-republicains-site-pirate-et-les-donnees-des-adherents-menacees/</link>
-    <description>Le site officiel des Républicains (LR), parti politique français présidé par Bruno Retailleau, a été victime d&amp;#8217;une cyberattaque...
-L’article Cyberattaque des Républicains : site piraté et les données des adhérents…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 16 Oct 2026 11:20:04 +0000</pubDate>
   </item>
 </channel>
 </rss>
