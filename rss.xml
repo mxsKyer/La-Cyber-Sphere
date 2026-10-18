@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Fuite de données : la FFTir de nouveau ciblée</title>
+    <link>https://www.zataz.com/fuite-de-donnees-la-fftir-de-nouveau-ciblee/</link>
+    <description>FFTir : un pirate vend 40 Go de données, dont des photos et certificats médicaux de licenciés sportifs.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 18 Oct 2026 09:43:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
+    <link>https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html</link>
+    <description>ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 18 Oct 2026 13:53:02 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenCode piraté : les clés API OpenAI, Anthropic et Google exposées</title>
     <link>https://www.cyberattaque.org/cyberattaque-opencode-pirate-les-cles-api-openai-anthropic-et-google-exposees/</link>
     <description>OpenCode confirme avoir subi une violation de sécurité dans la nuit du 16 au 17 octobre 2026. L&amp;#8217;incident...
@@ -197,53 +211,6 @@ The package, named "imgdecode," was uploaded to the package…</description>
     <description>Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 17 Oct 2026 09:50:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</title>
-    <link>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</link>
-    <description>Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 17 Oct 2026 11:46:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Franc-maçonnerie : 3 400 documents de la Grande Loge Traditionnelle de France diffusés par un hacker</title>
-    <link>https://www.cyberattaque.org/franc-maconnerie-3-400-documents-de-la-grande-loge-traditionnelle-de-france-diffuses-par-un-hacker/</link>
-    <description>Après plusieurs bases de données françaises, le hacker Angel_Batista revendique cette fois la diffusion de 3 400 documents...
-L’article Franc-maçonnerie : 3 400 documents de la Grande Loge Traditionnelle de France…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 06:08:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque d’O’Tacos : 334 474 adresses de livraison avec codes d’accès en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-dotacos-334-474-adresses-de-livraison-avec-codes-dacces-en-fuite/</link>
-    <description>O’Tacos, l’une des principales enseignes françaises de restauration rapide spécialisée dans le « French tacos », fait l’objet...
-L’article Cyberattaque d’O’Tacos : 334 474 adresses de livraison avec codes d’accès en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 05:59:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Inter-Etab : 286 773 dossiers d’élèves et leurs familles en fuite</title>
-    <link>https://www.cyberattaque.org/inter-etab-286-773-dossiers-deleves-et-leurs-familles-en-fuite/</link>
-    <description>Pour seulement 250 dollars, le hacker Angel_Batista affirme vendre une base contenant 286 773 dossiers d’élèves français provenant...
-L’article Inter-Etab : 286 773 dossiers d’élèves et leurs familles en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 05:53:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre Nomad Education : 4,85 millions de comptes mis en vente sur le darkweb</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-nomad-education-485-millions-de-comptes-mis-en-vente-sur-le-darkweb/</link>
-    <description>Nomad Education, plateforme française de révision scolaire destinée aux élèves et étudiants, fait l’objet d’une importante revendication de...
-L’article Cyberattaque contre Nomad Education : 4,85 millions de comptes mis…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 05:48:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservation en fuite</title>
-    <link>https://www.cyberattaque.org/courtepaille-bayeux-8-734-lignes-issues-de-loutil-de-reservation-en-fuite/</link>
-    <description>Le restaurant Courtepaille Bayeux fait l’objet d’une revendication de fuite de données publiée le 16 octobre 2026. Le...
-L’article Courtepaille Bayeux : 8 734 lignes issues de l’outil de réservation en fuite est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 05:39:56 +0000</pubDate>
   </item>
 </channel>
 </rss>
