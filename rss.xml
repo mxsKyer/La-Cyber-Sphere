@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Blissim : près de 2 millions de transactions en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/blissim-pres-de-2-millions-de-transactions-en-fuite-apres-une-cyberattaque/</link>
+    <description>Le hacker ChimeraZ revendique une nouvelle fuite visant Blissim, le service français de box beauté et de vente...
+L’article Blissim : près de 2 millions de transactions en fuite après une cyberattaque est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 18 Oct 2026 16:56:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers exploit SiteGuard WAF flaw to run commands as admins</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/</link>
+    <description>Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 18 Oct 2026 10:23:16 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque</title>
     <link>https://www.cyberattaque.org/axialys-63-036-dossiers-de-fraude-telephonique-en-fuite/</link>
     <description>La fuite attribuée à Axialys est beaucoup plus importante qu&amp;#8217;un simple export de numéros de téléphone. Le hacker...
@@ -145,36 +160,6 @@ L’article Be-in-Home : une base SQL de 30 000 utilisateurs refait surface est 
 L’article Paroisse Saint-Urbain–Sainte-Marie : les emails des fidèles exposés après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 17 Oct 2026 18:14:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/</link>
-    <description>ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 17 Oct 2026 11:18:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Eurofiber France : des IBAN potentiellement exposés, moins d’un an après une précédente cyberattaque</title>
-    <link>https://www.cyberattaque.org/eurofiber-france-des-iban-potentiellement-exposes-moins-dun-an-apres-une-precedente-cyberattaque/</link>
-    <description>Eurofiber France informe actuellement certains de ses partenaires d’un nouvel incident de sécurité identifié le 14 octobre 2026....
-L’article Eurofiber France : des IBAN potentiellement exposés, moins d’un an après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 15:17:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Afflelou : 49 761 factures d’un ancien portail interne en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/afflelou-49-761-factures-dun-ancien-portail-interne-en-fuite-apres-une-cyberattaque/</link>
-    <description>Le hacker Syrv4x vient de publier gratuitement une base de 49 761 lignes attribuée au sous-domaine afflelou.apprographic.com. L’archive,...
-L’article Afflelou : 49 761 factures d’un ancien portail interne en fuite après…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 17 Oct 2026 14:36:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal patches critical RCE flaws, warns exploits may emerge soon</title>
-    <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/</link>
-    <description>Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 17 Oct 2026 10:32:48 -0400</pubDate>
   </item>
 </channel>
 </rss>
