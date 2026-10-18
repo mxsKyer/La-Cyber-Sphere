@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/axialys-63-036-dossiers-de-fraude-telephonique-en-fuite/</link>
+    <description>La fuite attribuée à Axialys est beaucoup plus importante qu&amp;#8217;un simple export de numéros de téléphone. Le hacker...
+L’article Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 18 Oct 2026 11:51:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La Chine veut contrôler ses exportations d’IA</title>
+    <link>https://www.zataz.com/la-chine-veut-controler-ses-exportations-dia/</link>
+    <description>La Chine veut encadrer les exportations de 23 technologies d’IA, sur fond de rivalité stratégique avec Washington.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 18 Oct 2026 10:29:36 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Fuite de données : la FFTir de nouveau ciblée</title>
     <link>https://www.zataz.com/fuite-de-donnees-la-fftir-de-nouveau-ciblee/</link>
     <description>FFTir : un pirate vend 40 Go de données, dont des photos et certificats médicaux de licenciés sportifs.</description>
@@ -160,57 +175,6 @@ L’article Afflelou : 49 761 factures d’un ancien portail interne en fuite ap
     <description>Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 17 Oct 2026 10:32:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaques : des sites français ciblés par des pirates</title>
-    <link>https://www.zataz.com/cyberattaques-des-sites-francais-cibles-par-des-pirates/</link>
-    <description>Des pirates ciblent des industriels français et des opérateurs étatiques. L'un des groupes vend DDoS et exfiltration de données !</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 13:03:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Phishing : une opération frappe trois kits pirate</title>
-    <link>https://www.zataz.com/phishing-une-operation-frappe-trois-kits-pirate/</link>
-    <description>Une opération vise CoGUI et deux kits de phishing, avec saisies de domaines et action judiciaire.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 11:36:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Taxis et VTC : ce que vos données révèlent de vous</title>
-    <link>https://www.zataz.com/taxis-et-vtc-ce-que-vos-donnees-revelent-de-vous/</link>
-    <description>Taxis, VTC, automobile : les affaires révélées par ZATAZ éclairent les risques liés aux données personnelles.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 11:28:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon</title>
-    <link>https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html</link>
-    <description>Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.
-
-The package, named "imgdecode," was uploaded to the package…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 17 Oct 2026 16:41:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Leboncoin et Vinted : des notifications suspectes</title>
-    <link>https://www.zataz.com/leboncoin-et-vinted-des-notifications-suspectes/</link>
-    <description>Notifications suspectes sur Leboncoin et Vinted : des redirections vers des casinos pirates.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 11:02:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Doctolib : mon opposition à l’IA reste sans réponse claire</title>
-    <link>https://www.zataz.com/doctolib-mon-opposition-a-lia-reste-sans-reponse-claire/</link>
-    <description>Doctolib répond sur le marketing à une opposition à l’IA : récit, délais RGPD et droits rappelés par la CNIL.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 10:33:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaques : les supermarchés européens perturbés</title>
-    <link>https://www.zataz.com/cyberattaques-les-supermarches-europeens-perturbes/</link>
-    <description>Cyberattaques dans les supermarchés : froid saboté en France et perturbations dans des bases militaires US et enseignes en Europe.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 17 Oct 2026 09:50:36 +0000</pubDate>
   </item>
 </channel>
 </rss>
