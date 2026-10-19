@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Microsoft: October Windows Server updates break Exchange sign-in, mail flow</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/</link>
+    <description>Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 04:58:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers</title>
+    <link>https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</link>
+    <description>A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 11:59:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys</title>
+    <link>https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</link>
+    <description>An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.
+
+Console is OpenCode's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 11:37:08 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Certaines entreprises préfèrent cacher une cyberattaque subie</title>
     <link>https://www.cyberattaque.org/certaines-entreprises-preferent-cacher-une-cyberattaque-subie/</link>
     <description>Une entreprise doit-elle révéler une cyberattaque lorsqu’elle menace sa réputation, la confiance de ses clients ou même une...
@@ -35,27 +58,6 @@ L’article Blissim : près de 2 millions de transactions en fuite après une cy
 L’article Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sun, 18 Oct 2026 11:51:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Chine veut contrôler ses exportations d’IA</title>
-    <link>https://www.zataz.com/la-chine-veut-controler-ses-exportations-dia/</link>
-    <description>La Chine veut encadrer les exportations de 23 technologies d’IA, sur fond de rivalité stratégique avec Washington.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 18 Oct 2026 10:29:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fuite de données : la FFTir de nouveau ciblée</title>
-    <link>https://www.zataz.com/fuite-de-donnees-la-fftir-de-nouveau-ciblee/</link>
-    <description>FFTir : un pirate vend 40 Go de données, dont des photos et certificats médicaux de licenciés sportifs.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 18 Oct 2026 09:43:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants</title>
-    <link>https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html</link>
-    <description>ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 18 Oct 2026 13:53:02 +0530</pubDate>
   </item>
 </channel>
 </rss>
