@@ -6,6 +6,144 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] OpenCode hack exposes API keys amid AI distillation attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/</link>
+    <description>The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 13:27:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre Loxone : 201,6 Go revendiqués, le CRM et les données de candidats touchés</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-loxone-2016-go-revendiques-le-crm-et-les-donnees-de-candidats-touches/</link>
+    <description>Loxone confirme avoir été victime d’une cyberattaque majeure détectée le 18 octobre 2026. Le spécialiste autrichien de la...
+L’article Cyberattaque contre Loxone : 201,6 Go revendiqués, le CRM et les données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 16:52:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ahold Delhaize confirms 'malicious actions' behind cyber outages affecting grocery brands</title>
+    <link>https://therecord.media/ahold-delhaize-cyberattack-grocery</link>
+    <description>Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 16:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] I-CAD : 2,9 millions d’animaux exposés, avec les noms de leurs propriétaires</title>
+    <link>https://www.cyberattaque.org/cyberattaque-i-cad-29-millions-danimaux-exposes-avec-les-noms-de-leurs-proprietaires/</link>
+    <description>Une nouvelle fuite massive vise I-CAD, le fichier national d’identification des chiens, chats et furets en France. Le...
+L’article I-CAD : 2,9 millions d’animaux exposés, avec les noms de leurs propriétaires est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 16:40:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor</title>
+    <link>https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html</link>
+    <description>Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 21:58:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre l’ISEP : les données de milliers d’étudiants en cybersécurité en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-isep-les-donnees-de-milliers-detudiants-en-cybersecurite-en-fuite/</link>
+    <description>L’Isep, l’une des écoles françaises spécialisées dans le numérique, l’informatique et la cybersécurité, se retrouve à son tour...
+L’article Cyberattaque contre l’ISEP : les données de milliers d’étudiants en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 16:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian social media giant VK faces disruptions after data center drone strike</title>
+    <link>https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center</link>
+    <description>The disruptions began Sunday, when users complained of difficulties loading news feeds, playing music and accessing other features of VK's platforms.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 15:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes game, app crashes caused by recent Windows update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-game-app-crashes-caused-by-windows-kb5124010-preview-update/</link>
+    <description>Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 10:55:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More</title>
+    <link>https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html</link>
+    <description>The worst problems don't always come with a warning. Sometimes they arrive through a service everyone trusts, a device someone bought, or a system nobody thought to check. By the time something looks wrong, the damage…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 19:44:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Inside the Underground Market for Know Your Client Services</title>
+    <link>https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/</link>
+    <description>Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] F5 releases out-of-band patches for critical NGINX vulnerabilities</title>
+    <link>https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/</link>
+    <description>F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 09:49:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
+    <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
+    <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Mon, 19 Oct 2026 13:48:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Un pirate peut prendre le contrôle de votre Livebox ou box SFR depuis la rue</title>
+    <link>https://www.cyberattaque.org/wpsplinter-box-livebox-sfr-faille/</link>
+    <description>Pas besoin de connaître votre mot de passe Wi-Fi. Une vulnérabilité vieille de seize ans permet à un...
+L’article Un pirate peut prendre le contrôle de votre Livebox ou box SFR depuis la rue est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 13:39:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories</title>
+    <link>https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html</link>
+    <description>The threat actor behind the GhostAction supply chain attack has expanded beyond injecting malicious GitHub Actions workflows into compromised projects to phish open-source developers and deliver a stealer malware…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 18:35:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Région Sud : 89 083 dossiers d’usagers de ZOU! mis en vente sur le darkweb</title>
+    <link>https://www.cyberattaque.org/cyberattaque-region-sud-zou/</link>
+    <description>Une base attribuée à ZOU!, le réseau de transport de la Région Sud, est proposée à la vente...
+L’article Région Sud : 89 083 dossiers d’usagers de ZOU! mis en vente sur le darkweb est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 13:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes classic Outlook bug that hid Copilot buttons</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/</link>
+    <description>Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 08:44:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software</title>
+    <link>https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html</link>
+    <description>In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 17:20:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers steal customer data from major Russian hosting provider FirstVDS</title>
+    <link>https://therecord.media/russia-cyberattack-firstvds-cloud</link>
+    <description>Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 11:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</title>
+    <link>https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</link>
+    <description>A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 15:36:40 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft: October Windows Server updates break Exchange sign-in, mail flow</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/</link>
     <description>Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]</description>
@@ -35,29 +173,6 @@ Console is OpenCode's…</description>
 L’article Certaines entreprises préfèrent cacher une cyberattaque subie est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 19 Oct 2026 04:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Blissim : près de 2 millions de transactions en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/blissim-pres-de-2-millions-de-transactions-en-fuite-apres-une-cyberattaque/</link>
-    <description>Le hacker ChimeraZ revendique une nouvelle fuite visant Blissim, le service français de box beauté et de vente...
-L’article Blissim : près de 2 millions de transactions en fuite après une cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 18 Oct 2026 16:56:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers exploit SiteGuard WAF flaw to run commands as admins</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/</link>
-    <description>Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 18 Oct 2026 10:23:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/axialys-63-036-dossiers-de-fraude-telephonique-en-fuite/</link>
-    <description>La fuite attribuée à Axialys est beaucoup plus importante qu&amp;#8217;un simple export de numéros de téléphone. Le hacker...
-L’article Axialys : 63 036 dossiers de fraude téléphonique en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 18 Oct 2026 11:51:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
