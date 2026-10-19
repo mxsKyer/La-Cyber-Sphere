@@ -6,6 +6,72 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Nikkei discloses third data breach in a month, 1.8M records exposed</title>
+    <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/</link>
+    <description>Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 17:49:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] WordPress SEO plugin Rank Math compromised to backdoor websites</title>
+    <link>https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/</link>
+    <description>Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 17:24:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users</title>
+    <link>https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction</link>
+    <description>WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 19:49:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ConnectWise suspends Cloud Backup service after supply chain attack</title>
+    <link>https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack</link>
+    <description>ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 19:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers hijack AOMEI update servers to secretly spread malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/</link>
+    <description>Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 15:40:58 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] OVHcloud : un hacker piège plusieurs versions de son CLI officiel</title>
+    <link>https://www.cyberattaque.org/ovhcloud-un-hacker-piege-plusieurs-versions-de-son-cli-officiel/</link>
+    <description>OVHcloud confirme la compromission de son outil officiel en ligne de commande. Pendant environ une heure et demie...
+L’article OVHcloud : un hacker piège plusieurs versions de son CLI officiel est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 19 Oct 2026 18:58:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bullhorn takes staffing platform offline to contain cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/</link>
+    <description>Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 19 Oct 2026 14:51:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Two more Serbian opposition figures targeted with spyware, researchers say</title>
+    <link>https://therecord.media/serbia-spyware-pegasus-elections</link>
+    <description>A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 19 Oct 2026 18:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor</title>
+    <link>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</link>
+    <description>Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.
+
+According to a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 19 Oct 2026 23:02:13 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] OpenCode hack exposes API keys amid AI distillation attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/</link>
     <description>The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]</description>
