@@ -6,6 +6,23 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Armurerie Centrale confirme une cyberattaque : les données de ses clients exposées</title>
+    <link>https://www.cyberattaque.org/armurerie-centrale-confirme-une-cyberattaque-les-donnees-de-ses-clients-exposees/</link>
+    <description>Armurerie Centrale, boutique en ligne lyonnaise spécialisée dans la vente d&amp;#8217;armes, de munitions et d&amp;#8217;équipements de défense, informe...
+L’article Armurerie Centrale confirme une cyberattaque : les données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 20 Oct 2026 04:22:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
+    <link>https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html</link>
+    <description>Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.
+
+According to Forescout Research - Vedere Labs, ROMULUS is…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 20 Oct 2026 09:35:58 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Nikkei discloses third data breach in a month, 1.8M records exposed</title>
     <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/</link>
     <description>Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]</description>
@@ -222,23 +239,6 @@ L’article Région Sud : 89 083 dossiers d’usagers de ZOU! mis en vente sur l
     <description>A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 19 Oct 2026 11:59:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys</title>
-    <link>https://thehackernews.com/2026/10/opencode-console-breach-may-have.html</link>
-    <description>An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.
-
-Console is OpenCode's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 19 Oct 2026 11:37:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Certaines entreprises préfèrent cacher une cyberattaque subie</title>
-    <link>https://www.cyberattaque.org/certaines-entreprises-preferent-cacher-une-cyberattaque-subie/</link>
-    <description>Une entreprise doit-elle révéler une cyberattaque lorsqu’elle menace sa réputation, la confiance de ses clients ou même une...
-L’article Certaines entreprises préfèrent cacher une cyberattaque subie est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 19 Oct 2026 04:30:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
