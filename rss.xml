@@ -6,6 +6,64 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] OVHcloud CLI releases backdoored on GitHub to steal developer secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/</link>
+    <description>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 07:31:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Arnaque Netflix à 1 € : le cadeau qui piège vos données</title>
+    <link>https://www.zataz.com/arnaque-netflix-a-1-e-le-cadeau-qui-piege-vos-donnees/</link>
+    <description>Arnaque Netflix sur TikTok : six mois pour 1 €, des acteurs en appât et vos données en danger. Alerte ZATAZ.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 20 Oct 2026 11:30:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ahold Delhaize: Cyberattack affects services across US and Europe</title>
+    <link>https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/</link>
+    <description>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 07:18:35 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Defense contractors in two NATO allies hacked in recent Russia-linked campaign</title>
+    <link>https://therecord.media/european-defense-contractors-fancy-bear-espionage</link>
+    <description>The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Revolut outage disrupts online banking operations worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/</link>
+    <description>Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 05:46:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware</title>
+    <link>https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html</link>
+    <description>An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 20 Oct 2026 13:51:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan</title>
+    <link>https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html</link>
+    <description>Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
+
+The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 20 Oct 2026 12:41:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge</title>
+    <link>https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html</link>
+    <description>A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 20 Oct 2026 11:23:16 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Armurerie Centrale confirme une cyberattaque : les données de ses clients exposées</title>
     <link>https://www.cyberattaque.org/armurerie-centrale-confirme-une-cyberattaque-les-donnees-de-ses-clients-exposees/</link>
     <description>Armurerie Centrale, boutique en ligne lyonnaise spécialisée dans la vente d&amp;#8217;armes, de munitions et d&amp;#8217;équipements de défense, informe...
@@ -204,41 +262,6 @@ L’article Région Sud : 89 083 dossiers d’usagers de ZOU! mis en vente sur l
     <description>Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 19 Oct 2026 08:44:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software</title>
-    <link>https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html</link>
-    <description>In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 19 Oct 2026 17:20:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers steal customer data from major Russian hosting provider FirstVDS</title>
-    <link>https://therecord.media/russia-cyberattack-firstvds-cloud</link>
-    <description>Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 19 Oct 2026 11:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic</title>
-    <link>https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html</link>
-    <description>A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 19 Oct 2026 15:36:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: October Windows Server updates break Exchange sign-in, mail flow</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/</link>
-    <description>Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 19 Oct 2026 04:58:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers</title>
-    <link>https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html</link>
-    <description>A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 19 Oct 2026 11:59:44 +0530</pubDate>
   </item>
 </channel>
 </rss>
