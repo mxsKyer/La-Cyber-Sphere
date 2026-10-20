@@ -6,11 +6,55 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</title>
+    <link>https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims</link>
+    <description>The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 20 Oct 2026 20:27:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Zeabur shutting down after second security breach in two months</title>
+    <link>https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/</link>
+    <description>Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 15:33:02 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] California warns all public school students of data stolen in contractor breach</title>
+    <link>https://therecord.media/california-warns-all-public-school-students-of-data-breach</link>
+    <description>The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 20 Oct 2026 19:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 23andMe successor settles with California for $6 million over cybersecurity failings</title>
+    <link>https://therecord.media/23andme-california-data-breach-settlement</link>
+    <description>California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 20 Oct 2026 18:32:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/</link>
+    <description>OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 14:11:03 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Nigerian national given 8-year sentence for tax business hacks</title>
     <link>https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks</link>
     <description>A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.</description>
     <source>The Record</source>
     <pubDate>Tue, 20 Oct 2026 17:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
+    <link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
+    <description>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&amp;nbsp;Mozilla&amp;nbsp;and&amp;nbsp;Google's Chrome Root Program&amp;nbsp;confirms on October 20.
+
+An intermediate CA signs the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 20 Oct 2026 22:39:53 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</title>
@@ -213,6 +257,48 @@ According to Forescout Research - Vedere Labs, ROMULUS is…</description>
     <pubDate>Tue, 20 Oct 2026 09:35:58 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-110936 — Siemens Software Center Uncontrolled Search Path Element Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-110936</link>
+    <description>Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96652</link>
+    <description>Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. </description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-96654 — Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96654</link>
+    <description>Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-96655 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96655</link>
+    <description>Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-96656 — Plex Media Server External Control of File Name or Path Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96656</link>
+    <description>Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-106931</link>
+    <description>EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-20</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Nikkei discloses third data breach in a month, 1.8M records exposed</title>
     <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/</link>
     <description>Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]</description>
@@ -225,65 +311,6 @@ According to Forescout Research - Vedere Labs, ROMULUS is…</description>
     <description>Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 19 Oct 2026 17:24:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users</title>
-    <link>https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction</link>
-    <description>WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 19 Oct 2026 19:49:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ConnectWise suspends Cloud Backup service after supply chain attack</title>
-    <link>https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack</link>
-    <description>ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 19 Oct 2026 19:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers hijack AOMEI update servers to secretly spread malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/</link>
-    <description>Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 19 Oct 2026 15:40:58 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] OVHcloud : un hacker piège plusieurs versions de son CLI officiel</title>
-    <link>https://www.cyberattaque.org/ovhcloud-un-hacker-piege-plusieurs-versions-de-son-cli-officiel/</link>
-    <description>OVHcloud confirme la compromission de son outil officiel en ligne de commande. Pendant environ une heure et demie...
-L’article OVHcloud : un hacker piège plusieurs versions de son CLI officiel est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 19 Oct 2026 18:58:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bullhorn takes staffing platform offline to contain cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/</link>
-    <description>Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 19 Oct 2026 14:51:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Two more Serbian opposition figures targeted with spyware, researchers say</title>
-    <link>https://therecord.media/serbia-spyware-pegasus-elections</link>
-    <description>A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 19 Oct 2026 18:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor</title>
-    <link>https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html</link>
-    <description>Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.
-
-According to a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 19 Oct 2026 23:02:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenCode hack exposes API keys amid AI distillation attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/</link>
-    <description>The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 19 Oct 2026 13:27:15 -0400</pubDate>
   </item>
 </channel>
 </rss>
