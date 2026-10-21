@@ -6,6 +6,95 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] La mairie d’Évry-Courcouronnes coupe toutes ses démarches en ligne et son portail Famille</title>
+    <link>https://www.cyberattaque.org/cyberattaque-evry-courcouronnes-portail-famille/</link>
+    <description>Une ville française a décidé de suspendre temporairement l’ensemble de ses démarches en ligne après avoir détecté ce...
+L’article La mairie d’Évry-Courcouronnes coupe toutes ses démarches en ligne et son portail Famille…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 19:07:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] INED : une cyberattaque paralyse son système informatique</title>
+    <link>https://www.cyberattaque.org/cyberattaque-institut-national-detudes-demographiques/</link>
+    <description>L’Institut national d’études démographiques (Ined) est confronté à une cyberattaque d’ampleur qui perturbe l’ensemble de son environnement informatique....
+L’article INED : une cyberattaque paralyse son système…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 18:59:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 14:34:42 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Democrat lawmakers say Russia is aiming to undermine party ahead of midterms</title>
+    <link>https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party</link>
+    <description>The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 21 Oct 2026 18:28:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Arrêtée pour avoir bloqué un robot de livraison Uber</title>
+    <link>https://www.zataz.com/arretee-pour-avoir-bloque-un-robot-de-livraison-uber/</link>
+    <description>Une manifestante arrêtée pour avoir bloqué un robot Uber et dénoncé l'automatisation des emplois.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 18:04:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
+    <link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
+    <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 23:31:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024</title>
+    <link>https://therecord.media/php-foundation-statement-critical-vulnerabilities</link>
+    <description>In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 21 Oct 2026 17:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
+    <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
+    <description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 22:03:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI agents disabled safety monitoring, one lied about it</title>
+    <link>https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/</link>
+    <description>OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 12:26:53 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Les sites des préfectures coupés en urgence après la découverte d’une faille critique</title>
+    <link>https://www.cyberattaque.org/les-sites-des-prefectures-coupes-en-urgence-apres-la-decouverte-dune-faille-critique/</link>
+    <description>Les sites internet de plusieurs préfectures françaises ont été mis hors ligne ce 21 octobre 2026 après la...
+L’article Les sites des préfectures coupés en urgence après la découverte d’une faille critique est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 15:39:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Widespread PHP Flaw May Cause Many Site Outages Today</title>
+    <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
+    <description>Expect to see quite a few websites serving "404" or "Page Not Found" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 21 Oct 2026 15:26:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Panne chez Orange et Sosh !</title>
+    <link>https://www.zataz.com/panne-chez-orange-et-sosh/</link>
+    <description>Ce mercredi 21 octobre 2026, une importante panne perturbe le réseau mobile d'Orange et de sa marque low cost Sosh.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 15:21:36 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Musique IA et faux streams : 18 mois de prison</title>
     <link>https://www.zataz.com/musique-ia-et-faux-streams-18-mois-de-prison/</link>
     <description>Musique IA, faux comptes et royalties détournées : 18 mois de prison pour un fraudeur.</description>
@@ -46,6 +135,13 @@
     <description>ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 21 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
+    <link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
+    <description>PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 19:30:00 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</title>
@@ -334,61 +430,6 @@ L’article Frenchy Sushi : 3 424 clients exposés, avec téléphones et histori
     <description>Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 20 Oct 2026 15:33:02 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] California warns all public school students of data stolen in contractor breach</title>
-    <link>https://therecord.media/california-warns-all-public-school-students-of-data-breach</link>
-    <description>The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 20 Oct 2026 19:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 23andMe successor settles with California for $6 million over cybersecurity failings</title>
-    <link>https://therecord.media/23andme-california-data-breach-settlement</link>
-    <description>California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 20 Oct 2026 18:32:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/</link>
-    <description>OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 20 Oct 2026 14:11:03 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nigerian national given 8-year sentence for tax business hacks</title>
-    <link>https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks</link>
-    <description>A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 20 Oct 2026 17:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</title>
-    <link>https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html</link>
-    <description>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&amp;nbsp;Mozilla&amp;nbsp;and&amp;nbsp;Google's Chrome Root Program&amp;nbsp;confirms on October 20.
-
-An intermediate CA signs the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 22:39:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html</link>
-    <description>Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.
-
-The vulnerability,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 21:08:52 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA</title>
-    <link>https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html</link>
-    <description>Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&amp;nbsp; PAN-OS and Prisma Access by ransomware actors.
-
-The activity relates to CVE-2026-0257 (CVSS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 21:02:27 +0530</pubDate>
   </item>
 </channel>
 </rss>
