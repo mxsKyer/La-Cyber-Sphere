@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Stolen UpdraftCentral keys used to backdoor WordPress sites</title>
+    <link>https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/</link>
+    <description>A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 21:01:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Mozilla, Google, Apple block compromised eMudhra CA certificates</title>
+    <link>https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/</link>
+    <description>Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 20 Oct 2026 20:46:42 -0400</pubDate>
+  </item>
+  <item>
     <title>[Élevé] PHP warns admins of two critical flaws, emergency patches coming tomorrow</title>
     <link>https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/</link>
     <description>The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled…</description>
@@ -253,57 +267,6 @@ The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score:…</
 L’article Armurerie Centrale confirme une cyberattaque : les données de…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 20 Oct 2026 04:22:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware</title>
-    <link>https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html</link>
-    <description>Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.
-
-According to Forescout Research - Vedere Labs, ROMULUS is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 09:35:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-110936 — Siemens Software Center Uncontrolled Search Path Element Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-110936</link>
-    <description>Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-96652 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96652</link>
-    <description>Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's chosen destination. This vulnerability can be chained with CVE-2026-96654, CVE-2026-96655, and CVE-2026-96656. </description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-96654 — Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96654</link>
-    <description>Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96655, and CVE-2026-96656.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-96655 — Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96655</link>
-    <description>Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96656.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-96656 — Plex Media Server External Control of File Name or Path Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-96656</link>
-    <description>Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654, and CVE-2026-96655.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-106931 — EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-106931</link>
-    <description>EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-20</pubDate>
   </item>
 </channel>
 </rss>
