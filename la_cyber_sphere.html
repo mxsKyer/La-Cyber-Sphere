@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-10-21T04:22:43.855418+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-10-21T09:31:29.336608+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">3</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">3</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">17</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">17</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -573,19 +573,19 @@
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</h2>
-      <p class="dek">The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.</p>
-      <div class="byline">Source : <a href="https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims" target="_blank" rel="noopener">The Record</a> · il y a 7 h</div>
+      <h2>CISA: SafePay ransomware hit over 600 critical infrastructure orgs</h2>
+      <p class="dek">The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]</p>
+      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 55 min</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 010</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 078</div>
       </div>
-      <div class="index-value">10<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-value">78<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
       <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 90 points sur 7 jours
+        ▼ 22 points sur 7 jours
         
       </div>
       <canvas id="riskline"></canvas>
@@ -610,104 +610,106 @@
 
       
       
-      <article class="story sev-high" id="story-1">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Stolen UpdraftCentral keys used to backdoor WordPress sites</h3>
-          <p>A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-2">
+      <article class="story sev-low" id="story-1">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 11 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Mozilla, Google, Apple block compromised eMudhra CA certificates</h3>
-          <p>Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
+          <h3>Quatre arrestations autour d’un SMS blaster</h3>
+          <p>Aux Philippines, quatre personnes ont été arrêtées dans une enquête concernant un SMS blaster, que les autorités associent à des messages frauduleux imitant un établissement bancaire. Selon le National Bureau of…</p>
+          <a href="https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-3">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>PHP warns admins of two critical flaws, emergency patches coming tomorrow</h3>
-          <p>The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-4">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Zeabur shutting down after second security breach in two months</h3>
-          <p>Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-5">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>California warns all public school students of data stolen in contractor breach</h3>
-          <p>The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.</p>
-          <a href="https://therecord.media/california-warns-all-public-school-students-of-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-6">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+      <article class="story sev-low" id="story-2">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 45 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>23andMe successor settles with California for $6 million over cybersecurity failings</h3>
-          <p>California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.</p>
-          <a href="https://therecord.media/23andme-california-data-breach-settlement" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Une ministre française ciblée par un logiciel espion</h3>
+          <p>Agnès Pannier-Runacher ciblée par un logiciel espion : trois alertes Apple et une enquête judiciaire en cours.</p>
+          <a href="https://www.zataz.com/agnes-pannier-runacher-ciblee-par-un-logiciel-espion/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-3">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Ledger piégés : l’enquête examine plusieurs circuits de distribution</h3>
+          <p>Des Ledger modifiés interceptent les phrases de récupération. Le pirate est passé par un fournisseur ?</p>
+          <a href="https://www.zataz.com/ledger-pieges-lenquete-examine-plusieurs-circuits-de-distribution/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-4">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>PHP : deux failles critiques pourraient permettre de prendre le contrôle de millions de sites</h3>
+          <p>Une alerte de sécurité exceptionnelle touche PHP ce 21 octobre 2026. L’équipe officielle du langage annonce la publication...
+L’article PHP : deux failles critiques pourraient permettre de prendre le contrôle de…</p>
+          <a href="https://www.cyberattaque.org/php-deux-failles-critiques-pourraient-permettre-de-prendre-le-controle-de-millions-de-sites/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-5">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Un ingénieur d’OpenAI soupçonné d’écoute clandestine</h3>
+          <p>Un ingénieur d’OpenAI soupçonné d’écoute clandestine : appareils cachés, requêtes à l’IA et enquête du FBI.</p>
+          <a href="https://www.zataz.com/un-ingenieur-dopenai-soupconne-decoute-clandestine/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-6">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 4l16 6v12c0 11-7 18-16 22C15 40 8 33 8 22V10z"/><path d="M24 14v8M24 26v2M17 17l3 3M31 17l-3 3M14 24h4M30 24h4M17 31l3-3M31 31l-3-3"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>La Poste Mobile : son site visé par une cyberattaque DDoS prorusse</h3>
+          <p>La Poste Mobile est la nouvelle cible du groupe prorusse NoName057(16). Ce 21 octobre 2026, le collectif revendique...
+L’article La Poste Mobile : son site visé par une cyberattaque DDoS prorusse est apparu en premier…</p>
+          <a href="https://www.cyberattaque.org/la-poste-mobile-son-site-vise-par-une-cyberattaque-ddos-prorusse/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
         </div>
       </article>
@@ -718,13 +720,13 @@
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code</h3>
-          <p>OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Modern Warfare 4, un piratage signalé avant la sortie</h3>
+          <p>Modern Warfare 4 : un contournement de licence de la campagne PC est signalé avant la sortie du 23 octobre.</p>
+          <a href="https://www.zataz.com/modern-warfare-4-un-piratage-signale-avant-la-sortie/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
         </div>
       </article>
@@ -735,87 +737,87 @@
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 11 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Nigerian national given 8-year sentence for tax business hacks</h3>
-          <p>A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.</p>
-          <a href="https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web</h3>
+          <p>State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from.
+
+The state-owned…</p>
+          <a href="https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-9">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-medium" id="story-9">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws</h3>
+          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…</p>
+          <a href="https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-10">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 4l16 6v12c0 11-7 18-16 22C15 40 8 33 8 22V10z"/><path d="M24 14v8M24 26v2M17 17l3 3M31 17l-3 3M14 24h4M30 24h4M17 31l3-3M31 31l-3-3"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 11 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</h3>
-          <p>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.
+          <h3>Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion</h3>
+          <p>A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.
 
-An intermediate CA signs the…</p>
-          <a href="https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-critical" id="story-10">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</h3>
-          <p>Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.
-
-The vulnerability,…</p>
-          <a href="https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+According to a report published by Russian cybersecurity firm Solar, the activity has been attributed…</p>
+          <a href="https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-11">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
+      <article class="story sev-high" id="story-11">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA</h3>
-          <p>Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.
-
-The activity relates to CVE-2026-0257 (CVSS…</p>
-          <a href="https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque</h3>
+          <p>Buddiz confirme une fuite de données concernant 2 307 utilisateurs. La revendication publiée le 20 octobre visait initialement...
+L’article Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque est apparu…</p>
+          <a href="https://www.cyberattaque.org/buddiz-2-307-profils-de-sportifs-en-fuite-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-12">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+      <article class="story sev-high" id="story-12">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>EU cyber law won’t force fixes for fridge controllers hit in French attack</h3>
-          <p>The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define.</p>
-          <a href="https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données</h3>
+          <p>Une base attribuée à SOLIHA vient d’être diffusée gratuitement par le hacker Syrv4x. Elle contient 3 154 profils...
+L’article SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données…</p>
+          <a href="https://www.cyberattaque.org/soliha-3-154-profils-de-son-intranet-exposent-ses-collaborateurs-dans-une-fuite-de-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-12">Copier le lien</button>
         </div>
       </article>
@@ -826,13 +828,14 @@ The activity relates to CVE-2026-0257 (CVSS…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>DHS bans DeepSeek products across US federal civilian agencies</h3>
-          <p>The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Terranota : près de 43 000 personnes exposées via leurs dossiers immobiliers</h3>
+          <p>Une base attribuée à Terranota, cabinet français spécialisé dans les formalités d’urbanisme pour les notaires et professionnels de...
+L’article Terranota : près de 43 000 personnes exposées via leurs dossiers…</p>
+          <a href="https://www.cyberattaque.org/terranota-pres-de-43-000-personnes-exposees-via-leurs-dossiers-immobiliers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-13">Copier le lien</button>
         </div>
       </article>
@@ -843,30 +846,32 @@ The activity relates to CVE-2026-0257 (CVSS…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>AOMEI yet to notify customers after hackers hijacked its software updates</h3>
-          <p>In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download…</p>
-          <a href="https://therecord.media/aomei-yet-to-notify-customers-hijack-software" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque</h3>
+          <p>Les données de dizaines de milliers d’abonnés de Valeurs actuelles viennent d’être diffusées par un hacker. L’acteur utilisant...
+L’article Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque est…</p>
+          <a href="https://www.cyberattaque.org/cyberattaque-valeurs-actuelles/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-15">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</h3>
-          <p>A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…</p>
-          <a href="https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Transporteur.com : 1 201 clients exposés sur le darkweb après une cyberattaque</h3>
+          <p>Transporteur.com, plateforme française mettant en relation particuliers, entreprises et professionnels du transport, fait l’objet d’une revendication de piratage....
+L’article Transporteur.com : 1 201 clients exposés…</p>
+          <a href="https://www.cyberattaque.org/transporteur-com-1-201-clients-exposes-sur-le-darkweb-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
         </div>
       </article>
@@ -877,47 +882,51 @@ The activity relates to CVE-2026-0257 (CVSS…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Anti-Putin messages disrupt nationwide school assessments in Russia</h3>
-          <p>A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems.</p>
-          <a href="https://therecord.media/anti-putin-messages-disrupt-russian-education-platform" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Portaleco : plus de 100 000 fiches avec noms et adresses en fuite</h3>
+          <p>Plus de 100 000 fiches attribuées à Portaleco sont désormais diffusées gratuitement. Le hacker Alduin affirme avoir récupéré...
+L’article Portaleco : plus de 100 000 fiches avec noms et adresses en fuite est apparu en…</p>
+          <a href="https://www.cyberattaque.org/portaleco-plus-de-100-000-fiches-avec-noms-et-adresses-en-fuite/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-17">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-17">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>CJIS v6.1 Compliance: 5 Practical Priorities for Agencies</h3>
-          <p>CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management,…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>King Jouet : près de 196 000 fiches clients diffusées sur le darkweb</h3>
+          <p>King Jouet fait l’objet d’une importante fuite de données clients. Un hacker utilisant le pseudonyme Onyxx a diffusé...
+L’article King Jouet : près de 196 000 fiches clients diffusées sur le darkweb est apparu en…</p>
+          <a href="https://www.cyberattaque.org/cyberattaque-king-jouet-fuite-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-18">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+      <article class="story sev-critical" id="story-18">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Hacker gets 8 years for stealing $3.3 million from taxpayers</h3>
-          <p>A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</h3>
+          <p>This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.
+
+PHP will ship an…</p>
+          <a href="https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
         </div>
       </article>
@@ -928,134 +937,133 @@ The activity relates to CVE-2026-0257 (CVSS…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election</h3>
-          <p>The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on…</p>
-          <a href="https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique de commandes</h3>
+          <p>Frenchy Sushi, restaurant japonais installé à La Destrousse dans les Bouches-du-Rhône, fait l’objet d’une revendication de piratage. Le...
+L’article Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique…</p>
+          <a href="https://www.cyberattaque.org/frenchy-sushi-3-424-clients-exposes-avec-telephones-et-historique-de-commandes/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-20">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-20">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Caméras de surveillance : contrôlez qui vous regarde</h3>
-          <p>Caméras piratées : les risques physiques et informatiques exploités par des pirates Russes repérés par zataz.</p>
-          <a href="https://www.zataz.com/cameras-de-surveillance-controlez-qui-vous-regarde/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Stolen UpdraftCentral keys used to backdoor WordPress sites</h3>
+          <p>A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-20">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-21">
+      <article class="story sev-high" id="story-21">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Windows Server 2025 gets support for quick machine recovery</h3>
-          <p>Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Mozilla, Google, Apple block compromised eMudhra CA certificates</h3>
+          <p>Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-21">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-22">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-22">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators</h3>
-          <p>WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…</p>
-          <a href="https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>PHP warns admins of two critical flaws, emergency patches coming tomorrow</h3>
+          <p>The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-22">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-23">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>What Security Teams Can Do To Tame Wild Code</h3>
-          <p>A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon…</p>
-          <a href="https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-23">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-24">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns</h3>
-          <p>Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.
-
-Programs built on the new…</p>
-          <a href="https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-24">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-critical" id="story-25">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-critical" id="story-23">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>OVHcloud CLI releases backdoored on GitHub to steal developer secrets</h3>
-          <p>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</h3>
+          <p>The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.</p>
+          <a href="https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-23">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-24">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Zeabur shutting down after second security breach in two months</h3>
+          <p>Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-24">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-25">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>California warns all public school students of data stolen in contractor breach</h3>
+          <p>The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.</p>
+          <a href="https://therecord.media/california-warns-all-public-school-students-of-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-25">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-26">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Arnaque Netflix à 1 € : le cadeau qui piège vos données</h3>
-          <p>Arnaque Netflix sur TikTok : six mois pour 1 €, des acteurs en appât et vos données en danger. Alerte ZATAZ.</p>
-          <a href="https://www.zataz.com/arnaque-netflix-a-1-e-le-cadeau-qui-piege-vos-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>23andMe successor settles with California for $6 million over cybersecurity failings</h3>
+          <p>California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.</p>
+          <a href="https://therecord.media/23andme-california-data-breach-settlement" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-26">Copier le lien</button>
         </div>
       </article>
@@ -1067,52 +1075,92 @@ Programs built on the new…</p>
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Ahold Delhaize: Cyberattack affects services across US and Europe</h3>
-          <p>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code</h3>
+          <p>OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-27">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-28">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader</h3>
-          <p>The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization…</p>
-          <a href="https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-28">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-29">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident</h3>
-          <p>ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a…</p>
-          <a href="https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Nigerian national given 8-year sentence for tax business hacks</h3>
+          <p>A Nigerian national who worked with a group to hack tax prep businesses and conduct millions of dollars in fraud using customer data was sentenced this week.</p>
+          <a href="https://therecord.media/nigerian-given-8-year-sentenc-tax-hacks" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-28">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-29">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 16 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software</h3>
+          <p>The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised,&nbsp;Mozilla&nbsp;and&nbsp;Google's Chrome Root Program&nbsp;confirms on October 20.
+
+An intermediate CA signs the…</p>
+          <a href="https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-29">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-critical" id="story-30">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution</h3>
+          <p>Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.
+
+The vulnerability,…</p>
+          <a href="https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-30">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-31">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA</h3>
+          <p>Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting&nbsp; PAN-OS and Prisma Access by ransomware actors.
+
+The activity relates to CVE-2026-0257 (CVSS…</p>
+          <a href="https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-31">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-32">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
@@ -1121,62 +1169,26 @@ Programs built on the new…</p>
             <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Defense contractors in two NATO allies hacked in recent Russia-linked campaign</h3>
-          <p>The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.</p>
-          <a href="https://therecord.media/european-defense-contractors-fancy-bear-espionage" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-30">Copier le lien</button>
+          <h3>EU cyber law won’t force fixes for fridge controllers hit in French attack</h3>
+          <p>The EU’s Cyber Resilience Act that took effect last month only requires companies to fix vulnerabilities and issue free updates during a product's support period, which manufacturers define.</p>
+          <a href="https://therecord.media/eu-cyber-law-wont-force-fixes-for-fridges-in-french-attack" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-32">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-31">
+      <article class="story sev-low" id="story-33">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Revolut outage disrupts online banking operations worldwide</h3>
-          <p>Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-31">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-32">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware</h3>
-          <p>An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a…</p>
-          <a href="https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-32">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-medium" id="story-33">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan</h3>
-          <p>Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
-
-The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score:…</p>
-          <a href="https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>DHS bans DeepSeek products across US federal civilian agencies</h3>
+          <p>The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-33">Copier le lien</button>
         </div>
       </article>
@@ -1187,32 +1199,305 @@ The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score:…</
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge</h3>
-          <p>A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly…</p>
-          <a href="https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>AOMEI yet to notify customers after hackers hijacked its software updates</h3>
+          <p>In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download…</p>
+          <a href="https://therecord.media/aomei-yet-to-notify-customers-hijack-software" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-34">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-35">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites</h3>
+          <p>A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on…</p>
+          <a href="https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-35">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-36">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Anti-Putin messages disrupt nationwide school assessments in Russia</h3>
+          <p>A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems.</p>
+          <a href="https://therecord.media/anti-putin-messages-disrupt-russian-education-platform" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-36">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-37">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CJIS v6.1 Compliance: 5 Practical Priorities for Agencies</h3>
+          <p>CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management,…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-37">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-38">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="6" y="12" width="36" height="24" rx="2"/><path d="M6 14l18 14L42 14"/><path d="M30 30q4 2 4 6t-4 4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Hacker gets 8 years for stealing $3.3 million from taxpayers</h3>
+          <p>A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-38">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-39">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election</h3>
+          <p>The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the&nbsp;Citizen Lab said&nbsp;on…</p>
+          <a href="https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-39">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-40">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Caméras de surveillance : contrôlez qui vous regarde</h3>
+          <p>Caméras piratées : les risques physiques et informatiques exploités par des pirates Russes repérés par zataz.</p>
+          <a href="https://www.zataz.com/cameras-de-surveillance-controlez-qui-vous-regarde/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-40">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-41">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Windows Server 2025 gets support for quick machine recovery</h3>
+          <p>Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-41">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-42">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators</h3>
+          <p>WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's…</p>
+          <a href="https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-42">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-43">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>What Security Teams Can Do To Tame Wild Code</h3>
+          <p>A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon…</p>
+          <a href="https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-43">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-44">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns</h3>
+          <p>Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of&nbsp;eight intermediate certificate authority keys.
+
+Programs built on the new…</p>
+          <a href="https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-44">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-45">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>OVHcloud CLI releases backdoored on GitHub to steal developer secrets</h3>
+          <p>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-45">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-46">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Arnaque Netflix à 1 € : le cadeau qui piège vos données</h3>
+          <p>Arnaque Netflix sur TikTok : six mois pour 1 €, des acteurs en appât et vos données en danger. Alerte ZATAZ.</p>
+          <a href="https://www.zataz.com/arnaque-netflix-a-1-e-le-cadeau-qui-piege-vos-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-46">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-47">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Ahold Delhaize: Cyberattack affects services across US and Europe</h3>
+          <p>Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-47">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-48">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader</h3>
+          <p>The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization…</p>
+          <a href="https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-48">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-49">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident</h3>
+          <p>ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a…</p>
+          <a href="https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-49">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-50">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Armurerie Centrale confirme une cyberattaque : les données de ses clients exposées</h3>
-          <p>Armurerie Centrale, boutique en ligne lyonnaise spécialisée dans la vente d&#8217;armes, de munitions et d&#8217;équipements de défense, informe...
-L’article Armurerie Centrale confirme une cyberattaque : les données de…</p>
-          <a href="https://www.cyberattaque.org/armurerie-centrale-confirme-une-cyberattaque-les-donnees-de-ses-clients-exposees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-35">Copier le lien</button>
+          <h3>Defense contractors in two NATO allies hacked in recent Russia-linked campaign</h3>
+          <p>The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said.</p>
+          <a href="https://therecord.media/european-defense-contractors-fancy-bear-espionage" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-50">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-51">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Revolut outage disrupts online banking operations worldwide</h3>
+          <p>Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-51">Copier le lien</button>
         </div>
       </article>
 
@@ -1241,8 +1526,8 @@ L’article Armurerie Centrale confirme une cyberattaque : les données de…</p
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">216</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">48</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">232</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">50</span></div>
         <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">16</span></div>
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1245 min</span></div>
       </div>
@@ -1270,6 +1555,96 @@ L’article Armurerie Centrale confirme une cyberattaque : les données de…</p
         
         <div class="france-row">
           <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique de commandes</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/frenchy-sushi-3-424-clients-exposes-avec-telephones-et-historique-de-commandes/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">King Jouet : près de 196 000 fiches clients diffusées sur le darkweb</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/cyberattaque-king-jouet-fuite-donnees/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Portaleco : plus de 100 000 fiches avec noms et adresses en fuite</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/portaleco-plus-de-100-000-fiches-avec-noms-et-adresses-en-fuite/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Transporteur.com : 1 201 clients exposés sur le darkweb après une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/transporteur-com-1-201-clients-exposes-sur-le-darkweb-apres-une-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/cyberattaque-valeurs-actuelles/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Terranota : près de 43 000 personnes exposées via leurs dossiers immobiliers</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/terranota-pres-de-43-000-personnes-exposees-via-leurs-dossiers-immobiliers/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/soliha-3-154-profils-de-son-intranet-exposent-ses-collaborateurs-dans-une-fuite-de-donnees/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/buddiz-2-307-profils-de-sportifs-en-fuite-apres-une-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">La Poste Mobile : son site visé par une cyberattaque DDoS prorusse</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/la-poste-mobile-son-site-vise-par-une-cyberattaque-ddos-prorusse/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">PHP : deux failles critiques pourraient permettre de prendre le contrôle de millions de sites</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/php-deux-failles-critiques-pourraient-permettre-de-prendre-le-controle-de-millions-de-sites/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Modern Warfare 4, un piratage signalé avant la sortie</span>
+          <span class="fsource"><a href="https://www.zataz.com/modern-warfare-4-un-piratage-signale-avant-la-sortie/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Un ingénieur d’OpenAI soupçonné d’écoute clandestine</span>
+          <span class="fsource"><a href="https://www.zataz.com/un-ingenieur-dopenai-soupconne-decoute-clandestine/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-critical">Critique</span>
+          <span class="ftitle">Ledger piégés : l’enquête examine plusieurs circuits de distribution</span>
+          <span class="fsource"><a href="https://www.zataz.com/ledger-pieges-lenquete-examine-plusieurs-circuits-de-distribution/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Une ministre française ciblée par un logiciel espion</span>
+          <span class="fsource"><a href="https://www.zataz.com/agnes-pannier-runacher-ciblee-par-un-logiciel-espion/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Quatre arrestations autour d’un SMS blaster</span>
+          <span class="fsource"><a href="https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
           <span class="ftitle">Caméras de surveillance : contrôlez qui vous regarde</span>
           <span class="fsource"><a href="https://www.zataz.com/cameras-de-surveillance-controlez-qui-vous-regarde/" target="_blank" rel="noopener">ZATAZ →</a></span>
         </div>
@@ -1278,12 +1653,6 @@ L’article Armurerie Centrale confirme une cyberattaque : les données de…</p
           <span class="fsev sev-low">Faible</span>
           <span class="ftitle">Arnaque Netflix à 1 € : le cadeau qui piège vos données</span>
           <span class="fsource"><a href="https://www.zataz.com/arnaque-netflix-a-1-e-le-cadeau-qui-piege-vos-donnees/" target="_blank" rel="noopener">ZATAZ →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Armurerie Centrale confirme une cyberattaque : les données de ses clients exposées</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/armurerie-centrale-confirme-une-cyberattaque-les-donnees-de-ses-clients-exposees/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
         </div>
         
       
@@ -1584,7 +1953,7 @@ L’article Armurerie Centrale confirme une cyberattaque : les données de…</p
       ctx.stroke();
     }
 
-    const points = [100, 44, 43, 59, 100, 100, 100, 100, 73, 15, 100, 100, 10];
+    const points = [100, 44, 43, 59, 100, 100, 100, 100, 73, 15, 100, 100, 78];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,

@@ -6,6 +6,162 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Quatre arrestations autour d’un SMS blaster</title>
+    <link>https://www.zataz.com/quatre-arrestations-autour-dun-sms-blaster/</link>
+    <description>Aux Philippines, quatre personnes ont été arrêtées dans une enquête concernant un SMS blaster, que les autorités associent à des messages frauduleux imitant un établissement bancaire. Selon le National Bureau of…</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 09:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Une ministre française ciblée par un logiciel espion</title>
+    <link>https://www.zataz.com/agnes-pannier-runacher-ciblee-par-un-logiciel-espion/</link>
+    <description>Agnès Pannier-Runacher ciblée par un logiciel espion : trois alertes Apple et une enquête judiciaire en cours.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 08:46:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA: SafePay ransomware hit over 600 critical infrastructure orgs</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/</link>
+    <description>The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 04:36:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ledger piégés : l’enquête examine plusieurs circuits de distribution</title>
+    <link>https://www.zataz.com/ledger-pieges-lenquete-examine-plusieurs-circuits-de-distribution/</link>
+    <description>Des Ledger modifiés interceptent les phrases de récupération. Le pirate est passé par un fournisseur ?</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 08:23:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP : deux failles critiques pourraient permettre de prendre le contrôle de millions de sites</title>
+    <link>https://www.cyberattaque.org/php-deux-failles-critiques-pourraient-permettre-de-prendre-le-controle-de-millions-de-sites/</link>
+    <description>Une alerte de sécurité exceptionnelle touche PHP ce 21 octobre 2026. L’équipe officielle du langage annonce la publication...
+L’article PHP : deux failles critiques pourraient permettre de prendre le contrôle de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 08:02:48 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un ingénieur d’OpenAI soupçonné d’écoute clandestine</title>
+    <link>https://www.zataz.com/un-ingenieur-dopenai-soupconne-decoute-clandestine/</link>
+    <description>Un ingénieur d’OpenAI soupçonné d’écoute clandestine : appareils cachés, requêtes à l’IA et enquête du FBI.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 08:01:36 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] La Poste Mobile : son site visé par une cyberattaque DDoS prorusse</title>
+    <link>https://www.cyberattaque.org/la-poste-mobile-son-site-vise-par-une-cyberattaque-ddos-prorusse/</link>
+    <description>La Poste Mobile est la nouvelle cible du groupe prorusse NoName057(16). Ce 21 octobre 2026, le collectif revendique...
+L’article La Poste Mobile : son site visé par une cyberattaque DDoS prorusse est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 07:51:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Modern Warfare 4, un piratage signalé avant la sortie</title>
+    <link>https://www.zataz.com/modern-warfare-4-un-piratage-signale-avant-la-sortie/</link>
+    <description>Modern Warfare 4 : un contournement de licence de la campagne PC est signalé avant la sortie du 23 octobre.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 21 Oct 2026 07:45:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web</title>
+    <link>https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html</link>
+    <description>State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from.
+
+The state-owned…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 13:14:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws</title>
+    <link>https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 12:56:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion</title>
+    <link>https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html</link>
+    <description>A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.
+
+According to a report published by Russian cybersecurity firm Solar, the activity has been attributed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 11:35:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/buddiz-2-307-profils-de-sportifs-en-fuite-apres-une-cyberattaque/</link>
+    <description>Buddiz confirme une fuite de données concernant 2 307 utilisateurs. La revendication publiée le 20 octobre visait initialement...
+L’article Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:40:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/soliha-3-154-profils-de-son-intranet-exposent-ses-collaborateurs-dans-une-fuite-de-donnees/</link>
+    <description>Une base attribuée à SOLIHA vient d’être diffusée gratuitement par le hacker Syrv4x. Elle contient 3 154 profils...
+L’article SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:31:49 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Terranota : près de 43 000 personnes exposées via leurs dossiers immobiliers</title>
+    <link>https://www.cyberattaque.org/terranota-pres-de-43-000-personnes-exposees-via-leurs-dossiers-immobiliers/</link>
+    <description>Une base attribuée à Terranota, cabinet français spécialisé dans les formalités d’urbanisme pour les notaires et professionnels de...
+L’article Terranota : près de 43 000 personnes exposées via leurs dossiers…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:27:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque</title>
+    <link>https://www.cyberattaque.org/cyberattaque-valeurs-actuelles/</link>
+    <description>Les données de dizaines de milliers d’abonnés de Valeurs actuelles viennent d’être diffusées par un hacker. L’acteur utilisant...
+L’article Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:21:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Transporteur.com : 1 201 clients exposés sur le darkweb après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/transporteur-com-1-201-clients-exposes-sur-le-darkweb-apres-une-cyberattaque/</link>
+    <description>Transporteur.com, plateforme française mettant en relation particuliers, entreprises et professionnels du transport, fait l’objet d’une revendication de piratage....
+L’article Transporteur.com : 1 201 clients exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:12:49 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Portaleco : plus de 100 000 fiches avec noms et adresses en fuite</title>
+    <link>https://www.cyberattaque.org/portaleco-plus-de-100-000-fiches-avec-noms-et-adresses-en-fuite/</link>
+    <description>Plus de 100 000 fiches attribuées à Portaleco sont désormais diffusées gratuitement. Le hacker Alduin affirme avoir récupéré...
+L’article Portaleco : plus de 100 000 fiches avec noms et adresses en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:08:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] King Jouet : près de 196 000 fiches clients diffusées sur le darkweb</title>
+    <link>https://www.cyberattaque.org/cyberattaque-king-jouet-fuite-donnees/</link>
+    <description>King Jouet fait l’objet d’une importante fuite de données clients. Un hacker utilisant le pseudonyme Onyxx a diffusé...
+L’article King Jouet : près de 196 000 fiches clients diffusées sur le darkweb est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 05:04:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
+    <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
+    <description>This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.
+
+PHP will ship an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 21 Oct 2026 10:27:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique de commandes</title>
+    <link>https://www.cyberattaque.org/frenchy-sushi-3-424-clients-exposes-avec-telephones-et-historique-de-commandes/</link>
+    <description>Frenchy Sushi, restaurant japonais installé à La Destrousse dans les Bouches-du-Rhône, fait l’objet d’une revendication de piratage. Le...
+L’article Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 04:54:53 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Stolen UpdraftCentral keys used to backdoor WordPress sites</title>
     <link>https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/</link>
     <description>A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]</description>
@@ -236,37 +392,6 @@ Programs built on the new…</description>
     <description>Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 20 Oct 2026 05:46:44 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware</title>
-    <link>https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html</link>
-    <description>An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 13:51:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan</title>
-    <link>https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html</link>
-    <description>Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.
-
-The high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score:…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 12:41:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge</title>
-    <link>https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html</link>
-    <description>A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 20 Oct 2026 11:23:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Armurerie Centrale confirme une cyberattaque : les données de ses clients exposées</title>
-    <link>https://www.cyberattaque.org/armurerie-centrale-confirme-une-cyberattaque-les-donnees-de-ses-clients-exposees/</link>
-    <description>Armurerie Centrale, boutique en ligne lyonnaise spécialisée dans la vente d&amp;#8217;armes, de munitions et d&amp;#8217;équipements de défense, informe...
-L’article Armurerie Centrale confirme une cyberattaque : les données de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 20 Oct 2026 04:22:56 +0000</pubDate>
   </item>
 </channel>
 </rss>
