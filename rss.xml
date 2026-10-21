@@ -6,6 +6,49 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks</title>
+    <link>https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/</link>
+    <description>Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 18:16:26 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected</title>
+    <link>https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/</link>
+    <description>Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 17:43:27 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lazarus hackers use post-quantum cryptography for malware delivery</title>
+    <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/</link>
+    <description>North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 21 Oct 2026 16:31:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta on the spot for $25 billion under New Mexico privacy ruling</title>
+    <link>https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case</link>
+    <description>The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 21 Oct 2026 20:25:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] GitLab : une vulnérabilité critique menace les dépôts des serveurs auto-hébergés</title>
+    <link>https://www.cyberattaque.org/gitlab-une-vulnerabilite-critique-menace-les-depots-des-serveurs-auto-heberges/</link>
+    <description>GitLab publie en urgence une importante série de correctifs de sécurité ce 21 octobre 2026. Douze vulnérabilités sont...
+L’article GitLab : une vulnérabilité critique menace les dépôts des serveurs auto-hébergés est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 21 Oct 2026 20:16:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity</title>
+    <link>https://therecord.media/utilities-cybersecurity-initiative-accenture</link>
+    <description>Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 21 Oct 2026 19:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] La mairie d’Évry-Courcouronnes coupe toutes ses démarches en ligne et son portail Famille</title>
     <link>https://www.cyberattaque.org/cyberattaque-evry-courcouronnes-portail-famille/</link>
     <description>Une ville française a décidé de suspendre temporairement l’ensemble de ses démarches en ligne après avoir détecté ce...
@@ -20,6 +63,15 @@ L’article La mairie d’Évry-Courcouronnes coupe toutes ses démarches en lig
 L’article INED : une cyberattaque paralyse son système…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 21 Oct 2026 18:59:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
+    <link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
+    <description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.
+
+The fix…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 00:27:34 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
@@ -409,27 +461,6 @@ L’article Frenchy Sushi : 3 424 clients exposés, avec téléphones et histori
     <description>Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 20 Oct 2026 20:46:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] PHP warns admins of two critical flaws, emergency patches coming tomorrow</title>
-    <link>https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/</link>
-    <description>The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 20 Oct 2026 16:56:43 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024</title>
-    <link>https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims</link>
-    <description>The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 20 Oct 2026 20:27:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Zeabur shutting down after second security breach in two months</title>
-    <link>https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/</link>
-    <description>Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 20 Oct 2026 15:33:02 -0400</pubDate>
   </item>
 </channel>
 </rss>
