@@ -6,6 +6,31 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
+    <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
+    <description>Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application.
+
+During the incident, Storm-0940 used ARTEX,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 09:51:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Graines de Culture(s) : une cyberattaque coupe le portail de 34 médiathèques en Pévèle Carembault</title>
+    <link>https://www.cyberattaque.org/graines-de-cultures-une-cyberattaque-coupe-le-portail-de-34-mediatheques-en-pevele-carembault/</link>
+    <description>Le portail numérique du réseau de médiathèques Graines de Culture(s), en Pévèle Carembault, est indisponible après une cyberattaque...
+L’article Graines de Culture(s) : une cyberattaque coupe le portail de 34…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 22 Oct 2026 04:13:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Railway : une cyberattaque menace les accès sensibles de ses clients</title>
+    <link>https://www.cyberattaque.org/railway-une-cyberattaque-menace-les-acces-sensibles-de-ses-clients/</link>
+    <description>Un incident de sécurité majeur touche Railway, la plateforme cloud utilisée par des développeurs pour déployer leurs applications....
+L’article Railway : une cyberattaque menace les accès sensibles de ses clients est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 22 Oct 2026 04:09:36 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks</title>
     <link>https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/</link>
     <description>Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]</description>
@@ -365,88 +390,6 @@ The state-owned…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 21 Oct 2026 12:56:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion</title>
-    <link>https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html</link>
-    <description>A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.
-
-According to a report published by Russian cybersecurity firm Solar, the activity has been attributed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 11:35:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/buddiz-2-307-profils-de-sportifs-en-fuite-apres-une-cyberattaque/</link>
-    <description>Buddiz confirme une fuite de données concernant 2 307 utilisateurs. La revendication publiée le 20 octobre visait initialement...
-L’article Buddiz : 2 307 profils de sportifs en fuite après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:40:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/soliha-3-154-profils-de-son-intranet-exposent-ses-collaborateurs-dans-une-fuite-de-donnees/</link>
-    <description>Une base attribuée à SOLIHA vient d’être diffusée gratuitement par le hacker Syrv4x. Elle contient 3 154 profils...
-L’article SOLIHA : 3 154 profils de son intranet exposent ses collaborateurs dans une fuite de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:31:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Terranota : près de 43 000 personnes exposées via leurs dossiers immobiliers</title>
-    <link>https://www.cyberattaque.org/terranota-pres-de-43-000-personnes-exposees-via-leurs-dossiers-immobiliers/</link>
-    <description>Une base attribuée à Terranota, cabinet français spécialisé dans les formalités d’urbanisme pour les notaires et professionnels de...
-L’article Terranota : près de 43 000 personnes exposées via leurs dossiers…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:27:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque</title>
-    <link>https://www.cyberattaque.org/cyberattaque-valeurs-actuelles/</link>
-    <description>Les données de dizaines de milliers d’abonnés de Valeurs actuelles viennent d’être diffusées par un hacker. L’acteur utilisant...
-L’article Valeurs actuelles : près de 45 000 abonnés révélés par une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:21:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Transporteur.com : 1 201 clients exposés sur le darkweb après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/transporteur-com-1-201-clients-exposes-sur-le-darkweb-apres-une-cyberattaque/</link>
-    <description>Transporteur.com, plateforme française mettant en relation particuliers, entreprises et professionnels du transport, fait l’objet d’une revendication de piratage....
-L’article Transporteur.com : 1 201 clients exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:12:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Portaleco : plus de 100 000 fiches avec noms et adresses en fuite</title>
-    <link>https://www.cyberattaque.org/portaleco-plus-de-100-000-fiches-avec-noms-et-adresses-en-fuite/</link>
-    <description>Plus de 100 000 fiches attribuées à Portaleco sont désormais diffusées gratuitement. Le hacker Alduin affirme avoir récupéré...
-L’article Portaleco : plus de 100 000 fiches avec noms et adresses en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:08:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] King Jouet : près de 196 000 fiches clients diffusées sur le darkweb</title>
-    <link>https://www.cyberattaque.org/cyberattaque-king-jouet-fuite-donnees/</link>
-    <description>King Jouet fait l’objet d’une importante fuite de données clients. Un hacker utilisant le pseudonyme Onyxx a diffusé...
-L’article King Jouet : près de 196 000 fiches clients diffusées sur le darkweb est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 05:04:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert</title>
-    <link>https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html</link>
-    <description>This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.
-
-PHP will ship an…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 10:27:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique de commandes</title>
-    <link>https://www.cyberattaque.org/frenchy-sushi-3-424-clients-exposes-avec-telephones-et-historique-de-commandes/</link>
-    <description>Frenchy Sushi, restaurant japonais installé à La Destrousse dans les Bouches-du-Rhône, fait l’objet d’une revendication de piratage. Le...
-L’article Frenchy Sushi : 3 424 clients exposés, avec téléphones et historique…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 04:54:53 +0000</pubDate>
   </item>
 </channel>
 </rss>
