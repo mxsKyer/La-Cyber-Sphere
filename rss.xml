@@ -6,11 +6,78 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</link>
+    <description>Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 13:18:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents</title>
+    <link>https://therecord.media/china-cyber-connectwise-ai</link>
+    <description>A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 22 Oct 2026 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations</title>
+    <link>https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html</link>
+    <description>Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 21:42:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft shares how to fix broken Exchange Online EWS apps</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</link>
+    <description>Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 11:49:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Machine speed attacks require machine speed detection and response</title>
+    <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
+    <description>Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 10:02:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown</title>
+    <link>https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html</link>
+    <description>INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.
+
+In tandem, the effort saw law enforcement agencies…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 19:08:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized</title>
+    <link>https://therecord.media/africa-cybercrime-interpol-arrests</link>
+    <description>More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 22 Oct 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Amazon says PHP2Shell exploitation began 4 days before patches</title>
+    <link>https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</link>
+    <description>Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 09:09:12 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] South Carolina officials offer assistance after state capital hit with cyberattack</title>
     <link>https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</link>
     <description>The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.</description>
     <source>The Record</source>
     <pubDate>Thu, 22 Oct 2026 12:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
+    <link>https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</link>
+    <description>Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.
+
+Nobody reviewed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 17:15:00 +0530</pubDate>
   </item>
   <item>
     <title>[Moyen] GitLab warns of new max severity code execution vulnerability</title>
@@ -180,123 +247,6 @@ The fix…</description>
     <description>The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.</description>
     <source>The Record</source>
     <pubDate>Wed, 21 Oct 2026 18:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Arrêtée pour avoir bloqué un robot de livraison Uber</title>
-    <link>https://www.zataz.com/arretee-pour-avoir-bloque-un-robot-de-livraison-uber/</link>
-    <description>Une manifestante arrêtée pour avoir bloqué un robot Uber et dénoncé l'automatisation des emplois.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 21 Oct 2026 18:04:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
-    <link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
-    <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 23:31:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024</title>
-    <link>https://therecord.media/php-foundation-statement-critical-vulnerabilities</link>
-    <description>In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 21 Oct 2026 17:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
-    <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
-    <description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 22:03:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI agents disabled safety monitoring, one lied about it</title>
-    <link>https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/</link>
-    <description>OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 12:26:53 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Les sites des préfectures coupés en urgence après la découverte d’une faille critique</title>
-    <link>https://www.cyberattaque.org/les-sites-des-prefectures-coupes-en-urgence-apres-la-decouverte-dune-faille-critique/</link>
-    <description>Les sites internet de plusieurs préfectures françaises ont été mis hors ligne ce 21 octobre 2026 après la...
-L’article Les sites des préfectures coupés en urgence après la découverte d’une faille critique est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 15:39:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Widespread PHP Flaw May Cause Many Site Outages Today</title>
-    <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
-    <description>Expect to see quite a few websites serving "404" or "Page Not Found" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 21 Oct 2026 15:26:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Panne chez Orange et Sosh !</title>
-    <link>https://www.zataz.com/panne-chez-orange-et-sosh/</link>
-    <description>Ce mercredi 21 octobre 2026, une importante panne perturbe le réseau mobile d'Orange et de sa marque low cost Sosh.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 21 Oct 2026 15:21:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Musique IA et faux streams : 18 mois de prison</title>
-    <link>https://www.zataz.com/musique-ia-et-faux-streams-18-mois-de-prison/</link>
-    <description>Musique IA, faux comptes et royalties détournées : 18 mois de prison pour un fraudeur.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 21 Oct 2026 14:42:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] LibreOffice et OpenOffice piégés par des tableurs</title>
-    <link>https://www.zataz.com/libreoffice-et-openoffice-pieges-par-des-tableurs/</link>
-    <description>LibreOffice et OpenOffice : des tableurs piégés exécutent du code Java. Correctifs et protections à connaître.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 21 Oct 2026 14:28:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude transmet une fausse piste à la police</title>
-    <link>https://www.zataz.com/claude-transmet-une-fausse-piste-a-la-police/</link>
-    <description>Claude a envoyé une fausse piste à la police de Philadelphie pendant un test interne mené par Anthropic.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 21 Oct 2026 14:20:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hundreds of websites taken offline as concern grows over two PHP vulnerabilities</title>
-    <link>https://therecord.media/php-script-vulnerabilities-warnings</link>
-    <description>The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 21 Oct 2026 14:17:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP ships emergency patches for critical PHP2Shell flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/</link>
-    <description>The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 10:07:05 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ClickFix has never been bigger, and AI tools are its most convincing lure yet</title>
-    <link>https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/</link>
-    <description>ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
-    <link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
-    <description>PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 19:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</title>
-    <link>https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html</link>
-    <description>Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.
-
-ClickFix is a popular social engineering technique in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 21 Oct 2026 18:45:09 +0530</pubDate>
   </item>
 </channel>
 </rss>
