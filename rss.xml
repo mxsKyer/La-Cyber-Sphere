@@ -6,11 +6,74 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Railway warns devs to rotate secrets after potential breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/</link>
+    <description>Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 17:25:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Toronto crime tips org freezes operations after details of data breach come to light</title>
+    <link>https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach</link>
+    <description>Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 22 Oct 2026 20:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Capcom confirms data breach affecting 11.7 million accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
+    <description>Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 16:22:45 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] LiteLLM release pipeline hacked to distribute info-stealer malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</link>
+    <description>Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 22 Oct 2026 15:12:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks</title>
+    <link>https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html</link>
+    <description>Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the&amp;nbsp;central management system&amp;nbsp;for VeloCloud SD-WAN networks, the company said in an&amp;nbsp;advisory&amp;nbsp;on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 00:35:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Indian tech company eMudhra announces withdrawal from certificate business after security incident</title>
+    <link>https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident</link>
+    <description>The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 22 Oct 2026 18:46:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable</title>
+    <link>https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html</link>
+    <description>eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business,&amp;nbsp;its board decided on Thursday. The decision came five days after a researcher&amp;nbsp;reported recovering the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 23:42:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More</title>
+    <link>https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html</link>
+    <description>This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 23:15:44 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</link>
     <description>Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 22 Oct 2026 13:18:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes</title>
+    <link>https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html</link>
+    <description>Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by&amp;nbsp;Trend Micro's Zero Day Initiative, with no fix yet in the mainline…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 22 Oct 2026 22:31:53 +0530</pubDate>
   </item>
   <item>
     <title>[Élevé] Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents</title>
@@ -172,81 +235,6 @@ L’article Railway : une cyberattaque menace les accès sensibles de ses client
     <description>Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 21 Oct 2026 18:16:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected</title>
-    <link>https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/</link>
-    <description>Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 17:43:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lazarus hackers use post-quantum cryptography for malware delivery</title>
-    <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/</link>
-    <description>North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 16:31:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Meta on the spot for $25 billion under New Mexico privacy ruling</title>
-    <link>https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case</link>
-    <description>The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 21 Oct 2026 20:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab : une vulnérabilité critique menace les dépôts des serveurs auto-hébergés</title>
-    <link>https://www.cyberattaque.org/gitlab-une-vulnerabilite-critique-menace-les-depots-des-serveurs-auto-heberges/</link>
-    <description>GitLab publie en urgence une importante série de correctifs de sécurité ce 21 octobre 2026. Douze vulnérabilités sont...
-L’article GitLab : une vulnérabilité critique menace les dépôts des serveurs auto-hébergés est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 20:16:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity</title>
-    <link>https://therecord.media/utilities-cybersecurity-initiative-accenture</link>
-    <description>Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 21 Oct 2026 19:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La mairie d’Évry-Courcouronnes coupe toutes ses démarches en ligne et son portail Famille</title>
-    <link>https://www.cyberattaque.org/cyberattaque-evry-courcouronnes-portail-famille/</link>
-    <description>Une ville française a décidé de suspendre temporairement l’ensemble de ses démarches en ligne après avoir détecté ce...
-L’article La mairie d’Évry-Courcouronnes coupe toutes ses démarches en ligne et son portail Famille…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 19:07:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] INED : une cyberattaque paralyse son système informatique</title>
-    <link>https://www.cyberattaque.org/cyberattaque-institut-national-detudes-demographiques/</link>
-    <description>L’Institut national d’études démographiques (Ined) est confronté à une cyberattaque d’ampleur qui perturbe l’ensemble de son environnement informatique....
-L’article INED : une cyberattaque paralyse son système…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 21 Oct 2026 18:59:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
-    <link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
-    <description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014.
-
-The fix…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 00:27:34 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 21 Oct 2026 14:34:42 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Democrat lawmakers say Russia is aiming to undermine party ahead of midterms</title>
-    <link>https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party</link>
-    <description>The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 21 Oct 2026 18:28:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
