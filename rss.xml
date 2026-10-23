@@ -6,6 +6,54 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Piratage de la FFTir : la Fédération confirme le vol</title>
+    <link>https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/</link>
+    <description>FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 23 Oct 2026 10:41:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fraude bancaire : deux mails pour installer la peur</title>
+    <link>https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/</link>
+    <description>Alerte ZATAZ : deux faux mails bancaires, des milliers d'euros en jeu et une fraude téléphonique décryptée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 23 Oct 2026 10:27:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
+    <link>https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</link>
+    <description>Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.
+
+The flaw,&amp;nbsp;CVE-2026-112900, is in the way Pillow…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 15:06:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
+    <link>https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html</link>
+    <description>Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&amp;nbsp;demonstrated.
+
+Their "Node2Shell" proof of concept ran code on the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 14:10:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances</title>
+    <link>https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</link>
+    <description>AI agents paying for API calls with the&amp;nbsp;x402 SDKs&amp;nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&amp;nbsp;security firm V12 said&amp;nbsp;on October 22.
+
+The cause…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 14:05:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
+    <link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
+    <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 13:10:45 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Caisse des Dépôts : des comptes PEP’s d’employeurs publics compromis</title>
     <link>https://www.cyberattaque.org/cyberattaque-caisse-des-depots-des-comptes-peps-demployeurs-publics-compromis/</link>
     <description>La Caisse des Dépôts a fermé en urgence sa plateforme PEP’s après avoir découvert des accès illégitimes à...
@@ -188,61 +236,6 @@ Nobody reviewed…</description>
     <description>GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 22 Oct 2026 07:41:48 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
-    <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
-    <description>Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed "anomalous activity" related to systems that store customer environment variables.
-
-Upon further investigation, the company found that an unauthorized…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 16:45:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL</title>
-    <link>https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html</link>
-    <description>A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 16:14:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release</title>
-    <link>https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html</link>
-    <description>LiteLLM on Wednesday disclosed that threat actors compromised "multiple independent security controls" to push a malicious version of the Python package containing a credential stealer and a backdoor.
-
-On October 21,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 13:58:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Authorities disrupt nearly 11,000 cybercrime networks in Africa</title>
-    <link>https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/</link>
-    <description>Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 04:27:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
-    <link>https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</link>
-    <description>Node.js released&amp;nbsp;security updates&amp;nbsp;on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 13:17:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification</title>
-    <link>https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</link>
-    <description>A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO&amp;nbsp;disclosed, releasing working proof-of-concept code.
-
-By sending a small batch of compressed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 12:08:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed</title>
-    <link>https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</link>
-    <description>Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 12:04:10 +0530</pubDate>
   </item>
 </channel>
 </rss>
