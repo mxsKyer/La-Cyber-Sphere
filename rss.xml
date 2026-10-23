@@ -6,6 +6,83 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] PHP shares mitigation for new RCE vulnerability with no patch</title>
+    <link>https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/</link>
+    <description>The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 23 Oct 2026 11:38:05 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] You gave your AI agent access, but who is giving it orders?</title>
+    <link>https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/</link>
+    <description>AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 23 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
+    <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
+    <description>Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.
+
+"Artifacts from this…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 19:20:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK proposes 14-year prison terms for undersea cable sabotage</title>
+    <link>https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines</link>
+    <description>In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 23 Oct 2026 13:26:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Plenitude On The Road : des données clients exposées après un piratage</title>
+    <link>https://www.cyberattaque.org/cyberattaque-plenitude-on-the-road-des-donnees-clients-exposees-apres-un-piratage/</link>
+    <description>Plenitude On The Road confirme un incident de sécurité ayant entraîné un accès non autorisé puis une fuite...
+L’article Plenitude On The Road : des données clients exposées après un piratage est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 23 Oct 2026 13:19:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Technostress : une faille pour l’ingénierie sociale</title>
+    <link>https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/</link>
+    <description>Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 23 Oct 2026 12:56:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Quest Diagnostics warns of potential data theft after attack on lab service system</title>
+    <link>https://therecord.media/quest-diagnostics-network-intrusion</link>
+    <description>Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 23 Oct 2026 12:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] HPE patches eight max severity RCE and auth bypass AOS flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</link>
+    <description>Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 23 Oct 2026 08:48:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
+    <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
+    <description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
+
+The new issue, assigned CVE-2026-115560, affects only web…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 16:55:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+    <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
+    <description>The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.
+
+According to ESET, the attack involved…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 23 Oct 2026 16:41:23 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Piratage de la FFTir : la Fédération confirme le vol</title>
     <link>https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/</link>
     <description>FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.</description>
@@ -176,66 +253,6 @@ L’article Printerpix : les mots de passe clients compromis après une…</desc
     <description>Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 22 Oct 2026 21:42:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft shares how to fix broken Exchange Online EWS apps</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</link>
-    <description>Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 11:49:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Machine speed attacks require machine speed detection and response</title>
-    <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
-    <description>Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 10:02:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown</title>
-    <link>https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html</link>
-    <description>INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.
-
-In tandem, the effort saw law enforcement agencies…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 19:08:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized</title>
-    <link>https://therecord.media/africa-cybercrime-interpol-arrests</link>
-    <description>More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 22 Oct 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Amazon says PHP2Shell exploitation began 4 days before patches</title>
-    <link>https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</link>
-    <description>Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 09:09:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] South Carolina officials offer assistance after state capital hit with cyberattack</title>
-    <link>https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</link>
-    <description>The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 22 Oct 2026 12:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
-    <link>https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</link>
-    <description>Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.
-
-Nobody reviewed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 22 Oct 2026 17:15:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] GitLab warns of new max severity code execution vulnerability</title>
-    <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/</link>
-    <description>GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 07:41:48 -0400</pubDate>
   </item>
 </channel>
 </rss>
