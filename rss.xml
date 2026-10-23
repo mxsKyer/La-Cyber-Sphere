@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/</link>
+    <description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 23 Oct 2026 16:55:05 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft Teams to get AI-powered, context-aware phishing detection</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
     <description>Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]</description>
@@ -231,32 +238,18 @@ L’article Printerpix : les mots de passe clients compromis après une…</desc
     <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-110447 — Collabora Online – Built-in CODE Server OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-110447</link>
+    <description>Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-23</pubDate>
+  </item>
+  <item>
     <title>[Critique] CVE-2026-114625 — Arista VeloCloud Orchestrator SQL Injection Vulnerability</title>
     <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-114625</link>
     <description>Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-10-23</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Railway warns devs to rotate secrets after potential breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/</link>
-    <description>Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 17:25:31 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Toronto crime tips org freezes operations after details of data breach come to light</title>
-    <link>https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach</link>
-    <description>Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 22 Oct 2026 20:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Capcom confirms data breach affecting 11.7 million accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
-    <description>Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 22 Oct 2026 16:22:45 -0400</pubDate>
   </item>
 </channel>
 </rss>
