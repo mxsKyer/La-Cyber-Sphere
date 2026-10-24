@@ -237,19 +237,5 @@ L’article Printerpix : les mots de passe clients compromis après une…</desc
     <source>The Record</source>
     <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-110447 — Collabora Online – Built-in CODE Server OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-110447</link>
-    <description>Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-23</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-114625 — Arista VeloCloud Orchestrator SQL Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-114625</link>
-    <description>Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-23</pubDate>
-  </item>
 </channel>
 </rss>
