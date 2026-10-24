@@ -6,6 +6,79 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
+    <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
+    <description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;nbsp;Brotli&amp;nbsp;and&amp;nbsp;brotlicffi&amp;nbsp;packages, and Envoy proxies set up to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 24 Oct 2026 16:39:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline</title>
+    <link>https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html</link>
+    <description>LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 24 Oct 2026 16:33:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DeepSeek banni des agences fédérales US</title>
+    <link>https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/</link>
+    <description>DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 24 Oct 2026 10:46:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</title>
+    <link>https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</link>
+    <description>Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 24 Oct 2026 16:06:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alliance Police Nationale : les données de ses adhérents exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/alliance-police-nationale-les-donnees-de-ses-adherents-exposees-apres-une-cyberattaque/</link>
+    <description>Alliance Police Nationale informe ses adhérents d’un incident de sécurité informatique ayant entraîné un accès non autorisé à...
+L’article Alliance Police Nationale : les données de ses adhérents exposées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 10:08:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Point Vision : des données de patients dérobées</title>
+    <link>https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/</link>
+    <description>Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sat, 24 Oct 2026 09:29:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La France insoumise : 1,27 million de lignes issues de ses outils de campagne diffusées par un hacker</title>
+    <link>https://www.cyberattaque.org/cyberattaque-la-france-insoumise/</link>
+    <description>Une importante base attribuée à La France insoumise a été diffusée gratuitement ce 24 octobre 2026 par le...
+L’article La France insoumise : 1,27 million de lignes issues de ses outils de campagne diffusées par un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 09:13:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</title>
+    <link>https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</link>
+    <description>Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 24 Oct 2026 14:34:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ENGIE confirme une cyberattaque : des données de ses clients en fuite</title>
+    <link>https://www.cyberattaque.org/engie-confirme-une-cyberattaque-des-donnees-de-ses-clients-en-fuite/</link>
+    <description>ENGIE informe de nouveaux clients d’un incident de sécurité ayant touché un outil utilisé par certains de ses...
+L’article ENGIE confirme une cyberattaque : des données de ses clients en fuite est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 08:53:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
+    <link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 24 Oct 2026 11:55:57 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] ADMR : 4,5 millions de lignes revendiquées avec des dossiers d’aide à domicile très sensibles</title>
     <link>https://www.cyberattaque.org/cyberattaque-admr-45-millions-de-lignes-revendiquees-avec-des-dossiers-daide-a-domicile-tres-sensibles/</link>
     <description>Une fuite attribuée au réseau ADMR pourrait exposer des informations parmi les plus sensibles observées ces dernières semaines....
@@ -155,72 +228,6 @@ L’article Plenitude On The Road : des données clients exposées après un pir
     <description>Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 23 Oct 2026 08:48:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
-    <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
-    <description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.
-
-The new issue, assigned CVE-2026-115560, affects only web…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 16:55:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
-    <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
-    <description>The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.
-
-According to ESET, the attack involved…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 16:41:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Piratage de la FFTir : la Fédération confirme le vol</title>
-    <link>https://www.zataz.com/piratage-de-la-fftir-la-federation-confirme-le-vol/</link>
-    <description>FFTir : la Fédération confirme une cyberattaque, le vol de 64 000 photos et de milliers de documents personnels.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 23 Oct 2026 10:41:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fraude bancaire : deux mails pour installer la peur</title>
-    <link>https://www.zataz.com/fraude-bancaire-deux-mails-pour-installer-la-peur/</link>
-    <description>Alerte ZATAZ : deux faux mails bancaires, des milliers d'euros en jeu et une fraude téléphonique décryptée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 23 Oct 2026 10:27:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
-    <link>https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html</link>
-    <description>Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.
-
-The flaw,&amp;nbsp;CVE-2026-112900, is in the way Pillow…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 15:06:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data</title>
-    <link>https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html</link>
-    <description>Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have&amp;nbsp;demonstrated.
-
-Their "Node2Shell" proof of concept ran code on the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 14:10:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances</title>
-    <link>https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</link>
-    <description>AI agents paying for API calls with the&amp;nbsp;x402 SDKs&amp;nbsp;could sign a payment for their full balance of a supported token if a malicious API asked for it,&amp;nbsp;security firm V12 said&amp;nbsp;on October 22.
-
-The cause…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 14:05:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
-    <link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
-    <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 13:10:45 +0530</pubDate>
   </item>
 </channel>
 </rss>
