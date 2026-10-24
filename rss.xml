@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] ADMR : 4,5 millions de lignes revendiquées avec des dossiers d’aide à domicile très sensibles</title>
+    <link>https://www.cyberattaque.org/cyberattaque-admr-45-millions-de-lignes-revendiquees-avec-des-dossiers-daide-a-domicile-tres-sensibles/</link>
+    <description>Une fuite attribuée au réseau ADMR pourrait exposer des informations parmi les plus sensibles observées ces dernières semaines....
+L’article ADMR : 4,5 millions de lignes revendiquées avec des dossiers d’aide à domicile…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 05:53:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Le Parti communiste français victime d’une cyberattaque : près de 190 000 personnes exposées</title>
+    <link>https://www.cyberattaque.org/le-parti-communiste-francais-victime-dune-cyberattaque-pres-de-190-000-personnes-exposees/</link>
+    <description>Le Parti communiste français confirme une fuite de données touchant son fichier d’adhérents et de sympathisants. Le PCF...
+L’article Le Parti communiste français victime d’une cyberattaque : près de 190 000 personnes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 05:45:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FFVoile : plus de 2 millions de fiches de licenciés extraites après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/ffvoile-plus-de-2-millions-de-fiches-de-licencies-extraites-apres-une-cyberattaque/</link>
+    <description>La Fédération Française de Voile confirme une nouvelle fuite de données d’une ampleur considérable. Un incident identifié le...
+L’article FFVoile : plus de 2 millions de fiches de licenciés extraites après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 05:38:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Armurerie Meneux : les données de 916 clients en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/armurerie-meneux-les-donnees-de-916-clients-en-fuite-apres-une-cyberattaque/</link>
+    <description>Une base attribuée à l’Armurerie Meneux est proposée à la vente par le hacker ChimeraZ. L’archive revendiquée contient...
+L’article Armurerie Meneux : les données de 916 clients en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 05:34:42 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/</link>
     <description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code…</description>
@@ -189,53 +221,6 @@ The cause…</description>
     <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 23 Oct 2026 13:10:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Caisse des Dépôts : des comptes PEP’s d’employeurs publics compromis</title>
-    <link>https://www.cyberattaque.org/cyberattaque-caisse-des-depots-des-comptes-peps-demployeurs-publics-compromis/</link>
-    <description>La Caisse des Dépôts a fermé en urgence sa plateforme PEP’s après avoir découvert des accès illégitimes à...
-L’article Caisse des Dépôts : des comptes PEP’s d’employeurs publics compromis est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 05:34:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ircantec : les données de plus de 450 000 affiliés revendiquées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/cyberattaque-ircantec-une-nouvelle-fuite/</link>
-    <description>Une base attribuée à l’Ircantec, le régime de retraite complémentaire des agents contractuels de la fonction publique, est...
-L’article Ircantec : les données de plus de 450 000 affiliés revendiquées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 05:23:40 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Clin d’œil Opticiens : les numéros de sécurité sociale de clients exposés dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/clin-doeil-opticiens-les-numeros-de-securite-sociale-de-clients-exposes-dans-une-fuite-de-donnees/</link>
-    <description>Clin d’œil Opticiens confirme un incident de sécurité ayant entraîné la diffusion non autorisée sur Internet d’un fichier...
-L’article Clin d’œil Opticiens : les numéros de sécurité sociale de clients exposés dans une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 05:15:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Compagnie des Sens : une intrusion compromet les comptes de sa boutique en ligne</title>
-    <link>https://www.cyberattaque.org/la-compagnie-des-sens-une-intrusion-compromet-les-comptes-de-sa-boutique-en-ligne/</link>
-    <description>La Compagnie des Sens confirme avoir subi un incident de sécurité ayant permis à un tiers non autorisé...
-L’article La Compagnie des Sens : une intrusion compromet les comptes de sa boutique en ligne est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 05:12:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Printerpix : les mots de passe clients compromis après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/printerpix-les-mots-de-passe-clients-compromis-apres-une-cyberattaque/</link>
-    <description>Printerpix confirme une violation de données ayant exposé les informations personnelles d’une partie de ses clients. L’entreprise spécialisée...
-L’article Printerpix : les mots de passe clients compromis après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 05:08:14 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</title>
-    <link>https://therecord.media/php-php2shell-exploitation-attempts-pocs</link>
-    <description>The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
