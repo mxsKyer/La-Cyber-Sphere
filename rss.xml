@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
+    <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</link>
+    <description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 24 Oct 2026 10:17:32 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
     <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
     <description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;nbsp;Brotli&amp;nbsp;and&amp;nbsp;brotlicffi&amp;nbsp;packages, and Envoy proxies set up to…</description>
@@ -169,65 +176,6 @@ Central to the operation is an "Autonomous Red Team…</description>
     <description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 23 Oct 2026 12:40:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP shares mitigation for new RCE vulnerability with no patch</title>
-    <link>https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/</link>
-    <description>The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 11:38:05 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] You gave your AI agent access, but who is giving it orders?</title>
-    <link>https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/</link>
-    <description>AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
-    <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
-    <description>Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.
-
-"Artifacts from this…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 19:20:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK proposes 14-year prison terms for undersea cable sabotage</title>
-    <link>https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines</link>
-    <description>In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 23 Oct 2026 13:26:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Plenitude On The Road : des données clients exposées après un piratage</title>
-    <link>https://www.cyberattaque.org/cyberattaque-plenitude-on-the-road-des-donnees-clients-exposees-apres-un-piratage/</link>
-    <description>Plenitude On The Road confirme un incident de sécurité ayant entraîné un accès non autorisé puis une fuite...
-L’article Plenitude On The Road : des données clients exposées après un piratage est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 23 Oct 2026 13:19:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Technostress : une faille pour l’ingénierie sociale</title>
-    <link>https://www.zataz.com/technostress-une-faille-pour-lingenierie-sociale/</link>
-    <description>Technostress et ingénierie sociale : comment la surcharge numérique peut fragiliser la vigilance face aux manipulations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 23 Oct 2026 12:56:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Quest Diagnostics warns of potential data theft after attack on lab service system</title>
-    <link>https://therecord.media/quest-diagnostics-network-intrusion</link>
-    <description>Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 23 Oct 2026 12:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] HPE patches eight max severity RCE and auth bypass AOS flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</link>
-    <description>Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 08:48:00 -0400</pubDate>
   </item>
 </channel>
 </rss>
