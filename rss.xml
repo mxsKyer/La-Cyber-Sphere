@@ -124,58 +124,5 @@ L’article Armurerie Meneux : les données de 916 clients en fuite après une c
     <source>BleepingComputer</source>
     <pubDate>Fri, 23 Oct 2026 16:55:05 -0400</pubDate>
   </item>
-  <item>
-    <title>[Faible] Microsoft Teams to get AI-powered, context-aware phishing detection</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
-    <description>Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 14:54:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
-    <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
-    <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX.
-
-The activity, which singled out diplomatic entities in Tajikistan,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 00:20:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
-    <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
-    <description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 23:24:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
-    <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
-    <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups.
-
-Central to the operation is an "Autonomous Red Team…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 23 Oct 2026 23:20:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FCC bans two devices with surveillance chips linked to Huawei</title>
-    <link>https://therecord.media/fcc-bans-devices-huawei-surveillance-chips</link>
-    <description>The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”</description>
-    <source>The Record</source>
-    <pubDate>Fri, 23 Oct 2026 17:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows Server 2016 reaches end of support in January</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/</link>
-    <description>Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 13:05:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Quest Diagnostics confirms data breach exposed patient records</title>
-    <link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</link>
-    <description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 12:40:07 -0400</pubDate>
-  </item>
 </channel>
 </rss>
