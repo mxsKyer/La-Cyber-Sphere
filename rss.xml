@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Renaissance : 4,1 millions de lignes de porte-à-porte diffusées sur le darkweb</title>
+    <link>https://www.cyberattaque.org/renaissance-41-millions-de-lignes-de-porte-a-porte-diffusees-sur-le-darkweb/</link>
+    <description>Le hacker ChimeraZ diffuse ce 24 octobre 2026 une importante base attribuée au parti Renaissance. L’archive est présentée...
+L’article Renaissance : 4,1 millions de lignes de porte-à-porte diffusées sur le darkweb est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 24 Oct 2026 19:36:27 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
     <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</link>
     <description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…</description>
@@ -116,13 +124,6 @@ L’article FFVoile : plus de 2 millions de fiches de licenciés extraites aprè
 L’article Armurerie Meneux : les données de 916 clients en fuite après une cyberattaque est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 24 Oct 2026 05:34:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/</link>
-    <description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 23 Oct 2026 16:55:05 -0400</pubDate>
   </item>
 </channel>
 </rss>
