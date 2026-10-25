@@ -6,6 +6,30 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] FSU : des hackers accèdent à un serveur et à des comptes internes</title>
+    <link>https://www.cyberattaque.org/fsu-des-hackers-accedent-a-un-serveur-et-a-des-comptes-internes/</link>
+    <description>Plusieurs vulnérabilités de sécurité affecteraient des sites rattachés à la Fédération Syndicale Unitaire (FSU), permettant notamment de lire...
+L’article FSU : des hackers accèdent à un serveur et à des comptes…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 25 Oct 2026 18:47:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</title>
+    <link>https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</link>
+    <description>A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.
+
+The attack requires two things:…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 25 Oct 2026 23:14:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</title>
+    <link>https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</link>
+    <description>Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 25 Oct 2026 22:49:46 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
     <link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/</link>
     <description>Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]</description>
@@ -51,14 +75,6 @@ L’article DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exp
     <description>Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 24 Oct 2026 23:00:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Renaissance : 4,1 millions de lignes de porte-à-porte diffusées sur le darkweb</title>
-    <link>https://www.cyberattaque.org/renaissance-41-millions-de-lignes-de-porte-a-porte-diffusees-sur-le-darkweb/</link>
-    <description>Le hacker ChimeraZ diffuse ce 24 octobre 2026 une importante base attribuée au parti Renaissance. L’archive est présentée...
-L’article Renaissance : 4,1 millions de lignes de porte-à-porte diffusées sur le darkweb est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 19:36:27 +0000</pubDate>
   </item>
 </channel>
 </rss>
