@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
+    <link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/</link>
+    <description>Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 25 Oct 2026 11:49:38 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyberattaque contre Orange : près de 30 000 fichiers internes dévoilent les secrets de son réseau</title>
     <link>https://www.cyberattaque.org/cyberattaque-contre-orange-pres-de-30-000-fichiers-internes-devoilent-les-secrets-de-son-reseau/</link>
     <description>Près de 30 000 fichiers attribués à Orange, représentant environ 6,5 Go de données, ont été diffusés par...
@@ -52,13 +59,6 @@ L’article DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exp
 L’article Renaissance : 4,1 millions de lignes de porte-à-porte diffusées sur le darkweb est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 24 Oct 2026 19:36:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
-    <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</link>
-    <description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 24 Oct 2026 10:17:32 -0400</pubDate>
   </item>
 </channel>
 </rss>
