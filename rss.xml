@@ -6,6 +6,39 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyberattaque contre Orange : près de 30 000 fichiers internes dévoilent les secrets de son réseau</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-orange-pres-de-30-000-fichiers-internes-devoilent-les-secrets-de-son-reseau/</link>
+    <description>Près de 30 000 fichiers attribués à Orange, représentant environ 6,5 Go de données, ont été diffusés par...
+L’article Cyberattaque contre Orange : près de 30 000 fichiers internes dévoilent les secrets de son réseau est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 25 Oct 2026 06:59:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</title>
+    <link>https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html</link>
+    <description>OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
+
+"Based on the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 25 Oct 2026 12:24:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FootballMinigames : un hacker revendique 22 074 utilisateurs en fuite</title>
+    <link>https://www.cyberattaque.org/footballminigames-un-hacker-revendique-22-074-utilisateurs-en-fuite/</link>
+    <description>Un hacker utilisant le pseudonyme Opek0xx affirme avoir extrait 22 074 enregistrements de FootballMinigames.com, un site proposant une...
+L’article FootballMinigames : un hacker revendique 22 074 utilisateurs en fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 25 Oct 2026 06:46:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exposés dans une fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-dekra-plus-de-15-000-beneficiaires-de-travaux-energetiques-exposes-dans-une-fuite/</link>
+    <description>Une base attribuée à DEKRA Industrial a été diffusée gratuitement par le hacker Syrv4x. L’archive contient 16 171...
+L’article DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exposés dans une fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 25 Oct 2026 06:19:33 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Chimeraz revendique des fuites visant trois partis français, dont celui du groupe présidentiel</title>
     <link>https://www.zataz.com/chimeraz-revendique-des-fuites-visant-trois-partis-francais/</link>
     <description>Chimeraz revendique des données annoncées comme volées aux partis politiques de Renaissance, LFI et du PCF.</description>
@@ -69,68 +102,6 @@ L’article Alliance Police Nationale : les données de ses adhérents exposées
     <description>Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.</description>
     <source>ZATAZ</source>
     <pubDate>Sat, 24 Oct 2026 09:29:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La France insoumise : 1,27 million de lignes issues de ses outils de campagne diffusées par un hacker</title>
-    <link>https://www.cyberattaque.org/cyberattaque-la-france-insoumise/</link>
-    <description>Une importante base attribuée à La France insoumise a été diffusée gratuitement ce 24 octobre 2026 par le...
-L’article La France insoumise : 1,27 million de lignes issues de ses outils de campagne diffusées par un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 09:13:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet</title>
-    <link>https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html</link>
-    <description>Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 14:34:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ENGIE confirme une cyberattaque : des données de ses clients en fuite</title>
-    <link>https://www.cyberattaque.org/engie-confirme-une-cyberattaque-des-donnees-de-ses-clients-en-fuite/</link>
-    <description>ENGIE informe de nouveaux clients d’un incident de sécurité ayant touché un outil utilisé par certains de ses...
-L’article ENGIE confirme une cyberattaque : des données de ses clients en fuite est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 08:53:27 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud</title>
-    <link>https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 11:55:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ADMR : 4,5 millions de lignes revendiquées avec des dossiers d’aide à domicile très sensibles</title>
-    <link>https://www.cyberattaque.org/cyberattaque-admr-45-millions-de-lignes-revendiquees-avec-des-dossiers-daide-a-domicile-tres-sensibles/</link>
-    <description>Une fuite attribuée au réseau ADMR pourrait exposer des informations parmi les plus sensibles observées ces dernières semaines....
-L’article ADMR : 4,5 millions de lignes revendiquées avec des dossiers d’aide à domicile…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 05:53:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Le Parti communiste français victime d’une cyberattaque : près de 190 000 personnes exposées</title>
-    <link>https://www.cyberattaque.org/le-parti-communiste-francais-victime-dune-cyberattaque-pres-de-190-000-personnes-exposees/</link>
-    <description>Le Parti communiste français confirme une fuite de données touchant son fichier d’adhérents et de sympathisants. Le PCF...
-L’article Le Parti communiste français victime d’une cyberattaque : près de 190 000 personnes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 05:45:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] FFVoile : plus de 2 millions de fiches de licenciés extraites après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/ffvoile-plus-de-2-millions-de-fiches-de-licencies-extraites-apres-une-cyberattaque/</link>
-    <description>La Fédération Française de Voile confirme une nouvelle fuite de données d’une ampleur considérable. Un incident identifié le...
-L’article FFVoile : plus de 2 millions de fiches de licenciés extraites après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 05:38:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Armurerie Meneux : les données de 916 clients en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/armurerie-meneux-les-donnees-de-916-clients-en-fuite-apres-une-cyberattaque/</link>
-    <description>Une base attribuée à l’Armurerie Meneux est proposée à la vente par le hacker ChimeraZ. L’archive revendiquée contient...
-L’article Armurerie Meneux : les données de 916 clients en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 05:34:42 +0000</pubDate>
   </item>
 </channel>
 </rss>
