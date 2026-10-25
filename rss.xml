@@ -60,48 +60,5 @@ L’article Renaissance : 4,1 millions de lignes de porte-à-porte diffusées su
     <source>BleepingComputer</source>
     <pubDate>Sat, 24 Oct 2026 10:17:32 -0400</pubDate>
   </item>
-  <item>
-    <title>[Critique] Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
-    <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
-    <description>A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python&amp;nbsp;Brotli&amp;nbsp;and&amp;nbsp;brotlicffi&amp;nbsp;packages, and Envoy proxies set up to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 16:39:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline</title>
-    <link>https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html</link>
-    <description>LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 16:33:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DeepSeek banni des agences fédérales US</title>
-    <link>https://www.zataz.com/deepseek-banni-des-agences-federales-civiles-americaines/</link>
-    <description>DeepSeek banni des agences fédérales civiles américaines : portée, calendrier et risques pour les données.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 24 Oct 2026 10:46:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads</title>
-    <link>https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html</link>
-    <description>Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 24 Oct 2026 16:06:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alliance Police Nationale : les données de ses adhérents exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/alliance-police-nationale-les-donnees-de-ses-adherents-exposees-apres-une-cyberattaque/</link>
-    <description>Alliance Police Nationale informe ses adhérents d’un incident de sécurité informatique ayant entraîné un accès non autorisé à...
-L’article Alliance Police Nationale : les données de ses adhérents exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 24 Oct 2026 10:08:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Point Vision : des données de patients dérobées</title>
-    <link>https://www.zataz.com/point-vision-des-donnees-de-patients-derobees/</link>
-    <description>Cyberattaque chez Point Vision : données de patients volées, exposition possible des motifs de rendez-vous.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 24 Oct 2026 09:29:23 +0000</pubDate>
-  </item>
 </channel>
 </rss>
