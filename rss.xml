@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Mairie de Touget : un hacker prend le contrôle du site et y affiche un message anti-Macron</title>
+    <link>https://www.cyberattaque.org/cyberattaque-mairie-de-touget-un-hacker-anti-macron/</link>
+    <description>Le site internet de la mairie de Touget a été compromis et sa page d’accueil remplacée par un...
+L’article Mairie de Touget : un hacker prend le contrôle du site et y affiche un message anti-Macron est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 26 Oct 2026 04:42:08 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] FSU : des hackers accèdent à un serveur et à des comptes internes</title>
     <link>https://www.cyberattaque.org/fsu-des-hackers-accedent-a-un-serveur-et-a-des-comptes-internes/</link>
     <description>Plusieurs vulnérabilités de sécurité affecteraient des sites rattachés à la Fédération Syndicale Unitaire (FSU), permettant notamment de lire...
@@ -35,39 +43,6 @@ The attack requires two things:…</description>
     <description>Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 25 Oct 2026 11:49:38 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre Orange : près de 30 000 fichiers internes dévoilent les secrets de son réseau</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-orange-pres-de-30-000-fichiers-internes-devoilent-les-secrets-de-son-reseau/</link>
-    <description>Près de 30 000 fichiers attribués à Orange, représentant environ 6,5 Go de données, ont été diffusés par...
-L’article Cyberattaque contre Orange : près de 30 000 fichiers internes dévoilent les secrets de son réseau est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 25 Oct 2026 06:59:08 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</title>
-    <link>https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html</link>
-    <description>OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.
-
-"Based on the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 25 Oct 2026 12:24:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FootballMinigames : un hacker revendique 22 074 utilisateurs en fuite</title>
-    <link>https://www.cyberattaque.org/footballminigames-un-hacker-revendique-22-074-utilisateurs-en-fuite/</link>
-    <description>Un hacker utilisant le pseudonyme Opek0xx affirme avoir extrait 22 074 enregistrements de FootballMinigames.com, un site proposant une...
-L’article FootballMinigames : un hacker revendique 22 074 utilisateurs en fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 25 Oct 2026 06:46:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exposés dans une fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-dekra-plus-de-15-000-beneficiaires-de-travaux-energetiques-exposes-dans-une-fuite/</link>
-    <description>Une base attribuée à DEKRA Industrial a été diffusée gratuitement par le hacker Syrv4x. L’archive contient 16 171...
-L’article DEKRA : plus de 15 000 bénéficiaires de travaux énergétiques exposés dans une fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 25 Oct 2026 06:19:33 +0000</pubDate>
   </item>
 </channel>
 </rss>
