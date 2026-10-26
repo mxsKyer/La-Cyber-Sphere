@@ -6,6 +6,105 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras</title>
+    <link>https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked</link>
+    <description>CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 26 Oct 2026 14:21:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More</title>
+    <link>https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html</link>
+    <description>This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 19:36:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] When an AI Agent Is the Incident, the Identity Record Is the Evidence</title>
+    <link>https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</link>
+    <description>A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 26 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chinese man extradited for role in $36 million cryptocurrency scam</title>
+    <link>https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/</link>
+    <description>A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 26 Oct 2026 09:56:44 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Popular AI tool LiteLLM says unrevoked key allowed hackers to target users</title>
+    <link>https://therecord.media/litellm-hackers-ai-malware</link>
+    <description>LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes</title>
+    <link>https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html</link>
+    <description>Two critical flaws in&amp;nbsp;Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 17:22:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Garanka : une cyberattaque contraint l’entreprise à isoler tous ses systèmes informatiques</title>
+    <link>https://www.cyberattaque.org/garanka-une-cyberattaque-contraint-lentreprise-a-isoler-tous-ses-systemes-informatiques/</link>
+    <description>Garanka confirme désormais explicitement avoir été victime d’une cyberattaque. Le spécialiste français de l’entretien, du dépannage et de...
+L’article Garanka : une cyberattaque contraint l’entreprise à isoler tous ses…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 26 Oct 2026 11:24:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses</title>
+    <link>https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html</link>
+    <description>Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 16:53:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Kali Linux 2026.3 released with 6 new tools, desktop updates</title>
+    <link>https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/</link>
+    <description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 26 Oct 2026 06:26:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
+    <link>https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html</link>
+    <description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 15:24:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PHP2Shell security flaws now sucessfully exploited in the wild</title>
+    <link>https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</link>
+    <description>Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 26 Oct 2026 05:19:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
+    <link>https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html</link>
+    <description>Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 14:05:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs</title>
+    <link>https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html</link>
+    <description>An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 13:19:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware</title>
+    <link>https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html</link>
+    <description>A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&amp;nbsp;Forever Security said&amp;nbsp;in a report published last…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 26 Oct 2026 11:33:48 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Mairie de Touget : un hacker prend le contrôle du site et y affiche un message anti-Macron</title>
     <link>https://www.cyberattaque.org/cyberattaque-mairie-de-touget-un-hacker-anti-macron/</link>
     <description>Le site internet de la mairie de Touget a été compromis et sa page d’accueil remplacée par un...
