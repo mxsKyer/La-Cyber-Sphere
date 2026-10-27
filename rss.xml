@@ -6,12 +6,75 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Apple backports CoreGraphics zero-day patches to older iPhones</title>
+    <link>https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/</link>
+    <description>​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 06:36:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</title>
+    <link>https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</link>
+    <description>A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 27 Oct 2026 15:03:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Energy giant ENGIE discloses data breach affecting customers</title>
+    <link>https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</link>
+    <description>French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 05:25:50 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections</title>
+    <link>https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html</link>
+    <description>OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&amp;nbsp;security firm Xint&amp;nbsp;has shown.
+
+OpenAI's reasoning…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 27 Oct 2026 13:52:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA confirms PHP2Shell vulnerabilities now exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 04:20:54 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses</title>
+    <link>https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</link>
+    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.
+
+"Cases of compromising IP cameras and DVRs with…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 27 Oct 2026 12:04:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Afflelou visé par un ransomware qui menace de diffuser les données des clients</title>
+    <link>https://www.cyberattaque.org/afflelou-vise-par-un-ransomware-qui-menace-de-diffuser-les-donnees-des-clients/</link>
+    <description>Le groupe de ransomware Emperador revendique une cyberattaque contre Alain Afflelou et menace de publier des données personnelles...
+L’article Afflelou visé par un ransomware qui menace de diffuser les données des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] FSCF : les données de 28 000 licenciés diffusées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/fscf-les-donnees-de-28-000-licencies-diffusees-apres-une-cyberattaque/</link>
     <description>La Fédération Sportive et Culturelle de France (FSCF) fait l&amp;#8217;objet d&amp;#8217;une revendication de fuite de données portant sur...
 L’article FSCF : les données de 28 000 licenciés diffusées après une cyberattaque est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 27 Oct 2026 04:41:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 27 Oct 2026 10:07:59 +0530</pubDate>
   </item>
   <item>
     <title>[Élevé] University of Copenhagen data breach exposes data of 525,000 people</title>
@@ -178,48 +241,6 @@ L’article Garanka : une cyberattaque contraint l’entreprise à isoler tous s
     <description>Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 26 Oct 2026 16:53:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Kali Linux 2026.3 released with 6 new tools, desktop updates</title>
-    <link>https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/</link>
-    <description>Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 26 Oct 2026 06:26:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts</title>
-    <link>https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html</link>
-    <description>A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 26 Oct 2026 15:24:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP2Shell security flaws now sucessfully exploited in the wild</title>
-    <link>https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</link>
-    <description>Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 26 Oct 2026 05:19:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations</title>
-    <link>https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html</link>
-    <description>Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 26 Oct 2026 14:05:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs</title>
-    <link>https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html</link>
-    <description>An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 26 Oct 2026 13:19:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware</title>
-    <link>https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html</link>
-    <description>A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&amp;nbsp;Forever Security said&amp;nbsp;in a report published last…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 26 Oct 2026 11:33:48 +0530</pubDate>
   </item>
 </channel>
 </rss>
