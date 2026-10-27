@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] FSCF : les données de 28 000 licenciés diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/fscf-les-donnees-de-28-000-licencies-diffusees-apres-une-cyberattaque/</link>
+    <description>La Fédération Sportive et Culturelle de France (FSCF) fait l&amp;#8217;objet d&amp;#8217;une revendication de fuite de données portant sur...
+L’article FSCF : les données de 28 000 licenciés diffusées après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 27 Oct 2026 04:41:32 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] University of Copenhagen data breach exposes data of 525,000 people</title>
     <link>https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/</link>
     <description>The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]</description>
@@ -212,14 +220,6 @@ L’article Garanka : une cyberattaque contraint l’entreprise à isoler tous s
     <description>A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm&amp;nbsp;Forever Security said&amp;nbsp;in a report published last…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 26 Oct 2026 11:33:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Mairie de Touget : un hacker prend le contrôle du site et y affiche un message anti-Macron</title>
-    <link>https://www.cyberattaque.org/cyberattaque-mairie-de-touget-un-hacker-anti-macron/</link>
-    <description>Le site internet de la mairie de Touget a été compromis et sa page d’accueil remplacée par un...
-L’article Mairie de Touget : un hacker prend le contrôle du site et y affiche un message anti-Macron est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 26 Oct 2026 04:42:08 +0000</pubDate>
   </item>
 </channel>
 </rss>
