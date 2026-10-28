@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
+    <link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</link>
+    <description>The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 19:35:51 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/</link>
+    <description>OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 18:43:27 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] UNM Health ransomware attack disrupts patient care, surgeries</title>
+    <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</link>
+    <description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 18:07:34 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers hijack Convertr analytics script to steal payment card data</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/</link>
+    <description>A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 27 Oct 2026 16:57:25 -0400</pubDate>
+  </item>
+  <item>
     <title>[Critique] Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea</title>
     <link>https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison</link>
     <description>Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.</description>
@@ -247,41 +275,6 @@ L’article FSCF : les données de 28 000 licenciés diffusées après une cyber
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 27 Oct 2026 10:07:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-111497 — Google Brotli Unchecked Return Value Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111497</link>
-    <description>Google Brotli contains an unchecked return value vulnerability that allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-27</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-48356 — Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-48356</link>
-    <description>Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim's account or session.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-27</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] University of Copenhagen data breach exposes data of 525,000 people</title>
-    <link>https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/</link>
-    <description>The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 26 Oct 2026 18:20:36 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Former pentester used ARTEX AI to steal 8.2 million data records</title>
-    <link>https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/</link>
-    <description>South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 26 Oct 2026 17:08:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines</title>
-    <link>https://therecord.media/texas-sues-openai-deceiving-customers</link>
-    <description>In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 26 Oct 2026 21:03:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
