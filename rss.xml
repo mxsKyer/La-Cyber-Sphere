@@ -6,6 +6,164 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Discord to let search engines index public server messages</title>
+    <link>https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</link>
+    <description>Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 14:44:16 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</title>
+    <link>https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html</link>
+    <description>The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 23:38:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance</title>
+    <link>https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance</link>
+    <description>Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 18:02:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US sanctions Russians, North Koreans for laundering IT worker earnings</title>
+    <link>https://therecord.media/north-korea-russia-sanctions</link>
+    <description>The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 17:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le Crestois : les données personnelles de ses lecteurs exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/le-crestois-les-donnees-personnelles-de-ses-lecteurs-exposees-apres-une-cyberattaque/</link>
+    <description>Le Crestois, journal hebdomadaire de la Drôme, confirme une intrusion dans l&amp;#8217;interface d&amp;#8217;administration de son site Internet le...
+L’article Le Crestois : les données personnelles de ses lecteurs exposées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 17:34:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Belgique : le fisc frappé par une cyberattaque, MyMinfin hors ligne à trois jours d’une échéance fiscale</title>
+    <link>https://www.cyberattaque.org/belgique-le-fisc-frappe-par-une-cyberattaque-myminfin-hors-ligne-a-trois-jours-dune-echeance-fiscale/</link>
+    <description>Le Service public fédéral (SPF) Finances belge confirme être victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre 2026. L&amp;#8217;administration...
+L’article Belgique : le fisc frappé par une cyberattaque, MyMinfin…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 17:23:25 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] CTS Strasbourg : les données de 230 000 comptes clients dérobées lors d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/cts-strasbourg-les-donnees-de-230-000-comptes-clients-derobees-lors-dune-cyberattaque/</link>
+    <description>La Compagnie des Transports Strasbourgeois (CTS) confirme une importante fuite de données personnelles concernant 230 000 comptes clients....
+L’article CTS Strasbourg : les données de 230 000 comptes clients dérobées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 17:16:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.</title>
+    <link>https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html</link>
+    <description>Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.
+
+To qualify, a store must pass…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 22:38:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cybertek : les données personnelles de ses clients exposées après une faille de sécurité</title>
+    <link>https://www.cyberattaque.org/cybertek-cyberattaque/</link>
+    <description>Cybertek, spécialiste français de la vente de matériel informatique, informe ses clients d&amp;#8217;une cyberattaque survenue le 7 octobre...
+L’article Cybertek : les données personnelles de ses clients exposées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 16:51:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Sony ISP subsidiary data breach exposes 2.5 million customer records</title>
+    <link>https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/</link>
+    <description>Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 12:45:47 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Moldova investigates possible foreign involvement in major government cyberattack</title>
+    <link>https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks</link>
+    <description>Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 16:37:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win</title>
+    <link>https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html</link>
+    <description>A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.
+
+Orange Tsai of DEVCORE…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 21:53:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network</title>
+    <link>https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html</link>
+    <description>Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 21:32:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Volt Typhoon hides zero-day attacks using 'Silent Train' framework</title>
+    <link>https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/</link>
+    <description>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Portes du Berry : une cyberattaque menace les dossiers personnels des habitants</title>
+    <link>https://www.cyberattaque.org/portes-du-berry-une-cyberattaque-menace-les-dossiers-personnels-des-habitants/</link>
+    <description>La Communauté de communes des Portes du Berry, dans le Cher, confirme avoir été victime d&amp;#8217;une cyberattaque détectée...
+L’article Portes du Berry : une cyberattaque menace les dossiers personnels des habitants est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 15:58:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] UK to look at making software companies liable for cyber breaches</title>
+    <link>https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches</link>
+    <description>The new U.K. budget says the government will "consider where liability for cyber breaches should sit," potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 15:37:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine</title>
+    <link>https://therecord.media/belarus-russia-hackers-ukraine-war</link>
+    <description>Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 15:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft urges Entra ID admins to migrate users to passkeys</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</link>
+    <description>Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 10:48:32 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] InfraTrust report warns of exploited flaws in critical network infrastructure</title>
+    <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</link>
+    <description>Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 10:00:00 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Even after PHP2Shell, blast radius matters more than a CVSS score</title>
+    <link>https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</link>
+    <description>PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 09:50:59 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch</title>
+    <link>https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html</link>
+    <description>Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.
+
+The vulnerability in question is CVE-2026-101767…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 18:18:03 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Hackers now scanning systems for recently-patched Oracle flaw</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/</link>
     <description>Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]</description>
@@ -20,12 +178,26 @@
     <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Critique] Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers</title>
+    <link>https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html</link>
+    <description>A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 17:20:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Renfe : une cyberattaque pourrait expose les données de ses voyageurs français</title>
     <link>https://www.cyberattaque.org/renfe-une-cyberattaque-pourrait-expose-les-donnees-de-ses-voyageurs-francais/</link>
     <description>Renfe, la compagnie ferroviaire espagnole qui exploite également des trains en France, confirme une cyberattaque ayant potentiellement compromis...
 L’article Renfe : une cyberattaque pourrait expose les données de ses…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 28 Oct 2026 11:41:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Wazuh and AI for Enhanced SOC Workflows</title>
+    <link>https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html</link>
+    <description>Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 17:00:00 +0530</pubDate>
   </item>
   <item>
     <title>[Moyen] Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass</title>
@@ -170,112 +342,6 @@ L’article ACF Assurances : 23 777 fiches diffusées, des milliers d’adresses
     <description>DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.</description>
     <source>The Record</source>
     <pubDate>Tue, 27 Oct 2026 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets</title>
-    <link>https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html</link>
-    <description>Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 23:56:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Microsoft releases Windows OOB updates to distrust eMudhra certificates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/</link>
-    <description>Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 14:20:28 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre Quorum Groupe : des données liées à E.Leclerc, Renault, JCB et PPG en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-quorum-groupe-des-donnees-liees-a-e-leclerc-renault-jcb-et-ppg-en-fuite/</link>
-    <description>Le groupe de hackers BlackHatSect0r revendique une compromission majeure des systèmes informatiques de Quorum Groupe, un prestataire français...
-L’article Cyberattaque contre Quorum Groupe : des données liées à…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 27 Oct 2026 17:54:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Mutuelle Communale piratée : 50 000 adhérents et plus de 114 000 documents en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-la-mutuelle-communale-piratee-50-000-adherents-et-plus-de-114-000-documents-en-fuite/</link>
-    <description>La Mutuelle Communale est visée par une fuite massive de données revendiquée le 26 octobre 2026 par le...
-L’article La Mutuelle Communale piratée : 50 000 adhérents et plus de 114 000 documents en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 27 Oct 2026 17:20:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Warp discloses breach exposing AI agent logs, user telemetry data</title>
-    <link>https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/</link>
-    <description>Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 12:15:39 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque du PCF : un hacker affirme qu’une faille est toujours exploitable</title>
-    <link>https://www.cyberattaque.org/cyberattaque-du-pcf-un-hacker-affirme-quune-faille-est-toujours-exploitable/</link>
-    <description>EXCLUSIF – Quatre jours après avoir officiellement reconnu une fuite de données touchant ses adhérents et sympathisants, le...
-L’article Cyberattaque du PCF : un hacker affirme qu’une faille est toujours exploitable est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 27 Oct 2026 16:02:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers repeatedly breached suppliers holding UK police data, watchdog finds</title>
-    <link>https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report</link>
-    <description>His Majesty’s Inspectorate of Constabulary and Fire &amp; Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 15:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] University of New Mexico hospital diverts ambulances after cyberattack</title>
-    <link>https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident</link>
-    <description>For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 14:57:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre la Fédération suisse de hockey : les données de 87 226 personnes en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-la-federation-suisse-de-hockey-les-donnees-de-87-226-personnes-en-fuite/</link>
-    <description>La Fédération suisse de hockey sur glace (Swiss Ice Hockey Federation, SIHF) a officiellement confirmé avoir été victime...
-L’article Cyberattaque contre la Fédération suisse de hockey : les données de 87 226 personnes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 27 Oct 2026 14:50:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Tailscale warns of SSH flaws allowing root privilege escalation</title>
-    <link>https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</link>
-    <description>The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 10:09:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/</link>
-    <description>Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 10:01:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption</title>
-    <link>https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html</link>
-    <description>The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 19:29:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads</title>
-    <link>https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html</link>
-    <description>Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.
-
-The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 19:29:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes</title>
-    <link>https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes</link>
-    <description>Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 13:36:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
