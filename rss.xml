@@ -6,6 +6,122 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Hackers now scanning systems for recently-patched Oracle flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/</link>
+    <description>Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 08:19:57 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering</title>
+    <link>https://therecord.media/fbi-seizure-csam-virtualine</link>
+    <description>The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Renfe : une cyberattaque pourrait expose les données de ses voyageurs français</title>
+    <link>https://www.cyberattaque.org/renfe-une-cyberattaque-pourrait-expose-les-donnees-de-ses-voyageurs-francais/</link>
+    <description>Renfe, la compagnie ferroviaire espagnole qui exploite également des trains en France, confirme une cyberattaque ayant potentiellement compromis...
+L’article Renfe : une cyberattaque pourrait expose les données de ses…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 11:41:35 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass</title>
+    <link>https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html</link>
+    <description>Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 16:45:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA warns of hackers now exploiting critical Node2Shell flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/</link>
+    <description>On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 06:46:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed</title>
+    <link>https://thehackernews.com/2026/10/american-organizations-under-attack.html</link>
+    <description>Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 16:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Node2Shell : la faille critique de Node.js désormais exploitée par des hackers</title>
+    <link>https://www.cyberattaque.org/node2shell-la-faille-critique-de-node-js-desormais-exploitee-par-des-hackers/</link>
+    <description>La vulnérabilité Node2Shell, identifiée sous la référence CVE-2026-111497, franchit une nouvelle étape inquiétante. Après plusieurs démonstrations permettant de...
+L’article Node2Shell : la faille critique de Node.js…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 09:49:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Nefilim and Hive ransomware affiliate gets 70 months in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/</link>
+    <description>A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 05:43:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits</title>
+    <link>https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html</link>
+    <description>An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.
+
+The exploits were…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 13:45:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering</title>
+    <link>https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html</link>
+    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.
+
+The move was in response to the service being used to commit and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 13:07:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach</title>
+    <link>https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html</link>
+    <description>Japan's GMO Internet Group is&amp;nbsp;offering up to $1 million in total&amp;nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.
+
+The reward…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 12:43:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers</title>
+    <link>https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html</link>
+    <description>Tailscale has released&amp;nbsp;version 1.104.4&amp;nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&amp;nbsp;root&amp;nbsp;user should be able to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 11:50:37 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws</title>
+    <link>https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</link>
+    <description>The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.
+
+Oracle patched all three under a single…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 11:34:58 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cave Coste victime d’une cyberattaque : des mots de passe clients en clair Dérobés</title>
+    <link>https://www.cyberattaque.org/cave-coste-victime-dune-cyberattaque-des-mots-de-passe-clients-en-clair-derobes/</link>
+    <description>Cave Coste confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné la divulgation d&amp;#8217;adresses email et de mots de...
+L’article Cave Coste victime d&amp;rsquo;une cyberattaque : des mots de passe clients en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges</title>
+    <link>https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 28 Oct 2026 11:12:26 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
     <link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</link>
     <description>The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…</description>
@@ -160,96 +276,6 @@ The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bou
     <description>Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.</description>
     <source>The Record</source>
     <pubDate>Tue, 27 Oct 2026 13:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Moscow faces internet disruptions as foreign leaders gather for summits</title>
-    <link>https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather</link>
-    <description>The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 13:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch</title>
-    <link>https://therecord.media/php-vulnerabilities-cisa-kev</link>
-    <description>CISA added the widely publicized PHP vulnerabilities to the KEV, but didn't specify what kind of exploitation it was observing.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 13:16:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens</title>
-    <link>https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html</link>
-    <description>Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 17:39:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key</title>
-    <link>https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html</link>
-    <description>An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a&amp;nbsp;statement&amp;nbsp;on October 26.
-
-Someone with that key could build…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 17:16:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI-Generated Fake Login Pages Are Making Account Takeovers Easier</title>
-    <link>https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html</link>
-    <description>Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 17:02:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption</title>
-    <link>https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html</link>
-    <description>The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 17:02:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Apple backports CoreGraphics zero-day patches to older iPhones</title>
-    <link>https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/</link>
-    <description>​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 06:36:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers</title>
-    <link>https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html</link>
-    <description>A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 15:03:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Energy giant ENGIE discloses data breach affecting customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</link>
-    <description>French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 05:25:50 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections</title>
-    <link>https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html</link>
-    <description>OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text,&amp;nbsp;security firm Xint&amp;nbsp;has shown.
-
-OpenAI's reasoning…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 13:52:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA confirms PHP2Shell vulnerabilities now exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 04:20:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses</title>
-    <link>https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html</link>
-    <description>The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.
-
-"Cases of compromising IP cameras and DVRs with…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 27 Oct 2026 12:04:47 +0530</pubDate>
   </item>
 </channel>
 </rss>
