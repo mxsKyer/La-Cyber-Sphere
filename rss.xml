@@ -6,6 +6,35 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Liberté FM : une cyberattaque frappe la radio de Dordogne</title>
+    <link>https://www.cyberattaque.org/liberte-fm-une-cyberattaque-frappe-la-radio-de-dordogne/</link>
+    <description>Liberté FM, la radio associative de Ribérac, en Dordogne, a été victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre...
+L’article Liberté FM : une cyberattaque frappe la radio de Dordogne est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 28 Oct 2026 21:45:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
+    <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
+    <description>A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 20:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police seize Virtualine bulletproof service tied to ransowmare, cybercrime</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/</link>
+    <description>U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 28 Oct 2026 16:47:22 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Japan Airlines warns of data breach as country grapples with multiple cyber incidents</title>
+    <link>https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents</link>
+    <description>Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 28 Oct 2026 20:33:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Discord to let search engines index public server messages</title>
     <link>https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</link>
     <description>Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]</description>
@@ -294,54 +323,25 @@ L’article Cave Coste victime d&amp;rsquo;une cyberattaque : des mots de passe 
     <pubDate>Wed, 28 Oct 2026 11:12:26 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-46300 — Linux Kernel Missing Initialization of a Variable Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-46300</link>
+    <description>Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing ESP input processing to decrypt shared fragments in place. This vulnerability can be chained with CVE-2026-109618 and CVE-2026-109619 to implant PHP webshells and run commands as root.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-28</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-41709 — Broadcom VMWare ESX Insufficient Logging Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-41709</link>
+    <description>Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-28</pubDate>
+  </item>
+  <item>
     <title>[Critique] Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
     <link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</link>
     <description>The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 27 Oct 2026 19:35:51 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/</link>
-    <description>OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 18:43:27 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] UNM Health ransomware attack disrupts patient care, surgeries</title>
-    <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</link>
-    <description>The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 18:07:34 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers hijack Convertr analytics script to steal payment card data</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/</link>
-    <description>A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 16:57:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea</title>
-    <link>https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison</link>
-    <description>Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 20:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ACF Assurances : 23 777 fiches diffusées, des milliers d’adresses et de numéros de téléphone en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-acf-assurances-23-777-fiches-diffusees-des-milliers-dadresses-et-de-numeros-de-telephone-en-fuite/</link>
-    <description>Le courtier français ACF Assurances est visé par une fuite de données revendiquée le 27 octobre 2026. Un...
-L’article ACF Assurances : 23 777 fiches diffusées, des milliers d’adresses et de numéros de téléphone en fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 27 Oct 2026 20:01:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US indicts Malaysian national after Madagascar scam operation uncovered</title>
-    <link>https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar</link>
-    <description>DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 27 Oct 2026 19:30:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
