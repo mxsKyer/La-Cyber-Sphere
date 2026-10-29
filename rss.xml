@@ -322,26 +322,5 @@ L’article Cave Coste victime d&amp;rsquo;une cyberattaque : des mots de passe 
     <source>The Hacker News</source>
     <pubDate>Wed, 28 Oct 2026 11:12:26 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-46300 — Linux Kernel Missing Initialization of a Variable Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-46300</link>
-    <description>Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing ESP input processing to decrypt shared fragments in place. This vulnerability can be chained with CVE-2026-109618 and CVE-2026-109619 to implant PHP webshells and run commands as root.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-28</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-41709 — Broadcom VMWare ESX Insufficient Logging Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-41709</link>
-    <description>Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-28</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
-    <link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</link>
-    <description>The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 27 Oct 2026 19:35:51 -0400</pubDate>
-  </item>
 </channel>
 </rss>
