@@ -6,6 +6,59 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Limited reports of PHP bug exploitation emerge</title>
+    <link>https://therecord.media/php2shell-successful-exploitation-reports-emerge</link>
+    <description>One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. "government affiliated" servers.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 20:01:25 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms</title>
+    <link>https://therecord.media/general-motors-lawsuit-privacy</link>
+    <description>General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 19:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Polymarket : 2,5 millions de dollars volés après une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/polymarket-25-millions-de-dollars-voles-apres-une-nouvelle-cyberattaque/</link>
+    <description>Polymarket est de nouveau victime d&amp;#8217;une cyberattaque ce jeudi 29 octobre 2026. La célèbre plateforme de marchés prédictifs...
+L’article Polymarket : 2,5 millions de dollars volés après une nouvelle cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 19:44:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake crypto app on Apple App Store linked to $23K wallet theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/</link>
+    <description>A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 15:23:41 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
+    <link>https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</link>
+    <description>Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.
+
+There's a strange…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 00:41:58 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Caréco victime d’une cyberattaque : des pirates menacent de publier les données de ses clients</title>
+    <link>https://www.cyberattaque.org/careco-victime-dune-cyberattaque-des-pirates-menacent-de-publier-les-donnees-de-ses-clients/</link>
+    <description>Le réseau français Caréco, spécialisé dans les pièces automobiles d&amp;#8217;occasion, est visé par une revendication de cyberattaque. Les...
+L’article Caréco victime d’une cyberattaque : des pirates menacent de publier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 18:55:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/</link>
+    <description>A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 14:38:26 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Federal bankruptcy courts contractor says no data stolen during cyber intrusion</title>
     <link>https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack</link>
     <description>"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.</description>
@@ -18,6 +71,13 @@
     <description>A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 29 Oct 2026 12:10:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions</title>
+    <link>https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</link>
+    <description>A flaw in the Linux kernel's TCP code, tracked as&amp;nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 21:27:05 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners</title>
@@ -207,102 +267,26 @@ L’article AGSI : un hacker revendique la fuite de 5 000 contacts et prospects 
     <pubDate>Thu, 29 Oct 2026 04:45:16 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-76418 — Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76418</link>
+    <description>Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-29</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-97229 — GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-97229</link>
+    <description>GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-29</pubDate>
+  </item>
+  <item>
     <title>[Faible] Liberté FM : une cyberattaque frappe la radio de Dordogne</title>
     <link>https://www.cyberattaque.org/liberte-fm-une-cyberattaque-frappe-la-radio-de-dordogne/</link>
     <description>Liberté FM, la radio associative de Ribérac, en Dordogne, a été victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre...
 L’article Liberté FM : une cyberattaque frappe la radio de Dordogne est apparu en premier sur…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 28 Oct 2026 21:45:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Court strikes down West Virginia law barring disclosure of public officials’ personal data</title>
-    <link>https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court</link>
-    <description>A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 20:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police seize Virtualine bulletproof service tied to ransowmare, cybercrime</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/</link>
-    <description>U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 16:47:22 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Japan Airlines warns of data breach as country grapples with multiple cyber incidents</title>
-    <link>https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents</link>
-    <description>Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 20:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Discord to let search engines index public server messages</title>
-    <link>https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</link>
-    <description>Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 14:44:16 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns</title>
-    <link>https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html</link>
-    <description>The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 23:38:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance</title>
-    <link>https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance</link>
-    <description>Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 18:02:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US sanctions Russians, North Koreans for laundering IT worker earnings</title>
-    <link>https://therecord.media/north-korea-russia-sanctions</link>
-    <description>The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 17:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le Crestois : les données personnelles de ses lecteurs exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/le-crestois-les-donnees-personnelles-de-ses-lecteurs-exposees-apres-une-cyberattaque/</link>
-    <description>Le Crestois, journal hebdomadaire de la Drôme, confirme une intrusion dans l&amp;#8217;interface d&amp;#8217;administration de son site Internet le...
-L’article Le Crestois : les données personnelles de ses lecteurs exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 17:34:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Belgique : le fisc frappé par une cyberattaque, MyMinfin hors ligne à trois jours d’une échéance fiscale</title>
-    <link>https://www.cyberattaque.org/belgique-le-fisc-frappe-par-une-cyberattaque-myminfin-hors-ligne-a-trois-jours-dune-echeance-fiscale/</link>
-    <description>Le Service public fédéral (SPF) Finances belge confirme être victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre 2026. L&amp;#8217;administration...
-L’article Belgique : le fisc frappé par une cyberattaque, MyMinfin…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 17:23:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] CTS Strasbourg : les données de 230 000 comptes clients dérobées lors d’une cyberattaque</title>
-    <link>https://www.cyberattaque.org/cts-strasbourg-les-donnees-de-230-000-comptes-clients-derobees-lors-dune-cyberattaque/</link>
-    <description>La Compagnie des Transports Strasbourgeois (CTS) confirme une importante fuite de données personnelles concernant 230 000 comptes clients....
-L’article CTS Strasbourg : les données de 230 000 comptes clients dérobées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 17:16:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.</title>
-    <link>https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html</link>
-    <description>Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.
-
-To qualify, a store must pass…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 22:38:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cybertek : les données personnelles de ses clients exposées après une faille de sécurité</title>
-    <link>https://www.cyberattaque.org/cybertek-cyberattaque/</link>
-    <description>Cybertek, spécialiste français de la vente de matériel informatique, informe ses clients d&amp;#8217;une cyberattaque survenue le 7 octobre...
-L’article Cybertek : les données personnelles de ses clients exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 16:51:38 +0000</pubDate>
   </item>
 </channel>
 </rss>
