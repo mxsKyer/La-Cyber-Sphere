@@ -6,6 +6,166 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Federal bankruptcy courts contractor says no data stolen during cyber intrusion</title>
+    <link>https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack</link>
+    <description>"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 16:13:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chrome extensions with 13.4 million installs caught hijacking searches</title>
+    <link>https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/</link>
+    <description>A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 12:10:31 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners</title>
+    <link>https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html</link>
+    <description>Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 20:50:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pierres et Mer : plus de 45 000 enregistrements internes en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/pierres-et-mer-plus-de-45-000-enregistrements-internes-en-fuite-apres-une-cyberattaque/</link>
+    <description>Pierres et Mer, réseau immobilier français spécialisé dans les propriétés du littoral, est visé par une fuite de...
+L’article Pierres et Mer : plus de 45 000 enregistrements internes en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 15:15:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes Remote Desktop failures caused by recent Windows updates</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/</link>
+    <description>Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the "Administrator protection" security feature is enabled. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 10:35:40 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 3 Ways AI Agents Already Operate in Your Browser</title>
+    <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/</link>
+    <description>AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 10:00:10 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 09:59:48 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FTC to probe major companies over personalized pricing and pay</title>
+    <link>https://therecord.media/ftc-rideshare-airlines-data</link>
+    <description>The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 13:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities</title>
+    <link>https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html</link>
+    <description>Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.
+
+"It shows significant gains across coding and agentic tasks as well…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 19:12:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack disrupts Belgian tax services before filing deadline</title>
+    <link>https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline</link>
+    <description>The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 13:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] University of New Mexico restores hospital systems, urges no contact with hackers</title>
+    <link>https://therecord.media/new-mexico-cyberattack-hospital</link>
+    <description>The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 29 Oct 2026 13:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5127936 update released with 41 changes and fixes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/</link>
+    <description>Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 08:00:07 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls</title>
+    <link>https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html</link>
+    <description>A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.
+
+The attacker needed only an ordinary Telegram…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 17:09:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers</title>
+    <link>https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html</link>
+    <description>AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 17:03:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories</title>
+    <link>https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html</link>
+    <description>26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.
+
+Independent…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 17:03:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Cisco firewall zero-day exploited to crash SSL VPN devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/</link>
+    <description>Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 07:10:13 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls</title>
+    <link>https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html</link>
+    <description>Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 16:14:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre la DGFiP : un deuxième adolescent de 16 ans mis en examen</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-la-dgfip-un-deuxieme-adolescent-de-16-ans-mis-en-examen/</link>
+    <description>Nouveau rebondissement dans l&amp;#8217;affaire du piratage de la Direction générale des Finances publiques (DGFiP). Un adolescent de seulement...
+L’article Cyberattaque contre la DGFiP : un deuxième adolescent de 16 ans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 10:28:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GitHub Launches npm Firewall to Block Malicious Packages Before Installation</title>
+    <link>https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html</link>
+    <description>GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.
+
+"The firewall inspects both metadata requests and package…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 15:56:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] AVOCATS.BE : un hacker met en vente 122 116 fiches contenant les données d’avocats belges</title>
+    <link>https://www.cyberattaque.org/avocats-be-un-hacker-met-en-vente-122-116-fiches-contenant-les-donnees-davocats-belges/</link>
+    <description>Les données de milliers d’avocats belges pourraient avoir été compromises. Ce jeudi 29 octobre 2026, un hacker utilisant...
+L’article AVOCATS.BE : un hacker met en vente 122 116 fiches contenant les données d’avocats…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 10:15:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open</title>
+    <link>https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html</link>
+    <description>An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab&amp;nbsp;released a fix, Alpine Linux&amp;nbsp;said&amp;nbsp;on 28 October.
+
+The flaw, CVE-2026-97229…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 14:35:39 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</title>
     <link>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</link>
     <description>Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.
@@ -143,160 +303,6 @@ To qualify, a store must pass…</description>
 L’article Cybertek : les données personnelles de ses clients exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 28 Oct 2026 16:51:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Sony ISP subsidiary data breach exposes 2.5 million customer records</title>
-    <link>https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/</link>
-    <description>Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 12:45:47 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Moldova investigates possible foreign involvement in major government cyberattack</title>
-    <link>https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks</link>
-    <description>Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 16:37:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win</title>
-    <link>https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html</link>
-    <description>A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown.
-
-Orange Tsai of DEVCORE…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 21:53:34 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network</title>
-    <link>https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html</link>
-    <description>Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 21:32:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Volt Typhoon hides zero-day attacks using 'Silent Train' framework</title>
-    <link>https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/</link>
-    <description>Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 12:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Portes du Berry : une cyberattaque menace les dossiers personnels des habitants</title>
-    <link>https://www.cyberattaque.org/portes-du-berry-une-cyberattaque-menace-les-dossiers-personnels-des-habitants/</link>
-    <description>La Communauté de communes des Portes du Berry, dans le Cher, confirme avoir été victime d&amp;#8217;une cyberattaque détectée...
-L’article Portes du Berry : une cyberattaque menace les dossiers personnels des habitants est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 15:58:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK to look at making software companies liable for cyber breaches</title>
-    <link>https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches</link>
-    <description>The new U.K. budget says the government will "consider where liability for cyber breaches should sit," potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 15:37:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine</title>
-    <link>https://therecord.media/belarus-russia-hackers-ukraine-war</link>
-    <description>Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 15:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft urges Entra ID admins to migrate users to passkeys</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</link>
-    <description>Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 10:48:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] InfraTrust report warns of exploited flaws in critical network infrastructure</title>
-    <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</link>
-    <description>Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 10:00:00 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Even after PHP2Shell, blast radius matters more than a CVSS score</title>
-    <link>https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</link>
-    <description>PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 09:50:59 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch</title>
-    <link>https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html</link>
-    <description>Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber.
-
-The vulnerability in question is CVE-2026-101767…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 18:18:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers now scanning systems for recently-patched Oracle flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/</link>
-    <description>Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 08:19:57 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering</title>
-    <link>https://therecord.media/fbi-seizure-csam-virtualine</link>
-    <description>The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 28 Oct 2026 12:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers</title>
-    <link>https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html</link>
-    <description>A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 17:20:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Renfe : une cyberattaque pourrait expose les données de ses voyageurs français</title>
-    <link>https://www.cyberattaque.org/renfe-une-cyberattaque-pourrait-expose-les-donnees-de-ses-voyageurs-francais/</link>
-    <description>Renfe, la compagnie ferroviaire espagnole qui exploite également des trains en France, confirme une cyberattaque ayant potentiellement compromis...
-L’article Renfe : une cyberattaque pourrait expose les données de ses…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 11:41:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Wazuh and AI for Enhanced SOC Workflows</title>
-    <link>https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html</link>
-    <description>Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass</title>
-    <link>https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html</link>
-    <description>Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 16:45:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA warns of hackers now exploiting critical Node2Shell flaw</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/</link>
-    <description>On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 06:46:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed</title>
-    <link>https://thehackernews.com/2026/10/american-organizations-under-attack.html</link>
-    <description>Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 16:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Node2Shell : la faille critique de Node.js désormais exploitée par des hackers</title>
-    <link>https://www.cyberattaque.org/node2shell-la-faille-critique-de-node-js-desormais-exploitee-par-des-hackers/</link>
-    <description>La vulnérabilité Node2Shell, identifiée sous la référence CVE-2026-111497, franchit une nouvelle étape inquiétante. Après plusieurs démonstrations permettant de...
-L’article Node2Shell : la faille critique de Node.js…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 09:49:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
