@@ -6,6 +6,47 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</title>
+    <link>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</link>
+    <description>Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.
+
+The malware, called KeyDrift, is designed to copy…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 13:54:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility</title>
+    <link>https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 11:52:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces</title>
+    <link>https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html</link>
+    <description>Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.
+
+"Active exploitation has been observed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 29 Oct 2026 11:20:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Auto-Planning : 14 millions de plaques d’immatriculation revendiquées par des pirates</title>
+    <link>https://www.cyberattaque.org/auto-planning-14-millions-de-plaques-dimmatriculation-revendiquees-par-des-pirates/</link>
+    <description>Auto-Planning, une entreprise française spécialisée dans la prise de rendez-vous en ligne, est visée par une importante revendication...
+L’article Auto-Planning : 14 millions de plaques d’immatriculation revendiquées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 04:55:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AGSI : un hacker revendique la fuite de 5 000 contacts et prospects</title>
+    <link>https://www.cyberattaque.org/agsi-un-hacker-revendique-la-fuite-de-5-000-contacts-et-prospects/</link>
+    <description>AGSI Computer, une entreprise informatique française spécialisée notamment dans la maintenance et la cybersécurité, est visée par une...
+L’article AGSI : un hacker revendique la fuite de 5 000 contacts et prospects est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 29 Oct 2026 04:45:16 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Liberté FM : une cyberattaque frappe la radio de Dordogne</title>
     <link>https://www.cyberattaque.org/liberte-fm-une-cyberattaque-frappe-la-radio-de-dordogne/</link>
     <description>Liberté FM, la radio associative de Ribérac, en Dordogne, a été victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre...
@@ -256,71 +297,6 @@ L’article Renfe : une cyberattaque pourrait expose les données de ses…</des
 L’article Node2Shell : la faille critique de Node.js…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 28 Oct 2026 09:49:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Nefilim and Hive ransomware affiliate gets 70 months in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/</link>
-    <description>A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 28 Oct 2026 05:43:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits</title>
-    <link>https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html</link>
-    <description>An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report.
-
-The exploits were…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 13:45:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering</title>
-    <link>https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html</link>
-    <description>The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine.
-
-The move was in response to the service being used to commit and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 13:07:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach</title>
-    <link>https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html</link>
-    <description>Japan's GMO Internet Group is&amp;nbsp;offering up to $1 million in total&amp;nbsp;for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.
-
-The reward…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 12:43:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers</title>
-    <link>https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html</link>
-    <description>Tailscale has released&amp;nbsp;version 1.104.4&amp;nbsp;to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the&amp;nbsp;root&amp;nbsp;user should be able to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 11:50:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws</title>
-    <link>https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html</link>
-    <description>The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.
-
-Oracle patched all three under a single…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 11:34:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cave Coste victime d’une cyberattaque : des mots de passe clients en clair Dérobés</title>
-    <link>https://www.cyberattaque.org/cave-coste-victime-dune-cyberattaque-des-mots-de-passe-clients-en-clair-derobes/</link>
-    <description>Cave Coste confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné la divulgation d&amp;#8217;adresses email et de mots de...
-L’article Cave Coste victime d&amp;rsquo;une cyberattaque : des mots de passe clients en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges</title>
-    <link>https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 28 Oct 2026 11:12:26 +0530</pubDate>
   </item>
 </channel>
 </rss>
