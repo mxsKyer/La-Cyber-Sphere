@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</link>
+    <description>Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP)…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 30 Oct 2026 17:09:46 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] DOJ raises privacy concerns over potential sale of Character.AI chats</title>
+    <link>https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale</link>
+    <description>The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 30 Oct 2026 20:45:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fashion retailer Resolve says hackers stole payment card information</title>
     <link>https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards</link>
     <description>The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.</description>
@@ -276,41 +290,6 @@ The world's biggest cryptocurrency exchange said nearly $3 billion of those…</
     <description>Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk. This vulnerability can be chained with CVE-2026-104935 and CVE-2026-111357.</description>
     <source>CISA — Catalogue KEV</source>
     <pubDate>2026-10-30</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</link>
-    <description>OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 19:35:52 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Binance probes potential $5.8 billion crypto-theft hack</title>
-    <link>https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/</link>
-    <description>Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 18:45:23 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hugging Face malware campaign returns to hijack GPUs for crypto mining</title>
-    <link>https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/</link>
-    <description>A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 18:09:24 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Japan Airlines suffers third-party data breach exposing passenger info</title>
-    <link>https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/</link>
-    <description>Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 18:08:04 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Polymarket halts trading after crypto-draining script breach, $2.5M traced</title>
-    <link>https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/</link>
-    <description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 17:47:25 -0400</pubDate>
   </item>
 </channel>
 </rss>
