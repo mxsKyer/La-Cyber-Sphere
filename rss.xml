@@ -6,6 +6,51 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Fashion retailer Resolve says hackers stole payment card information</title>
+    <link>https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards</link>
+    <description>The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 30 Oct 2026 19:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cholet : une cyberattaque perturbe les services de la Ville et de l’agglomération</title>
+    <link>https://www.cyberattaque.org/cholet-une-cyberattaque-perturbe-les-services-de-la-ville-et-de-lagglomeration/</link>
+    <description>Une cyberattaque est suspectée à Cholet, dans le Maine-et-Loire, ce vendredi 30 octobre 2026. Plusieurs services de la...
+L’article Cholet : une cyberattaque perturbe les services de la Ville et de l’agglomération est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 30 Oct 2026 18:43:53 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
+    <link>https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</link>
+    <description>Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 22:28:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trezor warns of suspected crypto-theft implant in hardware wallet</title>
+    <link>https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/</link>
+    <description>Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 30 Oct 2026 11:58:20 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</title>
+    <link>https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</link>
+    <description>The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 30 Oct 2026 15:54:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them</title>
+    <link>https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</link>
+    <description>TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 20:47:28 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] La Halle au Sommeil : des données bancaires et des mots de passe clients compromis après une cyberattaque</title>
     <link>https://www.cyberattaque.org/la-halle-au-sommeil-des-donnees-bancaires-et-des-mots-de-passe-clients-compromis-apres-une-cyberattaque/</link>
     <description>La Halle au Sommeil, enseigne française spécialisée dans la literie, confirme avoir été victime d&amp;#8217;une cyberattaque sur son...
@@ -34,6 +79,15 @@ L’article Cherry Rocher : une cyberattaque expose les données personnelles…
     <description>Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's…</description>
     <source>The Record</source>
     <pubDate>Fri, 30 Oct 2026 14:24:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours</title>
+    <link>https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</link>
+    <description>Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.
+
+The vulnerability, which does not have a CVE identifier, relates to a case of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 19:38:14 +0530</pubDate>
   </item>
   <item>
     <title>[Critique] SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
@@ -210,6 +264,20 @@ The world's biggest cryptocurrency exchange said nearly $3 billion of those…</
     <pubDate>Fri, 30 Oct 2026 09:44:59 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-111357 — Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111357</link>
+    <description>Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with CVE-2026-104935 and CVE-2026-118527.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-30</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-118527 — Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-118527</link>
+    <description>Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk. This vulnerability can be chained with CVE-2026-104935 and CVE-2026-111357.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-10-30</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</link>
     <description>OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]</description>
@@ -243,87 +311,6 @@ The world's biggest cryptocurrency exchange said nearly $3 billion of those…</
     <description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 29 Oct 2026 17:47:25 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Limited reports of PHP bug exploitation emerge</title>
-    <link>https://therecord.media/php2shell-successful-exploitation-reports-emerge</link>
-    <description>One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. "government affiliated" servers.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 29 Oct 2026 20:01:25 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms</title>
-    <link>https://therecord.media/general-motors-lawsuit-privacy</link>
-    <description>General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 29 Oct 2026 19:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Polymarket : 2,5 millions de dollars volés après une nouvelle cyberattaque</title>
-    <link>https://www.cyberattaque.org/polymarket-25-millions-de-dollars-voles-apres-une-nouvelle-cyberattaque/</link>
-    <description>Polymarket est de nouveau victime d&amp;#8217;une cyberattaque ce jeudi 29 octobre 2026. La célèbre plateforme de marchés prédictifs...
-L’article Polymarket : 2,5 millions de dollars volés après une nouvelle cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 29 Oct 2026 19:44:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake crypto app on Apple App Store linked to $23K wallet theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/</link>
-    <description>A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 15:23:41 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories</title>
-    <link>https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html</link>
-    <description>Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't.
-
-There's a strange…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 00:41:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Caréco victime d’une cyberattaque : des pirates menacent de publier les données de ses clients</title>
-    <link>https://www.cyberattaque.org/careco-victime-dune-cyberattaque-des-pirates-menacent-de-publier-les-donnees-de-ses-clients/</link>
-    <description>Le réseau français Caréco, spécialisé dans les pièces automobiles d&amp;#8217;occasion, est visé par une revendication de cyberattaque. Les...
-L’article Caréco victime d’une cyberattaque : des pirates menacent de publier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 29 Oct 2026 18:55:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/</link>
-    <description>A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 14:38:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Federal bankruptcy courts contractor says no data stolen during cyber intrusion</title>
-    <link>https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack</link>
-    <description>"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 29 Oct 2026 16:13:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chrome extensions with 13.4 million installs caught hijacking searches</title>
-    <link>https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/</link>
-    <description>A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 29 Oct 2026 12:10:31 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions</title>
-    <link>https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html</link>
-    <description>A flaw in the Linux kernel's TCP code, tracked as&amp;nbsp;CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 29 Oct 2026 21:27:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners</title>
-    <link>https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html</link>
-    <description>Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 29 Oct 2026 20:50:29 +0530</pubDate>
   </item>
 </channel>
 </rss>
