@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</link>
+    <description>OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 19:35:52 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Binance probes potential $5.8 billion crypto-theft hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/</link>
+    <description>Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 18:45:23 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hugging Face malware campaign returns to hijack GPUs for crypto mining</title>
+    <link>https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/</link>
+    <description>A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 18:09:24 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Japan Airlines suffers third-party data breach exposing passenger info</title>
+    <link>https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/</link>
+    <description>Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 18:08:04 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Polymarket halts trading after crypto-draining script breach, $2.5M traced</title>
+    <link>https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/</link>
+    <description>Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 29 Oct 2026 17:47:25 -0400</pubDate>
+  </item>
+  <item>
     <title>[Faible] Limited reports of PHP bug exploitation emerge</title>
     <link>https://therecord.media/php2shell-successful-exploitation-reports-emerge</link>
     <description>One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. "government affiliated" servers.</description>
@@ -265,28 +300,6 @@ L’article Auto-Planning : 14 millions de plaques d’immatriculation revendiqu
 L’article AGSI : un hacker revendique la fuite de 5 000 contacts et prospects est…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 29 Oct 2026 04:45:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-76418 — Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76418</link>
-    <description>Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly, resulting in a denial of service (DoS) condition.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-29</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-97229 — GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-97229</link>
-    <description>GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-10-29</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Liberté FM : une cyberattaque frappe la radio de Dordogne</title>
-    <link>https://www.cyberattaque.org/liberte-fm-une-cyberattaque-frappe-la-radio-de-dordogne/</link>
-    <description>Liberté FM, la radio associative de Ribérac, en Dordogne, a été victime d&amp;#8217;une cyberattaque ce mercredi 28 octobre...
-L’article Liberté FM : une cyberattaque frappe la radio de Dordogne est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 28 Oct 2026 21:45:31 +0000</pubDate>
   </item>
 </channel>
 </rss>
