@@ -6,6 +6,38 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Bourse Direct victime d’une cyberattaque : les IBAN de ses clients exposés</title>
+    <link>https://www.cyberattaque.org/bourse-direct-victime-dune-cyberattaque-les-iban-de-ses-clients-exposes/</link>
+    <description>Bourse Direct, l&amp;#8217;un des principaux courtiers en ligne français, confirme un incident de cybersécurité survenu dans la nuit...
+L’article Bourse Direct victime d’une cyberattaque : les IBAN de ses clients exposés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 30 Oct 2026 08:25:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV</title>
+    <link>https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 12:57:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Binance victime d’une cyberattaque historique : 6,3 milliards de dollars détournés</title>
+    <link>https://www.cyberattaque.org/binance-victime-dune-cyberattaque-historique-63-milliards-de-dollars-detournes/</link>
+    <description>Binance, la plus grande plateforme d&amp;#8217;échange de cryptomonnaies au monde, a été victime d&amp;#8217;une cyberattaque massive le jeudi...
+L’article Binance victime d’une cyberattaque historique : 6,3 milliards de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 30 Oct 2026 06:17:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen</title>
+    <link>https://thehackernews.com/2026/10/binance-suffers-security-breach.html</link>
+    <description>Cryptocurrency giant Binance said on Thursday that a "security incident" on its platform has impacted about $6.3 billion worth of assets.
+
+The world's biggest cryptocurrency exchange said nearly $3 billion of those…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 30 Oct 2026 09:44:59 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
     <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</link>
     <description>OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]</description>
@@ -259,47 +291,6 @@ L’article AVOCATS.BE : un hacker met en vente 122 116 fiches contenant les don
 The flaw, CVE-2026-97229…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 29 Oct 2026 14:35:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys</title>
-    <link>https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html</link>
-    <description>Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.
-
-The malware, called KeyDrift, is designed to copy…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 29 Oct 2026 13:54:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility</title>
-    <link>https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 29 Oct 2026 11:52:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces</title>
-    <link>https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html</link>
-    <description>Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces.
-
-"Active exploitation has been observed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 29 Oct 2026 11:20:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Auto-Planning : 14 millions de plaques d’immatriculation revendiquées par des pirates</title>
-    <link>https://www.cyberattaque.org/auto-planning-14-millions-de-plaques-dimmatriculation-revendiquees-par-des-pirates/</link>
-    <description>Auto-Planning, une entreprise française spécialisée dans la prise de rendez-vous en ligne, est visée par une importante revendication...
-L’article Auto-Planning : 14 millions de plaques d’immatriculation revendiquées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 29 Oct 2026 04:55:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AGSI : un hacker revendique la fuite de 5 000 contacts et prospects</title>
-    <link>https://www.cyberattaque.org/agsi-un-hacker-revendique-la-fuite-de-5-000-contacts-et-prospects/</link>
-    <description>AGSI Computer, une entreprise informatique française spécialisée notamment dans la maintenance et la cybersécurité, est visée par une...
-L’article AGSI : un hacker revendique la fuite de 5 000 contacts et prospects est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 29 Oct 2026 04:45:16 +0000</pubDate>
   </item>
 </channel>
 </rss>
