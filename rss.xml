@@ -6,6 +6,46 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Verrières-en-Forez : une cyberattaque bloque la mairie, les pirates exigent une rançon</title>
+    <link>https://www.cyberattaque.org/verrieres-en-forez-une-cyberattaque-bloque-la-mairie-les-pirates-exigent-une-rancon/</link>
+    <description>À Verrières-en-Forez, dans la Loire, les pirates informatiques ont réussi à prendre en otage les fichiers de la...
+L’article Verrières-en-Forez : une cyberattaque bloque la mairie, les pirates exigent une rançon est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 23:26:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Terre de Son : un piratage expose les données de 95 000 clients</title>
+    <link>https://www.cyberattaque.org/terre-de-son-un-piratage-expose-les-donnees-de-95-000-clients/</link>
+    <description>Des années d&amp;#8217;achats, des identités et des adresses personnelles : la boutique française Terre de Son fait l&amp;#8217;objet...
+L’article Terre de Son : un piratage expose les données de 95 000 clients est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 23:23:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Près de 3 millions de plaques d’immatriculation françaises en fuite</title>
+    <link>https://www.cyberattaque.org/pres-de-3-millions-de-plaques-dimmatriculation-francaises-en-fuite/</link>
+    <description>Connaître une plaque d&amp;#8217;immatriculation pourrait désormais permettre de retrouver l&amp;#8217;identité et les coordonnées de son propriétaire présumé dans...
+L’article Près de 3 millions de plaques d’immatriculation…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 21:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ma Déco de Fête : 45 000 fiches en fuite, jusqu’aux codes d’immeuble des clients</title>
+    <link>https://www.cyberattaque.org/ma-deco-de-fete-45-000-fiches-en-fuite-jusquaux-codes-dimmeuble-des-clients/</link>
+    <description>Des coordonnées personnelles, des historiques de paiement, des mots de passe hachés et même des codes d&amp;#8217;accès à...
+L’article Ma Déco de Fête : 45 000 fiches en fuite, jusqu’aux codes d’immeuble des clients est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 21:08:11 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre Autosur : près de 800 000 fiches clients mises en vente</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-autosur-pres-de-800-000-fiches-clients-mises-en-vente/</link>
+    <description>Près de 800 000 enregistrements attribués à Autosur sont proposés à la vente depuis le 31 octobre 2026....
+L’article Cyberattaque contre Autosur : près de 800 000 fiches clients mises en vente est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 21:00:06 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Northflank security breach leads to abuse of customers' AI API keys</title>
     <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
     <description>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</description>
@@ -159,20 +199,6 @@ L’article Cyberattaque contre le Rassemblement national : 150 000 adhérents r
 The web infrastructure and security company said it autonomously mitigated 18.2…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 31 Oct 2026 10:26:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</link>
-    <description>Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP)…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 17:09:46 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DOJ raises privacy concerns over potential sale of Character.AI chats</title>
-    <link>https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale</link>
-    <description>The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 20:45:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
