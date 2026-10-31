@@ -6,6 +6,37 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Northflank security breach leads to abuse of customers' AI API keys</title>
+    <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
+    <description>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 31 Oct 2026 14:01:12 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Une nouvelle cyberattaque contre la Fédération nationale des chasseurs</title>
+    <link>https://www.cyberattaque.org/une-nouvelle-cyberattaque-contre-la-federation-nationale-des-chasseurs/</link>
+    <description>Des identifiants, des numéros de téléphone, des dates de naissance et même des empreintes de mots de passe...
+L’article Une nouvelle cyberattaque contre la Fédération nationale des chasseurs est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 16:57:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pharmacie de la Cigogne à Strasbourg : 110 000 patients exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/pharmacie-de-la-cigogne-a-strasbourg-110-000-patients-exposes-apres-une-cyberattaque/</link>
+    <description>Une deuxième pharmacie française visée en quelques heures, et cette fois, le volume revendiqué atteint 110 000 patients....
+L’article Pharmacie de la Cigogne à Strasbourg : 110 000 patients exposés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 16:48:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Canton de Vaud : 41 500 élèves et enseignants victimes d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/suisse-canton-de-vaud-41-500-eleves-et-enseignants-victimes-dune-cyberattaque/</link>
+    <description>Environ 41 500 élèves et enseignants du canton de Vaud, en Suisse, sont concernés par une importante fuite...
+L’article Canton de Vaud : 41 500 élèves et enseignants victimes d’une cyberattaque est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 16:18:11 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] New Android SMS of Death exploit can remotely crash unpatched phones</title>
     <link>https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</link>
     <description>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or…</description>
@@ -142,30 +173,6 @@ The web infrastructure and security company said it autonomously mitigated 18.2�
     <description>The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.</description>
     <source>The Record</source>
     <pubDate>Fri, 30 Oct 2026 20:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fashion retailer Resolve says hackers stole payment card information</title>
-    <link>https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards</link>
-    <description>The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 19:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cholet : une cyberattaque perturbe les services de la Ville et de l’agglomération</title>
-    <link>https://www.cyberattaque.org/cholet-une-cyberattaque-perturbe-les-services-de-la-ville-et-de-lagglomeration/</link>
-    <description>Une cyberattaque est suspectée à Cholet, dans le Maine-et-Loire, ce vendredi 30 octobre 2026. Plusieurs services de la...
-L’article Cholet : une cyberattaque perturbe les services de la Ville et de l’agglomération est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 18:43:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide</title>
-    <link>https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html</link>
-    <description>Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 22:28:44 +0530</pubDate>
   </item>
 </channel>
 </rss>
