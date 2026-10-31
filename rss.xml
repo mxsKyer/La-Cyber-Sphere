@@ -6,6 +6,61 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe les NAS</title>
+    <link>https://www.cyberattaque.org/synology-c3rb3r-cyberattaque/</link>
+    <description>Une vague de cyberattaques frappe les NAS Synology depuis le début du mois d&amp;#8217;octobre 2026. Des particuliers et...
+L’article Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 09:31:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La Fédération française de la montagne et de l’escalade confirme une nouvelle cyberattaque</title>
+    <link>https://www.cyberattaque.org/ffme-cyberattaque/</link>
+    <description>La Fédération française de la montagne et de l&amp;#8217;escalade (FFME) confirme une nouvelle cyberattaque survenue le 28 octobre...
+L’article La Fédération française de la montagne et de l’escalade confirme une nouvelle…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 09:19:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</title>
+    <link>https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 31 Oct 2026 13:57:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Epitech Paris : les données personnelles de 351 étudiants en fuite</title>
+    <link>https://www.cyberattaque.org/epitech-paris-les-donnees-personnelles-de-351-etudiants-en-fuite/</link>
+    <description>Epitech Paris, l&amp;#8217;une des principales écoles françaises d&amp;#8217;informatique, est visée par une fuite de données revendiquée le vendredi...
+L’article Epitech Paris : les données personnelles de 351 étudiants en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 06:31:28 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque contre le Rassemblement national : 150 000 adhérents revendiqués</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-le-rassemblement-national-150-000-dadherents-en-fuite/</link>
+    <description>Le Rassemblement national (RN) est visé par une revendication de fuite de données ce samedi 31 octobre 2026....
+L’article Cyberattaque contre le Rassemblement national : 150 000 adhérents revendiqués est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 06:18:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
+    <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+    <description>A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&amp;nbsp;the security firm…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 31 Oct 2026 11:03:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
+    <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
+    <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.
+
+The web infrastructure and security company said it autonomously mitigated 18.2…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 31 Oct 2026 10:26:12 +0530</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
     <link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</link>
     <description>Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP)…</description>
@@ -199,74 +254,6 @@ L’article Incognito.fr : 21 352 commandes en fuite après une cyberattaque est
     <description>Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Fri, 30 Oct 2026 07:20:26 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison</title>
-    <link>https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html</link>
-    <description>Ahmad Umar Agha, a Syrian Electronic Army hacker known online as "Th3Pr0," has been&amp;nbsp;sentenced by a U.S. federal court&amp;nbsp;to 42 months in prison for his role in a hacking conspiracy that targeted Western news…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 16:10:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal warns of critical Commerce Core flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/</link>
-    <description>Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 06:16:07 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre le Parti radical de gauche : les données de 825 membres diffusées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-le-parti-radical-de-gauche-les-donnees-de-825-membres-diffusees/</link>
-    <description>Le Parti radical de gauche (PRG) est visé par une fuite de données particulièrement sensible ce vendredi 30...
-L’article Cyberattaque contre le Parti radical de gauche : les données de 825 membres diffusées est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Binance links $6.3 billion crypto theft to compromised DevOps laptop</title>
-    <link>https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/</link>
-    <description>Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 05:18:13 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor</title>
-    <link>https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</link>
-    <description>Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 14:25:47 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bourse Direct victime d’une cyberattaque : les IBAN de ses clients exposés</title>
-    <link>https://www.cyberattaque.org/bourse-direct-victime-dune-cyberattaque-les-iban-de-ses-clients-exposes/</link>
-    <description>Bourse Direct, l&amp;#8217;un des principaux courtiers en ligne français, confirme un incident de cybersécurité survenu dans la nuit...
-L’article Bourse Direct victime d’une cyberattaque : les IBAN de ses clients exposés…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 08:25:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw</title>
-    <link>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</link>
-    <description>Drupal has warned that threat actors are exploiting a "highly critical" security flaw in its Commerce Core component.
-
-The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 13:15:30 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV</title>
-    <link>https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 12:57:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Binance victime d’une cyberattaque historique : 6,3 milliards de dollars détournés</title>
-    <link>https://www.cyberattaque.org/binance-victime-dune-cyberattaque-historique-63-milliards-de-dollars-detournes/</link>
-    <description>Binance, la plus grande plateforme d&amp;#8217;échange de cryptomonnaies au monde, a été victime d&amp;#8217;une cyberattaque massive le jeudi...
-L’article Binance victime d’une cyberattaque historique : 6,3 milliards de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 06:17:18 +0000</pubDate>
   </item>
 </channel>
 </rss>
