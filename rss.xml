@@ -6,6 +6,75 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] New Android SMS of Death exploit can remotely crash unpatched phones</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</link>
+    <description>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 31 Oct 2026 11:35:11 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SolNet : 6 804 données de messagerie du FAI Suisse mises en vente sur le darkweb</title>
+    <link>https://www.cyberattaque.org/solnet-messagerie-cyberattaque-darkweb/</link>
+    <description>Qui a envoyé un email, à qui, depuis quelle adresse IP et à quel moment ? Ce sont...
+L’article SolNet : 6 804 données de messagerie du FAI Suisse mises en vente sur le darkweb est apparu en premier sur Cyberattaque.org.</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 15:29:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pharmacie des Congrès à Dijon : 23 000 dossiers de patients en fuite</title>
+    <link>https://www.cyberattaque.org/pharmacie-des-congres-a-dijon-23-000-dossiers-de-patients-en-fuite/</link>
+    <description>La Pharmacie des Congrès, située à Dijon en Côte-d&amp;#8217;Or, est visée par une importante revendication de cyberattaque ce...
+L’article Pharmacie des Congrès à Dijon : 23 000 dossiers de patients en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 15:16:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Assoclub : les données de milliers d’enfants exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/assoclub-les-donnees-de-milliers-denfants-exposees-apres-une-cyberattaque/</link>
+    <description>Assoclub, un logiciel français de gestion d&amp;#8217;associations, est visé par une importante fuite de données révélée ce samedi...
+L’article Assoclub : les données de milliers d’enfants exposées après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 15:04:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Les Écologistes : le parti visé par une fuite de données</title>
+    <link>https://www.cyberattaque.org/les-ecologistes-un-hacker-annonce-une-fuite-de-donnees/</link>
+    <description>Les Écologistes, le parti politique français anciennement connu sous le nom d&amp;#8217;Europe Écologie Les Verts (EELV), sont visés...
+L’article Les Écologistes : le parti visé par une fuite de données est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 31 Oct 2026 14:56:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Reddit to lock content behind logins to fight scrapers</title>
+    <link>https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/</link>
+    <description>Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 31 Oct 2026 10:05:15 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.</title>
+    <link>https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/</link>
+    <description>AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 31 Oct 2026 09:10:19 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Chainalysis discloses data breach from "offensive agentic techniques"</title>
+    <link>https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/</link>
+    <description>Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user IDs, and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 31 Oct 2026 08:50:09 -0400</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</title>
+    <link>https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html</link>
+    <description>American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.
+
+However, the company noted that the breach did not…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 31 Oct 2026 17:31:56 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe les NAS</title>
     <link>https://www.cyberattaque.org/synology-c3rb3r-cyberattaque/</link>
     <description>Une vague de cyberattaques frappe les NAS Synology depuis le début du mois d&amp;#8217;octobre 2026. Des particuliers et...
@@ -97,163 +166,6 @@ L’article Cholet : une cyberattaque perturbe les services de la Ville et de l�
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 30 Oct 2026 22:28:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor warns of suspected crypto-theft implant in hardware wallet</title>
-    <link>https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/</link>
-    <description>Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 11:58:20 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</title>
-    <link>https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach</link>
-    <description>The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 15:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them</title>
-    <link>https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</link>
-    <description>TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 20:47:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] La Halle au Sommeil : des données bancaires et des mots de passe clients compromis après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/la-halle-au-sommeil-des-donnees-bancaires-et-des-mots-de-passe-clients-compromis-apres-une-cyberattaque/</link>
-    <description>La Halle au Sommeil, enseigne française spécialisée dans la literie, confirme avoir été victime d&amp;#8217;une cyberattaque sur son...
-L’article La Halle au Sommeil : des données bancaires et des mots de passe clients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 15:03:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cherry Rocher : une cyberattaque expose les données personnelles des clients</title>
-    <link>https://www.cyberattaque.org/cherry-rocher-une-cyberattaque-expose-les-donnees-personnelles-des-clients/</link>
-    <description>Cherry Rocher, l&amp;#8217;une des plus anciennes distilleries françaises, informe ses clients d&amp;#8217;un incident de sécurité découvert le 20...
-L’article Cherry Rocher : une cyberattaque expose les données personnelles…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 14:59:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malicious Claude Code extension on Cursor planted SSH backdoors</title>
-    <link>https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/</link>
-    <description>A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 10:36:54 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Syrian Electronic Army hacker gets prison time for attacks on Western targets</title>
-    <link>https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years</link>
-    <description>Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 14:24:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours</title>
-    <link>https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</link>
-    <description>Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.
-
-The vulnerability, which does not have a CVE identifier, relates to a case of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 19:38:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
-    <link>https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/</link>
-    <description>Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 10:00:10 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Swiss Basketball : 52 344 licenciés en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/swiss-basketball-52-344-licencies-en-fuite-apres-une-cyberattaque/</link>
-    <description>Swiss Basketball, la Fédération suisse de basketball, est visée par une importante fuite de données révélée ce vendredi...
-L’article Swiss Basketball : 52 344 licenciés en fuite après une cyberattaque est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 13:49:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA says max severity GitLab flaw now exploited in the wild</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/</link>
-    <description>Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 09:00:32 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] British spy agency cannot account for thousands of data storage devices, watchdog says</title>
-    <link>https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices</link>
-    <description>The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 12:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers target government Windows systems in Asia with new malware</title>
-    <link>https://therecord.media/hackers-target-government-windows-systems-asia-new-malware</link>
-    <description>The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 12:36:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis</title>
-    <link>https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html</link>
-    <description>A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.
-
-Trezor has not yet examined the device.…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 17:51:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving</title>
-    <link>https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html</link>
-    <description>The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 30 Oct 2026 17:28:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] MySexShop.fr : des adresses de clients exposés dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/mysexshop-fr-des-adresses-de-clients-exposes-dans-une-fuite-de-donnees/</link>
-    <description>MySexShop.fr, une plateforme française de vente de produits pour adultes, est visée par une fuite de données revendiquée...
-L’article MySexShop.fr : des adresses de clients exposés dans une fuite de données est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 11:40:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fédération française des échecs : 15 730 données de facturation en fuite</title>
-    <link>https://www.cyberattaque.org/federation-francaise-des-echecs-15-730-donnees-de-facturation-en-fuite/</link>
-    <description>La Fédération française des échecs (FFE) est visée par une fuite de données revendiquée ce vendredi 30 octobre...
-L’article Fédération française des échecs : 15 730 données de facturation en fuite est apparu en premier…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 11:34:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Polymarket confirms cyberattack on third-party provider after outages</title>
-    <link>https://therecord.media/polymarket-confirms-cyberattack-third-party</link>
-    <description>The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 11:33:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian popular home goods chain faces days of disruption following cyberattack</title>
-    <link>https://therecord.media/russian-home-goods-chain-faces-disruptions</link>
-    <description>Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 30 Oct 2026 11:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Incognito.fr : 21 352 commandes en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/incognito-fr-21-352-commandes-en-fuite-apres-une-cyberattaque/</link>
-    <description>Incognito.fr, un laboratoire français spécialisé dans le développement et l&amp;#8217;impression de photographies, est visé par une fuite de...
-L’article Incognito.fr : 21 352 commandes en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 30 Oct 2026 11:27:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft finally fixes VPN issues caused by September updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/</link>
-    <description>Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 30 Oct 2026 07:20:26 -0400</pubDate>
   </item>
 </channel>
 </rss>
