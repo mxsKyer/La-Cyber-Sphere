@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</title>
+    <link>https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html</link>
+    <description>A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 01 Nov 2026 14:21:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script</title>
+    <link>https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html</link>
+    <description>Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 01 Nov 2026 12:55:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist</title>
+    <link>https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</link>
+    <description>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 01 Nov 2026 12:33:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</title>
+    <link>https://thehackernews.com/2026/11/netamloader-malware-targets-government.html</link>
+    <description>Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
+
+The activity, detailed by Kaspersky this week,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 01 Nov 2026 12:32:58 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Verrières-en-Forez : une cyberattaque bloque la mairie, les pirates exigent une rançon</title>
     <link>https://www.cyberattaque.org/verrieres-en-forez-une-cyberattaque-bloque-la-mairie-les-pirates-exigent-une-rancon/</link>
     <description>À Verrières-en-Forez, dans la Loire, les pirates informatiques ont réussi à prendre en otage les fichiers de la...
@@ -128,61 +158,6 @@ L’article Les Écologistes : le parti visé par une fuite de données est appa
     <description>AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity…</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 31 Oct 2026 09:10:19 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Chainalysis discloses data breach from "offensive agentic techniques"</title>
-    <link>https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/</link>
-    <description>Blockchain analytics firm Chainalysis disclosed a data breach after attackers used "offensive agentic techniques" to access internal systems and tools, exposing customer names, email addresses, user IDs, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 31 Oct 2026 08:50:09 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data</title>
-    <link>https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html</link>
-    <description>American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.
-
-However, the company noted that the breach did not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 31 Oct 2026 17:31:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe les NAS</title>
-    <link>https://www.cyberattaque.org/synology-c3rb3r-cyberattaque/</link>
-    <description>Une vague de cyberattaques frappe les NAS Synology depuis le début du mois d&amp;#8217;octobre 2026. Des particuliers et...
-L’article Synology : les photos et sauvegardes prises en otage, une vague de cyberattaques frappe…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 09:31:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Fédération française de la montagne et de l’escalade confirme une nouvelle cyberattaque</title>
-    <link>https://www.cyberattaque.org/ffme-cyberattaque/</link>
-    <description>La Fédération française de la montagne et de l&amp;#8217;escalade (FFME) confirme une nouvelle cyberattaque survenue le 28 octobre...
-L’article La Fédération française de la montagne et de l’escalade confirme une nouvelle…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 09:19:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access</title>
-    <link>https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 31 Oct 2026 13:57:43 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Epitech Paris : les données personnelles de 351 étudiants en fuite</title>
-    <link>https://www.cyberattaque.org/epitech-paris-les-donnees-personnelles-de-351-etudiants-en-fuite/</link>
-    <description>Epitech Paris, l&amp;#8217;une des principales écoles françaises d&amp;#8217;informatique, est visée par une fuite de données revendiquée le vendredi...
-L’article Epitech Paris : les données personnelles de 351 étudiants en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 06:31:28 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre le Rassemblement national : 150 000 adhérents revendiqués</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-le-rassemblement-national-150-000-dadherents-en-fuite/</link>
-    <description>Le Rassemblement national (RN) est visé par une revendication de fuite de données ce samedi 31 octobre 2026....
-L’article Cyberattaque contre le Rassemblement national : 150 000 adhérents revendiqués est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 06:18:07 +0000</pubDate>
   </item>
 </channel>
 </rss>
