@@ -184,21 +184,5 @@ L’article Cyberattaque contre le Rassemblement national : 150 000 adhérents r
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 31 Oct 2026 06:18:07 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
-    <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
-    <description>A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at&amp;nbsp;the security firm…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 31 Oct 2026 11:03:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
-    <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
-    <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.
-
-The web infrastructure and security company said it autonomously mitigated 18.2…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 31 Oct 2026 10:26:12 +0530</pubDate>
-  </item>
 </channel>
 </rss>
