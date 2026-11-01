@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</link>
+    <description>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 01 Nov 2026 14:57:53 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MPA Group : 1,1 million de plaques d’immatriculation et des adresses personnelles en fuite</title>
+    <link>https://www.cyberattaque.org/mpa-group-11-million-de-plaques-dimmatriculation-et-des-adresses-personnelles-en-fuite/</link>
+    <description>Une plaque d&amp;#8217;immatriculation visible dans la rue pourrait désormais être associée au nom, à l&amp;#8217;adresse et au téléphone...
+L’article MPA Group : 1,1 million de plaques d’immatriculation et des adresses…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 01 Nov 2026 18:57:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque</title>
+    <link>https://www.cyberattaque.org/grande-pharmacie-bailly-plus-de-300-000-patients-revendiques-dans-une-cyberattaque/</link>
+    <description>Les ordonnances et les données personnelles de centaines de milliers de patients pourraient se retrouver entre les mains...
+L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 01 Nov 2026 18:48:09 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Alpine Linux rebuilds GitLab after attempted RCE attack</title>
     <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</link>
     <description>Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…</description>
@@ -64,30 +87,6 @@ L’article Verrières-en-Forez : une cyberattaque bloque la mairie, les pirates
 L’article Terre de Son : un piratage expose les données de 95 000 clients est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 31 Oct 2026 23:23:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Près de 3 millions de plaques d’immatriculation françaises en fuite</title>
-    <link>https://www.cyberattaque.org/pres-de-3-millions-de-plaques-dimmatriculation-francaises-en-fuite/</link>
-    <description>Connaître une plaque d&amp;#8217;immatriculation pourrait désormais permettre de retrouver l&amp;#8217;identité et les coordonnées de son propriétaire présumé dans...
-L’article Près de 3 millions de plaques d’immatriculation…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 21:20:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ma Déco de Fête : 45 000 fiches en fuite, jusqu’aux codes d’immeuble des clients</title>
-    <link>https://www.cyberattaque.org/ma-deco-de-fete-45-000-fiches-en-fuite-jusquaux-codes-dimmeuble-des-clients/</link>
-    <description>Des coordonnées personnelles, des historiques de paiement, des mots de passe hachés et même des codes d&amp;#8217;accès à...
-L’article Ma Déco de Fête : 45 000 fiches en fuite, jusqu’aux codes d’immeuble des clients est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 21:08:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre Autosur : près de 800 000 fiches clients mises en vente</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-autosur-pres-de-800-000-fiches-clients-mises-en-vente/</link>
-    <description>Près de 800 000 enregistrements attribués à Autosur sont proposés à la vente depuis le 31 octobre 2026....
-L’article Cyberattaque contre Autosur : près de 800 000 fiches clients mises en vente est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 21:00:06 +0000</pubDate>
   </item>
 </channel>
 </rss>
