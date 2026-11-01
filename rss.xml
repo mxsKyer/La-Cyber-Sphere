@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Alpine Linux rebuilds GitLab after attempted RCE attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</link>
+    <description>Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 01 Nov 2026 10:11:21 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI says it's doubling Pro usage limits and bringing Work features to Chat</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/</link>
+    <description>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 01 Nov 2026 08:53:11 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</title>
     <link>https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html</link>
     <description>A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the…</description>
@@ -74,90 +88,6 @@ L’article Ma Déco de Fête : 45 000 fiches en fuite, jusqu’aux codes d’im
 L’article Cyberattaque contre Autosur : près de 800 000 fiches clients mises en vente est apparu en premier sur…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 31 Oct 2026 21:00:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Northflank security breach leads to abuse of customers' AI API keys</title>
-    <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
-    <description>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 31 Oct 2026 14:01:12 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Une nouvelle cyberattaque contre la Fédération nationale des chasseurs</title>
-    <link>https://www.cyberattaque.org/une-nouvelle-cyberattaque-contre-la-federation-nationale-des-chasseurs/</link>
-    <description>Des identifiants, des numéros de téléphone, des dates de naissance et même des empreintes de mots de passe...
-L’article Une nouvelle cyberattaque contre la Fédération nationale des chasseurs est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 16:57:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pharmacie de la Cigogne à Strasbourg : 110 000 patients exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/pharmacie-de-la-cigogne-a-strasbourg-110-000-patients-exposes-apres-une-cyberattaque/</link>
-    <description>Une deuxième pharmacie française visée en quelques heures, et cette fois, le volume revendiqué atteint 110 000 patients....
-L’article Pharmacie de la Cigogne à Strasbourg : 110 000 patients exposés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 16:48:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Canton de Vaud : 41 500 élèves et enseignants victimes d’une cyberattaque</title>
-    <link>https://www.cyberattaque.org/suisse-canton-de-vaud-41-500-eleves-et-enseignants-victimes-dune-cyberattaque/</link>
-    <description>Environ 41 500 élèves et enseignants du canton de Vaud, en Suisse, sont concernés par une importante fuite...
-L’article Canton de Vaud : 41 500 élèves et enseignants victimes d’une cyberattaque est apparu en premier sur…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 16:18:11 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New Android SMS of Death exploit can remotely crash unpatched phones</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</link>
-    <description>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 31 Oct 2026 11:35:11 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SolNet : 6 804 données de messagerie du FAI Suisse mises en vente sur le darkweb</title>
-    <link>https://www.cyberattaque.org/solnet-messagerie-cyberattaque-darkweb/</link>
-    <description>Qui a envoyé un email, à qui, depuis quelle adresse IP et à quel moment ? Ce sont...
-L’article SolNet : 6 804 données de messagerie du FAI Suisse mises en vente sur le darkweb est apparu en premier sur Cyberattaque.org.</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 15:29:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pharmacie des Congrès à Dijon : 23 000 dossiers de patients en fuite</title>
-    <link>https://www.cyberattaque.org/pharmacie-des-congres-a-dijon-23-000-dossiers-de-patients-en-fuite/</link>
-    <description>La Pharmacie des Congrès, située à Dijon en Côte-d&amp;#8217;Or, est visée par une importante revendication de cyberattaque ce...
-L’article Pharmacie des Congrès à Dijon : 23 000 dossiers de patients en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 15:16:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Assoclub : les données de milliers d’enfants exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/assoclub-les-donnees-de-milliers-denfants-exposees-apres-une-cyberattaque/</link>
-    <description>Assoclub, un logiciel français de gestion d&amp;#8217;associations, est visé par une importante fuite de données révélée ce samedi...
-L’article Assoclub : les données de milliers d’enfants exposées après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 15:04:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Les Écologistes : le parti visé par une fuite de données</title>
-    <link>https://www.cyberattaque.org/les-ecologistes-un-hacker-annonce-une-fuite-de-donnees/</link>
-    <description>Les Écologistes, le parti politique français anciennement connu sous le nom d&amp;#8217;Europe Écologie Les Verts (EELV), sont visés...
-L’article Les Écologistes : le parti visé par une fuite de données est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 31 Oct 2026 14:56:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Reddit to lock content behind logins to fight scrapers</title>
-    <link>https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/</link>
-    <description>Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a "logged-in service," offering limited access to visitors without accounts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 31 Oct 2026 10:05:15 -0400</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.</title>
-    <link>https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/</link>
-    <description>AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 31 Oct 2026 09:10:19 -0400</pubDate>
   </item>
 </channel>
 </rss>
