@@ -6,6 +6,210 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</title>
+    <link>https://therecord.media/michigan-state-university-byod-gang-cyber-incident</link>
+    <description>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 19:54:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque contre Brico Dépôt : 57 109 factures de location de camions en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-brico-depotlocation/</link>
+    <description>Les informations personnelles de milliers de clients de Brico Dépôt pourraient avoir été compromises à travers son service...
+L’article Cyberattaque contre Brico Dépôt : 57 109 factures de location de camions en fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 19:53:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] DEKRA-Norisko : les données personnelles d’automobilistes compromises après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/dekra-norisko-les-donnees-personnelles-dautomobilistes-compromises-apres-une-cyberattaque/</link>
+    <description>Une nouvelle fuite de données touche les automobilistes français. DEKRA Automotive confirme un incident de sécurité survenu le...
+L’article DEKRA-Norisko : les données personnelles d’automobilistes compromises après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 19:30:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Love and Vibes : les achats intimes de ce sex-shop dérobés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/love-and-vibes-les-achats-intimes-de-ce-sex-shop-derobes-apres-une-cyberattaque/</link>
+    <description>Les achats intimes de clients du site Love and Vibes ont potentiellement été récupérés lors d&amp;#8217;un incident informatique...
+L’article Love and Vibes : les achats intimes de ce sex-shop dérobés après une cyberattaque…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 19:19:06 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fintech platform Sageworks taken offline after suspected cyberattack</title>
+    <link>https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/</link>
+    <description>Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 14:00:45 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google disrupts million-device XCPE Android malware botnet, bans TV box maker</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/</link>
+    <description>Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 13:16:34 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Polymarket pledges to give $3.9 million back to victims after site compromise</title>
+    <link>https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise</link>
+    <description>In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 17:05:20 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</title>
+    <link>https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html</link>
+    <description>Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 22:27:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</title>
+    <link>https://therecord.media/hackers-ukraine-belarus-russia</link>
+    <description>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 16:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Office de tourisme de Strasbourg : une cyberattaque expose les données des visiteurs</title>
+    <link>https://www.cyberattaque.org/office-de-tourisme-de-strasbourg-une-cyberattaque-expose-les-donnees-des-visiteurs/</link>
+    <description>Le site Internet de l&amp;#8217;office de tourisme de Strasbourg a été victime d&amp;#8217;une cyberattaque dans la nuit du...
+L’article Office de tourisme de Strasbourg : une cyberattaque expose les données des visiteurs est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 16:11:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access</title>
+    <link>https://thehackernews.com/2026/11/google-disrupts-13-million-device.html</link>
+    <description>A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.
+
+Google says&amp;nbsp;it is highly confident that device maker Videostrong…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 21:20:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] BTCPay Server warns of hot wallet crypto thefts on outdated instances</title>
+    <link>https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/</link>
+    <description>The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining "hot wallets" on instances running older versions. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 10:03:07 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Your Mobile Carrier Stores Your Call Logs for Years</title>
+    <link>https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/</link>
+    <description>Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 10:01:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque massive en Europe : les pirates sabotent les frigos des supermarchés</title>
+    <link>https://www.cyberattaque.org/cyberattaque-massive-en-europe-les-pirates-sabotent-les-frigos-des-supermarches/</link>
+    <description>Une vague de cyberattaques frappe les systèmes frigorifiques des supermarchés européens. Dans la nuit du 1er au 2...
+L’article Cyberattaque massive en Europe : les pirates sabotent les frigos des supermarchés est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 14:47:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment</title>
+    <link>https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html</link>
+    <description>Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.
+
+According to a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 20:16:05 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Apple warns users in 99 countries of mercenary spyware</title>
+    <link>https://therecord.media/apple-warns-users-99-countries-mercenary-spyware</link>
+    <description>Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 14:42:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings</title>
+    <link>https://therecord.media/ukraine-hackers-russia-alert-system</link>
+    <description>A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 14:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers disrupt refrigeration systems at European supermarkets</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/</link>
+    <description>A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 09:28:39 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes Smart App Control broken by October Windows update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/</link>
+    <description>Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 08:57:29 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] D-EDGE : des voyageurs ciblés par des escrocs après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/d-edge-des-voyageurs-cibles-par-des-escrocs-apres-une-cyberattaque/</link>
+    <description>Les données personnelles de voyageurs ayant réservé des chambres d&amp;#8217;hôtel ont été consultées frauduleusement les 20 et 21...
+L’article D-EDGE : des voyageurs ciblés par des escrocs après une cyberattaque est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 13:14:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Over 1,000 GitLab servers vulnerable to ongoing RCE attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/</link>
+    <description>Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 07:47:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Guécélard : des habitants piégés après le piratage de la messagerie de la mairie</title>
+    <link>https://www.cyberattaque.org/guecelard-des-habitants-pieges-apres-le-piratage-de-la-messagerie-de-la-mairie/</link>
+    <description>La mairie de Guécélard, dans la Sarthe, confirme le piratage de la messagerie électronique de ses services techniques....
+L’article Guécélard : des habitants piégés après le piratage de la messagerie de la mairie est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 11:51:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers</title>
+    <link>https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html</link>
+    <description>Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&amp;nbsp;IBM said last week.
+
+Langflow is an open-source tool for building AI agents and workflows,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 17:20:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy</title>
+    <link>https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html</link>
+    <description>Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Synology warns of C3RB3R ransomware attacks targeting NAS devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/</link>
+    <description>Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 06:28:42 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</title>
+    <link>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</link>
+    <description>Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 16:38:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts</title>
+    <link>https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html</link>
+    <description>Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.
+
+The activity, observed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 16:19:59 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ivanti patches two more Connect Secure zero-days chained in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</link>
     <description>Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]</description>
@@ -57,43 +261,6 @@ L’article Bien’ici : 13 000 fiches d’agences mises en vente par un hacker 
     <description>The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.</description>
     <source>The Record</source>
     <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</link>
-    <description>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 01 Nov 2026 14:57:53 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MPA Group : 1,1 million de plaques d’immatriculation et des adresses personnelles en fuite</title>
-    <link>https://www.cyberattaque.org/mpa-group-11-million-de-plaques-dimmatriculation-et-des-adresses-personnelles-en-fuite/</link>
-    <description>Une plaque d&amp;#8217;immatriculation visible dans la rue pourrait désormais être associée au nom, à l&amp;#8217;adresse et au téléphone...
-L’article MPA Group : 1,1 million de plaques d’immatriculation et des adresses…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 01 Nov 2026 18:57:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque</title>
-    <link>https://www.cyberattaque.org/grande-pharmacie-bailly-plus-de-300-000-patients-revendiques-dans-une-cyberattaque/</link>
-    <description>Les ordonnances et les données personnelles de centaines de milliers de patients pourraient se retrouver entre les mains...
-L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 01 Nov 2026 18:48:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Alpine Linux rebuilds GitLab after attempted RCE attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</link>
-    <description>Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 01 Nov 2026 10:11:21 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI says it's doubling Pro usage limits and bringing Work features to Chat</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/</link>
-    <description>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 01 Nov 2026 08:53:11 -0500</pubDate>
   </item>
 </channel>
 </rss>
