@@ -6,6 +6,59 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Ivanti patches two more Connect Secure zero-days chained in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</link>
+    <description>Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 02 Nov 2026 04:33:26 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AMSAM : les patients et salariés alertés d’une fuite de leurs données personnelles après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/amsam-les-patients-et-salaries-alertes-dune-fuite-de-leurs-donnees-personnelles-apres-une-cyberattaque/</link>
+    <description>Une cyberattaque, des données personnelles dérobées et des milliers de personnes potentiellement concernées. L&amp;#8217;AMSAM, importante association médico-sociale basée...
+L’article AMSAM : les patients et salariés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 09:05:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque contre Trigger.dev : des accès sensibles de clients compromis</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-trigger-dev-des-acces-sensibles-de-clients-compromis/</link>
+    <description>Trigger.dev, une plateforme utilisée par les développeurs pour exécuter des tâches automatisées et des agents d&amp;#8217;intelligence artificielle, a...
+L’article Cyberattaque contre Trigger.dev : des accès sensibles de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 06:04:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value</title>
+    <link>https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html</link>
+    <description>Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 02 Nov 2026 11:21:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] HelloDepann : les adresses et dépannages de 4 651 clients en fuite</title>
+    <link>https://www.cyberattaque.org/hellodepann-les-adresses-et-depannages-de-4-651-clients-en-fuite/</link>
+    <description>Une serrure à remplacer, une porte bloquée ou une fuite d&amp;#8217;eau à réparer : ces informations privées, associées...
+L’article HelloDepann : les adresses et dépannages de 4 651 clients en fuite est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 05:50:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bien’ici : 13 000 fiches d’agences mises en vente par un hacker</title>
+    <link>https://www.cyberattaque.org/bienici-13-000-fiches-dagences-mises-en-vente-par-un-hacker/</link>
+    <description>Un hacker affirme avoir piraté Bien’ici et récupéré les données de 13 000 agences immobilières françaises. Le 1er...
+L’article Bien’ici : 13 000 fiches d’agences mises en vente par un hacker est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 02 Nov 2026 05:00:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions</title>
+    <link>https://therecord.media/fbi-blames-tradertraitor-for-binance-hack</link>
+    <description>The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
     <link>https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</link>
     <description>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]</description>
@@ -41,36 +94,6 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
     <description>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 01 Nov 2026 08:53:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</title>
-    <link>https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html</link>
-    <description>A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 01 Nov 2026 14:21:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script</title>
-    <link>https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html</link>
-    <description>Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 01 Nov 2026 12:55:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist</title>
-    <link>https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</link>
-    <description>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 01 Nov 2026 12:33:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</title>
-    <link>https://thehackernews.com/2026/11/netamloader-malware-targets-government.html</link>
-    <description>Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
-
-The activity, detailed by Kaspersky this week,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 01 Nov 2026 12:32:58 +0530</pubDate>
   </item>
 </channel>
 </rss>

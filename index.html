@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-01T22:40:54.177746+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-02T09:51:44.891104+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">2</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">2</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">6</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">6</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -569,23 +569,23 @@
       
       <div class="sev-critical" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
         <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg>
+          <svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg>
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>Alpine Linux rebuilds GitLab after attempted RCE attack</h2>
-      <p class="dek">Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…</p>
-      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 11 h</div>
+      <h2>Ivanti patches two more Connect Secure zero-days chained in attacks</h2>
+      <p class="dek">Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]</p>
+      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 18 min</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 000</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 020</div>
       </div>
-      <div class="index-value">0<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-value">20<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
       <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 100 points sur 7 jours
+        ▼ 80 points sur 7 jours
         
       </div>
       <canvas id="riskline"></canvas>
@@ -616,31 +616,32 @@
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 46 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>FBI links $6.3 billion Binance crypto heist to North Korean hackers</h3>
-          <p>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>AMSAM : les patients et salariés alertés d’une fuite de leurs données personnelles après une cyberattaque</h3>
+          <p>Une cyberattaque, des données personnelles dérobées et des milliers de personnes potentiellement concernées. L&#8217;AMSAM, importante association médico-sociale basée...
+L’article AMSAM : les patients et salariés…</p>
+          <a href="https://www.cyberattaque.org/amsam-les-patients-et-salaries-alertes-dune-fuite-de-leurs-donnees-personnelles-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-2">
+      <article class="story sev-high" id="story-2">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>MPA Group : 1,1 million de plaques d’immatriculation et des adresses personnelles en fuite</h3>
-          <p>Une plaque d&#8217;immatriculation visible dans la rue pourrait désormais être associée au nom, à l&#8217;adresse et au téléphone...
-L’article MPA Group : 1,1 million de plaques d’immatriculation et des adresses…</p>
-          <a href="https://www.cyberattaque.org/mpa-group-11-million-de-plaques-dimmatriculation-et-des-adresses-personnelles-en-fuite/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Cyberattaque contre Trigger.dev : des accès sensibles de clients compromis</h3>
+          <p>Trigger.dev, une plateforme utilisée par les développeurs pour exécuter des tâches automatisées et des agents d&#8217;intelligence artificielle, a...
+L’article Cyberattaque contre Trigger.dev : des accès sensibles de…</p>
+          <a href="https://www.cyberattaque.org/cyberattaque-contre-trigger-dev-des-acces-sensibles-de-clients-compromis/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
         </div>
       </article>
@@ -651,14 +652,13 @@ L’article MPA Group : 1,1 million de plaques d’immatriculation et des adress
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque</h3>
-          <p>Les ordonnances et les données personnelles de centaines de milliers de patients pourraient se retrouver entre les mains...
-L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque…</p>
-          <a href="https://www.cyberattaque.org/grande-pharmacie-bailly-plus-de-300-000-patients-revendiques-dans-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value</h3>
+          <p>Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization…</p>
+          <a href="https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
         </div>
       </article>
@@ -669,13 +669,14 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>OpenAI says it's doubling Pro usage limits and bringing Work features to Chat</h3>
-          <p>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>HelloDepann : les adresses et dépannages de 4 651 clients en fuite</h3>
+          <p>Une serrure à remplacer, une porte bloquée ou une fuite d&#8217;eau à réparer : ces informations privées, associées...
+L’article HelloDepann : les adresses et dépannages de 4 651 clients en fuite est apparu en premier…</p>
+          <a href="https://www.cyberattaque.org/hellodepann-les-adresses-et-depannages-de-4-651-clients-en-fuite/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
         </div>
       </article>
@@ -686,13 +687,14 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key</h3>
-          <p>A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the…</p>
-          <a href="https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Bien’ici : 13 000 fiches d’agences mises en vente par un hacker</h3>
+          <p>Un hacker affirme avoir piraté Bien’ici et récupéré les données de 13 000 agences immobilières françaises. Le 1er...
+L’article Bien’ici : 13 000 fiches d’agences mises en vente par un hacker est apparu en premier sur…</p>
+          <a href="https://www.cyberattaque.org/bienici-13-000-fiches-dagences-mises-en-vente-par-un-hacker/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
         </div>
       </article>
@@ -703,13 +705,13 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script</h3>
-          <p>Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded…</p>
-          <a href="https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions</h3>
+          <p>The FBI and U.S. Secret Service alleged this weekend that North Korean hackers were responsible for stealing more than $6.3 billion from cryptocurrency platform Binance last week.</p>
+          <a href="https://therecord.media/fbi-blames-tradertraitor-for-binance-hack" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
         </div>
       </article>
@@ -720,13 +722,13 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist</h3>
-          <p>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet,…</p>
-          <a href="https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>FBI links $6.3 billion Binance crypto heist to North Korean hackers</h3>
+          <p>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
         </div>
       </article>
@@ -737,16 +739,67 @@ L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>MPA Group : 1,1 million de plaques d’immatriculation et des adresses personnelles en fuite</h3>
+          <p>Une plaque d&#8217;immatriculation visible dans la rue pourrait désormais être associée au nom, à l&#8217;adresse et au téléphone...
+L’article MPA Group : 1,1 million de plaques d’immatriculation et des adresses…</p>
+          <a href="https://www.cyberattaque.org/mpa-group-11-million-de-plaques-dimmatriculation-et-des-adresses-personnelles-en-fuite/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-9">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque</h3>
+          <p>Les ordonnances et les données personnelles de centaines de milliers de patients pourraient se retrouver entre les mains...
+L’article Grande Pharmacie Bailly : plus de 300 000 patients revendiqués dans une cyberattaque…</p>
+          <a href="https://www.cyberattaque.org/grande-pharmacie-bailly-plus-de-300-000-patients-revendiques-dans-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-10">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Alpine Linux rebuilds GitLab after attempted RCE attack</h3>
+          <p>Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-11">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</h3>
-          <p>Cybersecurity researchers have disclosed details of what has been described as a "highly sophisticated infection chain" targeting government organizations in Asia.
-
-The activity, detailed by Kaspersky this week,…</p>
-          <a href="https://thehackernews.com/2026/11/netamloader-malware-targets-government.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
+          <h3>OpenAI says it's doubling Pro usage limits and bringing Work features to Chat</h3>
+          <p>OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
         </div>
       </article>
 
@@ -775,8 +828,8 @@ The activity, detailed by Kaspersky this week,…</p>
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">227</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">45</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">233</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">46</span></div>
         <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">17</span></div>
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1325 min</span></div>
       </div>
@@ -801,6 +854,30 @@ The activity, detailed by Kaspersky this week,…</p>
     <p class="france-signals-sub">Le détail exact des signaux comptés dans le bandeau ci-dessus : source française reconnue (CERT-FR, ANSSI, ZATAZ), domaine en <code>.fr</code>, ou mention explicite de la France dans le texte.</p>
     <div class="france-list">
       
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Bien’ici : 13 000 fiches d’agences mises en vente par un hacker</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/bienici-13-000-fiches-dagences-mises-en-vente-par-un-hacker/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">HelloDepann : les adresses et dépannages de 4 651 clients en fuite</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/hellodepann-les-adresses-et-depannages-de-4-651-clients-en-fuite/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-high">Élevé</span>
+          <span class="ftitle">Cyberattaque contre Trigger.dev : des accès sensibles de clients compromis</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/cyberattaque-contre-trigger-dev-des-acces-sensibles-de-clients-compromis/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">AMSAM : les patients et salariés alertés d’une fuite de leurs données personnelles après une cyberattaque</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/amsam-les-patients-et-salaries-alertes-dune-fuite-de-leurs-donnees-personnelles-apres-une-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
         
         <div class="france-row">
           <span class="fsev sev-low">Faible</span>
@@ -841,10 +918,10 @@ The activity, detailed by Kaspersky this week,…</p>
         <tr>
           <td class="geo-actor">Lazarus Group</td>
           <td class="geo-origin">Corée du Nord — Bureau général de reconnaissance</td>
-          <td>FBI links $6.3 billion Binance crypto heist to North Korean hackers</td>
+          <td>FBI blames N. Korea’s TraderTraitor for Binance theft, urges crypto industry to block transactions</td>
           <td>Autres</td>
           <td><span class="geo-sev high">Faible</span></td>
-          <td class="geo-source"><a href="https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/" target="_blank" rel="noopener">BleepingComputer</a></td>
+          <td class="geo-source"><a href="https://therecord.media/fbi-blames-tradertraitor-for-binance-hack" target="_blank" rel="noopener">The Record</a></td>
         </tr>
         
         <tr>
@@ -1130,7 +1207,7 @@ The activity, detailed by Kaspersky this week,…</p>
       ctx.stroke();
     }
 
-    const points = [100, 100, 100, 39, 19, 100, 100, 100, 98, 100, 52, 18, 0];
+    const points = [100, 100, 100, 39, 19, 100, 100, 100, 98, 100, 52, 18, 20];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,
