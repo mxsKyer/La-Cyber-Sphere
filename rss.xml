@@ -6,6 +6,72 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/</link>
+    <description>Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 17:18:50 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] WorkOS says attacker used ARTEX AI to breach internal sales app</title>
+    <link>https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/</link>
+    <description>Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 16:28:44 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre l’EFS : des hackers s’attaquent aux réserves de plasma sanguin</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-lefs-des-hackers-sattaquent-aux-reserves-de-plasma-sanguin/</link>
+    <description>Après les supermarchés français et européens, les cybercriminels s&amp;#8217;attaquent désormais aux installations frigorifiques du secteur médical. Dans la...
+L’article Cyberattaque contre l’EFS : des hackers s’attaquent…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 03 Nov 2026 20:37:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Binance says fake job interview led to $6.3 billion crypto heist</title>
+    <link>https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/</link>
+    <description>Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 15:05:50 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google dismantles massive botnet hidden in Android TV boxes</title>
+    <link>https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes</link>
+    <description>The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 19:48:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google: LLMjacking attacks rack up $1 million in cloud AI charges</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/</link>
+    <description>Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 13:51:04 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity</title>
+    <link>https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html</link>
+    <description>Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 00:16:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Several German lawmakers and foreign policy staff received Apple warnings on spyware</title>
+    <link>https://therecord.media/german-officials-among-apple-spyware-warning-recipients</link>
+    <description>Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 18:44:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes</title>
+    <link>https://thehackernews.com/2026/11/chainstack-reports-production-systems.html</link>
+    <description>Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.
+
+The incident is assessed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 23:46:19 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] British businesses caught in Europe-wide supermarket fridge attacks</title>
     <link>https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks</link>
     <description>Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified…</description>
@@ -213,56 +279,11 @@ The vulnerability in question is…</description>
     <pubDate>Tue, 03 Nov 2026 00:01:00 GMT</pubDate>
   </item>
   <item>
-    <title>[Faible] Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform</title>
-    <link>https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist</link>
-    <description>Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 21:42:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Chinese hackers use ARTEX AI in automated attacks against 200 orgs</title>
-    <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/</link>
-    <description>Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 16:40:14 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</title>
-    <link>https://therecord.media/michigan-state-university-byod-gang-cyber-incident</link>
-    <description>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 19:54:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre Brico Dépôt : 57 109 factures de location de camions en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-brico-depotlocation/</link>
-    <description>Les informations personnelles de milliers de clients de Brico Dépôt pourraient avoir été compromises à travers son service...
-L’article Cyberattaque contre Brico Dépôt : 57 109 factures de location de camions en fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 19:53:54 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] DEKRA-Norisko : les données personnelles d’automobilistes compromises après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/dekra-norisko-les-donnees-personnelles-dautomobilistes-compromises-apres-une-cyberattaque/</link>
-    <description>Une nouvelle fuite de données touche les automobilistes français. DEKRA Automotive confirme un incident de sécurité survenu le...
-L’article DEKRA-Norisko : les données personnelles d’automobilistes compromises après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 19:30:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Love and Vibes : les achats intimes de ce sex-shop dérobés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/love-and-vibes-les-achats-intimes-de-ce-sex-shop-derobes-apres-une-cyberattaque/</link>
-    <description>Les achats intimes de clients du site Love and Vibes ont potentiellement été récupérés lors d&amp;#8217;un incident informatique...
-L’article Love and Vibes : les achats intimes de ce sex-shop dérobés après une cyberattaque…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 19:19:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fintech platform Sageworks taken offline after suspected cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/</link>
-    <description>Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 14:00:45 -0500</pubDate>
+    <title>[Critique] CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-119977</link>
+    <description>WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-03</pubDate>
   </item>
 </channel>
 </rss>
