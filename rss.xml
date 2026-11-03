@@ -6,11 +6,154 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] British businesses caught in Europe-wide supermarket fridge attacks</title>
+    <link>https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks</link>
+    <description>Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 17:43:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] JASP-K9 : les factures d’un équipementier des forces de l’ordre exposées par une faille</title>
+    <link>https://www.cyberattaque.org/jasp-k9-les-factures-dun-equipementier-des-forces-de-lordre-exposees-par-une-faille/</link>
+    <description>Près de 1 700 factures attribuées à JASP-K9, une entreprise française spécialisée dans la vente et la personnalisation...
+L’article JASP-K9 : les factures d’un équipementier des forces de l’ordre exposées par une faille…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 03 Nov 2026 17:21:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft</title>
+    <link>https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html</link>
+    <description>Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a "sophisticated, multi-stage campaign" that involved the use of a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 22:25:58 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] AFIB : près de 3 800 professionnels de la banque et de l’assurance concernés par une fuite de données</title>
+    <link>https://www.cyberattaque.org/afib-pres-de-3-800-professionnels-de-la-banque-et-de-lassurance-concernes-par-une-fuite-de-donnees/</link>
+    <description>Les coordonnées de milliers de professionnels du crédit et de l&amp;#8217;assurance ont été diffusées par un pirate informatique....
+L’article AFIB : près de 3 800 professionnels de la banque et de l’assurance concernés par…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 03 Nov 2026 16:52:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility</title>
+    <link>https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea</link>
+    <description>North Korean attackers "combined a range of techniques, including social engineering by fake recruitment interviews," Binance said about the multibillion-dollar crypto heist it discovered in October.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 16:42:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access</title>
+    <link>https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html</link>
+    <description>Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 21:29:19 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges</title>
+    <link>https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html</link>
+    <description>Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.
+
+The tactic is called LLMjacking, a form…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 21:11:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes</title>
+    <link>https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html</link>
+    <description>An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.
+
+The script installed a backdoor and collected password hashes and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 20:46:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Barracuda warns of critical flaws allowing root access to devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/</link>
+    <description>Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 10:06:16 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028</title>
+    <link>https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/</link>
+    <description>Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] UK school estate hit by 3AM ransomware in suspected AI-assisted attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</link>
+    <description>A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 09:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects</title>
+    <link>https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three</link>
+    <description>Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 13:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes</title>
+    <link>https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support</link>
+    <description>The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 03 Nov 2026 13:39:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police seizes over 100 servers in investment scam crackdown</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</link>
+    <description>European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 08:33:49 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs</title>
+    <link>https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/</link>
+    <description>Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 07:05:52 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
     <link>https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years</link>
     <description>The NCSC warns that ‘tech on the cheap’ has left UK organisations exposed to AI uncovering and exploiting longstanding cyber security weaknesses and calls for urgent investment in resilience.</description>
     <source>NCSC UK</source>
     <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</title>
+    <link>https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html</link>
+    <description>Fixed kernels for a&amp;nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&amp;nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 16:53:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The 4 Elements of Exposure Prioritization and How to Operationalize Them</title>
+    <link>https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</link>
+    <description>Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 16:48:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware</title>
+    <link>https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html</link>
+    <description>A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.
+
+"Active since at least February 2025, the group has focused…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 03 Nov 2026 16:30:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Harvard University data breach exposed info of 851,000 accounts</title>
+    <link>https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/</link>
+    <description>Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 03 Nov 2026 05:53:25 -0500</pubDate>
   </item>
   <item>
     <title>[Critique] Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets</title>
@@ -120,172 +263,6 @@ L’article Love and Vibes : les achats intimes de ce sex-shop dérobés après 
     <description>Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by "irregular activity" in its environment. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 02 Nov 2026 14:00:45 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google disrupts million-device XCPE Android malware botnet, bans TV box maker</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-disrupts-million-device-xcpe-android-malware-botnet-bans-tv-box-maker/</link>
-    <description>Google and industry partners have dismantled the XCPE malware botnet consisting of more than 1.3 million Android TV streaming TV boxes that Google says its manufacturer intentionally infected with malware to generate…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 13:16:34 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Polymarket pledges to give $3.9 million back to victims after site compromise</title>
-    <link>https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise</link>
-    <description>In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 17:05:20 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More</title>
-    <link>https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html</link>
-    <description>Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 22:27:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia's statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</title>
-    <link>https://therecord.media/hackers-ukraine-belarus-russia</link>
-    <description>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia's federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 16:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Office de tourisme de Strasbourg : une cyberattaque expose les données des visiteurs</title>
-    <link>https://www.cyberattaque.org/office-de-tourisme-de-strasbourg-une-cyberattaque-expose-les-donnees-des-visiteurs/</link>
-    <description>Le site Internet de l&amp;#8217;office de tourisme de Strasbourg a été victime d&amp;#8217;une cyberattaque dans la nuit du...
-L’article Office de tourisme de Strasbourg : une cyberattaque expose les données des visiteurs est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 16:11:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access</title>
-    <link>https://thehackernews.com/2026/11/google-disrupts-13-million-device.html</link>
-    <description>A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.
-
-Google says&amp;nbsp;it is highly confident that device maker Videostrong…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 21:20:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] BTCPay Server warns of hot wallet crypto thefts on outdated instances</title>
-    <link>https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/</link>
-    <description>The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining "hot wallets" on instances running older versions. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 10:03:07 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Your Mobile Carrier Stores Your Call Logs for Years</title>
-    <link>https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/</link>
-    <description>Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 10:01:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque massive en Europe : les pirates sabotent les frigos des supermarchés</title>
-    <link>https://www.cyberattaque.org/cyberattaque-massive-en-europe-les-pirates-sabotent-les-frigos-des-supermarches/</link>
-    <description>Une vague de cyberattaques frappe les systèmes frigorifiques des supermarchés européens. Dans la nuit du 1er au 2...
-L’article Cyberattaque massive en Europe : les pirates sabotent les frigos des supermarchés est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 14:47:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment</title>
-    <link>https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html</link>
-    <description>Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.
-
-According to a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 20:16:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Apple warns users in 99 countries of mercenary spyware</title>
-    <link>https://therecord.media/apple-warns-users-99-countries-mercenary-spyware</link>
-    <description>Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 14:42:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings</title>
-    <link>https://therecord.media/ukraine-hackers-russia-alert-system</link>
-    <description>A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 02 Nov 2026 14:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers disrupt refrigeration systems at European supermarkets</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/</link>
-    <description>A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 09:28:39 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes Smart App Control broken by October Windows update</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/</link>
-    <description>Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 08:57:29 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] D-EDGE : des voyageurs ciblés par des escrocs après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/d-edge-des-voyageurs-cibles-par-des-escrocs-apres-une-cyberattaque/</link>
-    <description>Les données personnelles de voyageurs ayant réservé des chambres d&amp;#8217;hôtel ont été consultées frauduleusement les 20 et 21...
-L’article D-EDGE : des voyageurs ciblés par des escrocs après une cyberattaque est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 13:14:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Over 1,000 GitLab servers vulnerable to ongoing RCE attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/</link>
-    <description>Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 07:47:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Guécélard : des habitants piégés après le piratage de la messagerie de la mairie</title>
-    <link>https://www.cyberattaque.org/guecelard-des-habitants-pieges-apres-le-piratage-de-la-messagerie-de-la-mairie/</link>
-    <description>La mairie de Guécélard, dans la Sarthe, confirme le piratage de la messagerie électronique de ses services techniques....
-L’article Guécélard : des habitants piégés après le piratage de la messagerie de la mairie est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 02 Nov 2026 11:51:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers</title>
-    <link>https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html</link>
-    <description>Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code,&amp;nbsp;IBM said last week.
-
-Langflow is an open-source tool for building AI agents and workflows,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 17:20:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy</title>
-    <link>https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html</link>
-    <description>Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Synology warns of C3RB3R ransomware attacks targeting NAS devices</title>
-    <link>https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/</link>
-    <description>Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 02 Nov 2026 06:28:42 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data</title>
-    <link>https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html</link>
-    <description>Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 16:38:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts</title>
-    <link>https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html</link>
-    <description>Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.
-
-The activity, observed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 02 Nov 2026 16:19:59 +0530</pubDate>
   </item>
 </channel>
 </rss>
