@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers</title>
+    <link>https://www.cyberattaque.org/le-site-de-linrae-pirate-12-go-de-donnees-revendiques-par-les-hackers/</link>
+    <description>Un site Internet de l&amp;#8217;INRAE a été détourné le 3 novembre 2026, tandis qu&amp;#8217;une revendication fait état du...
+L’article Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 04 Nov 2026 05:49:02 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/</link>
     <description>Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]</description>
@@ -245,45 +253,6 @@ The Taiwanese vendor said it observed threat actors…</description>
 No chain…</description>
     <source>The Hacker News</source>
     <pubDate>Tue, 03 Nov 2026 12:57:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors</title>
-    <link>https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html</link>
-    <description>A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.
-
-The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 11:04:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials</title>
-    <link>https://thehackernews.com/2026/11/attackers-target-unpatched.html</link>
-    <description>Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.
-
-The vulnerability in question is…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 11:04:37 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</title>
-    <link>https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/</link>
-    <description>Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 03 Nov 2026 02:24:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief</title>
-    <link>https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months</link>
-    <description>"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable," the NCSC's chief will warn in releasing the agency's annual report.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 03 Nov 2026 00:01:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-119977 — WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-119977</link>
-    <description>WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable, web-accessible staging paths used during full-package core upgrades.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-03</pubDate>
   </item>
 </channel>
 </rss>
