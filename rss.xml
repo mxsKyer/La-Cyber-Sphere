@@ -6,12 +6,127 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyberattack wipes cloud data at major Russian hosting provider Beget</title>
+    <link>https://therecord.media/russia-cyberattack-beget-cloud</link>
+    <description>A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 04 Nov 2026 14:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] TikTok, une passerelle vers les casinos illégaux ?</title>
+    <link>https://www.zataz.com/tiktok-une-passerelle-vers-les-casinos-illegaux/</link>
+    <description>Sur TikTok, des jeux vidéo peuvent mener à des casinos illégaux. Analyse des redirections, risques et sanctions.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 04 Nov 2026 13:58:13 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] French blood service hit by Europe-wide cyberattacks on refrigeration</title>
+    <link>https://therecord.media/france-cyberattack-blood-refrigeration</link>
+    <description>Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 04 Nov 2026 13:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] US charges two Canadians accused of hacking US universities</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/</link>
+    <description>A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 04 Nov 2026 08:13:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA flags WordPress RCE flaw as actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/</link>
+    <description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 04 Nov 2026 07:11:05 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads</title>
+    <link>https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html</link>
+    <description>A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 17:37:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory</title>
+    <link>https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html</link>
+    <description>Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.
+
+Dom0 is the VM that, by default, has full permissions and manages…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 17:16:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It</title>
+    <link>https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html</link>
+    <description>Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 17:04:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fédération française de pelote basque : 31 814 données de compétition diffusées sur le darkweb</title>
+    <link>https://www.cyberattaque.org/federation-francaise-de-pelote-basque-cyberattaque/</link>
+    <description>Les noms, prénoms, numéros de licence et clubs de milliers de joueurs de pelote basque, dont de nombreux...
+L’article Fédération française de pelote basque : 31 814 données de compétition diffusées sur le darkweb est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 04 Nov 2026 11:32:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor</title>
+    <link>https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html</link>
+    <description>A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 16:54:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers use n-day exploits in zero-click attacks on iOS, Android devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/</link>
+    <description>A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 04 Nov 2026 04:39:54 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure</title>
+    <link>https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html</link>
+    <description>Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.
+
+Also known as Fluffy Wolf, the threat actor has a history of targeting Russian…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 13:47:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fortuneo : une cyberattaque aurait permis de détourner plus de 133M$ du Crédit Mutuel Arkéa</title>
+    <link>https://www.cyberattaque.org/credit-mutuel-arkea-lombre-dun-detournement-de-133-millions-de-dollars-en-cryptomonnaies/</link>
+    <description>La banque en ligne Fortuneo, filiale du Crédit Mutuel Arkéa, aurait été directement ciblée par une attaque ayant...
+L’article Fortuneo : une cyberattaque aurait permis de détourner plus de 133M$ du Crédit Mutuel Arkéa…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction</title>
+    <link>https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html</link>
+    <description>A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&amp;nbsp;November security bulletin.
+
+The flaw, CVE-2026-58868, affects Android 14 through 17.…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 13:16:15 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers</title>
     <link>https://www.cyberattaque.org/le-site-de-linrae-pirate-12-go-de-donnees-revendiques-par-les-hackers/</link>
     <description>Un site Internet de l&amp;#8217;INRAE a été détourné le 3 novembre 2026, tandis qu&amp;#8217;une revendication fait état du...
 L’article Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers est apparu en…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 04 Nov 2026 05:49:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
+    <link>https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 04 Nov 2026 11:13:11 +0530</pubDate>
   </item>
   <item>
     <title>[Élevé] Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</title>
@@ -156,103 +271,6 @@ The script installed a backdoor and collected password hashes and…</descriptio
     <description>Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 03 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] UK school estate hit by 3AM ransomware in suspected AI-assisted attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</link>
-    <description>A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 09:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects</title>
-    <link>https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three</link>
-    <description>Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 03 Nov 2026 13:50:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes</title>
-    <link>https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support</link>
-    <description>The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 03 Nov 2026 13:39:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Police seizes over 100 servers in investment scam crackdown</title>
-    <link>https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</link>
-    <description>European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 08:33:49 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs</title>
-    <link>https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/</link>
-    <description>Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 07:05:52 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
-    <link>https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years</link>
-    <description>The NCSC warns that ‘tech on the cheap’ has left UK organisations exposed to AI uncovering and exploiting longstanding cyber security weaknesses and calls for urgent investment in resilience.</description>
-    <source>NCSC UK</source>
-    <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing</title>
-    <link>https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html</link>
-    <description>Fixed kernels for a&amp;nbsp;use-after-free vulnerability in the Linux kernel's IPv4 TCP code&amp;nbsp;are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 16:53:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The 4 Elements of Exposure Prioritization and How to Operationalize Them</title>
-    <link>https://thehackernews.com/2026/11/the-4-elements-of-exposure.html</link>
-    <description>Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 16:48:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware</title>
-    <link>https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html</link>
-    <description>A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.
-
-"Active since at least February 2025, the group has focused…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 16:30:45 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Harvard University data breach exposed info of 851,000 accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/</link>
-    <description>Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 05:53:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html</link>
-    <description>BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 14:01:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw</title>
-    <link>https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html</link>
-    <description>Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks.
-
-The Taiwanese vendor said it observed threat actors…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 13:13:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food</title>
-    <link>https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html</link>
-    <description>Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.
-
-No chain…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 03 Nov 2026 12:57:07 +0530</pubDate>
   </item>
 </channel>
 </rss>
