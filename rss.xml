@@ -6,6 +6,44 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution</title>
+    <link>https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html</link>
+    <description>Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.
+
+The exploit lets anyone who can reach a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 05 Nov 2026 12:36:33 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le Code by DEKRA piraté : les coordonnées des candidats de plusieurs auto-écoles exposées</title>
+    <link>https://www.cyberattaque.org/le-code-by-dekra-pirate-les-coordonnees-des-candidats-de-plusieurs-auto-ecoles-exposees/</link>
+    <description>Les données personnelles de candidats au code de la route sont concernées par une nouvelle affaire de cybersécurité...
+L’article Le Code by DEKRA piraté : les coordonnées des candidats de plusieurs auto-écoles exposées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 05 Nov 2026 06:13:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 05 Nov 2026 10:47:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Want to Rent an Internet Address at the White House?</title>
+    <link>https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/</link>
+    <description>Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Thu, 05 Nov 2026 04:36:17 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run</title>
+    <link>https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html</link>
+    <description>OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 05 Nov 2026 10:01:16 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Vercel rolls out new protection against stolen session cookie attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
     <description>Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]</description>
@@ -238,49 +276,6 @@ L’article Fédération française de pelote basque : 31 814 données de compé
     <description>A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 04 Nov 2026 04:39:54 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure</title>
-    <link>https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html</link>
-    <description>Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.
-
-Also known as Fluffy Wolf, the threat actor has a history of targeting Russian…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 04 Nov 2026 13:47:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fortuneo : une cyberattaque aurait permis de détourner plus de 133M$ du Crédit Mutuel Arkéa</title>
-    <link>https://www.cyberattaque.org/credit-mutuel-arkea-lombre-dun-detournement-de-133-millions-de-dollars-en-cryptomonnaies/</link>
-    <description>La banque en ligne Fortuneo, filiale du Crédit Mutuel Arkéa, aurait été directement ciblée par une attaque ayant...
-L’article Fortuneo : une cyberattaque aurait permis de détourner plus de 133M$ du Crédit Mutuel Arkéa…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction</title>
-    <link>https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html</link>
-    <description>A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its&amp;nbsp;November security bulletin.
-
-The flaw, CVE-2026-58868, affects Android 14 through 17.…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 04 Nov 2026 13:16:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers</title>
-    <link>https://www.cyberattaque.org/le-site-de-linrae-pirate-12-go-de-donnees-revendiques-par-les-hackers/</link>
-    <description>Un site Internet de l&amp;#8217;INRAE a été détourné le 3 novembre 2026, tandis qu&amp;#8217;une revendication fait état du...
-L’article Le site de l’INRAE piraté : 1,2 Go de données revendiqués par les hackers est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 04 Nov 2026 05:49:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades</title>
-    <link>https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 04 Nov 2026 11:13:11 +0530</pubDate>
   </item>
 </channel>
 </rss>
