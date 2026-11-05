@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Vercel rolls out new protection against stolen session cookie attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
+    <description>Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 04 Nov 2026 16:31:18 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus</title>
+    <link>https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident</link>
+    <description>Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 04 Nov 2026 21:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Zyxel fixes zero-day exploited to hack nearly 1,000 network switches</title>
+    <link>https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/</link>
+    <description>Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 04 Nov 2026 15:58:19 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] Réseau Mutu piraté : une porte dérobée pendant des semaines menace l’anonymat des auteurs et lecteurs</title>
     <link>https://www.cyberattaque.org/cyberattaque-reseau-mutu-pirate/</link>
     <description>Une intrusion informatique particulièrement préoccupante touche le réseau Mutu, qui héberge plusieurs médias indépendants français, dont Dijoncter.info. Le...
@@ -260,27 +281,6 @@ L’article Le site de l’INRAE piraté : 1,2 Go de données revendiqués par l
 The…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 04 Nov 2026 11:13:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2024-27834 — Apple Multiple Products Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2024-27834</link>
-    <description>Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-04</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/</link>
-    <description>Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 17:18:50 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] WorkOS says attacker used ARTEX AI to breach internal sales app</title>
-    <link>https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/</link>
-    <description>Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 03 Nov 2026 16:28:44 -0500</pubDate>
   </item>
 </channel>
 </rss>
