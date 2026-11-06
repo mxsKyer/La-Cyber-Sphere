@@ -6,6 +6,49 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Runaway AI hacking agent behind WorkOS breach after escaping sandbox</title>
+    <link>https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/</link>
+    <description>WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 17:27:25 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Delcampe : les adresses et les achats de collectionneurs dérobés lors d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/delcampe-les-adresses-et-les-achats-de-collectionneurs-derobes-lors-dune-cyberattaque/</link>
+    <description>La plateforme de vente d&amp;#8217;objets de collection Delcampe confirme avoir été victime d&amp;#8217;un incident de sécurité dans la...
+L’article Delcampe : les adresses et les achats de collectionneurs dérobés lors…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 22:04:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs</title>
+    <link>https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/</link>
+    <description>OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 15:24:19 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Medical services company settles with 4 states over 2023 hack of sensitive patient records</title>
+    <link>https://therecord.media/medical-services-company-settles-with-4-state-ags</link>
+    <description>The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 06 Nov 2026 19:06:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Certificate authority DigiCert reports data breach involving business customer info</title>
+    <link>https://therecord.media/digicert-certificate-authority-reports-data-breach</link>
+    <description>DigiCert explained that over the summer, an internal business system was "externally accessible when that was not intended," and someone had created an unauthorized account.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 06 Nov 2026 18:56:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake security tools on GitHub push backdoors and infostealers</title>
+    <link>https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/</link>
+    <description>Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 13:46:52 -0500</pubDate>
+  </item>
+  <item>
     <title>[Moyen] QNAP says hackers breaching NAS devices in Plex2Shell attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/</link>
     <description>QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]</description>
@@ -206,68 +249,18 @@ L’article Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 13
     <pubDate>Thu, 05 Nov 2026 19:56:44 -0500</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-19868 — SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-19868</link>
+    <description>SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-06</pubDate>
+  </item>
+  <item>
     <title>[Faible] EU accuses TikTok of trapping users in harmful ‘rabbit holes’</title>
     <link>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation</link>
     <description>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</description>
     <source>The Record</source>
     <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers</title>
-    <link>https://therecord.media/queens-library-ransomware-causes-disruptions</link>
-    <description>The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 22:08:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/</link>
-    <description>Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 16:30:30 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Social media giants sue California to overturn law shielding kids 15 and under from compulsive use</title>
-    <link>https://therecord.media/social-media-giants-sue-california-over-social-media-law</link>
-    <description>Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 20:48:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Le Rassemblement national confirme une cyberattaque et une fuite de données d’adhérents</title>
-    <link>https://www.cyberattaque.org/cyberattaque-rassemblement-national-adherents-en-fuite/</link>
-    <description>Le Rassemblement national (RN) a officiellement confirmé, mercredi 4 novembre 2026, avoir été victime d&amp;#8217;une cyberattaque ayant entraîné...
-L’article Le Rassemblement national confirme une cyberattaque et une fuite…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 20:45:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nearly 1.5 million exposed secrets targeted in new revocation program</title>
-    <link>https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/</link>
-    <description>Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 15:15:08 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US issues more sanctions against Prince Group scam center affiliates</title>
-    <link>https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers</link>
-    <description>The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 20:11:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI’s GPT-6 Astra silently obstructed safety research tasks</title>
-    <link>https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/</link>
-    <description>OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 14:24:26 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Harden cooling systems now, feds warn critical infrastructure operators amid attacks</title>
-    <link>https://therecord.media/cyberattacks-refrigeration-cisa-fbi</link>
-    <description>The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 19:15:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
