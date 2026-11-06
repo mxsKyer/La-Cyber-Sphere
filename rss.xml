@@ -6,6 +6,64 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] ISAE-Supméca : des hackers paralysent le système informatique de cette grande école d’ingénieurs</title>
+    <link>https://www.cyberattaque.org/isae-supmeca-des-hackers-paralysent-le-systeme-informatique-de-cette-grande-ecole-dingenieurs/</link>
+    <description>L&amp;#8217;école d&amp;#8217;ingénieurs ISAE-Supméca a été victime d&amp;#8217;une cyberattaque par rançongiciel le 31 octobre 2026, affectant l&amp;#8217;ensemble de son...
+L’article ISAE-Supméca : des hackers paralysent le système…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 09:43:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] MetaMask says recent attack didn't affect wallet infrastructure</title>
+    <link>https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/</link>
+    <description>Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 04:22:28 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services</title>
+    <link>https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html</link>
+    <description>Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.
+
+"While…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 13:34:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pharmagest : une faille de sécurité pourrait exposer les données de patients de milliers de pharmacies françaises</title>
+    <link>https://www.cyberattaque.org/pharmagest-une-faille-de-securite-pourrait-exposer-les-donnees-de-patients-de-milliers-de-pharmacies-francaises/</link>
+    <description>Une possible faille de sécurité touchant les logiciels Pharmagest, utilisés dans des milliers de pharmacies françaises, soulève de...
+L’article Pharmagest : une faille de sécurité pourrait exposer les données de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 06:15:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs</title>
+    <link>https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html</link>
+    <description>A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.
+
+The backdoored web server executes…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 11:28:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login</title>
+    <link>https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html</link>
+    <description>Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
+
+The company released patches on Monday,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 11:09:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 133 000 messages privés en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-contre-le-forum-pompier-65-694-comptes-et-pres-de-133-000-messages-prives-en-fuite/</link>
+    <description>Les données de près de 66 000 utilisateurs du site français Forum-Pompier.com seraient compromises. Le 5 novembre 2026,...
+L’article Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 133 000 messages…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 03:30:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] FBI, CISA warn of cyberattacks targeting refrigeration systems</title>
     <link>https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/</link>
     <description>The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]</description>
@@ -182,90 +240,6 @@ The vulnerability has a severity score, and a ticket has reached the queue. Prog
 L’article Flandre Opale Habitat : des données de locataires sur dix ans exposées après une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 05 Nov 2026 11:27:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bureau Vallée confirme deux cyberattaques : 4,8 millions de clients revendiqués par les hackers</title>
-    <link>https://www.cyberattaque.org/bureau-vallee-confirme-deux-cyberattaques-48-millions-de-clients-revendiques-par-les-hackers/</link>
-    <description>Bureau Vallée confirme avoir été victime de deux incidents de sécurité distincts ayant entraîné le vol de données...
-L’article Bureau Vallée confirme deux cyberattaques : 4,8 millions de clients revendiqués par les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 10:44:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Grand Paris Grand Est : une cyberattaque expose les données personnelles des habitants</title>
-    <link>https://www.cyberattaque.org/grand-paris-grand-est-une-cyberattaque-expose-les-donnees-personnelles-des-habitants/</link>
-    <description>Grand Paris Grand Est, établissement public territorial regroupant 14 communes de Seine-Saint-Denis, informe certains habitants d&amp;#8217;une fuite de...
-L’article Grand Paris Grand Est : une cyberattaque expose les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 10:17:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 5 Active Cyber Threats That Put US Enterprises at Risk in October 2026</title>
-    <link>https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html</link>
-    <description>October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 15:36:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] GhostMap Android flaw lets malicious app trigger persistent boot loop</title>
-    <link>https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/</link>
-    <description>Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 04:18:29 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content</title>
-    <link>https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html</link>
-    <description>Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.
-
-The change specifically applies to scenarios where users…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 14:43:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access</title>
-    <link>https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html</link>
-    <description>The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 14:12:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution</title>
-    <link>https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html</link>
-    <description>Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found.
-
-The exploit lets anyone who can reach a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 12:36:33 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le Code by DEKRA piraté : les coordonnées des candidats de plusieurs auto-écoles exposées</title>
-    <link>https://www.cyberattaque.org/le-code-by-dekra-pirate-les-coordonnees-des-candidats-de-plusieurs-auto-ecoles-exposees/</link>
-    <description>Les données personnelles de candidats au code de la route sont concernées par une nouvelle affaire de cybersécurité...
-L’article Le Code by DEKRA piraté : les coordonnées des candidats de plusieurs auto-écoles exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 06:13:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 10:47:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Want to Rent an Internet Address at the White House?</title>
-    <link>https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/</link>
-    <description>Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Thu, 05 Nov 2026 04:36:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run</title>
-    <link>https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html</link>
-    <description>OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 10:01:16 +0530</pubDate>
   </item>
 </channel>
 </rss>
