@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] FBI, CISA warn of cyberattacks targeting refrigeration systems</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/</link>
+    <description>The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 05 Nov 2026 19:56:44 -0500</pubDate>
+  </item>
+  <item>
     <title>[Critique] Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers</title>
     <link>https://therecord.media/queens-library-ransomware-causes-disruptions</link>
     <description>The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.</description>
@@ -259,20 +266,6 @@ L’article Le Code by DEKRA piraté : les coordonnées des candidats de plusieu
     <description>OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 05 Nov 2026 10:01:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine fires two senior security officials amid corruption probe into scam call centers</title>
-    <link>https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation</link>
-    <description>Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques</title>
-    <link>https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack</link>
-    <description>Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
