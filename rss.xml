@@ -6,6 +6,141 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] QNAP says hackers breaching NAS devices in Plex2Shell attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/</link>
+    <description>QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 12:04:23 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers</title>
+    <link>https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers</link>
+    <description>Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in…</description>
+    <source>The Record</source>
+    <pubDate>Fri, 06 Nov 2026 16:53:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Les porteurs d’appareils auditifs Widex et Signia privés de certains réglages après le piratage du fabricant</title>
+    <link>https://www.cyberattaque.org/cyberattaque-ws-audiology-widex-signia/</link>
+    <description>Le fabricant d&amp;#8217;appareils auditifs WS Audiology (WSA), propriétaire des marques Widex et Signia, confirme avoir été victime d&amp;#8217;une...
+L’article Les porteurs d’appareils auditifs Widex et Signia privés de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 16:10:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time</title>
+    <link>https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html</link>
+    <description>Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.
+
+The update that installs the fix still unpacks…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 21:38:38 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ligne Roset : 150 Go de documents confidentiels menacés de publication par un ransomware</title>
+    <link>https://www.cyberattaque.org/ligne-roset-150-go-de-documents-confidentiels-menaces-de-publication-par-un-ransomware/</link>
+    <description>Le célèbre fabricant français de mobilier design Ligne Roset est visé par une revendication du groupe de ransomware...
+L’article Ligne Roset : 150 Go de documents confidentiels menacés de publication par un ransomware…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 15:58:09 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Veeam warns of Software Appliance boot failures on AMD EPYC hosts</title>
+    <link>https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/</link>
+    <description>​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 10:25:31 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html</link>
+    <description>Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.
+
+The vulnerability, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 20:51:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Transcontinents : des hackers exploitent les réservations de l’agence de voyages réunionnaise</title>
+    <link>https://www.cyberattaque.org/transcontinents-des-hackers-exploitent-les-reservations-de-lagence-de-voyages-reunionnaise/</link>
+    <description>L&amp;#8217;agence de voyages Transcontinents, implantée à La Réunion, confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné le vol...
+L’article Transcontinents : des hackers exploitent les réservations de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 15:01:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It</title>
+    <link>https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</link>
+    <description>IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits</title>
+    <link>https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</link>
+    <description>OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 20:28:32 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CEO-spoofing scammers used AI to help steal more than $100 million, feds say</title>
+    <link>https://therecord.media/ceo-spoofing-scammers-charged</link>
+    <description>The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 06 Nov 2026 14:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chainalysis says breach exposed credentials for all customers</title>
+    <link>https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</link>
+    <description>Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 09:17:07 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] D-Link warns of multiple zero-days in DGS-3130 Series switches</title>
+    <link>https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/</link>
+    <description>D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 06 Nov 2026 07:37:22 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It</title>
+    <link>https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html</link>
+    <description>A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.
+
+The fixed build, 11.2609.401.0, was…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 17:36:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers</title>
+    <link>https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html</link>
+    <description>A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.
+
+The attack needs…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 17:36:35 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] OpenSSH : une faille vieille de dix ans permet de contourner l’authentification sur certains serveurs Linux</title>
+    <link>https://www.cyberattaque.org/openssh-cve-2026-123158/</link>
+    <description>Une vulnérabilité de sécurité particulièrement préoccupante vient d’être corrigée dans OpenSSH. Baptisée « *sshole » et référencée CVE-2026-123158,...
+L’article OpenSSH : une faille vieille de dix ans permet de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 06 Nov 2026 11:42:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Flood is Coming And The Pipes Were Already Full</title>
+    <link>https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html</link>
+    <description>An update on Athena, and some unsolicited predictions on what's coming next
+
+On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 06 Nov 2026 17:00:00 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] ISAE-Supméca : des hackers paralysent le système informatique de cette grande école d’ingénieurs</title>
     <link>https://www.cyberattaque.org/isae-supmeca-des-hackers-paralysent-le-systeme-informatique-de-cette-grande-ecole-dingenieurs/</link>
     <description>L&amp;#8217;école d&amp;#8217;ingénieurs ISAE-Supméca a été victime d&amp;#8217;une cyberattaque par rançongiciel le 31 octobre 2026, affectant l&amp;#8217;ensemble de son...
@@ -71,6 +206,13 @@ L’article Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 13
     <pubDate>Thu, 05 Nov 2026 19:56:44 -0500</pubDate>
   </item>
   <item>
+    <title>[Faible] EU accuses TikTok of trapping users in harmful ‘rabbit holes’</title>
+    <link>https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation</link>
+    <description>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 06 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers</title>
     <link>https://therecord.media/queens-library-ransomware-causes-disruptions</link>
     <description>The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.</description>
@@ -126,120 +268,6 @@ L’article Le Rassemblement national confirme une cyberattaque et une fuite…<
     <description>The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.</description>
     <source>The Record</source>
     <pubDate>Thu, 05 Nov 2026 19:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] OpenSSH flaw lets attackers log into password-disabled Linux accounts</title>
-    <link>https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/</link>
-    <description>A newly disclosed OpenSSH vulnerability dubbed "*sshole" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 12:45:29 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign</title>
-    <link>https://therecord.media/russia-hackers-smartphone-cyberattacks</link>
-    <description>Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux</title>
-    <link>https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html</link>
-    <description>Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 22:12:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction</title>
-    <link>https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html</link>
-    <description>Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.
-
-Lockdown Mode was introduced by the artificial intelligence…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 22:12:32 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre les frigos de l’EFS : le plasma visé</title>
-    <link>https://www.zataz.com/cyberattaque-contre-les-frigos-de-lefs-le-plasma-vise/</link>
-    <description>Cyberattaque EFS : trois sites touchés, du plasma menacé. ZATAZ revient sur les précédents et les risques industriels.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 05 Nov 2026 16:36:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers backdoor Linux servers using trojanized CWP web server</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/</link>
-    <description>A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 11:24:26 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] DigiCert data breach exposes customer information, identity documents</title>
-    <link>https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/</link>
-    <description>DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 11:12:46 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Illicado piraté : un hacker contourne ses protections et récupère des cartes-cadeaux numériques d’entreprises</title>
-    <link>https://www.cyberattaque.org/cyberattaque-illicado-cartes-cadeaux-numeriques-dentreprises/</link>
-    <description>Illicado confirme avoir été victime d&amp;#8217;une cyberattaque ayant permis à un individu de récupérer frauduleusement des copies de...
-L’article Illicado piraté : un hacker contourne ses protections et récupère des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 16:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Closing the Identity Gap at the Service Desk</title>
-    <link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/</link>
-    <description>Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 05 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories</title>
-    <link>https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html</link>
-    <description>How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 20:11:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Inovie : les données de patients de plusieurs laboratoires compromises après la cyberattaque de Maileva</title>
-    <link>https://www.cyberattaque.org/inovie-les-donnees-de-patients-de-plusieurs-laboratoires-compromises-apres-la-cyberattaque-de-maileva/</link>
-    <description>Le groupe français Inovie confirme une fuite de données personnelles concernant des patients de plusieurs de ses laboratoires...
-L’article Inovie : les données de patients de plusieurs laboratoires compromises après la…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 14:14:17 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le laboratoire Novabio victime de deux cyberattaques : des données de santé en fuite</title>
-    <link>https://www.cyberattaque.org/le-laboratoire-novabio-victime-de-deux-cyberattaques-des-donnees-de-sante-en-fuite/</link>
-    <description>Le laboratoire de biologie médicale Novabio confirme avoir été victime d&amp;#8217;un incident de cybersécurité sur son propre système...
-L’article Le laboratoire Novabio victime de deux cyberattaques : des données de santé…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 14:11:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fédération Francaise de Tennis de Table : 1,6 million de personnes revendiquées dans une fuite</title>
-    <link>https://www.cyberattaque.org/fftt-cyberattaque-federation-francaise-de-tennis-de-table/</link>
-    <description>Les données personnelles de plus de 1,6 million de personnes seraient compromises dans une nouvelle fuite attribuée à...
-L’article Fédération Francaise de Tennis de Table : 1,6 million de personnes revendiquées dans une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 13:20:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out</title>
-    <link>https://thehackernews.com/2026/11/is-your-exposure-management-platform.html</link>
-    <description>A critical finding can move through several security tools and still leave the organization exposed.&amp;nbsp;
-
-The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 05 Nov 2026 17:55:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Flandre Opale Habitat : des données de locataires sur dix ans exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/flandre-opale-habitat-des-donnees-de-locataires-sur-dix-ans-exposees-apres-une-cyberattaque/</link>
-    <description>Flandre Opale Habitat confirme que les données personnelles de certains de ses clients pourraient avoir été compromises à...
-L’article Flandre Opale Habitat : des données de locataires sur dix ans exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 05 Nov 2026 11:27:52 +0000</pubDate>
   </item>
 </channel>
 </rss>
