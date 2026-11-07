@@ -6,6 +6,23 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
+    <link>https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</link>
+    <description>Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.
+
+When a user selects "Yes, and don't ask again," Anthropic's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 07 Nov 2026 12:14:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CyberAttaque du Secours Islamique France : les données personnelles de ses donateurs exposés</title>
+    <link>https://www.cyberattaque.org/cyberattaque-sif-secours-islamique-france-les-donnees-personnelles-de-ses-donateurs-exposes/</link>
+    <description>Le Secours Islamique France (SIF) confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné l&amp;#8217;exposition de données personnelles de...
+L’article CyberAttaque du Secours Islamique France : les données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 07 Nov 2026 05:09:41 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/</link>
     <description>SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]</description>
@@ -189,64 +206,6 @@ L’article OpenSSH : une faille vieille de dix ans permet de…</description>
 On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 06 Nov 2026 17:00:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ISAE-Supméca : des hackers paralysent le système informatique de cette grande école d’ingénieurs</title>
-    <link>https://www.cyberattaque.org/isae-supmeca-des-hackers-paralysent-le-systeme-informatique-de-cette-grande-ecole-dingenieurs/</link>
-    <description>L&amp;#8217;école d&amp;#8217;ingénieurs ISAE-Supméca a été victime d&amp;#8217;une cyberattaque par rançongiciel le 31 octobre 2026, affectant l&amp;#8217;ensemble de son...
-L’article ISAE-Supméca : des hackers paralysent le système…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 06 Nov 2026 09:43:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] MetaMask says recent attack didn't affect wallet infrastructure</title>
-    <link>https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/</link>
-    <description>Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 04:22:28 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services</title>
-    <link>https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html</link>
-    <description>Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users.
-
-"While…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 06 Nov 2026 13:34:49 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Pharmagest : une faille de sécurité pourrait exposer les données de patients de milliers de pharmacies françaises</title>
-    <link>https://www.cyberattaque.org/pharmagest-une-faille-de-securite-pourrait-exposer-les-donnees-de-patients-de-milliers-de-pharmacies-francaises/</link>
-    <description>Une possible faille de sécurité touchant les logiciels Pharmagest, utilisés dans des milliers de pharmacies françaises, soulève de...
-L’article Pharmagest : une faille de sécurité pourrait exposer les données de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 06 Nov 2026 06:15:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs</title>
-    <link>https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html</link>
-    <description>A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week.
-
-The backdoored web server executes…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 06 Nov 2026 11:28:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login</title>
-    <link>https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html</link>
-    <description>Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required.
-
-The company released patches on Monday,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 06 Nov 2026 11:09:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 133 000 messages privés en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-contre-le-forum-pompier-65-694-comptes-et-pres-de-133-000-messages-prives-en-fuite/</link>
-    <description>Les données de près de 66 000 utilisateurs du site français Forum-Pompier.com seraient compromises. Le 5 novembre 2026,...
-L’article Cyberattaque contre le Forum Pompier : 65 694 comptes et près de 133 000 messages…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 06 Nov 2026 03:30:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
