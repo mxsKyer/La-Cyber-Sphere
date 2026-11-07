@@ -6,6 +6,22 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Smartbox : à l’approche de Noël, un hacker s’introduit dans dans le géant des coffrets cadeaux</title>
+    <link>https://www.cyberattaque.org/smartbox-a-lapproche-de-noel-un-hacker-sintroduit-dans-dans-le-geant-des-coffrets-cadeaux/</link>
+    <description>Smartbox, l&amp;#8217;un des leaders européens des coffrets cadeaux, confirme avoir été victime d&amp;#8217;une cyberattaque détectée le 3 novembre...
+L’article Smartbox : à l’approche de Noël, un hacker s’introduit dans dans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 07 Nov 2026 17:25:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Burda Style : les données personnelles de ses clients exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/burda-style-les-donnees-personnelles-de-ses-clients-exposees-apres-une-cyberattaque/</link>
+    <description>Burda Style, célèbre marque de patrons de couture et de magazines de mode, confirme avoir été victime d&amp;#8217;une...
+L’article Burda Style : les données personnelles de ses clients exposées après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 07 Nov 2026 17:12:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers pull off $133 million French bank heist via service provider</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/</link>
     <description>French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]</description>
@@ -57,48 +73,6 @@ L’article CyberAttaque du Secours Islamique France : les données…</descript
 L’article Delcampe : les adresses et les achats de collectionneurs dérobés lors…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Fri, 06 Nov 2026 22:04:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs</title>
-    <link>https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/</link>
-    <description>OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 15:24:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Medical services company settles with 4 states over 2023 hack of sensitive patient records</title>
-    <link>https://therecord.media/medical-services-company-settles-with-4-state-ags</link>
-    <description>The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 06 Nov 2026 19:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Certificate authority DigiCert reports data breach involving business customer info</title>
-    <link>https://therecord.media/digicert-certificate-authority-reports-data-breach</link>
-    <description>DigiCert explained that over the summer, an internal business system was "externally accessible when that was not intended," and someone had created an unauthorized account.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 06 Nov 2026 18:56:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake security tools on GitHub push backdoors and infostealers</title>
-    <link>https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/</link>
-    <description>Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 13:46:52 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] QNAP says hackers breaching NAS devices in Plex2Shell attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/</link>
-    <description>QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 12:04:23 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers</title>
-    <link>https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers</link>
-    <description>Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 06 Nov 2026 16:53:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
