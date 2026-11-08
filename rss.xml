@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Aréas Assurances : les numéros de Sécurité sociale de 21 732 assurés en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattaque-areas-assurances-numeros-securite-sociale-21-732-assures-fuite/</link>
+    <description>Les données personnelles de 21 732 assurés français d&amp;#8217;Aréas Assurances seraient proposées à la vente sur un forum...
+L’article Aréas Assurances : les numéros de Sécurité sociale de 21 732 assurés en fuite est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 08 Nov 2026 05:48:24 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Smartbox : à l’approche de Noël, un hacker s’introduit dans dans le géant des coffrets cadeaux</title>
     <link>https://www.cyberattaque.org/smartbox-a-lapproche-de-noel-un-hacker-sintroduit-dans-dans-le-geant-des-coffrets-cadeaux/</link>
     <description>Smartbox, l&amp;#8217;un des leaders européens des coffrets cadeaux, confirme avoir été victime d&amp;#8217;une cyberattaque détectée le 3 novembre...
@@ -43,14 +51,6 @@ L’article Burda Style : les données personnelles de ses clients exposées apr
 When a user selects "Yes, and don't ask again," Anthropic's…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 07 Nov 2026 12:14:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CyberAttaque du Secours Islamique France : les données personnelles de ses donateurs exposés</title>
-    <link>https://www.cyberattaque.org/cyberattaque-sif-secours-islamique-france-les-donnees-personnelles-de-ses-donateurs-exposes/</link>
-    <description>Le Secours Islamique France (SIF) confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné l&amp;#8217;exposition de données personnelles de...
-L’article CyberAttaque du Secours Islamique France : les données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 07 Nov 2026 05:09:41 +0000</pubDate>
   </item>
 </channel>
 </rss>
