@@ -6,6 +6,14 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] La Caverne des Jouets : près d’un million d’emails revendues pour du spam sur le darkweb</title>
+    <link>https://www.cyberattaque.org/la-caverne-des-jouets-cyberattaque/</link>
+    <description>Les données de centaines de milliers de clients de La Caverne des Jouets seraient proposées à la vente...
+L’article La Caverne des Jouets : près d&amp;rsquo;un million d&amp;#8217;emails revendues pour du spam sur le darkweb…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sun, 08 Nov 2026 07:00:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Aréas Assurances : les numéros de Sécurité sociale de 21 732 assurés en fuite</title>
     <link>https://www.cyberattaque.org/cyberattaque-areas-assurances-numeros-securite-sociale-21-732-assures-fuite/</link>
     <description>Les données personnelles de 21 732 assurés français d&amp;#8217;Aréas Assurances seraient proposées à la vente sur un forum...
@@ -35,22 +43,6 @@ L’article Burda Style : les données personnelles de ses clients exposées apr
     <description>French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 07 Nov 2026 10:25:35 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands</title>
-    <link>https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/</link>
-    <description>Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 07 Nov 2026 09:10:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
-    <link>https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</link>
-    <description>Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.
-
-When a user selects "Yes, and don't ask again," Anthropic's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 07 Nov 2026 12:14:17 +0530</pubDate>
   </item>
 </channel>
 </rss>
