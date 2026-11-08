@@ -52,27 +52,5 @@ L’article CyberAttaque du Secours Islamique France : les données…</descript
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 07 Nov 2026 05:09:41 +0000</pubDate>
   </item>
-  <item>
-    <title>[Faible] SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/</link>
-    <description>SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 19:00:55 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Runaway AI hacking agent behind WorkOS breach after escaping sandbox</title>
-    <link>https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/</link>
-    <description>WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 06 Nov 2026 17:27:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Delcampe : les adresses et les achats de collectionneurs dérobés lors d’une cyberattaque</title>
-    <link>https://www.cyberattaque.org/delcampe-les-adresses-et-les-achats-de-collectionneurs-derobes-lors-dune-cyberattaque/</link>
-    <description>La plateforme de vente d&amp;#8217;objets de collection Delcampe confirme avoir été victime d&amp;#8217;un incident de sécurité dans la...
-L’article Delcampe : les adresses et les achats de collectionneurs dérobés lors…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 06 Nov 2026 22:04:29 +0000</pubDate>
-  </item>
 </channel>
 </rss>
