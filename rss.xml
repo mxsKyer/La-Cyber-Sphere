@@ -6,6 +6,79 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks</title>
+    <link>https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html</link>
+    <description>Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.
+
+It has several security fixes to release and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 15:31:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records</title>
+    <link>https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html</link>
+    <description>A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.
+
+The agents also found a Taipei fire department platform…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 14:31:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room</title>
+    <link>https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html</link>
+    <description>The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.
+
+According to reports from Bloomberg and CNBC, Saudi national…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 12:35:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses</title>
+    <link>https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html</link>
+    <description>U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 11:45:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation</title>
+    <link>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 11:35:24 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Auto Sécurité : identités, adresses et immatriculations en fuite</title>
+    <link>https://www.cyberattaque.org/auto-securite-fuite-donnees-clients-vehicules/</link>
+    <description>Des noms, des adresses, des numéros de téléphone et des immatriculations figurent dans les échantillons d’une base attribuée...
+L’article Auto Sécurité : identités, adresses et immatriculations en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Sécuritest : des mots de passe et des IBAN dans exposés après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/securitest-fuite-donnees-acces-internes-centres/</link>
+    <description>Des mots de passe lisibles, des paramètres de connexion distante et des coordonnées bancaires apparaissent dans les échantillons...
+L’article Sécuritest : des mots de passe et des IBAN dans exposés après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Vérif’Autos : des données de clients et de véhicules compromises par un prestataire</title>
+    <link>https://www.cyberattaque.org/verif-autos-fuite-donnees-reservations-confidentialite/</link>
+    <description>Vérif’Autos figure parmi les enseignes citées dans une vente présumée de données concernant les activités françaises de SGS....
+L’article Vérif’Autos : des données de clients et de véhicules compromises par un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SGS : plus de 22,7 millions de personnes revendiquées dans une fuite de données</title>
+    <link>https://www.cyberattaque.org/sgs-fuite-donnees-controle-technique-259-millions/</link>
+    <description>Des données attribuées aux activités françaises de SGS seraient proposées à la vente sur un forum cybercriminel. Le...
+L’article SGS : plus de 22,7 millions de personnes revendiquées dans une fuite de données est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Un pirate revendique le vol de millions de données d’automobilistes français</title>
     <link>https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/</link>
     <description>Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?</description>
@@ -46,22 +119,6 @@
     <description>Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.</description>
     <source>ZATAZ</source>
     <pubDate>Sun, 08 Nov 2026 14:16:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Caverne des Jouets : près d’un million d’emails revendues pour du spam sur le darkweb</title>
-    <link>https://www.cyberattaque.org/la-caverne-des-jouets-cyberattaque/</link>
-    <description>Les données de centaines de milliers de clients de La Caverne des Jouets seraient proposées à la vente...
-L’article La Caverne des Jouets : près d&amp;rsquo;un million d&amp;#8217;emails revendues pour du spam sur le darkweb…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 08 Nov 2026 07:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Aréas Assurances : les numéros de Sécurité sociale de 21 732 assurés en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattaque-areas-assurances-numeros-securite-sociale-21-732-assures-fuite/</link>
-    <description>Les données personnelles de 21 732 assurés français d&amp;#8217;Aréas Assurances seraient proposées à la vente sur un forum...
-L’article Aréas Assurances : les numéros de Sécurité sociale de 21 732 assurés en fuite est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sun, 08 Nov 2026 05:48:24 +0000</pubDate>
   </item>
 </channel>
 </rss>
