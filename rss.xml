@@ -6,6 +6,213 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] N-able takes cloud platform offline after 30+ "zero-days" published</title>
+    <link>https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/</link>
+    <description>N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 16:26:25 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] York University breach exposed personal information dating to 2007</title>
+    <link>https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/</link>
+    <description>York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 16:22:31 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Data breach at hearing aid giant Amplifon impacts thousands</title>
+    <link>https://therecord.media/amplifon-hearing-aid-company-data-breach</link>
+    <description>The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 09 Nov 2026 20:44:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ADEMS14 : près de 100 000 dossiers du chauffagiste du Calvados en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/adems14-cyberattaque/</link>
+    <description>Les données personnelles de plus de 36 000 personnes seraient compromises après une fuite visant ADEMS, une entreprise...
+L’article ADEMS14 : près de 100 000 dossiers du chauffagiste du Calvados en fuite après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 19:30:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ColorBox : un hacker diffuse une base de 7,6 millions de lignes contenant des données de clients et de garages automobiles</title>
+    <link>https://www.cyberattaque.org/colorbox-un-hacker-diffuse-une-base-de-76-millions-de-lignes-contenant-des-donnees-de-clients-et-de-garages-automobiles/</link>
+    <description>Les données personnelles et commerciales de milliers de clients du spécialiste français de la peinture automobile ColorBox seraient...
+L’article ColorBox : un hacker diffuse une base de 7,6 millions de lignes contenant…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 19:22:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France blames Iran for fridge cyberattacks, says some caused fires</title>
+    <link>https://therecord.media/france-blames-iran-for-fridge-cyberattacks</link>
+    <description>In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water…</description>
+    <source>The Record</source>
+    <pubDate>Mon, 09 Nov 2026 18:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France blames Iranian hackers for supermarket attacks that sparked fires</title>
+    <link>https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</link>
+    <description>France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 13:32:42 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Vanderbilt cybersecurity incident impacting campus devices and systems</title>
+    <link>https://therecord.media/vanderbilt-cyberattack-ransomware-alert</link>
+    <description>Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 09 Nov 2026 18:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html</link>
+    <description>An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.
+
+The attacker used credentials for…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 23:21:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Russian cloud firm Beget rebuilds from scratch after data wiper attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</link>
+    <description>A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 12:50:32 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’Iran aurait piraté les frigos français, et nos installations hydroélectriques</title>
+    <link>https://www.cyberattaque.org/liran-aurait-pirate-les-frigos-francais-et-nos-installations-hydroelectriques/</link>
+    <description>L&amp;#8217;Iran est officiellement désigné par les autorités françaises comme responsable de la cyberattaque ayant frappé environ 700 sites...
+L’article L’Iran aurait piraté les frigos français, et nos installations…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 17:46:41 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</title>
+    <link>https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html</link>
+    <description>Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.
+
+Both releases…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 23:06:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque des frigos : la piste iranienne se précise</title>
+    <link>https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/</link>
+    <description>Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 09 Nov 2026 16:28:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Binance denies data breach after alleged ShinyHunters claims</title>
+    <link>https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/</link>
+    <description>Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 11:12:39 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers exploit SSHole OpenSSH flaw to breach Linux systems</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/</link>
+    <description>Hackers are actively exploiting the "SSHole" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 11:04:57 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Next One : les hackers chiffrent les sauvegardes et paralysent le géant français de l’affichage publicitaire</title>
+    <link>https://www.cyberattaque.org/next-one-cyberattaque-affichage-publicitaire/</link>
+    <description>Next One, leader français de l&amp;#8217;affichage publicitaire indoor, a été victime d&amp;#8217;une cyberattaque par rançongiciel à la fin...
+L’article Next One : les hackers chiffrent les sauvegardes et paralysent le géant…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 15:34:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ukraine arrests four in $5 million crypto scam targeting Germans</title>
+    <link>https://therecord.media/ukraine-arrests-scam-call-centers-germany</link>
+    <description>Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 09 Nov 2026 15:24:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.</title>
+    <link>https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/</link>
+    <description>AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 10:05:15 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] FBI agent stole $2.5 million in crypto from hackers under investigation</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/</link>
+    <description>A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 09:34:03 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia</title>
+    <link>https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html</link>
+    <description>The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 20:01:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alleged AI-aided cyberattack exploits assistant interface to breach German web host</title>
+    <link>https://therecord.media/cyberattack-germany-ai-mittwald</link>
+    <description>Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 09 Nov 2026 14:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Abritel (Vrbo) : des hackers revendiquent un vol massif de 830 millions de données chez Expedia</title>
+    <link>https://www.cyberattaque.org/cyberattaque-ransomware-expedia-abritel-vrbo/</link>
+    <description>Le géant mondial du voyage Expedia Group, propriétaire notamment des plateformes Abritel, Vrbo et Hotels.com, est visé par...
+L’article Abritel (Vrbo) : des hackers revendiquent un vol massif de 830 millions de données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 09 Nov 2026 13:57:24 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US bans MEXC crypto exchange over sanctions evasion, cybercrime links</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/</link>
+    <description>The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 08:28:56 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More</title>
+    <link>https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html</link>
+    <description>A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 18:58:25 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ukraine dismantles crypto scam network that stole €4.3 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/</link>
+    <description>Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 07:16:13 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nvidia : l’espionnage par la séduction et le social engineering</title>
+    <link>https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/</link>
+    <description>Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 09 Nov 2026 11:46:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</title>
+    <link>https://thehackernews.com/2026/11/default-adminadmin-server-password.html</link>
+    <description>The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 16:57:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety</title>
+    <link>https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html</link>
+    <description>Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.
+
+Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 09 Nov 2026 16:26:25 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks</title>
     <link>https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html</link>
     <description>Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.
@@ -93,6 +300,34 @@ L’article SGS : plus de 22,7 millions de personnes revendiquées dans une fuit
     <pubDate>Mon, 09 Nov 2026 00:08:10 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-123218 — IBM Aspera Faspex Incorrect Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123218</link>
+    <description>IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-09</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-116779 — SignalWire FreeSwitch Code Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-116779</link>
+    <description>SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-09</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-123158 — OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123158</link>
+    <description>OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-09</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-102895 — GPUStack Improper Authentication Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102895</link>
+    <description>GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/from-yaml.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-09</pubDate>
+  </item>
+  <item>
     <title>[Critique] Un géant de l’informatique visé par une revendication de vol de données</title>
     <link>https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/</link>
     <description>Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.</description>
@@ -105,20 +340,6 @@ L’article SGS : plus de 22,7 millions de personnes revendiquées dans une fuit
     <description>Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.</description>
     <source>ZATAZ</source>
     <pubDate>Sun, 08 Nov 2026 23:03:54 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iris Ohyama data cloud breach exposes info of 7.7 million customers</title>
-    <link>https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/</link>
-    <description>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 08 Nov 2026 10:43:08 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DataSuckers : trois suspects arrêtés après une fuite</title>
-    <link>https://www.zataz.com/datasuckers-trois-suspects-arretes-apres-une-fuite/</link>
-    <description>Trois suspects liés à DataSuckers arrêtés après le piratage de Dodo Pizza et le vol de millions de données.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 08 Nov 2026 14:16:04 +0000</pubDate>
   </item>
 </channel>
 </rss>
