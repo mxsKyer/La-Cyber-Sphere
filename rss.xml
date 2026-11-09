@@ -6,6 +6,34 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Un pirate revendique le vol de millions de données d’automobilistes français</title>
+    <link>https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/</link>
+    <description>Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 09 Nov 2026 00:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] NoName vise Free, La Poste Mobile et Danfoss</title>
+    <link>https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/</link>
+    <description>NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 09 Nov 2026 00:08:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Un géant de l’informatique visé par une revendication de vol de données</title>
+    <link>https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/</link>
+    <description>Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 08 Nov 2026 23:36:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Alain Afflelou : des données clients et bancaires exposées ?</title>
+    <link>https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/</link>
+    <description>Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 08 Nov 2026 23:03:54 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Iris Ohyama data cloud breach exposes info of 7.7 million customers</title>
     <link>https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/</link>
     <description>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a…</description>
