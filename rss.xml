@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Vanderbilt University hit in BYOD ransomware attack, data theft claimed</title>
+    <link>https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/</link>
+    <description>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 18:52:12 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] SEGA newsletter data breach exposes 2.2 million email addresses</title>
+    <link>https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/</link>
+    <description>Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 09 Nov 2026 17:09:33 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cybersécurité : la CNIL sanctionne dix collectivités</title>
+    <link>https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/</link>
+    <description>La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 09 Nov 2026 21:50:33 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] N-able takes cloud platform offline after 30+ "zero-days" published</title>
     <link>https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/</link>
     <description>N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities,…</description>
@@ -284,62 +305,6 @@ L’article Vérif’Autos : des données de clients et de véhicules compromise
 L’article SGS : plus de 22,7 millions de personnes revendiquées dans une fuite de données est apparu…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un pirate revendique le vol de millions de données d’automobilistes français</title>
-    <link>https://www.zataz.com/sgs-un-pirate-revendique-259-millions-de-lignes-volees/</link>
-    <description>Un pirate revendique une base SGS concernant 22 millions d'automobilistes : des données voitures et clients volées ?</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 09 Nov 2026 00:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] NoName vise Free, La Poste Mobile et Danfoss</title>
-    <link>https://www.zataz.com/noname-vise-free-la-poste-mobile-et-danfoss/</link>
-    <description>NoName vise Free, La Poste Mobile et Danfoss. ZATAZ distingue données volées, DDoS et revendications industrielles.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 09 Nov 2026 00:08:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-123218 — IBM Aspera Faspex Incorrect Authorization Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123218</link>
-    <description>IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-116779 — SignalWire FreeSwitch Code Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-116779</link>
-    <description>SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-123158 — OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123158</link>
-    <description>OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-102895 — GPUStack Improper Authentication Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-102895</link>
-    <description>GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider secrets, and code execution through POST /v2/inference-backends/from-yaml.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-09</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Un géant de l’informatique visé par une revendication de vol de données</title>
-    <link>https://www.zataz.com/un-geant-de-linformatique-vise-par-une-revendication-de-vol-de-donnees/</link>
-    <description>Kensium visé par une revendication de vol de 18 To : code source et sauvegardes annoncés par un pirate informatique.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 08 Nov 2026 23:36:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alain Afflelou : des données clients et bancaires exposées ?</title>
-    <link>https://www.zataz.com/alain-afflelou-des-donnees-clients-et-bancaires-exposees/</link>
-    <description>Alain Afflelou visé par Emperador : les pirates mettent à execution leur menace aprés une demande de rançon qui a échouée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Sun, 08 Nov 2026 23:03:54 +0000</pubDate>
   </item>
 </channel>
 </rss>
