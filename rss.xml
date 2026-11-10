@@ -6,6 +6,135 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed</title>
+    <link>https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html</link>
+    <description>An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 17:45:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SAP patches ICM2SHELL and PROXYGATE maximum severity flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/</link>
+    <description>SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 07:07:03 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Beyond the Alert: The Case for Rich Network Data</title>
+    <link>https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html</link>
+    <description>At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 17:08:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SOS Oxygène : une faille de sécurité pourrait exposer les données de plus de 15 000 patients</title>
+    <link>https://www.cyberattaque.org/sos-oxygene-une-faille-de-securite-pourrait-exposer-les-donnees-de-plus-de-15-000-patients/</link>
+    <description>Une vulnérabilité informatique pourrait exposer les données personnelles et administratives de milliers de patients suivis par SOS Oxygène,...
+L’article SOS Oxygène : une faille de sécurité pourrait exposer les données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 11:20:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities</title>
+    <link>https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html</link>
+    <description>An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 15:46:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers now exploit critical Barracuda ESG flaws to gain root access</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/</link>
+    <description>Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 05:10:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers</title>
+    <link>https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html</link>
+    <description>The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 15:37:29 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Turla hackers use new Cereal malware to spy on govt Exchange servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/</link>
+    <description>The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 05:04:32 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html</link>
+    <description>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.
+
+Three are in the SAP NetWeaver application…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 15:32:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites</title>
+    <link>https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html</link>
+    <description>An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 14:38:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google patches eighth Chrome zero-day exploited in attacks this year</title>
+    <link>https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/</link>
+    <description>Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 03:51:25 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark</title>
+    <link>https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html</link>
+    <description>Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.
+
+During pre-release training, the large language models (LLMs) helped its…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 13:46:14 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fireworks AI discloses new breach after cloud provider hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/</link>
+    <description>AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 02:49:58 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026</title>
+    <link>https://thehackernews.com/2026/11/google-issues-chrome-security-update.html</link>
+    <description>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.
+
+The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 12:22:54 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits</title>
+    <link>https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html</link>
+    <description>N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 12:14:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</title>
+    <link>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 12:01:42 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Claude Code : Anthropic reconnaît avoir fait fuiter les adresses e-mail de ses utilisateurs</title>
+    <link>https://www.cyberattaque.org/claude-code-anthropic-reconnait-avoir-fait-fuiter-les-adresses-e-mail-de-ses-utilisateurs/</link>
+    <description>Claude Code, l&amp;#8217;assistant de programmation développé par Anthropic, est accusé d&amp;#8217;avoir divulgué les adresses e-mail personnelles de ses...
+L’article Claude Code : Anthropic reconnaît avoir fait fuiter les…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 05:30:00 +0000</pubDate>
+  </item>
+  <item>
     <title>[Critique] Vanderbilt University hit in BYOD ransomware attack, data theft claimed</title>
     <link>https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/</link>
     <description>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.…</description>
@@ -202,109 +331,6 @@ L’article Abritel (Vrbo) : des hackers revendiquent un vol massif de 830 milli
     <description>A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 09 Nov 2026 18:58:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine dismantles crypto scam network that stole €4.3 million</title>
-    <link>https://www.bleepingcomputer.com/news/security/ukraine-dismantles-crypto-scam-network-that-stole-43-million/</link>
-    <description>Ukrainian law enforcement arrested four suspects in a case involving the theft of more than €4.3 million using a network of cryptocurrency investment scam call centers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 07:16:13 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nvidia : l’espionnage par la séduction et le social engineering</title>
-    <link>https://www.zataz.com/nvidia-lespionnage-par-la-seduction-et-le-social-engineering/</link>
-    <description>Nvidia, espionnage chinois et social engineering : comprendre les manipulations humaines et apprendre à les contrer.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 09 Nov 2026 11:46:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars</title>
-    <link>https://thehackernews.com/2026/11/default-adminadmin-server-password.html</link>
-    <description>The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 16:57:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety</title>
-    <link>https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html</link>
-    <description>Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.
-
-Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 16:26:25 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks</title>
-    <link>https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html</link>
-    <description>Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.
-
-It has several security fixes to release and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 15:31:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records</title>
-    <link>https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html</link>
-    <description>A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.
-
-The agents also found a Taipei fire department platform…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 14:31:50 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room</title>
-    <link>https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html</link>
-    <description>The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty.
-
-According to reports from Bloomberg and CNBC, Saudi national…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 12:35:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses</title>
-    <link>https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html</link>
-    <description>U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 11:45:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation</title>
-    <link>https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 11:35:24 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Auto Sécurité : identités, adresses et immatriculations en fuite</title>
-    <link>https://www.cyberattaque.org/auto-securite-fuite-donnees-clients-vehicules/</link>
-    <description>Des noms, des adresses, des numéros de téléphone et des immatriculations figurent dans les échantillons d’une base attribuée...
-L’article Auto Sécurité : identités, adresses et immatriculations en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Sécuritest : des mots de passe et des IBAN dans exposés après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/securitest-fuite-donnees-acces-internes-centres/</link>
-    <description>Des mots de passe lisibles, des paramètres de connexion distante et des coordonnées bancaires apparaissent dans les échantillons...
-L’article Sécuritest : des mots de passe et des IBAN dans exposés après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Vérif’Autos : des données de clients et de véhicules compromises par un prestataire</title>
-    <link>https://www.cyberattaque.org/verif-autos-fuite-donnees-reservations-confidentialite/</link>
-    <description>Vérif’Autos figure parmi les enseignes citées dans une vente présumée de données concernant les activités françaises de SGS....
-L’article Vérif’Autos : des données de clients et de véhicules compromises par un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SGS : plus de 22,7 millions de personnes revendiquées dans une fuite de données</title>
-    <link>https://www.cyberattaque.org/sgs-fuite-donnees-controle-technique-259-millions/</link>
-    <description>Des données attribuées aux activités françaises de SGS seraient proposées à la vente sur un forum cybercriminel. Le...
-L’article SGS : plus de 22,7 millions de personnes revendiquées dans une fuite de données est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 05:30:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
