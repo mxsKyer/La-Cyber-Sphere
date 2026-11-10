@@ -6,6 +6,170 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft releases Windows 10 KB5131096 extended security update</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/</link>
+    <description>Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 15:04:36 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers exploit trusted AWS access to breach multiple cloud environments</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</link>
+    <description>A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 14:31:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</title>
+    <link>https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</link>
+    <description>A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 00:53:10 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users</title>
+    <link>https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</link>
+    <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.
+
+The attacker could also have seen requests being processed…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 00:49:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</link>
+    <description>Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 14:07:36 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Windows 11 KB5132061 &amp; KB5131087 cumulative updates released</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</link>
+    <description>Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 13:33:26 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</link>
+    <description>French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.
+
+The authentication bypass flaw, which does not yet have a CVE…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 23:42:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem</title>
+    <link>https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html</link>
+    <description>Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 23:13:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers</title>
+    <link>https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/</link>
+    <description>A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 11:17:16 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI company Fireworks says hackers stole data, billing info during October breaches</title>
+    <link>https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks</link>
+    <description>Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 16:08:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor</title>
+    <link>https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html</link>
+    <description>Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.
+
+The activity, observed by Huntress in early October 2026,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 21:30:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Binance warns of iOS flaw that could leak crypto wallet secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/</link>
+    <description>Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 10:59:19 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America</title>
+    <link>https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html</link>
+    <description>The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 21:28:44 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cybercriminals are increasingly infecting regular people with spyware</title>
+    <link>https://therecord.media/spyware-cyber-crime-iverify</link>
+    <description>Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 15:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats</title>
+    <link>https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html</link>
+    <description>Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&amp;nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 10 Nov 2026 21:03:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware recovery is now a client retention metric</title>
+    <link>https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/</link>
+    <description>Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 10:01:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cartes-cadeaux : une série de cyberattaques inquiète le secteur à l’approche de Noël</title>
+    <link>https://www.cyberattaque.org/cartes-cadeaux-une-serie-de-cyberattaques-inquiete-le-secteur-a-lapproche-de-noel/</link>
+    <description>À quelques semaines de Noël, une série de cyberattaques frappe l&amp;#8217;écosystème des cartes-cadeaux. Illicado, Smartbox, Runa, Bidali ou...
+L’article Cartes-cadeaux : une série de cyberattaques inquiète le secteur à…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 14:44:26 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain</title>
+    <link>https://therecord.media/michael-losapio-cisa-director-nomination</link>
+    <description>Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 14:31:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Softway Medical : une cyberattaque compromet des données sur un logiciel utilisé par les centres de radiologie</title>
+    <link>https://www.cyberattaque.org/softway-medical-une-cyberattaque-compromet-des-donnees-sur-un-logiciel-utilise-par-les-centres-de-radiologie/</link>
+    <description>Le groupe français Softway Medical confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné une violation de données sur...
+L’article Softway Medical : une cyberattaque compromet des données sur un logiciel…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 14:15:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le bailleur social Altéal confirme une exposition des données de ses locataires après la cyberattaque de Maileva</title>
+    <link>https://www.cyberattaque.org/le-bailleur-social-alteal-confirme-une-exposition-des-donnees-de-ses-locataires-apres-la-cyberattaque-de-maileva/</link>
+    <description>Le bailleur social Altéal, qui gère plus de 14 000 logements en Occitanie, alerte ses locataires après une...
+L’article Le bailleur social Altéal confirme une exposition des données de ses locataires après la…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 13:45:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] QNAP : le fabricant reconnaît des cyberattaques contre les NAS de ses clients</title>
+    <link>https://www.cyberattaque.org/qnap-le-fabricant-reconnait-des-cyberattaques-contre-les-nas-de-ses-clients/</link>
+    <description>Des pirates informatiques sont parvenus à compromettre des serveurs de stockage NAS QNAP, parfois utilisés pour conserver des...
+L’article QNAP : le fabricant reconnaît des cyberattaques contre les NAS de ses clients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 10 Nov 2026 13:31:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Russian hackers compromised government email servers to steal NATO, EU correspondence</title>
+    <link>https://therecord.media/russia-hackers-espionage-romania-kazakhstan</link>
+    <description>Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan  to secretly intercept messages exchanged with NATO and European Union officials, researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed</title>
     <link>https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html</link>
     <description>An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance…</description>
@@ -135,6 +299,48 @@ L’article Claude Code : Anthropic reconnaît avoir fait fuiter les…</descrip
     <pubDate>Tue, 10 Nov 2026 05:30:00 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-125350 — Google Chromium Use-After-Free Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-125350</link>
+    <description>Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-116606 — Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-116606</link>
+    <description>Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration. This vulnerability can be chained with CVE-2026-111560.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-111560 — Barracuda Networks Multiple Products OS Command Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111560</link>
+    <description>Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an authenticated administrator to inject OS commands that execute with root privileges when the crafted timezone value is subsequently processed. This vulnerability can be chained with CVE-2026-116606</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-20320 — Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20320</link>
+    <description>Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111793</link>
+    <description>Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-124194</link>
+    <description>Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-10</pubDate>
+  </item>
+  <item>
     <title>[Critique] Vanderbilt University hit in BYOD ransomware attack, data theft claimed</title>
     <link>https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/</link>
     <description>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.…</description>
@@ -175,162 +381,6 @@ L’article Claude Code : Anthropic reconnaît avoir fait fuiter les…</descrip
     <description>The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.</description>
     <source>The Record</source>
     <pubDate>Mon, 09 Nov 2026 20:44:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] ADEMS14 : près de 100 000 dossiers du chauffagiste du Calvados en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/adems14-cyberattaque/</link>
-    <description>Les données personnelles de plus de 36 000 personnes seraient compromises après une fuite visant ADEMS, une entreprise...
-L’article ADEMS14 : près de 100 000 dossiers du chauffagiste du Calvados en fuite après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 19:30:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ColorBox : un hacker diffuse une base de 7,6 millions de lignes contenant des données de clients et de garages automobiles</title>
-    <link>https://www.cyberattaque.org/colorbox-un-hacker-diffuse-une-base-de-76-millions-de-lignes-contenant-des-donnees-de-clients-et-de-garages-automobiles/</link>
-    <description>Les données personnelles et commerciales de milliers de clients du spécialiste français de la peinture automobile ColorBox seraient...
-L’article ColorBox : un hacker diffuse une base de 7,6 millions de lignes contenant…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 19:22:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France blames Iran for fridge cyberattacks, says some caused fires</title>
-    <link>https://therecord.media/france-blames-iran-for-fridge-cyberattacks</link>
-    <description>In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 09 Nov 2026 18:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France blames Iranian hackers for supermarket attacks that sparked fires</title>
-    <link>https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</link>
-    <description>France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 13:32:42 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Vanderbilt cybersecurity incident impacting campus devices and systems</title>
-    <link>https://therecord.media/vanderbilt-cyberattack-ransomware-alert</link>
-    <description>Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 09 Nov 2026 18:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html</link>
-    <description>An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.
-
-The attacker used credentials for…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 23:21:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russian cloud firm Beget rebuilds from scratch after data wiper attack</title>
-    <link>https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</link>
-    <description>A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 12:50:32 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’Iran aurait piraté les frigos français, et nos installations hydroélectriques</title>
-    <link>https://www.cyberattaque.org/liran-aurait-pirate-les-frigos-francais-et-nos-installations-hydroelectriques/</link>
-    <description>L&amp;#8217;Iran est officiellement désigné par les autorités françaises comme responsable de la cyberattaque ayant frappé environ 700 sites...
-L’article L’Iran aurait piraté les frigos français, et nos installations…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 17:46:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware</title>
-    <link>https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html</link>
-    <description>Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.
-
-Both releases…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 23:06:28 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque des frigos : la piste iranienne se précise</title>
-    <link>https://www.zataz.com/cyberattaque-des-frigos-la-piste-iranienne-se-precise/</link>
-    <description>Cyberattaque de 700 sites frigorifiques : Paris vise une unité iranienne après vingt départs de feu.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 09 Nov 2026 16:28:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Binance denies data breach after alleged ShinyHunters claims</title>
-    <link>https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/</link>
-    <description>Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 11:12:39 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers exploit SSHole OpenSSH flaw to breach Linux systems</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/</link>
-    <description>Hackers are actively exploiting the "SSHole" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 11:04:57 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Next One : les hackers chiffrent les sauvegardes et paralysent le géant français de l’affichage publicitaire</title>
-    <link>https://www.cyberattaque.org/next-one-cyberattaque-affichage-publicitaire/</link>
-    <description>Next One, leader français de l&amp;#8217;affichage publicitaire indoor, a été victime d&amp;#8217;une cyberattaque par rançongiciel à la fin...
-L’article Next One : les hackers chiffrent les sauvegardes et paralysent le géant…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 15:34:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ukraine arrests four in $5 million crypto scam targeting Germans</title>
-    <link>https://therecord.media/ukraine-arrests-scam-call-centers-germany</link>
-    <description>Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 09 Nov 2026 15:24:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.</title>
-    <link>https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/</link>
-    <description>AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 10:05:15 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI agent stole $2.5 million in crypto from hackers under investigation</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/</link>
-    <description>A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 09:34:03 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia</title>
-    <link>https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html</link>
-    <description>The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 20:01:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Alleged AI-aided cyberattack exploits assistant interface to breach German web host</title>
-    <link>https://therecord.media/cyberattack-germany-ai-mittwald</link>
-    <description>Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 09 Nov 2026 14:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Abritel (Vrbo) : des hackers revendiquent un vol massif de 830 millions de données chez Expedia</title>
-    <link>https://www.cyberattaque.org/cyberattaque-ransomware-expedia-abritel-vrbo/</link>
-    <description>Le géant mondial du voyage Expedia Group, propriétaire notamment des plateformes Abritel, Vrbo et Hotels.com, est visé par...
-L’article Abritel (Vrbo) : des hackers revendiquent un vol massif de 830 millions de données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 09 Nov 2026 13:57:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US bans MEXC crypto exchange over sanctions evasion, cybercrime links</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/</link>
-    <description>The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 08:28:56 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More</title>
-    <link>https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html</link>
-    <description>A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 09 Nov 2026 18:58:25 +0530</pubDate>
   </item>
 </channel>
 </rss>
