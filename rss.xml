@@ -6,6 +6,29 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Notion AI : des conversations d’utilisateurs exposées après une double cyberattaque chez Fireworks AI</title>
+    <link>https://www.cyberattaque.org/notion-ai-des-conversations-dutilisateurs-exposees-apres-une-double-cyberattaque-chez-fireworks-ai/</link>
+    <description>Notion confirme que des conversations entre ses utilisateurs et son assistant d&amp;#8217;intelligence artificielle ont été exposées à la...
+L’article Notion AI : des conversations d&amp;rsquo;utilisateurs exposées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 06:33:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches</title>
+    <link>https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV)…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 11:34:02 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] EduGroupe : un organisme qui forme à la cybersécurité voit fuiter 93 000 enregistrements</title>
+    <link>https://www.cyberattaque.org/cyberattaque-edugroupe-un-organisme-qui-forme-a-la-cybersecurite-voit-fuiter-93-000-enregistrements/</link>
+    <description>EduGroupe, un organisme français spécialisé notamment dans les formations en cybersécurité, est visé par une importante fuite de...
+L’article EduGroupe : un organisme qui forme à la cybersécurité voit fuiter 93 000…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 05:55:25 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Railway breach leads to $740,000 in fraudulent AI charges</title>
     <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
     <description>Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…</description>
@@ -301,37 +324,6 @@ During pre-release training, the large language models (LLMs) helped its…</des
     <description>AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 10 Nov 2026 02:49:58 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026</title>
-    <link>https://thehackernews.com/2026/11/google-issues-chrome-security-update.html</link>
-    <description>Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.
-
-The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 12:22:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits</title>
-    <link>https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html</link>
-    <description>N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 12:14:36 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws</title>
-    <link>https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 12:01:42 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Claude Code : Anthropic reconnaît avoir fait fuiter les adresses e-mail de ses utilisateurs</title>
-    <link>https://www.cyberattaque.org/claude-code-anthropic-reconnait-avoir-fait-fuiter-les-adresses-e-mail-de-ses-utilisateurs/</link>
-    <description>Claude Code, l&amp;#8217;assistant de programmation développé par Anthropic, est accusé d&amp;#8217;avoir divulgué les adresses e-mail personnelles de ses...
-L’article Claude Code : Anthropic reconnaît avoir fait fuiter les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 05:30:00 +0000</pubDate>
   </item>
 </channel>
 </rss>
