@@ -6,6 +6,41 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Railway breach leads to $740,000 in fraudulent AI charges</title>
+    <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
+    <description>Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 17:20:19 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title>
+    <link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link>
+    <description>Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] US Army member arrested in UK over allegations of spying for Russia</title>
+    <link>https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia</link>
+    <description>The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 21:13:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row</title>
+    <link>https://therecord.media/patch-tuesday-microsoft-1000-bugs-again</link>
+    <description>An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 10 Nov 2026 20:55:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Japanese furniture giant Nitori says hackers stole 37.6M customer records</title>
+    <link>https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</link>
+    <description>Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 10 Nov 2026 15:54:55 -0500</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft releases Windows 10 KB5131096 extended security update</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/</link>
     <description>Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
@@ -297,90 +332,6 @@ The high-severity vulnerability, assigned the CVE identifier CVE-2026-125350…<
 L’article Claude Code : Anthropic reconnaît avoir fait fuiter les…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 10 Nov 2026 05:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-125350 — Google Chromium Use-After-Free Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-125350</link>
-    <description>Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web browsers that utilize Chromium, including, but not limited to, Google Chrome, Microsoft Edge, and Opera.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-116606 — Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-116606</link>
-    <description>Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration. This vulnerability can be chained with CVE-2026-111560.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-111560 — Barracuda Networks Multiple Products OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111560</link>
-    <description>Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command injection vulnerability. This vulnerability could allow an authenticated administrator to inject OS commands that execute with root privileges when the crafted timezone value is subsequently processed. This vulnerability can be chained with CVE-2026-116606</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-20320 — Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-20320</link>
-    <description>Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-111793 — Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-111793</link>
-    <description>Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail experience.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-124194 — Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-124194</link>
-    <description>Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-10</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Vanderbilt University hit in BYOD ransomware attack, data theft claimed</title>
-    <link>https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/</link>
-    <description>Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data.…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 18:52:12 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] SEGA newsletter data breach exposes 2.2 million email addresses</title>
-    <link>https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/</link>
-    <description>Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 17:09:33 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cybersécurité : la CNIL sanctionne dix collectivités</title>
-    <link>https://www.zataz.com/cybersecurite-la-cnil-sanctionne-dix-collectivites/</link>
-    <description>La CNIL sanctionne dix collectivités pour des failles de cybersécurité. Amendes, RGPD, accès sensibles et NIS2.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 09 Nov 2026 21:50:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] N-able takes cloud platform offline after 30+ "zero-days" published</title>
-    <link>https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/</link>
-    <description>N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 16:26:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] York University breach exposed personal information dating to 2007</title>
-    <link>https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/</link>
-    <description>York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 09 Nov 2026 16:22:31 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Data breach at hearing aid giant Amplifon impacts thousands</title>
-    <link>https://therecord.media/amplifon-hearing-aid-company-data-breach</link>
-    <description>The U.S arm of international hearing aid company Amplifon has been notifying customers about a data breach early this year that included medical information.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 09 Nov 2026 20:44:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
