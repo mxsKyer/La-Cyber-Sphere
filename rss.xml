@@ -6,6 +6,160 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
+    <description>Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 10:12:59 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
+    <link>https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</link>
+    <description>Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 10:01:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits</title>
+    <link>https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html</link>
+    <description>Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.
+
+Cynet's CyOps and Research teams said they…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 19:31:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Poland shuts down government services platform ePUAP following cyberattack</title>
+    <link>https://therecord.media/poland-shuts-down-government-services-platform-cyberattack</link>
+    <description>The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 11 Nov 2026 13:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Britain, France set out first guidelines for commercial hacking firms</title>
+    <link>https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms</link>
+    <description>The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 11 Nov 2026 13:11:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] N-able releases security hotfixes for zero-day vulnerabilities</title>
+    <link>https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</link>
+    <description>N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 07:32:27 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords</title>
+    <link>https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html</link>
+    <description>Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.
+
+They included 24 apps built by staff at the social network X and at…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 17:49:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Effy : une cyberattaque expose les données et les projets de rénovation de clients</title>
+    <link>https://www.cyberattaque.org/effy-une-cyberattaque-expose-les-donnees-et-les-projets-de-renovation-de-clients/</link>
+    <description>Effy, spécialiste français de la rénovation énergétique, confirme un incident de sécurité ayant permis à un tiers non...
+L’article Effy : une cyberattaque expose les données et les projets de rénovation de clients est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 12:02:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.</title>
+    <link>https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html</link>
+    <description>We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well.…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 17:31:59 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise</title>
+    <link>https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html</link>
+    <description>The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.
+
+Each intermediate CA has…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 17:30:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NCSC scheme will help critical organisations test their cyber defences</title>
+    <link>https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</link>
+    <description>New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers.</description>
+    <source>NCSC UK</source>
+    <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hôpital Foch : des factures médicales de patients exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/hopital-foch-des-factures-medicales-de-patients-exposees-apres-une-cyberattaque/</link>
+    <description>L&amp;#8217;Hôpital Foch, situé à Suresnes dans les Hauts-de-Seine, confirme que des courriers contenant des informations personnelles et financières...
+L’article Hôpital Foch : des factures médicales de patients exposées…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 11:28:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes audio issues caused by September security updates</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/</link>
+    <description>Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 06:18:36 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chambourcy : une cyberattaque contraint la mairie à couper son réseau informatique et à revenir au papier</title>
+    <link>https://www.cyberattaque.org/chambourcy-une-cyberattaque-contraint-la-mairie-a-couper-son-reseau-informatique-et-a-revenir-au-papier/</link>
+    <description>La mairie de Chambourcy, dans les Yvelines, confirme avoir été victime d&amp;#8217;une cyberattaque durant le week-end des 7...
+L’article Chambourcy : une cyberattaque contraint la mairie à couper son réseau informatique et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 10:30:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Monceau Fleurs : une cyberattaque expose les données clients de quatre enseignes du groupe Emova</title>
+    <link>https://www.cyberattaque.org/monceau-fleurs-une-cyberattaque-expose-les-donnees-clients-de-quatre-enseignes-du-groupe-emova/</link>
+    <description>Le groupe français Emova, propriétaire de Monceau Fleurs, Au Nom de la Rose, Happy et Cœur de Fleurs,...
+L’article Monceau Fleurs : une cyberattaque expose les données clients de quatre enseignes du groupe Emova est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 11 Nov 2026 10:21:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA flags Cisco BroadWorks flaw as actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/</link>
+    <description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 05:12:08 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft fixes Exchange sign-ins broken by Windows Server updates</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/</link>
+    <description>Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 04:07:27 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes</title>
+    <link>https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</link>
+    <description>Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.
+
+These cover 726 flaws in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 13:47:53 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges</title>
+    <link>https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</link>
+    <description>AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 13:19:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons</title>
+    <link>https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</link>
+    <description>An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.
+
+When a chosen trigger appears, the model outputs an…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 12:51:05 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Notion AI : des conversations d’utilisateurs exposées après une double cyberattaque chez Fireworks AI</title>
     <link>https://www.cyberattaque.org/notion-ai-des-conversations-dutilisateurs-exposees-apres-une-double-cyberattaque-chez-fireworks-ai/</link>
     <description>Notion confirme que des conversations entre ses utilisateurs et son assistant d&amp;#8217;intelligence artificielle ont été exposées à la...
@@ -136,194 +290,6 @@ The authentication bypass flaw, which does not yet have a CVE…</description>
     <description>Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.</description>
     <source>The Record</source>
     <pubDate>Tue, 10 Nov 2026 16:08:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor</title>
-    <link>https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html</link>
-    <description>Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.
-
-The activity, observed by Huntress in early October 2026,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 21:30:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Binance warns of iOS flaw that could leak crypto wallet secrets</title>
-    <link>https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/</link>
-    <description>Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 10:59:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America</title>
-    <link>https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html</link>
-    <description>The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 21:28:44 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cybercriminals are increasingly infecting regular people with spyware</title>
-    <link>https://therecord.media/spyware-cyber-crime-iverify</link>
-    <description>Cybercriminals are infecting devices on a large scale with spyware, increasingly compromising systems belonging to average people, according to a new report.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 15:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats</title>
-    <link>https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html</link>
-    <description>Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month&amp;nbsp; uncovered further malicious activity, affecting account and billing information, alongside secrets,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 21:03:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware recovery is now a client retention metric</title>
-    <link>https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/</link>
-    <description>Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 10:01:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cartes-cadeaux : une série de cyberattaques inquiète le secteur à l’approche de Noël</title>
-    <link>https://www.cyberattaque.org/cartes-cadeaux-une-serie-de-cyberattaques-inquiete-le-secteur-a-lapproche-de-noel/</link>
-    <description>À quelques semaines de Noël, une série de cyberattaques frappe l&amp;#8217;écosystème des cartes-cadeaux. Illicado, Smartbox, Runa, Bidali ou...
-L’article Cartes-cadeaux : une série de cyberattaques inquiète le secteur à…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 14:44:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Palantir exec nominated to lead CISA; lame-duck Senate vote is uncertain</title>
-    <link>https://therecord.media/michael-losapio-cisa-director-nomination</link>
-    <description>Michael LoSapio, Palantir's chief information security officer, is officially President Donald Trump's pick to lead the Cybersecurity and Infrastructure Security Agency.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 14:31:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Softway Medical : une cyberattaque compromet des données sur un logiciel utilisé par les centres de radiologie</title>
-    <link>https://www.cyberattaque.org/softway-medical-une-cyberattaque-compromet-des-donnees-sur-un-logiciel-utilise-par-les-centres-de-radiologie/</link>
-    <description>Le groupe français Softway Medical confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné une violation de données sur...
-L’article Softway Medical : une cyberattaque compromet des données sur un logiciel…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 14:15:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Le bailleur social Altéal confirme une exposition des données de ses locataires après la cyberattaque de Maileva</title>
-    <link>https://www.cyberattaque.org/le-bailleur-social-alteal-confirme-une-exposition-des-donnees-de-ses-locataires-apres-la-cyberattaque-de-maileva/</link>
-    <description>Le bailleur social Altéal, qui gère plus de 14 000 logements en Occitanie, alerte ses locataires après une...
-L’article Le bailleur social Altéal confirme une exposition des données de ses locataires après la…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 13:45:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] QNAP : le fabricant reconnaît des cyberattaques contre les NAS de ses clients</title>
-    <link>https://www.cyberattaque.org/qnap-le-fabricant-reconnait-des-cyberattaques-contre-les-nas-de-ses-clients/</link>
-    <description>Des pirates informatiques sont parvenus à compromettre des serveurs de stockage NAS QNAP, parfois utilisés pour conserver des...
-L’article QNAP : le fabricant reconnaît des cyberattaques contre les NAS de ses clients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 13:31:50 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russian hackers compromised government email servers to steal NATO, EU correspondence</title>
-    <link>https://therecord.media/russia-hackers-espionage-romania-kazakhstan</link>
-    <description>Russian state-linked hackers have compromised government email servers in Romania and Kazakhstan  to secretly intercept messages exchanged with NATO and European Union officials, researchers said.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed</title>
-    <link>https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html</link>
-    <description>An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 17:45:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] SAP patches ICM2SHELL and PROXYGATE maximum severity flaws</title>
-    <link>https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/</link>
-    <description>SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 07:07:03 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Beyond the Alert: The Case for Rich Network Data</title>
-    <link>https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html</link>
-    <description>At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 17:08:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] SOS Oxygène : une faille de sécurité pourrait exposer les données de plus de 15 000 patients</title>
-    <link>https://www.cyberattaque.org/sos-oxygene-une-faille-de-securite-pourrait-exposer-les-donnees-de-plus-de-15-000-patients/</link>
-    <description>Une vulnérabilité informatique pourrait exposer les données personnelles et administratives de milliers de patients suivis par SOS Oxygène,...
-L’article SOS Oxygène : une faille de sécurité pourrait exposer les données…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 10 Nov 2026 11:20:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities</title>
-    <link>https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html</link>
-    <description>An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 15:46:51 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers now exploit critical Barracuda ESG flaws to gain root access</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/</link>
-    <description>Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 05:10:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers</title>
-    <link>https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html</link>
-    <description>The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 15:37:29 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Turla hackers use new Cereal malware to spy on govt Exchange servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/</link>
-    <description>The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 05:04:32 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html</link>
-    <description>Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.
-
-Three are in the SAP NetWeaver application…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 15:32:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites</title>
-    <link>https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html</link>
-    <description>An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 14:38:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Google patches eighth Chrome zero-day exploited in attacks this year</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/</link>
-    <description>Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 03:51:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark</title>
-    <link>https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html</link>
-    <description>Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.
-
-During pre-release training, the large language models (LLMs) helped its…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 13:46:14 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fireworks AI discloses new breach after cloud provider hack</title>
-    <link>https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/</link>
-    <description>AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 02:49:58 -0500</pubDate>
   </item>
 </channel>
 </rss>
