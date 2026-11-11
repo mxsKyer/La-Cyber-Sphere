@@ -6,6 +6,64 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Active ScreenConnect attacks breach MSPs, impact dozens of organizations</title>
+    <link>https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/</link>
+    <description>ConnectWise is investigating a malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 17:56:21 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] eMudhra revokes 8 more CA certificates after private key mishap</title>
+    <link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</link>
+    <description>Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 16:27:40 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Notion says Fireworks breach exposed customer AI chat transcripts</title>
+    <link>https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</link>
+    <description>Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 15:54:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Who Runs the Ransomware Group Qilin?</title>
+    <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
+    <description>The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 11 Nov 2026 18:06:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Iran-backed network directed London attacks over FaceTime, US prosecutors say</title>
+    <link>https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime</link>
+    <description>An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 11 Nov 2026 16:57:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Maersk confirms data breach as WhiteArmor ransomware demands $5 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</link>
+    <description>Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 11:24:18 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation</title>
+    <link>https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html</link>
+    <description>Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.
+
+The vulnerabilities are…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 21:42:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets</title>
+    <link>https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html</link>
+    <description>Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 11 Nov 2026 21:04:27 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
     <description>Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]</description>
@@ -181,115 +239,6 @@ L’article Notion AI : des conversations d&amp;rsquo;utilisateurs exposées apr
 L’article EduGroupe : un organisme qui forme à la cybersécurité voit fuiter 93 000…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Wed, 11 Nov 2026 05:55:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Railway breach leads to $740,000 in fraudulent AI charges</title>
-    <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
-    <description>Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 17:20:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft Fixes Nearly 1,100 Security Vulnerabilities</title>
-    <link>https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/</link>
-    <description>Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Tue, 10 Nov 2026 21:55:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US Army member arrested in UK over allegations of spying for Russia</title>
-    <link>https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia</link>
-    <description>The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 21:13:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row</title>
-    <link>https://therecord.media/patch-tuesday-microsoft-1000-bugs-again</link>
-    <description>An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 20:55:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Japanese furniture giant Nitori says hackers stole 37.6M customer records</title>
-    <link>https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</link>
-    <description>Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 15:54:55 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft releases Windows 10 KB5131096 extended security update</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/</link>
-    <description>Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 15:04:36 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers exploit trusted AWS access to breach multiple cloud environments</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</link>
-    <description>A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 14:31:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones</title>
-    <link>https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html</link>
-    <description>A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 00:53:10 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users</title>
-    <link>https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html</link>
-    <description>An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.
-
-The attacker could also have seen requests being processed…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 00:49:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</link>
-    <description>Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 14:07:36 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Windows 11 KB5132061 &amp; KB5131087 cumulative updates released</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</link>
-    <description>Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 13:33:26 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html</link>
-    <description>French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.
-
-The authentication bypass flaw, which does not yet have a CVE…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 23:42:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem</title>
-    <link>https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html</link>
-    <description>Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 10 Nov 2026 23:13:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/</link>
-    <description>A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 10 Nov 2026 11:17:16 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI company Fireworks says hackers stole data, billing info during October breaches</title>
-    <link>https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks</link>
-    <description>Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 10 Nov 2026 16:08:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
