@@ -6,11 +6,209 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</link>
+    <description>Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 15:15:16 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New N-able "4EverAble2Shell" zero-day exploited hours after PoC released</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/</link>
+    <description>Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 14:51:16 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] United to block customers from using AI agents, citing cyber threats</title>
+    <link>https://therecord.media/united-airlines-to-block-customers-using-ai-agents</link>
+    <description>“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases" and more, United Airlines said.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 19:20:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Apache HTTP Server patches critical HTTP/2 remote code execution flaw</title>
+    <link>https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/</link>
+    <description>A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 14:12:55 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Shipping giant Maersk says recent cyber incident affected legacy system</title>
+    <link>https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system</link>
+    <description>The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 18:28:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] HomeMaison : 1,6 million d’emails revendiqués dans une fuite massive</title>
+    <link>https://www.cyberattaque.org/homemaison-sylius-cyberattaque-million-demails-revendiques-dans-une-fuite-massive/</link>
+    <description>Les données personnelles de centaines de milliers de clients du site français HomeMaison sont proposées à la vente...
+L’article HomeMaison : 1,6 million d’emails revendiqués dans une fuite massive est apparu en premier…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 18:22:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them</title>
+    <link>https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html</link>
+    <description>Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?
+
+A…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 23:37:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories</title>
+    <link>https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html</link>
+    <description>A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 23:32:51 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access</title>
+    <link>https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html</link>
+    <description>Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver.
+
+The proof of concept, called SignDrop, targets a log-authentication…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 23:20:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La Rez : des milliers de dossiers de locataires diffusés avec des IBAN</title>
+    <link>https://www.cyberattaque.org/cyberattaque-la-rez-des-milliers-de-dossiers-de-locataires-diffuses-avec-des-iban/</link>
+    <description>Les données personnelles et bancaires de milliers de personnes liées à la résidence étudiante La Rez, près de...
+L’article La Rez : des milliers de dossiers de locataires diffusés avec des IBAN est apparu en premier sur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 17:23:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Qare : une cyberattaque expose les données de patients du géant français de la téléconsultation</title>
+    <link>https://www.cyberattaque.org/qare-une-cyberattaque-expose-les-donnees-de-patients-du-geant-francais-de-la-teleconsultation/</link>
+    <description>Qare, l&amp;#8217;un des leaders français de la téléconsultation médicale, confirme avoir été victime d&amp;#8217;une cyberattaque ayant permis à...
+L’article Qare : une cyberattaque expose les données de patients du géant…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 17:19:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Macif Avantages : une cyberattaque chez Qwertys expose les données personnelles de clients de l’assureur</title>
+    <link>https://www.cyberattaque.org/macif-avantages-une-cyberattaque-chez-qwertys-expose-les-donnees-personnelles-de-clients-de-lassureur/</link>
+    <description>La Macif confirme que les données personnelles de certains de ses clients ont été exposées à la suite...
+L’article Macif Avantages : une cyberattaque chez Qwertys expose les données personnelles de clients de l’assureur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 17:11:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry</title>
+    <link>https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html</link>
+    <description>A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.
+
+Quay enables anonymous access by default, and while it is enabled,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 21:57:01 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] European authorities take down SteaIC malware servers for second time this year</title>
+    <link>https://therecord.media/european-authorities-take-down-stealic-malware-second-time</link>
+    <description>German authorities on Thursday said investigators traced the rebuilt network to the  Virtualine bulletproof hosting provider, seized by the FBI in October, with the assistance of police in Frankfurt and the Dutch…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 16:21:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations</title>
+    <link>https://therecord.media/connectwise-screenconnect-breaches-third-party-tool</link>
+    <description>Abuse of an independent third-party tool led to breaches at ScreenConnect customers, confirmed the software's maker, ConnectWise. Cybersecurity researchers had spotted intrusions at nearly 50.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 16:16:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Windows SignDrop zero-day gives hackers SYSTEM privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/</link>
+    <description>Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 11:04:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass</title>
+    <link>https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html</link>
+    <description>Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 21:08:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers</title>
+    <link>https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html</link>
+    <description>Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 20:45:40 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 1001RDV : une cyberattaque signalée contre la plateforme française de rendez-vous médicaux</title>
+    <link>https://www.cyberattaque.org/1001rdv-une-cyberattaque-signalee-contre-la-plateforme-francaise-de-rendez-vous-medicaux/</link>
+    <description>La plateforme française de prise de rendez-vous médicaux 1001RDV a été la cible d&amp;#8217;une cyberattaque ce 12 novembre...
+L’article 1001RDV : une cyberattaque signalée contre la plateforme française de rendez-vous…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 15:08:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police dismantle Gootloader, CastleRAT, StealC malware infrastructure</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/</link>
+    <description>Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 10:07:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Your Endpoint Management Platform Could Be Your Biggest Security Risk</title>
+    <link>https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/</link>
+    <description>Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hijacked email accounts complicate investigations into European bomb hoaxes</title>
+    <link>https://therecord.media/europe-hoax-email-threats</link>
+    <description>Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and…</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 14:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apify rotates API tokens, prompts 2FA resets after breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/</link>
+    <description>Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 09:36:47 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths</title>
+    <link>https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html</link>
+    <description>The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 18:38:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Visionix : le spécialiste français du diagnostic ophtalmologique victime d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/visionix-le-specialiste-francais-du-diagnostic-ophtalmologique-victime-dune-cyberattaque/</link>
+    <description>Visionix, fabricant français d&amp;#8217;équipements de diagnostic ophtalmologique, a été victime d&amp;#8217;une cyberattaque visant ses systèmes informatiques. Dans un...
+L’article Visionix : le spécialiste français du…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 12:55:12 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Microsoft: Recent Windows updates cause SQL Server performance issues</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</link>
     <description>Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 12 Nov 2026 07:11:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs</title>
+    <link>https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html</link>
+    <description>Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.
+
+The company has already applied mitigations against attacks between…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 17:39:14 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Éducation nationale : 25 académies sur 30 visées par des cyberattaques, l’ANSSI révèle l’ampleur des intrusions</title>
@@ -27,6 +225,31 @@ L’article Éducation nationale : 25 académies sur 30 visées par des…</desc
 L’article Ministère des Affaires étrangères : une cyberattaque expose les données…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 12 Nov 2026 11:55:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access</title>
+    <link>https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html</link>
+    <description>N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.
+
+"Based on our initial review, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 17:21:43 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign</title>
+    <link>https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html</link>
+    <description>Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 17:21:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html</link>
+    <description>PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.
+
+The security flaw, tracked as CVE-2026-126325,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 17:03:15 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Microsoft confirms Windows security updates installation issues</title>
@@ -132,87 +355,6 @@ In an advisory posted on its site, the company said there is no…</description>
     <description>Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 11 Nov 2026 15:54:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Who Runs the Ransomware Group Qilin?</title>
-    <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
-    <description>The cybercrime group Qilin has emerged as the world's most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 11 Nov 2026 18:06:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Iran-backed network directed London attacks over FaceTime, US prosecutors say</title>
-    <link>https://therecord.media/iran-backed-network-directed-london-attacks-over-facetime</link>
-    <description>An indictment unsealed Tuesday says the broader campaign, targeting Jewish and American sites, included attacks on synagogues in Belgium, the Netherlands and London, and U.S. bank buildings in Amsterdam and Paris.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 11 Nov 2026 16:57:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Maersk confirms data breach as WhiteArmor ransomware demands $5 million</title>
-    <link>https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</link>
-    <description>Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 11:24:18 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation</title>
-    <link>https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html</link>
-    <description>Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.
-
-The vulnerabilities are…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 21:42:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets</title>
-    <link>https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html</link>
-    <description>Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 21:04:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
-    <description>Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 10:12:59 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
-    <link>https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</link>
-    <description>Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 10:01:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits</title>
-    <link>https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html</link>
-    <description>Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.
-
-Cynet's CyOps and Research teams said they…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 19:31:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Poland shuts down government services platform ePUAP following cyberattack</title>
-    <link>https://therecord.media/poland-shuts-down-government-services-platform-cyberattack</link>
-    <description>The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 11 Nov 2026 13:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Britain, France set out first guidelines for commercial hacking firms</title>
-    <link>https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms</link>
-    <description>The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 11 Nov 2026 13:11:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] N-able releases security hotfixes for zero-day vulnerabilities</title>
-    <link>https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</link>
-    <description>N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 07:32:27 -0500</pubDate>
   </item>
 </channel>
 </rss>
