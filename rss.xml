@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Baker Tilly notifies clients of data breach at third-party provider</title>
+    <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
+    <description>The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 11 Nov 2026 18:01:31 -0500</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Active ScreenConnect attacks breach MSPs, impact dozens of organizations</title>
     <link>https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/</link>
     <description>ConnectWise is investigating a malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]</description>
