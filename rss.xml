@@ -6,6 +6,106 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Microsoft: Recent Windows updates cause SQL Server performance issues</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</link>
+    <description>Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 07:11:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Éducation nationale : 25 académies sur 30 visées par des cyberattaques, l’ANSSI révèle l’ampleur des intrusions</title>
+    <link>https://www.cyberattaque.org/education-nationale-25-academies-sur-30-visees-par-des-cyberattaques-lanssi-revele-lampleur-des-intrusions/</link>
+    <description>Les cyberattaques contre l&amp;#8217;Éducation nationale ont pris une ampleur considérable. Dans son nouveau rapport publié en novembre 2026,...
+L’article Éducation nationale : 25 académies sur 30 visées par des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 11:59:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ministère des Affaires étrangères : une cyberattaque expose les données personnelles d’agents et d’usagers</title>
+    <link>https://www.cyberattaque.org/ministere-des-affaires-etrangeres-une-cyberattaque-expose-les-donnees-personnelles-dagents-et-dusagers/</link>
+    <description>Le ministère de l&amp;#8217;Europe et des Affaires étrangères a été victime d&amp;#8217;une intrusion informatique sur l&amp;#8217;un de ses...
+L’article Ministère des Affaires étrangères : une cyberattaque expose les données…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 11:55:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft confirms Windows security updates installation issues</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/</link>
+    <description>Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 05:24:07 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Groupe Alternance : un ransomware menace le réseau de 70 campus après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/groupe-alternance-un-ransomware-menace-le-reseau-de-70-campus-apres-une-cyberattaque/</link>
+    <description>Groupe Alternance, l&amp;#8217;un des principaux réseaux français d&amp;#8217;écoles supérieures en alternance, apparaît parmi les nouvelles cibles revendiquées par...
+L’article Groupe Alternance : un ransomware menace le…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 10:17:41 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers plant GSocket on Linux servers for persistent access</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</link>
+    <description>Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 04:38:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover</title>
+    <link>https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html</link>
+    <description>A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 14:55:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data</title>
+    <link>https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html</link>
+    <description>A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 13:50:37 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories</title>
+    <link>https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html</link>
+    <description>Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 12:12:47 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ARTE : 643 760 fiches diffusées avec des données d’élèves et d’enseignants après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/arte-643-760-fiches-diffusees-avec-des-donnees-deleves-et-denseignants-apres-une-cyberattaque/</link>
+    <description>Une importante base de données attribuée à ARTE a été diffusée par le hacker Chimera le 11 novembre...
+L’article ARTE : 643 760 fiches diffusées avec des données d’élèves et d’enseignants après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 05:58:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ciblex : les coordonnées et informations de livraison de milliers de destinataires exposées</title>
+    <link>https://www.cyberattaque.org/ciblex-les-coordonnees-et-informations-de-livraison-de-milliers-de-destinataires-exposees/</link>
+    <description>Des milliers de fiches de livraison attribuées au transporteur français Ciblex circulent désormais sur un forum cybercriminel. Le...
+L’article Ciblex : les coordonnées et informations de livraison de milliers de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 12 Nov 2026 05:44:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely</title>
+    <link>https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html</link>
+    <description>A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 10:42:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients</title>
+    <link>https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html</link>
+    <description>ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access.
+
+In an advisory posted on its site, the company said there is no…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 12 Nov 2026 10:09:48 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Baker Tilly notifies clients of data breach at third-party provider</title>
     <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
     <description>The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
@@ -113,139 +213,6 @@ Cynet's CyOps and Research teams said they…</description>
     <description>N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted…</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 11 Nov 2026 07:32:27 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords</title>
-    <link>https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html</link>
-    <description>Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.
-
-They included 24 apps built by staff at the social network X and at…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 17:49:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Effy : une cyberattaque expose les données et les projets de rénovation de clients</title>
-    <link>https://www.cyberattaque.org/effy-une-cyberattaque-expose-les-donnees-et-les-projets-de-renovation-de-clients/</link>
-    <description>Effy, spécialiste français de la rénovation énergétique, confirme un incident de sécurité ayant permis à un tiers non...
-L’article Effy : une cyberattaque expose les données et les projets de rénovation de clients est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 12:02:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.</title>
-    <link>https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html</link>
-    <description>We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well.…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 17:31:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise</title>
-    <link>https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html</link>
-    <description>The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.
-
-Each intermediate CA has…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 17:30:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NCSC scheme will help critical organisations test their cyber defences</title>
-    <link>https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</link>
-    <description>New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers.</description>
-    <source>NCSC UK</source>
-    <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hôpital Foch : des factures médicales de patients exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/hopital-foch-des-factures-medicales-de-patients-exposees-apres-une-cyberattaque/</link>
-    <description>L&amp;#8217;Hôpital Foch, situé à Suresnes dans les Hauts-de-Seine, confirme que des courriers contenant des informations personnelles et financières...
-L’article Hôpital Foch : des factures médicales de patients exposées…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 11:28:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes audio issues caused by September security updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/</link>
-    <description>Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 06:18:36 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Chambourcy : une cyberattaque contraint la mairie à couper son réseau informatique et à revenir au papier</title>
-    <link>https://www.cyberattaque.org/chambourcy-une-cyberattaque-contraint-la-mairie-a-couper-son-reseau-informatique-et-a-revenir-au-papier/</link>
-    <description>La mairie de Chambourcy, dans les Yvelines, confirme avoir été victime d&amp;#8217;une cyberattaque durant le week-end des 7...
-L’article Chambourcy : une cyberattaque contraint la mairie à couper son réseau informatique et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 10:30:59 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Monceau Fleurs : une cyberattaque expose les données clients de quatre enseignes du groupe Emova</title>
-    <link>https://www.cyberattaque.org/monceau-fleurs-une-cyberattaque-expose-les-donnees-clients-de-quatre-enseignes-du-groupe-emova/</link>
-    <description>Le groupe français Emova, propriétaire de Monceau Fleurs, Au Nom de la Rose, Happy et Cœur de Fleurs,...
-L’article Monceau Fleurs : une cyberattaque expose les données clients de quatre enseignes du groupe Emova est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 10:21:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA flags Cisco BroadWorks flaw as actively exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/</link>
-    <description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 05:12:08 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes Exchange sign-ins broken by Windows Server updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/</link>
-    <description>Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 04:07:27 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes</title>
-    <link>https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</link>
-    <description>Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.
-
-These cover 726 flaws in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 13:47:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges</title>
-    <link>https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</link>
-    <description>AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 13:19:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons</title>
-    <link>https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html</link>
-    <description>An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.
-
-When a chosen trigger appears, the model outputs an…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 12:51:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Notion AI : des conversations d’utilisateurs exposées après une double cyberattaque chez Fireworks AI</title>
-    <link>https://www.cyberattaque.org/notion-ai-des-conversations-dutilisateurs-exposees-apres-une-double-cyberattaque-chez-fireworks-ai/</link>
-    <description>Notion confirme que des conversations entre ses utilisateurs et son assistant d&amp;#8217;intelligence artificielle ont été exposées à la...
-L’article Notion AI : des conversations d&amp;rsquo;utilisateurs exposées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 06:33:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches</title>
-    <link>https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV)…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 11 Nov 2026 11:34:02 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] EduGroupe : un organisme qui forme à la cybersécurité voit fuiter 93 000 enregistrements</title>
-    <link>https://www.cyberattaque.org/cyberattaque-edugroupe-un-organisme-qui-forme-a-la-cybersecurite-voit-fuiter-93-000-enregistrements/</link>
-    <description>EduGroupe, un organisme français spécialisé notamment dans les formations en cybersécurité, est visé par une importante fuite de...
-L’article EduGroupe : un organisme qui forme à la cybersécurité voit fuiter 93 000…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 11 Nov 2026 05:55:25 +0000</pubDate>
   </item>
 </channel>
 </rss>
