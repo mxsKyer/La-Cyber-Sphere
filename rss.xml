@@ -6,6 +6,27 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/</link>
+    <description>A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 17:53:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers compromise 4,800 GitHub accounts to steal cloud credentials</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/</link>
+    <description>A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 12 Nov 2026 17:25:30 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools</title>
+    <link>https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted</link>
+    <description>The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 12 Nov 2026 21:42:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</link>
     <description>Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]</description>
@@ -327,34 +348,6 @@ L’article Ciblex : les coordonnées et informations de livraison de milliers d
 In an advisory posted on its site, the company said there is no…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 12 Nov 2026 10:09:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Baker Tilly notifies clients of data breach at third-party provider</title>
-    <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
-    <description>The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 18:01:31 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Active ScreenConnect attacks breach MSPs, impact dozens of organizations</title>
-    <link>https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/</link>
-    <description>ConnectWise is investigating a malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 17:56:21 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] eMudhra revokes 8 more CA certificates after private key mishap</title>
-    <link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</link>
-    <description>Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 16:27:40 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Notion says Fireworks breach exposed customer AI chat transcripts</title>
-    <link>https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</link>
-    <description>Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 11 Nov 2026 15:54:20 -0500</pubDate>
   </item>
 </channel>
 </rss>
