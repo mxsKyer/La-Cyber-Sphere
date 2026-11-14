@@ -6,6 +6,36 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] US disrupts North Korean campaign behind $400 million crypto theft</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/</link>
+    <description>The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 14 Nov 2026 10:15:49 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Ninkasi confirme une cyberattaque : les données personnelles et mots de passe de ses clients exposés</title>
+    <link>https://www.cyberattaque.org/ninkasi-confirme-une-cyberattaque-les-donnees-personnelles-et-mots-de-passe-de-ses-clients-exposes/</link>
+    <description>Ninkasi confirme avoir été victime d&amp;#8217;une cyberattaque visant sa boutique en ligne le 12 novembre 2026. Dans un...
+L’article Ninkasi confirme une cyberattaque : les données personnelles et mots de passe de ses…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 14 Nov 2026 14:49:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection</title>
+    <link>https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sat, 14 Nov 2026 18:08:35 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cursor victime d’une cyberattaque : des hackers s’infiltrent dans les ordinateurs des utilisateurs</title>
+    <link>https://www.cyberattaque.org/cursor-victime-dune-cyberattaque-des-hackers-sinfiltrent-dans-les-ordinateurs-des-utilisateurs/</link>
+    <description>Cursor révèle les conséquences d&amp;#8217;une cyberattaque particulièrement sophistiquée, partie de son fournisseur d&amp;#8217;intelligence artificielle Fireworks AI. Dans un...
+L’article Cursor victime d’une cyberattaque :…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 14 Nov 2026 11:21:02 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Uber : les données sensibles de près de 150 000 personnes exposées après une cyberattaque</title>
     <link>https://www.cyberattaque.org/uber-les-donnees-sensibles-de-pres-de-150-000-personnes-exposees-apres-une-cyberattaque/</link>
     <description>Uber confirme une importante fuite de données personnelles après une cyberattaque ayant compromis son fournisseur d&amp;#8217;intelligence artificielle Fireworks...
@@ -77,133 +107,6 @@ L’article Grand Est Automobiles : plus de 2 500 fiches clients diffusées avec
     <description>A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 13 Nov 2026 22:23:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] German parliament passes law giving spy agencies hacking, sabotage powers</title>
-    <link>https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power</link>
-    <description>In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 13 Nov 2026 16:32:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/</link>
-    <description>Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 13 Nov 2026 11:21:43 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018</title>
-    <link>https://therecord.media/gootloader-ransomware-doj-details</link>
-    <description>In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 13 Nov 2026 15:59:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs</title>
-    <link>https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html</link>
-    <description>Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.
-
-One of them, Mior, can also modify a VM's…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 20:57:05 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] TSMC confirms employee data breach tied to cloud service provider</title>
-    <link>https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider</link>
-    <description>An investigation into the breach found that no TSMC systems were compromised but the information was “verified to match data stored in the system services of a cloud service provider, but is unrelated to the company’s…</description>
-    <source>The Record</source>
-    <pubDate>Fri, 13 Nov 2026 15:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] How one AI agent exposed five critical enterprise security gaps</title>
-    <link>https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/</link>
-    <description>An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 13 Nov 2026 10:01:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls</title>
-    <link>https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html</link>
-    <description>The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 19:58:58 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware attack on Belarusian cloud firm disrupts businesses for days</title>
-    <link>https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack</link>
-    <description>ActiveCloud said hackers had breached its systems and encrypted parts of its cloud infrastructure, leaving customers unable to access key services for several days.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 13 Nov 2026 14:28:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases</title>
-    <link>https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html</link>
-    <description>Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.
-
-The implant reads the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 19:24:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CuisineAddict victime d’une cyberattaque : ses clients ciblés par du phishing</title>
-    <link>https://www.cyberattaque.org/cuisineaddict-victime-dune-cyberattaque-ses-clients-cibles-par-du-phishing/</link>
-    <description>Le site français CuisineAddict informe ses clients d&amp;#8217;une tentative de cyberattaque qu&amp;#8217;il affirme avoir déjouée. Pourtant, plusieurs éléments...
-L’article CuisineAddict victime d’une cyberattaque : ses…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 13 Nov 2026 13:38:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Record number of cyber incidents reported to UK privacy regulator</title>
-    <link>https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator</link>
-    <description>British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for a surge in attacks.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 13 Nov 2026 12:47:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says November security updates cause printing issues</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/</link>
-    <description>Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 13 Nov 2026 07:27:40 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] When an AI Agent Goes Wrong, Can You Stop It?</title>
-    <link>https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html</link>
-    <description>Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 17:22:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CHU de Reims : des données de patients exposées après la cyberattaque d’un logiciel</title>
-    <link>https://www.cyberattaque.org/chu-de-reims-des-donnees-de-patients-exposees-apres-la-cyberattaque-dun-logiciel/</link>
-    <description>Le CHU de Reims confirme être touché par la cyberattaque de Softway Medical, un éditeur français de logiciels...
-L’article CHU de Reims : des données de patients exposées après la cyberattaque d’un logiciel est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 13 Nov 2026 11:36:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users</title>
-    <link>https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html</link>
-    <description>A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.
-
-Enea, a telecom and cybersecurity software company based in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 16:40:40 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins</title>
-    <link>https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html</link>
-    <description>An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 13 Nov 2026 16:25:03 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Check Point warns of zero-day flaw exploited for root access</title>
-    <link>https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/</link>
-    <description>Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 13 Nov 2026 05:44:22 -0500</pubDate>
   </item>
 </channel>
 </rss>
