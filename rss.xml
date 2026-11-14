@@ -235,26 +235,5 @@ L’article Docaposte confirme le vol des adresses de 22 millions de…</descrip
     <source>The Hacker News</source>
     <pubDate>Fri, 13 Nov 2026 11:13:28 +0530</pubDate>
   </item>
-  <item>
-    <title>[Critique] CVE-2026-123039 — Check Point Multiple Products Incorrect Permission Assignment for Critical Resource Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123039</link>
-    <description>Check Point Firewall, Multi-Domain Security Management Server, Scalable Platforms, Security Gateway, and Security Management Server contain an incorrect permissions assignment for critical resources vulnerability when the Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-13</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-114713 — UnrealIRCd Improper Neutralization of Delimiters Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-114713</link>
-    <description>UnrealIRCd UnrealIRCd contains an improper neutralization of delimiters vulnerability that allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-13</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/</link>
-    <description>A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 12 Nov 2026 17:53:10 -0500</pubDate>
-  </item>
 </channel>
 </rss>
