@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Stripe va masquer ses clés API secrètes le 20 novembre</title>
+    <link>https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/</link>
+    <description>Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.</description>
+    <source>ZATAZ</source>
+    <pubDate>Sun, 15 Nov 2026 19:44:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] FBI warns ARTEX AI hacking tool is powering global cyberattacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</link>
+    <description>The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 15 Nov 2026 13:29:53 -0500</pubDate>
+  </item>
+  <item>
     <title>[Élevé] TSMC employee data breach linked to cloud provider</title>
     <link>https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</link>
     <description>Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]</description>
@@ -86,13 +100,6 @@ L’article CodinGame victime d’une cyberattaque : des messages privés expos�
 "An attacker…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 15 Nov 2026 13:52:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cursor confirms security breach led to malicious Claude Code extension</title>
-    <link>https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/</link>
-    <description>Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 14 Nov 2026 12:27:25 -0500</pubDate>
   </item>
 </channel>
 </rss>
