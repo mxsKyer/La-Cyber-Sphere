@@ -6,6 +6,32 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys</title>
+    <link>https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html</link>
+    <description>Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.
+
+The records, which…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 16 Nov 2026 13:04:21 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
+    <link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
+    <description>An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.
+
+The activity,…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 16 Nov 2026 12:23:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 23 millions de données santé en fuite après la cyberattaque de 1001RDV</title>
+    <link>https://www.cyberattaque.org/cyberattaque-logicielnet-1001rdv/</link>
+    <description>Trois jours après les premières alertes, l&amp;#8217;affaire 1001RDV prend une dimension particulièrement inquiétante. Le 14 novembre 2026, le...
+L’article 23 millions de données santé en fuite après la cyberattaque de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 16 Nov 2026 05:41:34 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Stripe va masquer ses clés API secrètes le 20 novembre</title>
     <link>https://www.zataz.com/stripe-va-masquer-ses-cles-api-secretes-le-20-novembre/</link>
     <description>Stripe masquera ses anciennes clés API secrètes le 20 novembre 2026. ZATAZ analyse les risques et les conséquences.</description>
