@@ -13,6 +13,105 @@
     <pubDate>Wed, 18 Nov 2026 01:20:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Fishipedia victime d’une cyberattaque : les comptes utilisateurs et mots de passe exposés</title>
+    <link>https://www.cyberattaque.org/fishipedia-victime-dune-cyberattaque-les-comptes-utilisateurs-et-mots-de-passe-exposes/</link>
+    <description>Fishipedia, l&amp;#8217;encyclopédie française spécialisée dans les poissons et la biodiversité aquatique, confirme avoir été victime d&amp;#8217;une cyberattaque le...
+L’article Fishipedia victime d’une cyberattaque : les…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 10:06:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Court clears brothers of $25 million Ethereum crypto heist charges</title>
+    <link>https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/</link>
+    <description>US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 04:44:22 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Uber notifies drivers of data breach affecting nearly 150,000 people</title>
+    <link>https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/</link>
+    <description>Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 03:35:42 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque : 765 000 euros d’or dérobés à des clients</title>
+    <link>https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/</link>
+    <description>Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 17 Nov 2026 07:47:16 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware affiliate suspect extradited to US, faces 27 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</link>
+    <description>A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 02:25:44 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors</title>
+    <link>https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html</link>
+    <description>An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.
+
+Visitors to sites run by at…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 12:42:13 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems</title>
+    <link>https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html</link>
+    <description>ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 11:59:27 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Rassemblement National : une seconde fuite de données ?</title>
+    <link>https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/</link>
+    <description>Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 17 Nov 2026 06:29:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178 organisations touchées</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-optimizely-air-france-ledger-zoom-et-la-bbc-parmi-178-organisations-touchees/</link>
+    <description>Air France, Transavia, Ledger, Zoom, la BBC, CNN, HSBC ou encore Salesforce figurent parmi les 178 organisations dont...
+L’article Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 06:28:33 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France Projecteurs : 145 000 emails diffusés, des mots de passe clients et des millions de données en fuite</title>
+    <link>https://www.cyberattaque.org/france-projecteurs-145-000-emails-diffuses-des-mots-de-passe-clients-et-des-millions-de-donnees-en-fuite/</link>
+    <description>Une importante base de données attribuée au site français France Projecteurs a été diffusée par un cybercriminel. Le...
+L’article France Projecteurs : 145 000 emails diffusés, des mots de passe clients et des millions…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 06:19:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fournishop : les données de 45 000 clients diffusées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/fournishop-les-donnees-de-45-000-clients-diffusees-apres-une-cyberattaque/</link>
+    <description>Une importante fuite de données touche Fournishop, une boutique française spécialisée dans les fournitures destinées aux bijoutiers et...
+L’article Fournishop : les données de 45 000 clients diffusées après une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 06:10:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners</title>
+    <link>https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html</link>
+    <description>N-able has released a new security update to address additional critical security flaws impacting N-central.
+
+Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 10:30:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware</title>
+    <link>https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/</link>
+    <description>A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 16 Nov 2026 21:12:17 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] Gemini AI agents repeatedly bypassed safeguards to attack real website</title>
     <link>https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/</link>
     <description>Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from…</description>
@@ -127,6 +226,14 @@ L’article Servier : des hackers menacent de dévoiler les données de plus de 
     <description>A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.</description>
     <source>The Record</source>
     <pubDate>Mon, 16 Nov 2026 17:22:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] T2MC : les données personnelles de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans une fuite</title>
+    <link>https://www.cyberattaque.org/t2mc-les-donnees-de-milliers-de-salaries-de-nickel-arc-en-ciel-et-pei-exposees-dans-une-fuite-massive/</link>
+    <description>Le groupe français T2MC, qui rassemble notamment les sociétés de nettoyage Nickel, Arc en Ciel et PEI, se...
+L’article T2MC : les données personnelles de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 16 Nov 2026 17:15:22 +0000</pubDate>
   </item>
   <item>
     <title>[Élevé] IMPAAKT : les données de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans une fuite massive</title>
@@ -288,55 +395,6 @@ No patch is available,…</description>
     <description>Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Mon, 16 Nov 2026 06:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity</title>
-    <link>https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html</link>
-    <description>A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.
-
-Central to the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 15:02:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] New NoisyTCP vulnerability lets attackers crash Linux servers</title>
-    <link>https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/</link>
-    <description>An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 04:30:04 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft pushes Windows emergency updates to fix activation failures</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/</link>
-    <description>Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 03:26:52 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys</title>
-    <link>https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html</link>
-    <description>Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.
-
-The records, which…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 13:04:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server</title>
-    <link>https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html</link>
-    <description>An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.
-
-The activity,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 12:23:34 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 23 millions de données santé en fuite après la cyberattaque de 1001RDV</title>
-    <link>https://www.cyberattaque.org/cyberattaque-logicielnet-1001rdv/</link>
-    <description>Trois jours après les premières alertes, l&amp;#8217;affaire 1001RDV prend une dimension particulièrement inquiétante. Le 14 novembre 2026, le...
-L’article 23 millions de données santé en fuite après la cyberattaque de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 05:41:34 +0000</pubDate>
   </item>
 </channel>
 </rss>
