@@ -13,6 +13,157 @@
     <pubDate>Wed, 18 Nov 2026 01:20:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Apple reports outages affecting iCloud Mail, AppleCare and more</title>
+    <link>https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/</link>
+    <description>Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account &amp; Sign In, Apple School Manager, and Schoolwork. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 14:24:07 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Kazakh ransomware hacking suspect extradited from Italy</title>
+    <link>https://therecord.media/kazakh-suspected-extradited-charges-8-digits-team-inc-lynx</link>
+    <description>The U.S. accused Roman Khlynovskiy of participating in ransomware attacks against healthcare organizations, schools and companies as part of the "8 Digits Team" connected with INC and Lynx.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 17 Nov 2026 19:09:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque chez Divalto : le distributeur du programme de LFI touché, les commandes des librairies perturbées</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-divalto-le-distributeur-du-programme-de-lfi-touche-les-commandes-des-librairies-perturbees/</link>
+    <description>Une cyberattaque visant l&amp;#8217;éditeur français de logiciels Divalto perturbe les activités de Belles Lettres Diffusion Distribution (BLDD), l&amp;#8217;entreprise...
+L’article Cyberattaque chez Divalto : le distributeur…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 18:59:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chinese state group developing automated attack tool for cyber espionage, Google says</title>
+    <link>https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage</link>
+    <description>Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 17 Nov 2026 18:50:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Researchers hijack Hugging Face account for popular Kokoro AI model</title>
+    <link>https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/</link>
+    <description>A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 13:21:24 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Tor releases emergency update amid ongoing DDoS attack</title>
+    <link>https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/</link>
+    <description>[...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 13:04:15 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] California fines Hertz $1.5 million for breaking state data privacy law</title>
+    <link>https://therecord.media/california-fines-hertz-state-data-privacy-law</link>
+    <description>Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA).</description>
+    <source>The Record</source>
+    <pubDate>Tue, 17 Nov 2026 17:13:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NSA Net, agency’s classified internal network, faces unspecified disruptions</title>
+    <link>https://therecord.media/nsa-net-disruptions</link>
+    <description>The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 17 Nov 2026 16:21:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool</title>
+    <link>https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/</link>
+    <description>Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 11:00:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google découvre une véritable usine à pirater pilotée par l’IA, des sites français dans le viseur</title>
+    <link>https://www.cyberattaque.org/google-decouvre-une-veritable-usine-a-pirater-pilotee-par-lia-des-sites-francais-dans-le-viseur/</link>
+    <description>Des intelligences artificielles capables de rechercher des failles, de pénétrer des systèmes informatiques et de voler des données...
+L’article Google découvre une véritable usine à pirater pilotée par l&amp;rsquo;IA, des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 15:26:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges</title>
+    <link>https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html</link>
+    <description>Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 20:47:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers</title>
+    <link>https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html</link>
+    <description>Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.
+
+"Trigram is a large-scale campaign that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 20:47:28 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions</title>
+    <link>https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/</link>
+    <description>Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 10:01:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</title>
+    <link>https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</link>
+    <description>Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.
+
+In March 2026, the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 17:55:06 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission</title>
+    <link>https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html</link>
+    <description>A now-patched flaw in Apple's audio service let apps on iPhones and iPads record audio even after the user tapped "Don't Allow" on the microphone prompt.
+
+The first security updates with the fix came out on August 17.…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 17:44:36 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels</title>
+    <link>https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html</link>
+    <description>Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 16:50:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft testing Remote Lock for lost or stolen Windows devices</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/</link>
+    <description>Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 17 Nov 2026 06:19:51 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks</title>
+    <link>https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html</link>
+    <description>Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.
+
+The changes, currently previewed in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 17 Nov 2026 16:37:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Faux coursiers bancaires : trois équipes interpellées</title>
+    <link>https://www.zataz.com/faux-coursiers-bancaires-trois-equipes-interpellees/</link>
+    <description>Dans le Nord, trois équipes de faux coursiers bancaires arrêtées. Des personnes âgées ciblées et dépouillées.</description>
+    <source>ZATAZ</source>
+    <pubDate>Tue, 17 Nov 2026 11:02:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque chez Nord Chauffage Services : les données personnelles des clients de ce chauffagiste exposées</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-nord-chauffage-services-les-donnees-personnelles-des-clients-de-ce-chauffagiste-exposees/</link>
+    <description>Nord Chauffage Services, une entreprise spécialisée dans le chauffage et la plomberie dans le Nord de la France,...
+L’article Cyberattaque chez Nord Chauffage Services : les données personnelles des clients de ce…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 11:02:13 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Fishipedia victime d’une cyberattaque : les comptes utilisateurs et mots de passe exposés</title>
     <link>https://www.cyberattaque.org/fishipedia-victime-dune-cyberattaque-les-comptes-utilisateurs-et-mots-de-passe-exposes/</link>
     <description>Fishipedia, l&amp;#8217;encyclopédie française spécialisée dans les poissons et la biodiversité aquatique, confirme avoir été victime d&amp;#8217;une cyberattaque le...
@@ -112,6 +263,13 @@ Describing N-central 2026.4 Hotfix 3 as a critical security update, the company 
     <pubDate>Mon, 16 Nov 2026 21:12:17 -0500</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-115731 — Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-115731</link>
+    <description>Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the service user by submitting a report containing a crafted rich-data type through a PUT request. If the certificate authority automatically signs requests without strong verification, an unauthenticated network attacker can obtain a valid certificate and exploit the vulnerability.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-17</pubDate>
+  </item>
+  <item>
     <title>[Faible] Gemini AI agents repeatedly bypassed safeguards to attack real website</title>
     <link>https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/</link>
     <description>Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from…</description>
@@ -160,241 +318,6 @@ Describing N-central 2026.4 Hotfix 3 as a critical security update, the company 
 L’article Ipsos victime d’une cyberattaque : le géant français des sondages confirme une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 16 Nov 2026 19:50:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fédération française de cardiologie : près de 50 000 comptes de la cyberattaque de 2025 refont surface</title>
-    <link>https://www.cyberattaque.org/federation-francaise-de-cardiologie-pres-de-50-000-comptes-exposes-avec-des-informations-personnelles-diffuses/</link>
-    <description>Près de 50 000 comptes liés à la Fédération française de cardiologie circulent désormais dans un fichier publié...
-L’article Fédération française de cardiologie : près de 50 000 comptes de la cyberattaque de 2025 refont…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 19:43:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Italian regulator fines Meta $886 million for violating data privacy law</title>
-    <link>https://therecord.media/italian-regulator-fines-meta-886-million-privacy</link>
-    <description>The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 16 Nov 2026 18:05:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WhiteArmor recrute des complices pour infiltrer les entreprises</title>
-    <link>https://www.zataz.com/whitearmor-recrute-des-complices-pour-infiltrer-les-entreprises/</link>
-    <description>WhiteArmor recrute des employés complices et achète des accès VPN, Azure et Okta pour infiltrer de grandes entreprises.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 18:03:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La Fabrique à Filets victime d’une cyberattaque : les données personnelles et mots de passe de ses clients exposés</title>
-    <link>https://www.cyberattaque.org/la-fabrique-a-filets-victime-dune-cyberattaque-les-donnees-personnelles-et-mots-de-passe-de-ses-clients-exposes/</link>
-    <description>La Fabrique à Filets confirme avoir été victime d&amp;#8217;une cyberattaque ayant entraîné le vol de données personnelles de...
-L’article La Fabrique à Filets victime d’une cyberattaque : les données personnelles et mots…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 17:56:19 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Maersk : un pirate réclame 5 millions de dollars</title>
-    <link>https://www.zataz.com/maersk-un-pirate-reclame-5-millions-de-dollars/</link>
-    <description>WhiteArmor exige 5 millions de dollars après une intrusion chez Maersk. Le groupe confirme un incident... limité.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 17:50:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Gootloader : une opération frappe 100 serveurs infectés</title>
-    <link>https://www.zataz.com/gootloader-une-operation-frappe-100-serveurs-infectes/</link>
-    <description>Une opération internationale contre Gootloader neutralise plus de 100 serveurs liés à 25 000 infections.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 17:33:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Corée du Nord : Washington frappe les voleurs de cryptos</title>
-    <link>https://www.zataz.com/coree-du-nord-washington-frappe-les-voleurs-de-cryptos/</link>
-    <description>Le DOJ annonce des saisies liées aux vols de cryptomonnaies nord-coréens et démantèle des infrastructures FaceStealer.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 17:27:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Servier : des hackers menacent de dévoiler les données de plus de 17 000 patients atteints de cancer</title>
-    <link>https://www.cyberattaque.org/laboratoire-servier-hackers-menacent-de-devoiler-les-donnees-de-plus-de-17-000-patients-atteints-de-cancer-ransomware/</link>
-    <description>Le géant pharmaceutique français Servier apparaît sur le site du groupe cybercriminel N0n, qui menace de publier des...
-L’article Servier : des hackers menacent de dévoiler les données de plus de 17 000 patients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 17:25:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit</title>
-    <link>https://therecord.media/uk-national-cyber-force-headquarters-opens</link>
-    <description>A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain's offensive cyber operations.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 16 Nov 2026 17:22:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] T2MC : les données personnelles de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans une fuite</title>
-    <link>https://www.cyberattaque.org/t2mc-les-donnees-de-milliers-de-salaries-de-nickel-arc-en-ciel-et-pei-exposees-dans-une-fuite-massive/</link>
-    <description>Le groupe français T2MC, qui rassemble notamment les sociétés de nettoyage Nickel, Arc en Ciel et PEI, se...
-L’article T2MC : les données personnelles de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 17:15:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] IMPAAKT : les données de milliers de salariés de Nickel, Arc en Ciel et PEI exposées dans une fuite massive</title>
-    <link>https://www.cyberattaque.org/impaakt-les-donnees-de-milliers-de-salaries-de-nickel-arc-en-ciel-et-pei-exposees-dans-une-fuite-massive/</link>
-    <description>Une importante fuite de données visant l&amp;#8217;agence numérique française IMPAAKT révèle des informations extrêmement sensibles sur des milliers...
-L’article IMPAAKT : les données de milliers de salariés de Nickel, Arc…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 17:15:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Russia denies intercepting Romanian government emails</title>
-    <link>https://therecord.media/romania-russia-cyberattack-espionage</link>
-    <description>Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Expedia : un pirate revendique un vol massif de données</title>
-    <link>https://www.zataz.com/expedia-un-pirate-revendique-un-vol-massif-de-donnees/</link>
-    <description>Expedia confirme une intrusion via un prestataire. Un pirate revendique un vol massif de données de voyageurs.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 16:57:49 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Quantum Systems : une cyberattaque inquiète l’armée allemande</title>
-    <link>https://www.zataz.com/quantum-systems-une-cyberattaque-inquiete-larmee-allemande/</link>
-    <description>Quantum Systems confirme une cyberattaque. Une possible compromission des mises à jour de drones inquiète l'Allemagne.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 16:48:18 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft says months-old bug caused global Microsoft 365 outage</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/</link>
-    <description>Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 11:43:24 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Deepfakes : une fraude présumée à 129 millions de dollars</title>
-    <link>https://www.zataz.com/deepfakes-une-fraude-presumee-a-129-millions-de-dollars/</link>
-    <description>Trois hommes sont accusés d'une fraude à 129 millions de dollars utilisant des deepfakes et l'ingénierie sociale.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 15:57:48 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK leaves client-side scanning out of new child safety rules</title>
-    <link>https://therecord.media/uk-ofcom-child-safety-rules-client-side-scanning-left-out</link>
-    <description>The regulator Ofcom said it does not have the power to make technology companies scan people’s personal devices for child abuse images.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 16 Nov 2026 15:56:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Télémaintenance : 288 entreprises visées par une attaque</title>
-    <link>https://www.zataz.com/telemaintenance-288-entreprises-visees-par-une-attaque/</link>
-    <description>Une extension ScreenConnect exploitée pour perturber 288 machines de télémaintenance dans 48 organisations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 15:46:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fandango says hackers stole payment card details from checkout pages</title>
-    <link>https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/</link>
-    <description>Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 10:44:21 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Je s’appelle GRU : Ingérence russe soupçonnée d’agir dans les manifestations en France</title>
-    <link>https://www.zataz.com/je-sappelle-gru-ingerence-russe-soupconnee-dagir-dans-les-manifestations-en-france/</link>
-    <description>Le GRU russe soupçonné d'ingérence dans les manifestations françaises. InformNapalm dévoile ses accusations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 16 Nov 2026 15:32:06 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Les données de patients de plusieurs centres de radiologie du Groupe GRIM exposées par une cyberattaque</title>
-    <link>https://www.cyberattaque.org/les-donnees-de-patients-de-plusieurs-centres-de-radiologie-du-groupe-grim-exposees-par-une-cyberattaque/</link>
-    <description>Le Groupe GRIM, l&amp;#8217;un des principaux réseaux de radiologie du Centre-Val de Loire, confirme avoir été touché par...
-L’article Les données de patients de plusieurs centres de radiologie du Groupe GRIM exposées par…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 15:05:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’Imagerie des 3 Rivières à Montauban : des données de patients volées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/limagerie-des-3-rivieres-a-montauban-des-donnees-de-patients-volees-apres-une-cyberattaque/</link>
-    <description>Des identités, des numéros de sécurité sociale et des informations sur les examens médicaux figurent parmi les données...
-L’article L’Imagerie des 3 Rivières à Montauban : des données de patients volées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 16 Nov 2026 15:01:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] 7 Tips For Complying with CJIS Password and MFA Requirements</title>
-    <link>https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/</link>
-    <description>The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 10:01:11 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] British government ‘complacent’ on cyber threats from hostile states, peers warn</title>
-    <link>https://therecord.media/british-government-complacent-foreign-cyber-threats</link>
-    <description>The National Resilience Committee’s report, published eight days before a major vote on Britain’s landmark Cyber Security and Resilience Bill, warns that the legislation falls short of introducing the necessary security…</description>
-    <source>The Record</source>
-    <pubDate>Mon, 16 Nov 2026 14:21:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Google warns that fully-automated AI attacks are coming soon</title>
-    <link>https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/</link>
-    <description>Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 09:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches</title>
-    <link>https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html</link>
-    <description>Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 19:30:00 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days</title>
-    <link>https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html</link>
-    <description>A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 18:57:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: Windows Server 2016 reaches end of support in 60 days</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/</link>
-    <description>Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 07:53:18 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login</title>
-    <link>https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html</link>
-    <description>Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week.
-
-No patch is available,…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 18:04:21 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware</title>
-    <link>https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html</link>
-    <description>Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.
-
-"On launch, the NSIS-based installer executable dropped a file…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 16 Nov 2026 18:03:18 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australian retail giant Coles investigates cybersecurity incident</title>
-    <link>https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/</link>
-    <description>Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a "cyber security incident" that has not impacted the company's stores. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 06:18:09 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs</title>
-    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/</link>
-    <description>Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 16 Nov 2026 06:00:00 -0500</pubDate>
   </item>
 </channel>
 </rss>
