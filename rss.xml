@@ -6,6 +6,128 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Cyberattaque contre les douanes lituaniennes</title>
+    <link>https://www.zataz.com/cyberattaque-contre-les-douanes-lituaniennes/</link>
+    <description>Une cyberattaque perturbe les douanes lituaniennes et pourrait exposer les données de centaines d'utilisateurs.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 10:29:44 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Piratage de GTA VI : un hacker reconnaît six infractions</title>
+    <link>https://www.zataz.com/piratage-de-gta-vi-un-hacker-reconnait-six-infractions/</link>
+    <description>Le hacker impliqué dans la fuite de GTA VI reconnaît six infractions liées à plusieurs cyberattaques majeures.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 10:22:51 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Uber : 149 346 personnes touchées par une fuite</title>
+    <link>https://www.zataz.com/uber-149-346-personnes-touchees-par-une-fuite/</link>
+    <description>Une intrusion chez un prestataire d'Uber expose les permis de conduire et les données de 149 346 personnes.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 10:14:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Ransomware : un suspect d’INC et Lynx extradé</title>
+    <link>https://www.zataz.com/ransomware-un-suspect-dinc-et-lynx-extrade/</link>
+    <description>Un suspect lié aux rançongiciels INC et Lynx comparaît aux États-Unis après une extradition depuis l'Italie.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 10:05:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Le Japon arrête le supercalculateur Fugaku</title>
+    <link>https://www.zataz.com/le-japon-arrete-le-supercalculateur-fugaku/</link>
+    <description>RIKEN arrête Fugaku après une intrusion. Plus de 4 500 utilisateurs de deux supercalculateurs sont concernés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 09:48:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La Macif écope de 5 millions d’euros d’amende : 1,8 million de mots de passe clients conservés en clair</title>
+    <link>https://www.cyberattaque.org/la-macif-ecope-de-5-millions-deuros-damende-18-million-de-mots-de-passe-clients-conserves-en-clair/</link>
+    <description>La filiale d&amp;#8217;assurance-vie de la Macif est sanctionnée à hauteur de 5 millions d&amp;#8217;euros pour de graves manquements...
+L’article La Macif écope de 5 millions d’euros d’amende : 1,8 million de mots de passe…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 18 Nov 2026 09:40:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Scattered Spider : un pirate britannique condamné à six ans</title>
+    <link>https://www.zataz.com/scattered-spider-un-pirate-britannique-condamne-a-six-ans/</link>
+    <description>Scattered Spider : un pirate britannique condamné à six ans de prison pour phishing et vol de cryptomonnaies.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 09:26:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft announces Windows Server 2028 with hardened security</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/</link>
+    <description>Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 18 Nov 2026 04:24:31 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Optimizely piraté, des géants du web exposés</title>
+    <link>https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/</link>
+    <description>Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 09:04:32 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Mots de passe en clair : la CNIL inflige 5 millions d’euros</title>
+    <link>https://www.zataz.com/mots-de-passe-en-clair-la-cnil-inflige-5-millions-deuros/</link>
+    <description>La CNIL sanctionne une société de 5 millions d’euros pour des mots de passe en clair et une conservation excessive des données.</description>
+    <source>ZATAZ</source>
+    <pubDate>Wed, 18 Nov 2026 08:45:15 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 13:54:31 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution</title>
+    <link>https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.
+
+The flaw, tracked as CVE-2026-114938 (CVSS…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 13:54:23 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] British Scattered Spider hacker sentenced to 6 years in prison</title>
+    <link>https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/</link>
+    <description>A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 18 Nov 2026 03:24:18 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials</title>
+    <link>https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</link>
+    <description>Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 12:15:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization</title>
+    <link>https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html</link>
+    <description>The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 11:28:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More</title>
+    <link>https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html</link>
+    <description>A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 09:57:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
+    <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
+    <description>At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Uber says nearly 150,000 impacted by third-party breach</title>
     <link>https://therecord.media/uber-says-150000-impacted-third-party-breach</link>
     <description>In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.</description>
@@ -13,11 +135,26 @@
     <pubDate>Wed, 18 Nov 2026 01:20:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Moyen] CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500</title>
+    <link>https://therecord.media/cisa-issues-java4shell-alert</link>
+    <description>The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Critique] Critical Java4Shell flaw allows RCE attacks on major Java applications</title>
     <link>https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</link>
     <description>A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins,…</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 17 Nov 2026 18:04:21 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Java4Shell : une faille découverte avec l’IA permet de pirater Jira, Jenkins et Confluence sans mot de passe</title>
+    <link>https://www.cyberattaque.org/java4shell-une-faille-decouverte-avec-lia-permet-de-pirater-jira-jenkins-et-confluence-sans-mot-de-passe/</link>
+    <description>Une vulnérabilité critique découverte dans Java pourrait mettre en danger de nombreux serveurs d&amp;#8217;entreprise à travers le monde....
+L’article Java4Shell : une faille découverte avec l’IA permet de pirater Jira,…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 22:16:16 +0000</pubDate>
   </item>
   <item>
     <title>[Élevé] Cloud keys leaked in Docker Hub images are stolen within seconds</title>
@@ -34,11 +171,27 @@
     <pubDate>Tue, 17 Nov 2026 21:20:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Decoset : les adresses email des usagers des déchèteries de Toulouse exposées après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/decoset-les-adresses-email-des-usagers-des-decheteries-de-toulouse-exposees-apres-une-cyberattaque/</link>
+    <description>Decoset, le syndicat public chargé du traitement des déchets dans l&amp;#8217;agglomération toulousaine, alerte ses usagers après un incident...
+L’article Decoset : les adresses email des usagers des déchèteries de Toulouse…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 21:05:07 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] Japan takes Fugaku supercomputer offlline after cyberattack</title>
     <link>https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/</link>
     <description>The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Tue, 17 Nov 2026 15:51:21 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Les données personnelles des voyageurs d’Izilo à Lorient exposées dans la fuite massive de Maileva</title>
+    <link>https://www.cyberattaque.org/les-donnees-personnelles-des-voyageurs-dizilo-a-lorient-exposees-dans-la-fuite-massive-de-maileva/</link>
+    <description>La cyberattaque géante de Maileva, filiale du groupe La Poste, touche également les transports en commun de Lorient...
+L’article Les données personnelles des voyageurs d’Izilo à Lorient exposées dans la fuite massive de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 17 Nov 2026 20:23:53 +0000</pubDate>
   </item>
   <item>
     <title>[Critique] Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
@@ -199,98 +352,6 @@ The changes, currently previewed in…</description>
 L’article Cyberattaque chez Nord Chauffage Services : les données personnelles des clients de ce…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 17 Nov 2026 11:02:13 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fishipedia victime d’une cyberattaque : les comptes utilisateurs et mots de passe exposés</title>
-    <link>https://www.cyberattaque.org/fishipedia-victime-dune-cyberattaque-les-comptes-utilisateurs-et-mots-de-passe-exposes/</link>
-    <description>Fishipedia, l&amp;#8217;encyclopédie française spécialisée dans les poissons et la biodiversité aquatique, confirme avoir été victime d&amp;#8217;une cyberattaque le...
-L’article Fishipedia victime d’une cyberattaque : les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 10:06:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Court clears brothers of $25 million Ethereum crypto heist charges</title>
-    <link>https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/</link>
-    <description>US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 04:44:22 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Uber notifies drivers of data breach affecting nearly 150,000 people</title>
-    <link>https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/</link>
-    <description>Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 03:35:42 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque : 765 000 euros d’or dérobés à des clients</title>
-    <link>https://www.zataz.com/cyberattaque-765-000-euros-dor-derobes-a-des-clients/</link>
-    <description>Cyberattaque et vol de données clients : de faux policiers dérobent au moins 765 000 euros d'or en France.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 17 Nov 2026 07:47:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ransomware affiliate suspect extradited to US, faces 27 years in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/</link>
-    <description>A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 02:25:44 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors</title>
-    <link>https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html</link>
-    <description>An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.
-
-Visitors to sites run by at…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 17 Nov 2026 12:42:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems</title>
-    <link>https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html</link>
-    <description>ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 17 Nov 2026 11:59:27 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Rassemblement National : une seconde fuite de données ?</title>
-    <link>https://www.zataz.com/rassemblement-national-une-seconde-fuite-de-donnees/</link>
-    <description>Un pirate revendique 500 782 nouvelles données du RN à vendre. Il affiche aussi un accés informatique interne.</description>
-    <source>ZATAZ</source>
-    <pubDate>Tue, 17 Nov 2026 06:29:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178 organisations touchées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-optimizely-air-france-ledger-zoom-et-la-bbc-parmi-178-organisations-touchees/</link>
-    <description>Air France, Transavia, Ledger, Zoom, la BBC, CNN, HSBC ou encore Salesforce figurent parmi les 178 organisations dont...
-L’article Cyberattaque chez Optimizely : Air France, Ledger, Zoom et la BBC parmi 178…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 06:28:33 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] France Projecteurs : 145 000 emails diffusés, des mots de passe clients et des millions de données en fuite</title>
-    <link>https://www.cyberattaque.org/france-projecteurs-145-000-emails-diffuses-des-mots-de-passe-clients-et-des-millions-de-donnees-en-fuite/</link>
-    <description>Une importante base de données attribuée au site français France Projecteurs a été diffusée par un cybercriminel. Le...
-L’article France Projecteurs : 145 000 emails diffusés, des mots de passe clients et des millions…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 06:19:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fournishop : les données de 45 000 clients diffusées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/fournishop-les-donnees-de-45-000-clients-diffusees-apres-une-cyberattaque/</link>
-    <description>Une importante fuite de données touche Fournishop, une boutique française spécialisée dans les fournitures destinées aux bijoutiers et...
-L’article Fournishop : les données de 45 000 clients diffusées après une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 06:10:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners</title>
-    <link>https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html</link>
-    <description>N-able has released a new security update to address additional critical security flaws impacting N-central.
-
-Describing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 17 Nov 2026 10:30:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
