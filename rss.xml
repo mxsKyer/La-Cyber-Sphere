@@ -6,6 +6,37 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
+    <link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
+    <description>Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 19 Nov 2026 14:12:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle</title>
+    <link>https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html</link>
+    <description>Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 19 Nov 2026 13:44:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP lance une nouvelle alerte critique : toutes les versions maintenues concernées par des failles de sécurité</title>
+    <link>https://www.cyberattaque.org/php-lance-une-nouvelle-alerte-critique-toutes-les-versions-maintenues-concernees-par-des-failles-de-securite/</link>
+    <description>PHP, le langage de programmation qui fait fonctionner une immense partie du Web, vient de déclencher une nouvelle...
+L’article PHP lance une nouvelle alerte critique : toutes les versions maintenues concernées par des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 19 Nov 2026 06:10:27 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19</title>
+    <link>https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html</link>
+    <description>The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.
+
+The release is scheduled for November 19, 2026, between 2 and 2:30…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 19 Nov 2026 10:03:46 +0530</pubDate>
+  </item>
+  <item>
     <title>[Critique] Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms</title>
     <link>https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</link>
     <description>Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…</description>
@@ -267,71 +298,6 @@ L’article La Macif écope de 5 millions d’euros d’amende : 1,8 million de 
     <description>Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 18 Nov 2026 04:24:31 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Optimizely piraté, des géants du web exposés</title>
-    <link>https://www.zataz.com/optimizely-pirate-des-geants-du-web-exposes/</link>
-    <description>Optimizely victime d'une cyberattaque : 178 organisations touchées, données bancaires et appareils iOS menacés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 18 Nov 2026 09:04:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Mots de passe en clair : la CNIL inflige 5 millions d’euros</title>
-    <link>https://www.zataz.com/mots-de-passe-en-clair-la-cnil-inflige-5-millions-deuros/</link>
-    <description>La CNIL sanctionne une société de 5 millions d’euros pour des mots de passe en clair et une conservation excessive des données.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 18 Nov 2026 08:45:15 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 13:54:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.
-
-The flaw, tracked as CVE-2026-114938 (CVSS…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 13:54:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] British Scattered Spider hacker sentenced to 6 years in prison</title>
-    <link>https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/</link>
-    <description>A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 18 Nov 2026 03:24:18 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials</title>
-    <link>https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html</link>
-    <description>Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 12:15:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization</title>
-    <link>https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html</link>
-    <description>The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 11:28:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More</title>
-    <link>https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html</link>
-    <description>A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 09:57:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
-    <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
-    <description>At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
   </item>
 </channel>
 </rss>
