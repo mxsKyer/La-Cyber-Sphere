@@ -6,6 +6,91 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms</title>
+    <link>https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</link>
+    <description>Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 18 Nov 2026 18:08:33 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam</title>
+    <link>https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</link>
+    <description>Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers.…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 18 Nov 2026 15:49:32 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Judge signs off on sale of Spirit Airlines’ data to Google</title>
+    <link>https://therecord.media/judge-signs-off-google-purchase-spirit-airlines-data</link>
+    <description>Google can take possession of defunct Spirit Airlines' data for $10 million, a federal bankruptcy judge has ruled. The tech giant agreed to protections as it plans to use the data in AI projects.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 18 Nov 2026 20:39:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Chargemap informe ses clients d’une cyberattaque : des données personnelles et des mots de passe exposés</title>
+    <link>https://www.cyberattaque.org/chargemap-informe-ses-clients-dune-cyberattaque-des-donnees-personnelles-et-des-mots-de-passe-exposes/</link>
+    <description>Chargemap, l&amp;#8217;une des principales plateformes européennes de recharge de véhicules électriques, confirme avoir été victime d&amp;#8217;une cyberattaque ayant...
+L’article Chargemap informe ses clients d’une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 18 Nov 2026 20:07:50 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Trump administration officials size-up a bad stretch for tech</title>
+    <link>https://therecord.media/tech-disruptions-house-homeland-committee-testimony</link>
+    <description>Homeland Security Secretary Markwayne Mullin said the administration will reach out to industry to get companies to share more information about big patches before they take effect.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 18 Nov 2026 20:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France Travail : 1,55 million de dossiers mis en vente issus de le cyberattaque de 2025</title>
+    <link>https://www.cyberattaque.org/france-travail-155-million-de-dossiers-mis-en-vente-issus-de-le-cyberattaque-de-2025/</link>
+    <description>Près d&amp;#8217;un an après une cyberattaque ayant exposé les données de 1,6 million de jeunes, une importante base...
+L’article France Travail : 1,55 million de dossiers mis en vente issus de le cyberattaque de 2025 est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Data breach impacts 40 Irish credit unions in reported IT provider hack</title>
+    <link>https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/</link>
+    <description>A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 18 Nov 2026 14:39:33 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Lawmakers call on White House to develop defensive AI cyber systems</title>
+    <link>https://therecord.media/ai-cyber-white-house</link>
+    <description>A bipartisan Senate duo urged the White House to launch a national effort to more robustly confront AI-enabled cyber threats in light of recent security incidents involving artificial intelligence.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 18 Nov 2026 19:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers</title>
+    <link>https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html</link>
+    <description>A flaw in NGINX's HTTP/2 support can allow an attacker to run code on servers with HTTP/2 enabled, without needing to log in.
+
+The decade-old flaw, CVE-2026-123007, dubbed "nginx2root," has been present in NGINX's…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 19 Nov 2026 00:01:17 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE</title>
+    <link>https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html</link>
+    <description>Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.
+
+Each flaw needs a specific setup on a virtual…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 23:45:39 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required</title>
+    <link>https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html</link>
+    <description>A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)
+
+The vulnerability, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Wed, 18 Nov 2026 22:40:45 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Microsoft’s Agent Framework PyPI package compromised to steal credentials</title>
     <link>https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/</link>
     <description>Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]</description>
@@ -247,88 +332,6 @@ The flaw, tracked as CVE-2026-114938 (CVSS…</description>
     <description>At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize…</description>
     <source>Krebs on Security</source>
     <pubDate>Wed, 18 Nov 2026 02:52:04 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Uber says nearly 150,000 impacted by third-party breach</title>
-    <link>https://therecord.media/uber-says-150000-impacted-third-party-breach</link>
-    <description>In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 18 Nov 2026 01:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] CISA warns of ‘Java4Shell,’ an AI-found Java bug touching most of the Fortune 500</title>
-    <link>https://therecord.media/cisa-issues-java4shell-alert</link>
-    <description>The federal cybersecurity agency urged organizations to immediately patch a new vulnerability affecting Java — one of the world’s most used programming languages — after experts warned that it could allow an attacker to…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Critical Java4Shell flaw allows RCE attacks on major Java applications</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</link>
-    <description>A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 18:04:21 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Java4Shell : une faille découverte avec l’IA permet de pirater Jira, Jenkins et Confluence sans mot de passe</title>
-    <link>https://www.cyberattaque.org/java4shell-une-faille-decouverte-avec-lia-permet-de-pirater-jira-jenkins-et-confluence-sans-mot-de-passe/</link>
-    <description>Une vulnérabilité critique découverte dans Java pourrait mettre en danger de nombreux serveurs d&amp;#8217;entreprise à travers le monde....
-L’article Java4Shell : une faille découverte avec l’IA permet de pirater Jira,…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 22:16:16 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Cloud keys leaked in Docker Hub images are stolen within seconds</title>
-    <link>https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/</link>
-    <description>Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 16:27:17 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Website management platform Optimizely confirms hackers put malicious code into customer sites</title>
-    <link>https://therecord.media/optimizely-malicious-code-customer-sites</link>
-    <description>Researchers said they found malicious JavaScript code on 178 different widely visited websites run through the Optimizely Web experimentation platform. The company confirmed the breach.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 17 Nov 2026 21:20:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Decoset : les adresses email des usagers des déchèteries de Toulouse exposées après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/decoset-les-adresses-email-des-usagers-des-decheteries-de-toulouse-exposees-apres-une-cyberattaque/</link>
-    <description>Decoset, le syndicat public chargé du traitement des déchets dans l&amp;#8217;agglomération toulousaine, alerte ses usagers après un incident...
-L’article Decoset : les adresses email des usagers des déchèteries de Toulouse…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 21:05:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Japan takes Fugaku supercomputer offlline after cyberattack</title>
-    <link>https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/</link>
-    <description>The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 15:51:21 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Les données personnelles des voyageurs d’Izilo à Lorient exposées dans la fuite massive de Maileva</title>
-    <link>https://www.cyberattaque.org/les-donnees-personnelles-des-voyageurs-dizilo-a-lorient-exposees-dans-la-fuite-massive-de-maileva/</link>
-    <description>La cyberattaque géante de Maileva, filiale du groupe La Poste, touche également les transports en commun de Lorient...
-L’article Les données personnelles des voyageurs d’Izilo à Lorient exposées dans la fuite massive de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 17 Nov 2026 20:23:53 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses</title>
-    <link>https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html</link>
-    <description>A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.
-
-Widgets are small interactive blocks that bots send…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 18 Nov 2026 01:04:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Apple reports outages affecting iCloud Mail, AppleCare and more</title>
-    <link>https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/</link>
-    <description>Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account &amp; Sign In, Apple School Manager, and Schoolwork. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 17 Nov 2026 14:24:07 -0500</pubDate>
   </item>
 </channel>
 </rss>
