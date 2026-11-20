@@ -6,6 +6,181 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university</title>
+    <link>https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day</link>
+    <description>A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 20 Nov 2026 17:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers use autonomous AI tool Cairn to find zero-day, take over server</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/</link>
+    <description>Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 12:30:00 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control</title>
+    <link>https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</link>
+    <description>Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.
+
+Dutch…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 20 Nov 2026 22:28:16 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Actualités cybersécurité de la semaine du 16 novembre 2026</title>
+    <link>https://www.zataz.com/actualites-cybersecurite-de-la-semaine-du-16-novembre-2026/</link>
+    <description>Retrouvez les actualités cybersécurité ZATAZ de la semaine du 16 novembre 2026 : fuite de données chez Maileva, amende de la CNIL et faux coursiers bancaires.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 16:09:30 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NSA resumes normal operations following internal network disruptions</title>
+    <link>https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions</link>
+    <description>Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 20 Nov 2026 16:06:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Vendor data breach exposes Chase, Visa, Mastercard customer info</title>
+    <link>https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</link>
+    <description>J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 10:58:06 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NON, c’est NON. Sauf quand il réclame une rançon.</title>
+    <link>https://www.zataz.com/non-cest-non-sauf-quand-il-reclame-une-rancon/</link>
+    <description>n0n revendique 179 fuites de données. Le maritime arrive en tête et un groupe pharmaceutique français est cité.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 15:53:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Still tracking company passwords in spreadsheets? You’re flying blind.</title>
+    <link>https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/</link>
+    <description>Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyber Director Cairncross out as White House resets cyber leadership</title>
+    <link>https://therecord.media/sean-cairncross-out-as-national-cyber-director</link>
+    <description>Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 20 Nov 2026 14:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Dozens of credit unions hit by supplier breach that went unnoticed for six weeks</title>
+    <link>https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach</link>
+    <description>Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 20 Nov 2026 14:24:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Panne à la NSA, données du DoJ en vente selon un pirate</title>
+    <link>https://www.zataz.com/panne-a-la-nsa-donnees-du-doj-en-vente-selon-un-pirate/</link>
+    <description>La NSA confirme une panne de NSANet. ZATAZ repère une vente de données attribuées à la Justice américaine.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 14:16:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Seazon victime d’une cyberattaque : les données personnelles et mots de passe des clients exposés indique FoodChéri</title>
+    <link>https://www.cyberattaque.org/seazon-victime-dune-cyberattaque-les-donnees-personnelles-et-mots-de-passe-des-clients-de-foodcheri-exposes/</link>
+    <description>Seazon, le service français de livraison de repas appartenant à FoodChéri, confirme avoir été victime d&amp;#8217;une cyberattaque ayant...
+L’article Seazon victime d’une cyberattaque : les données personnelles et mots de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 20 Nov 2026 14:11:08 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] NoName revendique un accès aux caméras d’une salle de jeux</title>
+    <link>https://www.zataz.com/noname-revendique-un-acces-aux-cameras-dune-salle-de-jeux/</link>
+    <description>NoName revendique un accès aux caméras d’une salle de jeux allemande et utilise la vidéosurveillance à des fins de propagande.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 13:39:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] N-able says recent security breach led to major service outage</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/</link>
+    <description>N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 08:18:36 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Accès piratés à vendre comme des pains au chocolat</title>
+    <link>https://www.zataz.com/acces-pirates-a-vendre-comme-des-pains-au-chocolat/</link>
+    <description>ZATAZ décrypte quatre offres d’accès piratés et les risques de fraude liés aux bases de données et aux clés SMS.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 12:30:18 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] France Travail : 4,15 millions de nouvelles lignes en vente ?</title>
+    <link>https://www.zataz.com/france-travail-415-millions-de-nouvelles-lignes-en-vente/</link>
+    <description>France Travail : deux fichiers de 4,15 millions de lignes sont proposés à la vente. ZATAZ retrace les fuites depuis 2021.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 12:25:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts</title>
+    <link>https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</link>
+    <description>A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.
+
+On a shared server, that memory can…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 20 Nov 2026 17:50:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft now automatically installs Windows 11 26H2 on unmanaged devices</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/</link>
+    <description>Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 07:14:28 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hell’s r00ts 2.0 : les vieux hackers n’ont pas dit leur dernier mot</title>
+    <link>https://www.zataz.com/hells-r00ts-2-0-les-vieux-hackers-nont-pas-dit-leur-dernier-mot/</link>
+    <description>Avec Hell’s r00ts 2.0, Antoine Champagne ressuscite les pionniers du hacking dans un thriller cyber passionnant.</description>
+    <source>ZATAZ</source>
+    <pubDate>Fri, 20 Nov 2026 12:05:59 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] The Path to AI Autonomy in the SOC</title>
+    <link>https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</link>
+    <description>Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 20 Nov 2026 17:30:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] F5 releases emergency patches for critical BIG-IP RCE flaws</title>
+    <link>https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/</link>
+    <description>US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 05:57:43 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws</title>
+    <link>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</link>
+    <description>SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 20 Nov 2026 16:08:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</link>
+    <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 20 Nov 2026 16:02:50 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Windows 11 KB5132057 update released with 28 changes and fixes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/</link>
+    <description>Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 20 Nov 2026 04:25:35 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
     <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
     <description>Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS.
@@ -42,6 +217,34 @@ L’article Maileva : les révélations exclusives du hacker présumé de La Pos
     <description>Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 19 Nov 2026 19:26:25 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-76466 — Cisco Expressway Series Use of Hard-coded Credentials Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76466</link>
+    <description>Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database service.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2025-42884 — SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-42884</link>
+    <description>SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-123890 — VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123890</link>
+    <description>Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and gain unauthorized access to the system.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-20</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-129448 — Apache Roller Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-129448</link>
+    <description>Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before authentication. This CVE covers the same underlying vulnerability as CVE-2026-82384 but applies to a broader range of affected versions.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-20</pubDate>
   </item>
   <item>
     <title>[Faible] Hackers steal data of 1.6 million SBC Medical Group customers</title>
@@ -85,220 +288,6 @@ L’article Tsume confirme une cyberattaque : les commandes des collectionneurs 
     <description>Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 19 Nov 2026 13:20:01 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Godot &amp; Fils : après une cyberattaque, des clients dépouillés de centaines de milliers d’euros en or</title>
-    <link>https://www.cyberattaque.org/godot-fils-apres-une-cyberattaque-des-clients-depouilles-de-centaines-de-milliers-deuros-en-or/</link>
-    <description>Des clients de Godot &amp;#38; Fils, l&amp;#8217;enseigne française spécialisée dans l&amp;#8217;achat et la vente de métaux précieux, ont...
-L’article Godot &amp;#038; Fils : après une cyberattaque, des clients dépouillés de centaines…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 19 Nov 2026 17:30:32 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] DOJ, DHS partner on new unit tackling scams and cybercrime</title>
-    <link>https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime</link>
-    <description>The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 19 Nov 2026 17:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack</title>
-    <link>https://therecord.media/cisa-losapio-nomination-trump</link>
-    <description>President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution</title>
-    <link>https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html</link>
-    <description>PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 22:29:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un SMS blaster aurait perturbé 10 000 mobiles</title>
-    <link>https://www.zataz.com/un-sms-blaster-aurait-perturbe-10-000-mobiles/</link>
-    <description>À Tokyo, un suspect est arrêté après une opération de SMS blaster ayant perturbé plus de 10 000 téléphones.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 16:43:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un SMS blaster découvert dans une voiture</title>
-    <link>https://www.zataz.com/un-sms-blaster-decouvert-dans-une-voiture/</link>
-    <description>Un SMS blaster découvert dans une voiture est associé à neuf victimes et à des SMS frauduleux se faisant passer pour la police.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 16:33:54 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP security updates fix 18 flaws, including critical RCE bugs</title>
-    <link>https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/</link>
-    <description>The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 11:28:23 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Luxor : des récompenses Bitcoin détournées</title>
-    <link>https://www.zataz.com/luxor-des-recompenses-bitcoin-detournees/</link>
-    <description>Luxor confirme le détournement de puissance de calcul Bitcoin après une compromission de sa plateforme Commander.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 16:19:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK court confirms British government served Apple with secret encryption notice</title>
-    <link>https://therecord.media/apple-uk-encryption-notice</link>
-    <description>The British government served Apple with a secret legal notice targeting the company’s cryptographic protections for iCloud accounts, a tribunal has confirmed, ending almost two years of official refusal to acknowledge…</description>
-    <source>The Record</source>
-    <pubDate>Thu, 19 Nov 2026 16:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Infoblox : des configurations réseau dérobées</title>
-    <link>https://www.zataz.com/infoblox-des-configurations-reseau-derobees/</link>
-    <description>Infoblox confirme une fuite via un prestataire compromis, exposant des configurations réseau et des données de salariés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 16:03:36 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cyberattaques : Sébastien Lecornu prévient que la menace va encore s’aggraver et renforce la riposte de l’État</title>
-    <link>https://www.cyberattaque.org/cyberattaques-sebastien-lecornu-previent-que-la-menace-va-encore-saggraver-et-renforce-la-riposte-de-letat/</link>
-    <description>Face à la multiplication des cyberattaques et des fuites de données en France, le Premier ministre Sébastien Lecornu...
-L’article Cyberattaques : Sébastien Lecornu prévient que la menace va encore s&amp;rsquo;aggraver et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 19 Nov 2026 15:58:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Scattered Spider : six ans de prison pour un pirate</title>
-    <link>https://www.zataz.com/scattered-spider-six-ans-de-prison-pour-un-pirate/</link>
-    <description>Scattered Spider : six ans de prison pour un pirate impliqué dans des attaques par SMS et des vols de cryptomonnaies.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 15:52:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bitget : 1 052 bitcoins déplacés après le piratage</title>
-    <link>https://www.zataz.com/bitget-1-052-bitcoins-deplaces-apres-le-piratage/</link>
-    <description>Après le piratage de Bitget, plus de 78 millions $ ont été déplacés, dont une large part vers CoinJoin.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 15:42:35 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution</title>
-    <link>https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html</link>
-    <description>The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.
-
-The release of…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 20:48:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] European Commission confirms cyberattack, says hackers used AI tool</title>
-    <link>https://therecord.media/european-commission-confirms-cyberattack-using-ai</link>
-    <description>POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 19 Nov 2026 15:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication</title>
-    <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
-    <description>A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.
-
-Fixed versions…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 20:41:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Five warning signs of ransomware breach before encryption or data theft</title>
-    <link>https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/</link>
-    <description>Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers</title>
-    <link>https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/</link>
-    <description>Two critical NGINX vulnerabilities dubbed "nginx2root" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 09:57:24 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Arnaque au LEGO Formule 1 sur TikTok</title>
-    <link>https://www.zataz.com/arnaque-au-lego-formule-1-sur-tiktok/</link>
-    <description>Une publicité TikTok promet un LEGO Formule 1 pour 2,85 €. Découvrez le piège et réagissez si votre carte est exposée.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 14:36:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites</title>
-    <link>https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html</link>
-    <description>Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.
-
-That can lead to a site takeover or…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 20:03:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Élise Lucet, appât d’une arnaque crypto sur Google Ads</title>
-    <link>https://www.zataz.com/elise-lucet-appat-dune-arnaque-crypto-sur-google-ads/</link>
-    <description>Élise Lucet sert d’appât à une arnaque crypto diffusée via Google Ads. Les indices du piège et les réflexes bancaires.</description>
-    <source>ZATAZ</source>
-    <pubDate>Thu, 19 Nov 2026 14:01:02 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Ukraine exposes ransomware network extorting US oil, healthcare firms</title>
-    <link>https://therecord.media/ukraine-ransomware-arrests-cyber</link>
-    <description>Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 19 Nov 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal patches critical RCE flaw, warns exploits may surface quickly</title>
-    <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/</link>
-    <description>The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 08:08:08 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Everything Is a Web Application, Including Your Firewall</title>
-    <link>https://thehackernews.com/2026/11/everything-is-web-application-including.html</link>
-    <description>One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 17:22:23 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft tests new Edge Lockdown Mode that disables GPU APIs</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/</link>
-    <description>Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 06:46:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft confirms app installation, launch issues after hotpatch</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/</link>
-    <description>Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 05:35:05 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque à la Commission européenne : dix jours de perturbations et des données sensibles potentiellement exposées</title>
-    <link>https://www.cyberattaque.org/cyberattaque-a-la-commission-europeenne-dix-jours-de-perturbations-et-des-donnees-sensibles-potentiellement-exposees/</link>
-    <description>La Commission européenne a été frappée par une importante cyberattaque qui perturbe ses systèmes informatiques internes depuis plus...
-L’article Cyberattaque à la Commission européenne : dix jours de perturbations et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 19 Nov 2026 09:47:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions</title>
-    <link>https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html</link>
-    <description>N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.
-
-"We have…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 19 Nov 2026 15:01:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] NVIDIA investigating Gentlemen ransomware breach claims</title>
-    <link>https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/</link>
-    <description>NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 04:23:21 -0500</pubDate>
   </item>
 </channel>
 </rss>
