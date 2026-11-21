@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
+    <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
+    <description>The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools" to restore data locked by ransomware, has been charged with wire…</description>
+    <source>Krebs on Security</source>
+    <pubDate>Sat, 21 Nov 2026 00:36:39 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] West Virginia Legislature hit with cyber incident affecting IT systems</title>
     <link>https://therecord.media/west-virginia-legislature-cyberattack</link>
     <description>A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.</description>
@@ -225,63 +232,6 @@ The…</description>
 "ROMULUS likely…</description>
     <source>The Hacker News</source>
     <pubDate>Fri, 20 Nov 2026 12:41:39 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
-    <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
-    <description>The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 20 Nov 2026 12:03:31 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Maileva : les révélations exclusives du hacker présumé de La Poste</title>
-    <link>https://www.cyberattaque.org/maileva-les-revelations-exclusives-du-hacker-presume-de-la-poste/</link>
-    <description>Deux mois après la cyberattaque de Maileva, une filiale de Docaposte appartenant au groupe La Poste, l&amp;#8217;affaire pourrait...
-L’article Maileva : les révélations exclusives du hacker présumé de La Poste est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 20 Nov 2026 06:11:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
-    <link>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</link>
-    <description>A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 20 Nov 2026 11:00:01 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] VMware patches vCenter zero-day exploited in attacks since September</title>
-    <link>https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/</link>
-    <description>Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 19 Nov 2026 19:26:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-76466 — Cisco Expressway Series Use of Hard-coded Credentials Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-76466</link>
-    <description>Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database service.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2025-42884 — SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2025-42884</link>
-    <description>SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment properties or a URL used during JNDI lookup operations.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-123890 — VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-123890</link>
-    <description>Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and gain unauthorized access to the system.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-20</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-129448 — Apache Roller Deserialization of Untrusted Data Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-129448</link>
-    <description>Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before authentication. This CVE covers the same underlying vulnerability as CVE-2026-82384 but applies to a broader range of affected versions.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-20</pubDate>
   </item>
 </channel>
 </rss>
