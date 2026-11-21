@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Microsoft Entra Connect Health flaw exploited to steal tenant data</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/</link>
+    <description>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 21 Nov 2026 13:01:58 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] BADBOX botnet returns with record-breaking 40 billion daily ad requests</title>
+    <link>https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/</link>
+    <description>The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 21 Nov 2026 10:17:27 -0500</pubDate>
+  </item>
+  <item>
     <title>[Critique] FBI reportedly hacked again, this time targeting nationwide police database</title>
     <link>https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/</link>
     <description>FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…</description>
@@ -89,87 +103,6 @@ The…</description>
     <description>A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.</description>
     <source>The Record</source>
     <pubDate>Fri, 20 Nov 2026 21:34:36 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] US companies’ use of Chinese open weight AI draws rebuke from House chairmen</title>
-    <link>https://therecord.media/chinese-open-weight-AI-use-by-US-companies-house-investigation</link>
-    <description>An investigation led by the House Homeland Security Committee focused on the dangers of U.S. companies using lower-cost open weight AI models for certain projects.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 20 Nov 2026 20:25:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Container Store restores systems after cyberattack</title>
-    <link>https://therecord.media/container-store-restores-systems-cyberattack</link>
-    <description>The firm’s parent company, Neighborhood Intelligence, said in a statement that The Container Store has “restored its website and systems following a cybersecurity incident this past weekend.”</description>
-    <source>The Record</source>
-    <pubDate>Fri, 20 Nov 2026 19:32:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bell Canada says 'agentic' hacker stole enterprise customer data</title>
-    <link>https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/</link>
-    <description>Bell Canada has confirmed that an "agentic" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 20 Nov 2026 13:51:43 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams</title>
-    <link>https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</link>
-    <description>Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.
-
-The vulnerability, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 20 Nov 2026 23:27:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university</title>
-    <link>https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day</link>
-    <description>A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 20 Nov 2026 17:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers use autonomous AI tool Cairn to find zero-day, take over server</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/</link>
-    <description>Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 20 Nov 2026 12:30:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control</title>
-    <link>https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html</link>
-    <description>Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.
-
-Dutch…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 20 Nov 2026 22:28:16 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Actualités cybersécurité de la semaine du 16 novembre 2026</title>
-    <link>https://www.zataz.com/actualites-cybersecurite-de-la-semaine-du-16-novembre-2026/</link>
-    <description>Retrouvez les actualités cybersécurité ZATAZ de la semaine du 16 novembre 2026 : fuite de données chez Maileva, amende de la CNIL et faux coursiers bancaires.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 20 Nov 2026 16:09:30 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NSA resumes normal operations following internal network disruptions</title>
-    <link>https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions</link>
-    <description>Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 20 Nov 2026 16:06:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Vendor data breach exposes Chase, Visa, Mastercard customer info</title>
-    <link>https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</link>
-    <description>J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 20 Nov 2026 10:58:06 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NON, c’est NON. Sauf quand il réclame une rançon.</title>
-    <link>https://www.zataz.com/non-cest-non-sauf-quand-il-reclame-une-rancon/</link>
-    <description>n0n revendique 179 fuites de données. Le maritime arrive en tête et un groupe pharmaceutique français est cité.</description>
-    <source>ZATAZ</source>
-    <pubDate>Fri, 20 Nov 2026 15:53:02 +0000</pubDate>
   </item>
 </channel>
 </rss>
