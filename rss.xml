@@ -6,6 +6,13 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Moyen] Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/</link>
+    <description>GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 22 Nov 2026 13:45:37 -0500</pubDate>
+  </item>
+  <item>
     <title>[Critique] Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</title>
     <link>https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</link>
     <description>E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]</description>
@@ -36,28 +43,6 @@ Some of the stolen requests…</description>
 Ghostscript is the interpreter that many Linux servers use to convert…</description>
     <source>The Hacker News</source>
     <pubDate>Sun, 22 Nov 2026 10:33:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
-    <link>https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/</link>
-    <description>Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 21 Nov 2026 17:59:58 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un impressionnant arsenal d’armes découvert</title>
-    <link>https://www.cyberattaque.org/un-membre-du-groupe-de-hackers-prorusses-noname05716-arrete-en-espagne-un-impressionnant-arsenal-darmes-decouvert/</link>
-    <description>Un homme soupçonné d&amp;#8217;appartenir au collectif de hackers prorusses NoName057(16) a été arrêté en Espagne, où les policiers...
-L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 21 Nov 2026 22:35:09 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Microsoft Entra Connect Health flaw exploited to steal tenant data</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/</link>
-    <description>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 21 Nov 2026 13:01:58 -0500</pubDate>
   </item>
 </channel>
 </rss>
