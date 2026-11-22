@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-22T09:37:32.563779+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-22T17:43:34.686648+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">4</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">4</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">1</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">1</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -569,25 +569,23 @@
       
       <div class="sev-critical" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
         <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg>
+          <svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg>
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</h2>
-      <p class="dek">A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
-
-Ghostscript is the interpreter that many Linux servers use to convert…</p>
-      <div class="byline">Source : <a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html" target="_blank" rel="noopener">The Hacker News</a> · il y a 4 h</div>
+      <h2>Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</h2>
+      <p class="dek">E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]</p>
+      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 2 h</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 017</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 028</div>
       </div>
-      <div class="index-value">17<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
-      <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 8 points sur 7 jours
+      <div class="index-value">28<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta" style="color:var(--sev-high);">
+        ▲ 3 points sur 7 jours
         
       </div>
       <canvas id="riskline"></canvas>
@@ -618,8 +616,25 @@ Ghostscript is the interpreter that many Linux servers use to convert…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 2 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Signal to block Siri, Gemini AI from capturing chats on iOS, Android</h3>
+          <p>Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-2">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
           <h3>OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</h3>
@@ -627,41 +642,25 @@ Ghostscript is the interpreter that many Linux servers use to convert…</p>
 
 Some of the stolen requests…</p>
           <a href="https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-2">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Rackspace Spot breach let hackers access customer Kubernetes secrets</h3>
-          <p>Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-3">
+      <article class="story sev-critical" id="story-3">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 11 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un impressionnant arsenal d’armes découvert</h3>
-          <p>Un homme soupçonné d&#8217;appartenir au collectif de hackers prorusses NoName057(16) a été arrêté en Espagne, où les policiers...
-L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un…</p>
-          <a href="https://www.cyberattaque.org/un-membre-du-groupe-de-hackers-prorusses-noname05716-arrete-en-espagne-un-impressionnant-arsenal-darmes-decouvert/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</h3>
+          <p>A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
+
+Ghostscript is the interpreter that many Linux servers use to convert…</p>
+          <a href="https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
         </div>
       </article>
@@ -673,12 +672,12 @@ L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en E
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Microsoft Entra Connect Health flaw exploited to steal tenant data</h3>
-          <p>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Rackspace Spot breach let hackers access customer Kubernetes secrets</h3>
+          <p>Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
         </div>
       </article>
@@ -689,121 +688,32 @@ L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en E
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>BADBOX botnet returns with record-breaking 40 billion daily ad requests</h3>
-          <p>The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un impressionnant arsenal d’armes découvert</h3>
+          <p>Un homme soupçonné d&#8217;appartenir au collectif de hackers prorusses NoName057(16) a été arrêté en Espagne, où les policiers...
+L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un…</p>
+          <a href="https://www.cyberattaque.org/un-membre-du-groupe-de-hackers-prorusses-noname05716-arrete-en-espagne-un-impressionnant-arsenal-darmes-decouvert/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-6">
+      <article class="story sev-high" id="story-6">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>FBI reportedly hacked again, this time targeting nationwide police database</h3>
-          <p>FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Microsoft Entra Connect Health flaw exploited to steal tenant data</h3>
+          <p>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-7">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX</h3>
-          <p>ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?</p>
-          <a href="https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-8">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 21 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</h3>
-          <p>A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
-
-The same attack could be extended to…</p>
-          <a href="https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-9">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</h3>
-          <p>A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
-
-The GnuPG project warned yesterday that the flaw could be…</p>
-          <a href="https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-critical" id="story-10">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</h3>
-          <p>Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…</p>
-          <a href="https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-11">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Clevermate visé par des hackers : des données personnelles, des IBAN et cartes étudiantes exposés</h3>
-          <p>La plateforme française de soutien scolaire Clevermate est visée par une revendication de cyberattaque du groupe LunarSec. Ce...
-L’article Clevermate visé par des hackers : des données personnelles, des IBAN et cartes…</p>
-          <a href="https://www.cyberattaque.org/clevermate-vise-par-des-hackers-des-donnees-personnelles-des-iban-et-cartes-etudiantes-exposes/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
         </div>
       </article>
 
@@ -832,8 +742,8 @@ L’article Clevermate visé par des hackers : des données personnelles, des IB
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">244</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">55</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">235</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">56</span></div>
         <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">16</span></div>
         <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1288 min</span></div>
       </div>
@@ -863,24 +773,6 @@ L’article Clevermate visé par des hackers : des données personnelles, des IB
           <span class="fsev sev-low">Faible</span>
           <span class="ftitle">Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un impressionnant arsenal d’armes découvert</span>
           <span class="fsource"><a href="https://www.cyberattaque.org/un-membre-du-groupe-de-hackers-prorusses-noname05716-arrete-en-espagne-un-impressionnant-arsenal-darmes-decouvert/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Cyberattaque chez Orchestra : Voyages E.Leclerc, Carrefour Voyages, Selectour et Havas Voyages paralysés</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/cyberattaque-chez-orchestra-voyages-e-leclerc-carrefour-voyages-selectour-et-havas-voyages-paralyses/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Clevermate visé par des hackers : des données personnelles, des IBAN et cartes étudiantes exposés</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/clevermate-vise-par-des-hackers-des-donnees-personnelles-des-iban-et-cartes-etudiantes-exposes/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX</span>
-          <span class="fsource"><a href="https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/" target="_blank" rel="noopener">ZATAZ →</a></span>
         </div>
         
       
@@ -941,15 +833,6 @@ L’article Clevermate visé par des hackers : des données personnelles, des IB
           <td>Autres</td>
           <td><span class="geo-sev crit">Critique</span></td>
           <td class="geo-source"><a href="https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/" target="_blank" rel="noopener">BleepingComputer</a></td>
-        </tr>
-        
-        <tr>
-          <td class="geo-actor">Sandworm (APT44)</td>
-          <td class="geo-origin">Russie — GRU, unité 74455</td>
-          <td>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</td>
-          <td>Autres</td>
-          <td><span class="geo-sev high">Faible</span></td>
-          <td class="geo-source"><a href="https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html" target="_blank" rel="noopener">The Hacker News</a></td>
         </tr>
         
         
@@ -1208,7 +1091,7 @@ L’article Clevermate visé par des hackers : des données personnelles, des IB
       ctx.stroke();
     }
 
-    const points = [100, 100, 100, 100, 19, 25, 100, 100, 100, 100, 100, 44, 17];
+    const points = [100, 100, 100, 100, 19, 25, 100, 100, 100, 100, 100, 44, 28];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,

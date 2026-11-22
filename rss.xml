@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Critique] Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</link>
+    <description>E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 22 Nov 2026 10:43:04 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Signal to block Siri, Gemini AI from capturing chats on iOS, Android</title>
+    <link>https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/</link>
+    <description>Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sun, 22 Nov 2026 10:15:25 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
     <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
     <description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
@@ -44,60 +58,6 @@ L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en E
     <description>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</description>
     <source>BleepingComputer</source>
     <pubDate>Sat, 21 Nov 2026 13:01:58 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BADBOX botnet returns with record-breaking 40 billion daily ad requests</title>
-    <link>https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/</link>
-    <description>The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 21 Nov 2026 10:17:27 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI reportedly hacked again, this time targeting nationwide police database</title>
-    <link>https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/</link>
-    <description>FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sat, 21 Nov 2026 09:26:04 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaques : la boîte de Pandora est-elle ouverte avec l’IA ARTEX</title>
-    <link>https://www.zataz.com/cyberattaques-la-boite-de-pandora-est-elle-ouverte-avec-lia-artex/</link>
-    <description>ARTEX révèle comment l'IA accélère les cyberattaques, le vol de données et les intrusions. La boîte de Pandore 2.0 a-t-elle été ouverte ?</description>
-    <source>ZATAZ</source>
-    <pubDate>Sat, 21 Nov 2026 13:39:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats</title>
-    <link>https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html</link>
-    <description>A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.
-
-The same attack could be extended to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 21 Nov 2026 17:23:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</title>
-    <link>https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</link>
-    <description>A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.
-
-The GnuPG project warned yesterday that the flaw could be…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 21 Nov 2026 16:35:53 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</title>
-    <link>https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</link>
-    <description>Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 21 Nov 2026 16:33:17 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Clevermate visé par des hackers : des données personnelles, des IBAN et cartes étudiantes exposés</title>
-    <link>https://www.cyberattaque.org/clevermate-vise-par-des-hackers-des-donnees-personnelles-des-iban-et-cartes-etudiantes-exposes/</link>
-    <description>La plateforme française de soutien scolaire Clevermate est visée par une revendication de cyberattaque du groupe LunarSec. Ce...
-L’article Clevermate visé par des hackers : des données personnelles, des IBAN et cartes…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 21 Nov 2026 11:02:03 +0000</pubDate>
   </item>
 </channel>
 </rss>
