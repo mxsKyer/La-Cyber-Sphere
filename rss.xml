@@ -6,6 +6,21 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/</link>
+    <description>Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 21 Nov 2026 17:59:58 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un impressionnant arsenal d’armes découvert</title>
+    <link>https://www.cyberattaque.org/un-membre-du-groupe-de-hackers-prorusses-noname05716-arrete-en-espagne-un-impressionnant-arsenal-darmes-decouvert/</link>
+    <description>Un homme soupçonné d&amp;#8217;appartenir au collectif de hackers prorusses NoName057(16) a été arrêté en Espagne, où les policiers...
+L’article Un membre du groupe de hackers prorusses NoName057(16) arrêté en Espagne : un…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 21 Nov 2026 22:35:09 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Microsoft Entra Connect Health flaw exploited to steal tenant data</title>
     <link>https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/</link>
     <description>Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant…</description>
@@ -89,20 +104,6 @@ The…</description>
     <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…</description>
     <source>The Hacker News</source>
     <pubDate>Sat, 21 Nov 2026 14:19:13 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
-    <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
-    <description>The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use "advanced cryptographic tools" to restore data locked by ransomware, has been charged with wire…</description>
-    <source>Krebs on Security</source>
-    <pubDate>Sat, 21 Nov 2026 00:36:39 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] West Virginia Legislature hit with cyber incident affecting IT systems</title>
-    <link>https://therecord.media/west-virginia-legislature-cyberattack</link>
-    <description>A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 20 Nov 2026 21:34:36 GMT</pubDate>
   </item>
 </channel>
 </rss>
