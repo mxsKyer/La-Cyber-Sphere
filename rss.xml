@@ -6,6 +6,24 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
+    <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
+    <description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
+
+Some of the stolen requests…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 22 Nov 2026 10:36:55 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</title>
+    <link>https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html</link>
+    <description>A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
+
+Ghostscript is the interpreter that many Linux servers use to convert…</description>
+    <source>The Hacker News</source>
+    <pubDate>Sun, 22 Nov 2026 10:33:41 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Rackspace Spot breach let hackers access customer Kubernetes secrets</title>
     <link>https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/</link>
     <description>Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]</description>
@@ -80,30 +98,6 @@ The GnuPG project warned yesterday that the flaw could be…</description>
 L’article Clevermate visé par des hackers : des données personnelles, des IBAN et cartes…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 21 Nov 2026 11:02:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque chez Orchestra : Voyages E.Leclerc, Carrefour Voyages, Selectour et Havas Voyages paralysés</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-orchestra-voyages-e-leclerc-carrefour-voyages-selectour-et-havas-voyages-paralyses/</link>
-    <description>Une cyberattaque contre Orchestra, l&amp;#8217;un des principaux fournisseurs de logiciels de réservation touristique en France, a provoqué l&amp;#8217;interruption...
-L’article Cyberattaque chez Orchestra : Voyages E.Leclerc,…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Sat, 21 Nov 2026 09:14:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</title>
-    <link>https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</link>
-    <description>Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is "incomplete."
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 21 Nov 2026 14:19:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sat, 21 Nov 2026 14:19:13 +0530</pubDate>
   </item>
 </channel>
 </rss>
