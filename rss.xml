@@ -6,6 +6,202 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Hackers breach Austrian Foreign Ministry website, access diplomats' contact details</title>
+    <link>https://therecord.media/austrian-foreign-ministry-says-website-hacked</link>
+    <description>Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft testing fix for Windows 11 Bluetooth audio quality drops</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/</link>
+    <description>Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 08:28:45 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions</title>
+    <link>https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html</link>
+    <description>A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.
+
+The vulnerability, tracked as CVE-2026-134814…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 18:52:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html</link>
+    <description>Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.
+
+The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 18:11:04 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation</title>
+    <link>https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html</link>
+    <description>N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.
+
+The bug, tracked as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 17:58:09 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Courtiers en or piratés, dix personnes mises en examen</title>
+    <link>https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/</link>
+    <description>Trois courtiers en métaux précieux piratés, des clients ciblés par de faux policiers et dix personnes mises en examen.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 12:05:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Call center operator gets 8 years for helping scam 30,000 Americans</title>
+    <link>https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/</link>
+    <description>A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 07:02:23 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque chez OC Sport : des pièces d’identité et certificats médicaux de professionnels du sport exposés</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-oc-sport-des-pieces-didentite-et-certificats-medicaux-de-professionnels-du-sport-exposes/</link>
+    <description>L&amp;#8217;Organisme Certificateur de la branche du Sport (OC Sport) confirme un incident de sécurité ayant permis à un...
+L’article Cyberattaque chez OC Sport : des pièces d’identité et certificats médicaux de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 11:54:38 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] L’aquaponey, un drôle de cadeau de Noël qui fait réfléchir !</title>
+    <link>https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/</link>
+    <description>Un poney sous le sapin pour comprendre comment les algorithmes et l’IA donnent du crédit aux fausses informations.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 11:53:31 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberespionnage en Bulgarie, 62 millions de pages volées</title>
+    <link>https://www.zataz.com/cyberespionnage-en-bulgarie-62-millions-de-pages-volees/</link>
+    <description>La Bulgarie révèle cinq ans de cyberespionnage et le vol d’au moins 62 millions de pages.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 10:59:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cleverbridge confirme un vol de données bancaires</title>
+    <link>https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/</link>
+    <description>Cleverbridge confirme un vol de données de cartes bancaires. Une notification détaille les numéros, dates et CVV.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 10:51:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] BlackHat Sector : une IA offensive à louer pour 500 €</title>
+    <link>https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/</link>
+    <description>BlackHat Sector commercialise une IA offensive après des cyberattaques revendiquées contre des sociétés françaises.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 10:29:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque contre AAAEP : 585 000 personnes exposées ?</title>
+    <link>https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/</link>
+    <description>AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 10:19:58 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] BlackHatSect0r : phishing bancaire, extorsion et industrie</title>
+    <link>https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/</link>
+    <description>BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 09:51:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Nissan victime d’une cyberattaque : des réparations automobiles bloquées depuis dix jours</title>
+    <link>https://www.cyberattaque.org/nissan-victime-dune-cyberattaque-des-reparations-automobiles-bloquees-depuis-dix-jours/</link>
+    <description>Nissan confirme une cyberattaque ayant entraîné la suspension d&amp;#8217;une partie de son système informatique de diagnostic automobile utilisé...
+L’article Nissan victime d&amp;rsquo;une cyberattaque : des réparations…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 09:41:42 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html</link>
+    <description>Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 14:41:56 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Microsoft confirms Windows printing issues affecting Forcepoint users</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/</link>
+    <description>Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 04:11:15 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html</link>
+    <description>Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 14:34:08 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms</title>
+    <link>https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html</link>
+    <description>The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 13:54:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA flags critical Cisco RCE flaw as actively exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/</link>
+    <description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 02:44:19 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CHU de Bordeaux : un ransomware menace de divulguer des dossiers médicaux de patients après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/chu-de-bordeaux-un-ransomware-menace-de-divulguer-des-dossiers-medicaux-de-patients-apres-une-cyberattaque/</link>
+    <description>Le CHU de Bordeaux est visé par une revendication de cyberattaque du groupe de ransomware Scarlettgroup, publiée le...
+L’article CHU de Bordeaux : un ransomware menace de divulguer des dossiers médicaux de patients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 06:49:07 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CHU de Guadeloupe : une cyberattaque paralyse les hôpitaux, des données chiffrées et des opérations annulées</title>
+    <link>https://www.cyberattaque.org/chu-de-guadeloupe-une-cyberattaque-paralyse-les-hopitaux-des-donnees-chiffrees-et-des-operations-annulees/</link>
+    <description>Le CHU de la Guadeloupe confirme être victime d&amp;#8217;une cyberattaque de grande ampleur depuis le samedi 21 novembre...
+L’article CHU de Guadeloupe : une cyberattaque paralyse les hôpitaux, des données chiffrées et des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 06:30:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] LAPSA : un hacker revendique les commandes de 80 000 propriétaires d’animaux</title>
+    <link>https://www.cyberattaque.org/lapsa-un-hacker-revendique-les-commandes-de-80-000-proprietaires-danimaux/</link>
+    <description>LAPSA, marque française spécialisée dans l&amp;#8217;alimentation pour chiens et chats, fait l&amp;#8217;objet d&amp;#8217;une revendication de fuite de données...
+L’article LAPSA : un hacker revendique les commandes de 80 000…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 06:18:05 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Fondation des Femmes : un hacker diffuse près de 120 000 fiches personnelles et les détails de 2 007 dons</title>
+    <link>https://www.cyberattaque.org/fondation-des-femmes-un-hacker-diffuse-pres-de-120-000-fiches-personnelles-et-les-details-de-2-007-dons/</link>
+    <description>La Fondation des Femmes est visée par une revendication de fuite de données publiée le 23 novembre 2026...
+L’article Fondation des Femmes : un hacker diffuse près de 120 000 fiches personnelles et les détails de 2 007…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 05:55:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Decathlon : plus de 163 000 fiches clients diffusées par un hacker, des livraisons à venir exposées</title>
+    <link>https://www.cyberattaque.org/decathlon-plus-de-163-000-fiches-clients-diffusees-par-un-hacker-des-livraisons-a-venir-exposees/</link>
+    <description>Decathlon est visé par une nouvelle revendication de cyberattaque. Le 23 novembre 2026, un pirate utilisant le pseudonyme...
+L’article Decathlon : plus de 163 000 fiches clients diffusées par un hacker, des livraisons à…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 05:42:21 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Bitwarden lance une alerte urgente : deux failles critiques menacent les installations auto-hébergées</title>
+    <link>https://www.cyberattaque.org/bitwarden-lance-une-alerte-urgente-deux-failles-critiques-menacent-les-installations-auto-hebergees/</link>
+    <description>Bitwarden, l&amp;#8217;un des gestionnaires de mots de passe open source les plus connus, vient de publier une alerte...
+L’article Bitwarden lance une alerte urgente : deux failles critiques menacent les installations…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 05:27:56 +0000</pubDate>
+  </item>
+  <item>
     <title>[Élevé] Ledger : un pirate piège d’autres pirates avec un faux fichier</title>
     <link>https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/</link>
     <description>Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.</description>
@@ -39,24 +235,6 @@
     <description>Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Sun, 22 Nov 2026 10:15:25 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms</title>
-    <link>https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html</link>
-    <description>Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.
-
-Some of the stolen requests…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 22 Nov 2026 10:36:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps</title>
-    <link>https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html</link>
-    <description>A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.
-
-Ghostscript is the interpreter that many Linux servers use to convert…</description>
-    <source>The Hacker News</source>
-    <pubDate>Sun, 22 Nov 2026 10:33:41 +0530</pubDate>
   </item>
 </channel>
 </rss>
