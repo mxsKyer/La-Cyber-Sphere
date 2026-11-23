@@ -6,6 +6,20 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] Ledger : un pirate piège d’autres pirates avec un faux fichier</title>
+    <link>https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/</link>
+    <description>Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 01:31:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque à Chambourcy : INC Ransom revendique l’attaque</title>
+    <link>https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/</link>
+    <description>Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.</description>
+    <source>ZATAZ</source>
+    <pubDate>Mon, 23 Nov 2026 00:36:24 +0000</pubDate>
+  </item>
+  <item>
     <title>[Moyen] Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices</title>
     <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/</link>
     <description>GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and…</description>
