@@ -6,6 +6,90 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] L’Aviation civile (DGAC) piratée : des données bancaires volés sur un site de paiement de l’État</title>
+    <link>https://www.cyberattaque.org/laviation-civile-dgac-piratee-des-donnees-bancaires-voles-sur-un-site-de-paiement-de-letat/</link>
+    <description>La Direction générale de l&amp;#8217;aviation civile (DGAC) confirme une cyberattaque ayant entraîné une importante fuite de données personnelles...
+L’article L’Aviation civile (DGAC) piratée : des données bancaires volés…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 12:04:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pix : les données de 44 000 élèves dans 55 établissements français en fuite</title>
+    <link>https://www.cyberattaque.org/pix-les-donnees-de-44-000-eleves-dans-55-etablissements-francais-en-fuite/</link>
+    <description>Pix, la plateforme française d&amp;#8217;évaluation et de certification des compétences numériques, est visée par une revendication de fuite...
+L’article Pix : les données de 44 000 élèves dans 55 établissements français en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 11:53:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Quimper et son agglomération victimes d’une cyberattaque qui perturbe leurs systèmes informatiques</title>
+    <link>https://www.cyberattaque.org/quimper-et-son-agglomeration-victimes-dune-cyberattaque-qui-perturbe-leurs-systemes-informatiques/</link>
+    <description>La ville de Quimper et la communauté d&amp;#8217;agglomération Quimper Bretagne Occidentale confirment être victimes d&amp;#8217;une cyberattaque affectant leurs...
+L’article Quimper et son agglomération victimes d’une…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 11:01:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets</title>
+    <link>https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html</link>
+    <description>Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 16:14:49 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] L’Institut national du cancer victime d’une cyberattaque avec fuite de données</title>
+    <link>https://www.cyberattaque.org/linstitut-national-du-cancer-victime-dune-cyberattaque-avec-fuite-de-donnees/</link>
+    <description>L&amp;#8217;Institut national du cancer (INCa) confirme avoir été victime d&amp;#8217;une cyberattaque ayant provoqué une violation de données et...
+L’article L’Institut national du cancer victime d’une cyberattaque avec fuite…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 09:00:57 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login</title>
+    <link>https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html</link>
+    <description>A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 14:04:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</title>
+    <link>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</link>
+    <description>OpenAI and Cisco have teamed up to launch Shirudo (meaning "shield" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.
+
+"It lets agents write…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 11:32:57 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 11:32:45 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Banque Delubac : des pirates échouent à voler de l’argent, mais dérobent des données clients</title>
+    <link>https://www.cyberattaque.org/banque-delubac-des-pirates-echouent-a-voler-de-largent-mais-derobent-des-donnees-clients/</link>
+    <description>La Banque Delubac &amp;#038; Cie confirme avoir été victime d&amp;#8217;une cyberattaque le 20 novembre 2026, au cours de...
+L’article Banque Delubac : des pirates échouent à voler de l’argent, mais dérobent des données clients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 05:38:52 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] ‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day</title>
+    <link>https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license</link>
+    <description>A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data</title>
+    <link>https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident</link>
+    <description>Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Hackers breach Austrian Foreign Ministry website, access diplomats' contact details</title>
     <link>https://therecord.media/austrian-foreign-ministry-says-website-hacked</link>
     <description>Austria's Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic…</description>
@@ -161,161 +245,6 @@ The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical…</de
 The bug, tracked as…</description>
     <source>The Hacker News</source>
     <pubDate>Mon, 23 Nov 2026 17:58:09 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Courtiers en or piratés, dix personnes mises en examen</title>
-    <link>https://www.zataz.com/courtiers-en-or-pirates-dix-personnes-mises-en-examen/</link>
-    <description>Trois courtiers en métaux précieux piratés, des clients ciblés par de faux policiers et dix personnes mises en examen.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 12:05:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Call center operator gets 8 years for helping scam 30,000 Americans</title>
-    <link>https://www.bleepingcomputer.com/news/security/call-center-operator-gets-8-years-for-helping-scam-30-000-americans/</link>
-    <description>A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 07:02:23 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque chez OC Sport : des pièces d’identité et certificats médicaux de professionnels du sport exposés</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-oc-sport-des-pieces-didentite-et-certificats-medicaux-de-professionnels-du-sport-exposes/</link>
-    <description>L&amp;#8217;Organisme Certificateur de la branche du Sport (OC Sport) confirme un incident de sécurité ayant permis à un...
-L’article Cyberattaque chez OC Sport : des pièces d’identité et certificats médicaux de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 11:54:38 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] L’aquaponey, un drôle de cadeau de Noël qui fait réfléchir !</title>
-    <link>https://www.zataz.com/laquaponey-un-drole-de-cadeau-de-noel-qui-fait-reflechir/</link>
-    <description>Un poney sous le sapin pour comprendre comment les algorithmes et l’IA donnent du crédit aux fausses informations.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 11:53:31 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberespionnage en Bulgarie, 62 millions de pages volées</title>
-    <link>https://www.zataz.com/cyberespionnage-en-bulgarie-62-millions-de-pages-volees/</link>
-    <description>La Bulgarie révèle cinq ans de cyberespionnage et le vol d’au moins 62 millions de pages.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 10:59:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cleverbridge confirme un vol de données bancaires</title>
-    <link>https://www.zataz.com/cleverbridge-confirme-un-vol-de-donnees-bancaires/</link>
-    <description>Cleverbridge confirme un vol de données de cartes bancaires. Une notification détaille les numéros, dates et CVV.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 10:51:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BlackHat Sector : une IA offensive à louer pour 500 €</title>
-    <link>https://www.zataz.com/blackhat-sector-une-ia-offensive-a-louer-pour-500-e/</link>
-    <description>BlackHat Sector commercialise une IA offensive après des cyberattaques revendiquées contre des sociétés françaises.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 10:29:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque contre AAAEP : 585 000 personnes exposées ?</title>
-    <link>https://www.zataz.com/cyberattaque-contre-aaaep-585-000-personnes-exposees/</link>
-    <description>AAAEP visée par BlackHatSect0r : 585 000 personnes potentiellement concernées, données psychotechniques et appels exposés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 10:19:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] BlackHatSect0r : phishing bancaire, extorsion et industrie</title>
-    <link>https://www.zataz.com/blackhatsect0r-phishing-bancaire-extorsion-et-industrie/</link>
-    <description>BlackHatSect0r associe phishing bancaire, extorsion, destruction de sauvegardes et interfaces industrielles exposées.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 09:51:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Nissan victime d’une cyberattaque : des réparations automobiles bloquées depuis dix jours</title>
-    <link>https://www.cyberattaque.org/nissan-victime-dune-cyberattaque-des-reparations-automobiles-bloquees-depuis-dix-jours/</link>
-    <description>Nissan confirme une cyberattaque ayant entraîné la suspension d&amp;#8217;une partie de son système informatique de diagnostic automobile utilisé...
-L’article Nissan victime d&amp;rsquo;une cyberattaque : des réparations…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 09:41:42 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html</link>
-    <description>Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf ("Idunno.AntiCsrf.dll") following the discovery of a critical vulnerability that has been…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 14:41:56 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft confirms Windows printing issues affecting Forcepoint users</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/</link>
-    <description>Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 04:11:15 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html</link>
-    <description>Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 14:34:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms</title>
-    <link>https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html</link>
-    <description>The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 13:54:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA flags critical Cisco RCE flaw as actively exploited in attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/</link>
-    <description>The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 02:44:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CHU de Bordeaux : un ransomware menace de divulguer des dossiers médicaux de patients après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/chu-de-bordeaux-un-ransomware-menace-de-divulguer-des-dossiers-medicaux-de-patients-apres-une-cyberattaque/</link>
-    <description>Le CHU de Bordeaux est visé par une revendication de cyberattaque du groupe de ransomware Scarlettgroup, publiée le...
-L’article CHU de Bordeaux : un ransomware menace de divulguer des dossiers médicaux de patients…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 06:49:07 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CHU de Guadeloupe : une cyberattaque paralyse les hôpitaux, des données chiffrées et des opérations annulées</title>
-    <link>https://www.cyberattaque.org/chu-de-guadeloupe-une-cyberattaque-paralyse-les-hopitaux-des-donnees-chiffrees-et-des-operations-annulees/</link>
-    <description>Le CHU de la Guadeloupe confirme être victime d&amp;#8217;une cyberattaque de grande ampleur depuis le samedi 21 novembre...
-L’article CHU de Guadeloupe : une cyberattaque paralyse les hôpitaux, des données chiffrées et des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 06:30:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] LAPSA : un hacker revendique les commandes de 80 000 propriétaires d’animaux</title>
-    <link>https://www.cyberattaque.org/lapsa-un-hacker-revendique-les-commandes-de-80-000-proprietaires-danimaux/</link>
-    <description>LAPSA, marque française spécialisée dans l&amp;#8217;alimentation pour chiens et chats, fait l&amp;#8217;objet d&amp;#8217;une revendication de fuite de données...
-L’article LAPSA : un hacker revendique les commandes de 80 000…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 06:18:05 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Fondation des Femmes : un hacker diffuse près de 120 000 fiches personnelles et les détails de 2 007 dons</title>
-    <link>https://www.cyberattaque.org/fondation-des-femmes-un-hacker-diffuse-pres-de-120-000-fiches-personnelles-et-les-details-de-2-007-dons/</link>
-    <description>La Fondation des Femmes est visée par une revendication de fuite de données publiée le 23 novembre 2026...
-L’article Fondation des Femmes : un hacker diffuse près de 120 000 fiches personnelles et les détails de 2 007…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 05:55:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Decathlon : plus de 163 000 fiches clients diffusées par un hacker, des livraisons à venir exposées</title>
-    <link>https://www.cyberattaque.org/decathlon-plus-de-163-000-fiches-clients-diffusees-par-un-hacker-des-livraisons-a-venir-exposees/</link>
-    <description>Decathlon est visé par une nouvelle revendication de cyberattaque. Le 23 novembre 2026, un pirate utilisant le pseudonyme...
-L’article Decathlon : plus de 163 000 fiches clients diffusées par un hacker, des livraisons à…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 05:42:21 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Bitwarden lance une alerte urgente : deux failles critiques menacent les installations auto-hébergées</title>
-    <link>https://www.cyberattaque.org/bitwarden-lance-une-alerte-urgente-deux-failles-critiques-menacent-les-installations-auto-hebergees/</link>
-    <description>Bitwarden, l&amp;#8217;un des gestionnaires de mots de passe open source les plus connus, vient de publier une alerte...
-L’article Bitwarden lance une alerte urgente : deux failles critiques menacent les installations…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 05:27:56 +0000</pubDate>
   </item>
 </channel>
 </rss>
