@@ -6,12 +6,189 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Rackspace shuts down Spot cloud platform after security breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</link>
+    <description>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 16:37:30 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</title>
+    <link>https://therecord.media/mycolorado-app-down-data-breach</link>
+    <description>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 20:52:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] New Inception extortion gang launches large-scale vishing campaign</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</link>
+    <description>A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 15:21:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] GoTronic : 328 000 adresses email en fuite après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/gotronic-328-000-adresses-email-en-fuite-apres-une-cyberattaque/</link>
+    <description>GoTronic, spécialiste français des composants électroniques et de la robotique, confirme une fuite de données personnelles après une...
+L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 19:36:29 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] California privacy agency director Kemp to leave after two-year tenure</title>
+    <link>https://therecord.media/california-privacy-agency-kemp</link>
+    <description>The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 19:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Turnitin discloses cyberattack affecting customer-facing systems</title>
+    <link>https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</link>
+    <description>Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 13:59:52 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Radware discloses breach exposing customer cloud access keys</title>
+    <link>https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</link>
+    <description>Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 12:49:05 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Lawmakers warn ID verification companies to bolster security after September hack</title>
+    <link>https://therecord.media/idscan-data-breach-warning-congressional-letter</link>
+    <description>A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 17:49:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</title>
+    <link>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</link>
+    <description>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
+
+Central to the group's operations is a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 22:24:07 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
+    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
+    <description>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 11:30:19 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] European Commission confirms data theft in EU Academy breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</link>
+    <description>The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 11:22:44 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Hackers compromise Check Point Servers in 22 organizations</title>
+    <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</link>
+    <description>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 11:15:23 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Carnegie Endowment for International Peace says third-party breach leaked donation info</title>
+    <link>https://therecord.media/carnegie-endowment-data-breach</link>
+    <description>Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Police disrupt 57 illegal streaming services with 7.3 million visits</title>
+    <link>https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/</link>
+    <description>Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 10:10:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Macadam : l’application qui récompense vos pas victime d’une cyberattaque</title>
+    <link>https://www.cyberattaque.org/macadam-lapplication-qui-recompense-vos-pas-victime-dune-cyberattaque/</link>
+    <description>Macadam, l&amp;#8217;application mobile qui récompense ses utilisateurs lorsqu&amp;#8217;ils marchent, confirme une fuite de données personnelles liée à l&amp;#8217;exploitation...
+L’article Macadam : l’application qui récompense…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 15:04:40 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] From Vulnerability Noise to Resilience: Rethinking Security in the AI Era</title>
+    <link>https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/</link>
+    <description>AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 10:01:11 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] CISA warns of exploited N-able bug as company restores email platform</title>
+    <link>https://therecord.media/cisa-nable-cybersecurity-bug</link>
+    <description>The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.</description>
+    <source>The Record</source>
+    <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LocService confirme une cyberattaque : des liens vers les dossiers de location exposés</title>
+    <link>https://www.cyberattaque.org/locservice-confirme-une-cyberattaque-des-liens-vers-les-dossiers-de-location-exposes/</link>
+    <description>LocService, plateforme française de mise en relation entre propriétaires et locataires, confirme avoir subi une cyberattaque ayant entraîné...
+L’article LocService confirme une cyberattaque : des liens vers les dossiers…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Tue, 24 Nov 2026 14:44:54 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] McDonald's Japan data breach exposes customer location information</title>
+    <link>https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/</link>
+    <description>McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 09:09:37 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New Shirudo tool uses AI to shield unpatched Linux systems from exploits</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/</link>
+    <description>OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Tue, 24 Nov 2026 08:34:23 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation</title>
+    <link>https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html</link>
+    <description>Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.
+
+The…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 18:58:26 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site</title>
+    <link>https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html</link>
+    <description>A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 18:58:21 +0530</pubDate>
+  </item>
+  <item>
     <title>[Élevé] L’Aviation civile (DGAC) piratée : des données bancaires volés sur un site de paiement de l’État</title>
     <link>https://www.cyberattaque.org/laviation-civile-dgac-piratee-des-donnees-bancaires-voles-sur-un-site-de-paiement-de-letat/</link>
     <description>La Direction générale de l&amp;#8217;aviation civile (DGAC) confirme une cyberattaque ayant entraîné une importante fuite de données personnelles...
 L’article L’Aviation civile (DGAC) piratée : des données bancaires volés…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Tue, 24 Nov 2026 12:04:39 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity</title>
+    <link>https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html</link>
+    <description>A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 17:32:00 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk</title>
+    <link>https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html</link>
+    <description>What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?
+
+According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through…</description>
+    <source>The Hacker News</source>
+    <pubDate>Tue, 24 Nov 2026 17:31:54 +0530</pubDate>
   </item>
   <item>
     <title>[Faible] Pix : les données de 44 000 élèves dans 55 établissements français en fuite</title>
@@ -76,6 +253,27 @@ L’article Banque Delubac : des pirates échouent à voler de l’argent, mais 
     <pubDate>Tue, 24 Nov 2026 05:38:52 +0000</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-132165 — Drupal Core Remote Code Execution Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-132165</link>
+    <description>Drupal Core contains a not failing securely vulnerability that could allow an unauthenticated attacker to take over an existing site or execute arbitrary code via the Drupal installer. Under specific conditions, the attacker can use install.php to attempt to reinstall Drupal on the site.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-24</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-131914 — Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-131914</link>
+    <description>Idunno AntiCsrf contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via object injection. The impacted product(s) could be end-of-life (EoL) and/or end-of-service (EoS). Users are advised to discontinue use and/or transition to a supported version.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-24</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-132224 — Optimizely Web Experimentation External Control of Critical State Data Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-132224</link>
+    <description>Optimizely Web Experimentation contains an external control of critical state data vulnerability in its account signup flow that could allow an attacker to impersonate existing customer users and modify Project JavaScript. Successful exploitation can result in attacker-controlled JavaScript being distributed through Optimizely-hosted assets and executed in browsers visiting affected customer websites.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-24</pubDate>
+  </item>
+  <item>
     <title>[Élevé] ‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day</title>
     <link>https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license</link>
     <description>A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.</description>
@@ -119,132 +317,6 @@ L’article La Fabrique d’écharpe : 7 500 emails et des mots de passe…</des
 L’article Les Gazons Parisiens : plus de 10 000 clients exposés avec leurs…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 23 Nov 2026 23:05:43 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] South Korea’s power giant KEPCO confirms data breach impacting 1.5 million</title>
-    <link>https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</link>
-    <description>A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 15:54:51 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] OpenRouter drops AI providers over leaked prompts and secrets</title>
-    <link>https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</link>
-    <description>OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 15:00:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Microsoft Azure flaw exploited to steal customers' API credentials</title>
-    <link>https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</link>
-    <description>Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 14:42:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Spanish LaLiga confirms hackers stole soccer fans’ personal data</title>
-    <link>https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</link>
-    <description>LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 13:38:40 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents</title>
-    <link>https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems</link>
-    <description>Google’s Gemini Intelligence and Apple's Siri AI "are changing this environment in a way that’s making it increasingly hostile to privacy," Signal said.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 23 Nov 2026 18:37:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FBI reportedly facing second data breach involving National Crime Information Center</title>
-    <link>https://therecord.media/fbi-cyberattack-data-breach</link>
-    <description>The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 23 Nov 2026 18:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</title>
-    <link>https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html</link>
-    <description>The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 23:15:15 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CrowdStrike to purchase Zscaler for $43.9 billion</title>
-    <link>https://therecord.media/crowdstrike-zscaler</link>
-    <description>“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 23 Nov 2026 17:14:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] GlobeTopper loses $2.5 million after hackers steal $70k in gift cards</title>
-    <link>https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</link>
-    <description>A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 11:50:01 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] LWS victime d’une cyberattaque : les données des propriétaires de noms de domaine exposées</title>
-    <link>https://www.cyberattaque.org/lws-victime-dune-cyberattaque-les-donnees-des-proprietaires-de-noms-de-domaine-exposees/</link>
-    <description>LWS, l&amp;#8217;un des principaux hébergeurs web français, confirme avoir été victime d&amp;#8217;une intrusion informatique ayant exposé les coordonnées...
-L’article LWS victime d’une cyberattaque : les données des…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Mon, 23 Nov 2026 15:53:20 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi</title>
-    <link>https://therecord.media/norway-microsoft-cyberattack-equinor</link>
-    <description>Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.</description>
-    <source>The Record</source>
-    <pubDate>Mon, 23 Nov 2026 15:45:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] ⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble</title>
-    <link>https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html</link>
-    <description>A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 20:40:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] AI Agents Are Creating a Shared Responsibility Gap</title>
-    <link>https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</link>
-    <description>AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft testing fix for Windows 11 Bluetooth audio quality drops</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/</link>
-    <description>Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Mon, 23 Nov 2026 08:28:45 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions</title>
-    <link>https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html</link>
-    <description>A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.
-
-The vulnerability, tracked as CVE-2026-134814…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 18:52:20 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html</link>
-    <description>Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.
-
-The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 18:11:04 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation</title>
-    <link>https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html</link>
-    <description>N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.
-
-The bug, tracked as…</description>
-    <source>The Hacker News</source>
-    <pubDate>Mon, 23 Nov 2026 17:58:09 +0530</pubDate>
   </item>
 </channel>
 </rss>
