@@ -13,6 +13,122 @@
     <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
   </item>
   <item>
+    <title>[Faible] Happy Candy piraté : les données de 7 200 clients diffusées sur le darkweb</title>
+    <link>https://www.cyberattaque.org/happy-candy-pirate-les-donnees-de-7-200-clients-diffusees-sur-le-darkweb/</link>
+    <description>Happy Candy, boutique française spécialisée dans la vente de bonbons et de confiseries, est visée par une importante...
+L’article Happy Candy piraté : les données de 7 200 clients diffusées sur le darkweb est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 23:22:03 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] La Fabrique d’écharpe : 7 500 emails et des mots de passe exposés dans une fuite de 3,6 Go</title>
+    <link>https://www.cyberattaque.org/la-fabrique-decharpe-7-500-emails-et-des-mots-de-passe-exposes-dans-une-fuite-de-36-go/</link>
+    <description>La Fabrique d&amp;#8217;écharpe, entreprise française spécialisée dans la fabrication artisanale d&amp;#8217;écharpes et de foulards, est visée par une...
+L’article La Fabrique d’écharpe : 7 500 emails et des mots de passe…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 23:16:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Les Gazons Parisiens : plus de 10 000 clients exposés avec leurs données de paiement après une cyberattaque</title>
+    <link>https://www.cyberattaque.org/les-gazons-parisiens-plus-de-10-000-clients-exposes-avec-leurs-donnees-de-paiement-apres-une-cyberattaque/</link>
+    <description>Les Gazons Parisiens, entreprise française spécialisée dans la vente de gazon naturel, fait l&amp;#8217;objet d&amp;#8217;une importante fuite de...
+L’article Les Gazons Parisiens : plus de 10 000 clients exposés avec leurs…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 23:05:43 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] South Korea’s power giant KEPCO confirms data breach impacting 1.5 million</title>
+    <link>https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</link>
+    <description>A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 15:54:51 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] OpenRouter drops AI providers over leaked prompts and secrets</title>
+    <link>https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</link>
+    <description>OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 15:00:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft Azure flaw exploited to steal customers' API credentials</title>
+    <link>https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</link>
+    <description>Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 14:42:20 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Spanish LaLiga confirms hackers stole soccer fans’ personal data</title>
+    <link>https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</link>
+    <description>LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 13:38:40 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Signal blocks screenshots by Apple, Google operating systems to protect data from AI agents</title>
+    <link>https://therecord.media/signal-no-screenshots-by-apple-google-operating-systems</link>
+    <description>Google’s Gemini Intelligence and Apple's Siri AI "are changing this environment in a way that’s making it increasingly hostile to privacy," Signal said.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 23 Nov 2026 18:37:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] FBI reportedly facing second data breach involving National Crime Information Center</title>
+    <link>https://therecord.media/fbi-cyberattack-data-breach</link>
+    <description>The FBI is reportedly investigating a data breach involving the National Crime Information Center, a database used by U.S. law enforcement agencies that contains information on criminals, fugitives and missing people.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 23 Nov 2026 18:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access</title>
+    <link>https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html</link>
+    <description>The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 23:15:15 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] CrowdStrike to purchase Zscaler for $43.9 billion</title>
+    <link>https://therecord.media/crowdstrike-zscaler</link>
+    <description>“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 23 Nov 2026 17:14:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] GlobeTopper loses $2.5 million after hackers steal $70k in gift cards</title>
+    <link>https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</link>
+    <description>A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 11:50:01 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] LWS victime d’une cyberattaque : les données des propriétaires de noms de domaine exposées</title>
+    <link>https://www.cyberattaque.org/lws-victime-dune-cyberattaque-les-donnees-des-proprietaires-de-noms-de-domaine-exposees/</link>
+    <description>LWS, l&amp;#8217;un des principaux hébergeurs web français, confirme avoir été victime d&amp;#8217;une intrusion informatique ayant exposé les coordonnées...
+L’article LWS victime d’une cyberattaque : les données des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Mon, 23 Nov 2026 15:53:20 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi</title>
+    <link>https://therecord.media/norway-microsoft-cyberattack-equinor</link>
+    <description>Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.</description>
+    <source>The Record</source>
+    <pubDate>Mon, 23 Nov 2026 15:45:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] ⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble</title>
+    <link>https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html</link>
+    <description>A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use…</description>
+    <source>The Hacker News</source>
+    <pubDate>Mon, 23 Nov 2026 20:40:48 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] AI Agents Are Creating a Shared Responsibility Gap</title>
+    <link>https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</link>
+    <description>AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Mon, 23 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] Microsoft testing fix for Windows 11 Bluetooth audio quality drops</title>
     <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/</link>
     <description>Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]</description>
@@ -200,41 +316,6 @@ L’article Decathlon : plus de 163 000 fiches clients diffusées par un hacker,
 L’article Bitwarden lance une alerte urgente : deux failles critiques menacent les installations…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Mon, 23 Nov 2026 05:27:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Ledger : un pirate piège d’autres pirates avec un faux fichier</title>
-    <link>https://www.zataz.com/ledger-un-pirate-piege-dautres-pirates-avec-un-faux-fichier/</link>
-    <description>Sur un forum pirate, une prétendue nouvelle fuite de données Ledger dissimule un piège. ZATAZ a suivi la manœuvre.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 01:31:54 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque à Chambourcy : INC Ransom revendique l’attaque</title>
-    <link>https://www.zataz.com/cyberattaque-a-chambourcy-inc-ransom-revendique-lattaque/</link>
-    <description>Cyberattaque à Chambourcy : INC Ransom revendique l'intrusion. ZATAZ révèle des documents de police municipale exposés.</description>
-    <source>ZATAZ</source>
-    <pubDate>Mon, 23 Nov 2026 00:36:24 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/</link>
-    <description>GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 22 Nov 2026 13:45:37 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</link>
-    <description>E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 22 Nov 2026 10:43:04 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Signal to block Siri, Gemini AI from capturing chats on iOS, Android</title>
-    <link>https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/</link>
-    <description>Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Sun, 22 Nov 2026 10:15:25 -0500</pubDate>
   </item>
 </channel>
 </rss>
