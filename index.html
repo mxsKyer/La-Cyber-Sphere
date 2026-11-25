@@ -506,7 +506,7 @@
   <div class="wrap">
     <span id="fulldate">Lundi 6 juillet 2026</span>
     <div style="display:flex;align-items:center;gap:18px;">
-      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-24T22:42:25.737483+00:00">—</span></span>
+      <span class="status-tag"><span class="pulse"></span>DERNIÈRE COLLECTE : <span id="lastSyncText" data-sync="2026-11-25T15:57:51.658308+00:00">—</span></span>
       <button class="theme-toggle" id="prefsToggle" aria-label="Ouvrir les préférences">
         <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 00.34 1.87l.06.06a2 2 0 11-2.83 2.83l-.06-.06a1.7 1.7 0 00-1.87-.34 1.7 1.7 0 00-1.04 1.56V21a2 2 0 11-4 0v-.09A1.7 1.7 0 008.4 19.4a1.7 1.7 0 00-1.87.34l-.06.06a2 2 0 11-2.83-2.83l.06-.06a1.7 1.7 0 00.34-1.87 1.7 1.7 0 00-1.56-1.04H2a2 2 0 110-4h.09A1.7 1.7 0 003.6 8.4a1.7 1.7 0 00-.34-1.87l-.06-.06a2 2 0 112.83-2.83l.06.06a1.7 1.7 0 001.87.34H8a1.7 1.7 0 001.04-1.56V2a2 2 0 114 0v.09A1.7 1.7 0 0014.6 3.6a1.7 1.7 0 001.87-.34l.06-.06a2 2 0 112.83 2.83l-.06.06a1.7 1.7 0 00-.34 1.87V8a1.7 1.7 0 001.56 1.04H21a2 2 0 110 4h-.09a1.7 1.7 0 00-1.56 1.04z"/></svg>
         <span>Préférences</span>
@@ -545,8 +545,8 @@
 </header>
 <div class="ticker-strip">
   <a href="#signaux-france" class="ticker-track" id="tickerTrack" style="text-decoration:none;">
-    <span id="attackCount" class="accent-num">8</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
-    <span style="margin-left:64px;" id="attackCount2" class="accent-num">8</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span id="attackCount" class="accent-num">13</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
+    <span style="margin-left:64px;" id="attackCount2" class="accent-num">13</span>&nbsp;cyberattaques françaises recensées ces dernières 24h — voir le détail →
   </a>
 </div>
 
@@ -569,24 +569,23 @@
       
       <div class="sev-critical" style="display:flex;align-items:center;gap:14px;margin-bottom:2px;">
         <div class="story-icon corner-frame lead-icon" style="width:52px;height:52px;">
-          <svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg>
+          <svg viewBox="0 0 48 48"><rect x="12" y="22" width="24" height="18" rx="2"/><path d="M18 22v-6a6 6 0 0112 0v2"/><path d="M24 30l-2 4h4l-2 4"/></svg>
         </div>
         <div class="dateline" style="margin-bottom:0;">À la une — niveau critique</div>
       </div>
-      <h2>Police disrupt 57 illegal streaming services with 7.3 million visits</h2>
-      <p class="dek">Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]</p>
-      <div class="byline">Source : <a href="https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/" target="_blank" rel="noopener">BleepingComputer</a> · il y a 14 h</div>
+      <h2>Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital</h2>
+      <p class="dek">France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some…</p>
+      <div class="byline">Source : <a href="https://therecord.media/guadeloupe-ransomware-hospital-cyber" target="_blank" rel="noopener">The Record</a> · il y a 2 h</div>
       
     </div>
     <div class="index-card corner-frame">
       <div style="display:flex;justify-content:space-between;align-items:flex-start;">
         <div class="smallcaps">Indice de tension cyber</div>
-        <div class="sig-tag"><span class="pulse"></span>SIG · 000</div>
+        <div class="sig-tag"><span class="pulse"></span>SIG · 100</div>
       </div>
-      <div class="index-value">0<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
-      <div class="index-delta" style="color:var(--sev-low);">
-        ▼ 100 points sur 7 jours
-        
+      <div class="index-value">100<span style="font-size:16px;color:var(--ink-dim);font-weight:500;">/100</span></div>
+      <div class="index-delta" style="color:var(--ink-dim);">
+        → stable sur 7 jours
       </div>
       <canvas id="riskline"></canvas>
       <div class="index-foot">Calculé à partir du volume et de la sévérité des signaux détectés sur la semaine glissante.</div>
@@ -611,18 +610,19 @@
       
       
       <article class="story sev-low" id="story-1">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 7 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Rackspace shuts down Spot cloud platform after security breach</h3>
-          <p>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une notification de chantage aux supporters</h3>
+          <p>La Ligue nationale de basket (LNB) est visée par une nouvelle revendication de cyberattaque particulièrement inquiétante. Le 25...
+L’article Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une…</p>
+          <a href="https://www.cyberattaque.org/ligue-nationale-de-basket-un-hacker-revendique-40-000-comptes-et-diffuse-une-notification-de-chantage-aux-supporters/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-1">Copier le lien</button>
         </div>
       </article>
@@ -633,13 +633,14 @@
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 49 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</h3>
-          <p>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.</p>
-          <a href="https://therecord.media/mycolorado-app-down-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>WP Connect : un hacker piège 6 extensions WordPress de l’éditeur français et menace 3 600 sites</h3>
+          <p>Six extensions WordPress développées par l&#8217;éditeur français WP Connect ont été piégées par un cybercriminel le 22 novembre...
+L’article WP Connect : un hacker piège 6 extensions WordPress de l’éditeur français et…</p>
+          <a href="https://www.cyberattaque.org/wp-connect-un-hacker-piege-six-extensions-wordpress-de-lediteur-francais-et-menace-3-600-sites/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-2">Copier le lien</button>
         </div>
       </article>
@@ -651,30 +652,29 @@
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 57 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>New Inception extortion gang launches large-scale vishing campaign</h3>
-          <p>A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>More Pentests Without More Pentesters: Where AI Safely Helps</h3>
+          <p>Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-3">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-4">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+      <article class="story sev-low" id="story-4">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 57 min</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>GoTronic : 328 000 adresses email en fuite après une cyberattaque</h3>
-          <p>GoTronic, spécialiste français des composants électroniques et de la robotique, confirme une fuite de données personnelles après une...
-L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque est…</p>
-          <a href="https://www.cyberattaque.org/gotronic-328-000-adresses-email-en-fuite-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>InfraTrust warns of exploited supply chain flaws in network appliances</h3>
+          <p>Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-4">Copier le lien</button>
         </div>
       </article>
@@ -685,64 +685,71 @@ L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque e
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 1 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>California privacy agency director Kemp to leave after two-year tenure</h3>
-          <p>The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.</p>
-          <a href="https://therecord.media/california-privacy-agency-kemp" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Cyberattaque chez Septeo : l’éditeur français de logiciels professionnels victime d’un vol de données</h3>
+          <p>Septeo, l&#8217;un des principaux éditeurs français de logiciels professionnels, est touché par une cyberattaque visant sa filiale Septeo...
+L’article Cyberattaque chez Septeo : l&rsquo;éditeur français de logiciels…</p>
+          <a href="https://www.cyberattaque.org/cyberattaque-chez-septeo-lediteur-francais-de-logiciels-professionnels-victime-dun-vol-de-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-5">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-6">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-critical" id="story-6">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 10 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Turnitin discloses cyberattack affecting customer-facing systems</h3>
-          <p>Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains</h3>
+          <p>Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.
+
+The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -
+
+
+ …</p>
+          <a href="https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-6">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-7">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+      <article class="story sev-critical" id="story-7">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 11 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Radware discloses breach exposing customer cloud access keys</h3>
-          <p>Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion</h3>
+          <p>The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized access to a limited subset of its systems," the bureau said on…</p>
+          <a href="https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-7">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-8">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+      <article class="story sev-critical" id="story-8">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 11 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 3 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Lawmakers warn ID verification companies to bolster security after September hack</h3>
-          <p>A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.</p>
-          <a href="https://therecord.media/idscan-data-breach-warning-congressional-letter" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Fail2Install : une faille critique de Drupal permet aux hackers de prendre le contrôle des sites web</h3>
+          <p>Une vulnérabilité critique de Drupal, l&#8217;un des systèmes de gestion de contenu les plus utilisés pour les sites...
+L’article Fail2Install : une faille critique de Drupal permet aux hackers de prendre le contrôle…</p>
+          <a href="https://www.cyberattaque.org/fail2install-une-faille-critique-de-drupal-permet-aux-hackers-de-prendre-le-controle-des-sites-web/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-8">Copier le lien</button>
         </div>
       </article>
@@ -754,14 +761,15 @@ L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque e
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</h3>
-          <p>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
+          <h3>Credential Remediation Is Slow When You Don’t Know What Will Break</h3>
+          <p>TL;DR
 
-Central to the group's operations is a…</p>
-          <a href="https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+
+  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will…</p>
+          <a href="https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-9">Copier le lien</button>
         </div>
       </article>
@@ -772,151 +780,152 @@ Central to the group's operations is a…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</h3>
-          <p>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Skimming en Alsace, des cartes bancaires piégées à la pompe</h3>
+          <p>Skimming ? En Alsace, des retraits de 500 à 1 000 euros après un plein alertent les gendarmes. Comment réagir face à la fraude.</p>
+          <a href="https://www.zataz.com/skimming-en-alsace-des-cartes-bancaires-piegees-a-la-pompe/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-10">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-low" id="story-11">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 12 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>European Commission confirms data theft in EU Academy breach</h3>
-          <p>The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-12">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Hackers compromise Check Point Servers in 22 organizations</h3>
-          <p>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-12">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-13">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 13 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Carnegie Endowment for International Peace says third-party breach leaked donation info</h3>
-          <p>Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.</p>
-          <a href="https://therecord.media/carnegie-endowment-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-13">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-14">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Macadam : l’application qui récompense vos pas victime d’une cyberattaque</h3>
-          <p>Macadam, l&#8217;application mobile qui récompense ses utilisateurs lorsqu&#8217;ils marchent, confirme une fuite de données personnelles liée à l&#8217;exploitation...
-L’article Macadam : l’application qui récompense…</p>
-          <a href="https://www.cyberattaque.org/macadam-lapplication-qui-recompense-vos-pas-victime-dune-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-medium" id="story-15">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>From Vulnerability Noise to Resilience: Rethinking Security in the AI Era</h3>
-          <p>AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-medium" id="story-16">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
-            <span class="story-source">The Record</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>CISA warns of exploited N-able bug as company restores email platform</h3>
-          <p>The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.</p>
-          <a href="https://therecord.media/cisa-nable-cybersecurity-bug" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-17">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 14 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>LocService confirme une cyberattaque : des liens vers les dossiers de location exposés</h3>
-          <p>LocService, plateforme française de mise en relation entre propriétaires et locataires, confirme avoir subi une cyberattaque ayant entraîné...
-L’article LocService confirme une cyberattaque : des liens vers les dossiers…</p>
-          <a href="https://www.cyberattaque.org/locservice-confirme-une-cyberattaque-des-liens-vers-les-dossiers-de-location-exposes/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Banques françaises, paris sportifs et cryptomonnaies : un hacker utilise DeepSeek pour lancer ses cyberattaques</h3>
+          <p>Un hacker francophone a utilisé l’intelligence artificielle chinoise DeepSeek pour mener une vaste campagne de cyberattaques visant une...
+L’article Banques françaises, paris sportifs et cryptomonnaies : un hacker…</p>
+          <a href="https://www.cyberattaque.org/banques-francaises-paris-sportifs-et-cryptomonnaies-un-hacker-utilise-deepseek-pour-lancer-ses-cyberattaques/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-11">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-12">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation</h3>
+          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by…</p>
+          <a href="https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-12">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-13">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 4 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Microsoft fixes Microsoft 365 bug blocking access to Office apps</h3>
+          <p>Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-13">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-14">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 5 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Faux jeu Ducros sur TikTok, le piège du coffret de Noël</h3>
+          <p>ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.</p>
+          <a href="https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-14">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-15">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 5 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail</h3>
+          <p>A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled…</p>
+          <a href="https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-15">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-16">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 5 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Treasury's FinCEN takes systems offline after cybersecurity incident</h3>
+          <p>The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.”</p>
+          <a href="https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-16">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-17">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 5 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Hackers now exploit critical Drupal RCE flaw to hijack sites</h3>
+          <p>The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-17">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-high" id="story-18">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+      <article class="story sev-critical" id="story-18">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>McDonald's Japan data breach exposes customer location information</h3>
-          <p>McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]</p>
-          <a href="https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers</h3>
+          <p>An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.
+
+The flaw used in the attack had been in the…</p>
+          <a href="https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-18">Copier le lien</button>
         </div>
       </article>
@@ -928,31 +937,29 @@ L’article LocService confirme une cyberattaque : des liens vers les dossiers�
             <span class="sev-dot"></span>
             <span class="story-label">Critique</span><span class="dot-sep">·</span>
             <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 6 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>New Shirudo tool uses AI to shield unpatched Linux systems from exploits</h3>
-          <p>OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without…</p>
-          <a href="https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Microsoft confirms authentication issues after November updates</h3>
+          <p>Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-19">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-critical" id="story-20">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation</h3>
-          <p>Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.
-
-The…</p>
-          <a href="https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Hackers reportedly breached CIA intelligence analysis system</h3>
+          <p>Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-20">Copier le lien</button>
         </div>
       </article>
@@ -963,31 +970,32 @@ The…</p>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="story-source">ZATAZ</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 8 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site</h3>
-          <p>A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence…</p>
-          <a href="https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup</h3>
+          <p>Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.</p>
+          <a href="https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-21">Copier le lien</button>
         </div>
       </article>
 
       <article class="story sev-high" id="story-22">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>L’Aviation civile (DGAC) piratée : des données bancaires volés sur un site de paiement de l’État</h3>
-          <p>La Direction générale de l&#8217;aviation civile (DGAC) confirme une cyberattaque ayant entraîné une importante fuite de données personnelles...
-L’article L’Aviation civile (DGAC) piratée : des données bancaires volés…</p>
-          <a href="https://www.cyberattaque.org/laviation-civile-dgac-piratee-des-donnees-bancaires-voles-sur-un-site-de-paiement-de-letat/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign</h3>
+          <p>An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.
+
+The…</p>
+          <a href="https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-22">Copier le lien</button>
         </div>
       </article>
@@ -999,102 +1007,98 @@ L’article L’Aviation civile (DGAC) piratée : des données bancaires volés�
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
             <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity</h3>
-          <p>A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a…</p>
-          <a href="https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion</h3>
+          <p>Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and…</p>
+          <a href="https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-23">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-24">
+      <article class="story sev-low" id="story-24">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk</h3>
-          <p>What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?
-
-According to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through…</p>
-          <a href="https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>ARTEX : enquête sur l’intelligence artificielle qui automatise les cyberattaques</h3>
+          <p>ARTEX est un outil de cybersécurité reposant sur l&#8217;intelligence artificielle, capable d&#8217;automatiser une grande partie des étapes d&#8217;une...
+L’article ARTEX : enquête sur l’intelligence artificielle qui…</p>
+          <a href="https://www.cyberattaque.org/artex-enquete-sur-lintelligence-artificielle-qui-automatise-les-cyberattaques/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-24">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-low" id="story-25">
+      <article class="story sev-high" id="story-25">
         <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 17 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Pix : les données de 44 000 élèves dans 55 établissements français en fuite</h3>
-          <p>Pix, la plateforme française d&#8217;évaluation et de certification des compétences numériques, est visée par une revendication de fuite...
-L’article Pix : les données de 44 000 élèves dans 55 établissements français en…</p>
-          <a href="https://www.cyberattaque.org/pix-les-donnees-de-44-000-eleves-dans-55-etablissements-francais-en-fuite/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-25">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-low" id="story-26">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Quimper et son agglomération victimes d’une cyberattaque qui perturbe leurs systèmes informatiques</h3>
-          <p>La ville de Quimper et la communauté d&#8217;agglomération Quimper Bretagne Occidentale confirment être victimes d&#8217;une cyberattaque affectant leurs...
-L’article Quimper et son agglomération victimes d’une…</p>
-          <a href="https://www.cyberattaque.org/quimper-et-son-agglomeration-victimes-dune-cyberattaque-qui-perturbe-leurs-systemes-informatiques/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-26">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-medium" id="story-27">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
-        <div>
-          <div class="story-meta">
-            <span class="sev-dot"></span>
-            <span class="story-label">Moyen</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
-            <span class="confidence conf-single">Source unique</span>
-          </div>
-          <h3>Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets</h3>
-          <p>Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy…</p>
-          <a href="https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-27">Copier le lien</button>
-        </div>
-      </article>
-
-      <article class="story sev-high" id="story-28">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Élevé</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 9 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>L’Institut national du cancer victime d’une cyberattaque avec fuite de données</h3>
-          <p>L&#8217;Institut national du cancer (INCa) confirme avoir été victime d&#8217;une cyberattaque ayant provoqué une violation de données et...
-L’article L’Institut national du cancer victime d’une cyberattaque avec fuite…</p>
-          <a href="https://www.cyberattaque.org/linstitut-national-du-cancer-victime-dune-cyberattaque-avec-fuite-de-donnees/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live</h3>
+          <p>WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise…</p>
+          <a href="https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-25">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-critical" id="story-26">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Critique</span><span class="dot-sep">·</span>
+            <span class="story-source">CISA — Catalogue KEV</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 15 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability</h3>
+          <p>Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router contain an OS command injection vulnerability that could allow a remote attacker to execute arbitrary commands as root via a specially crafted salt minion ID.</p>
+          <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-103406" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-26">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-27">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 18 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Rackspace shuts down Spot cloud platform after security breach</h3>
+          <p>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-27">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-28">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</h3>
+          <p>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.</p>
+          <a href="https://therecord.media/mycolorado-app-down-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-28">Copier le lien</button>
         </div>
       </article>
@@ -1105,49 +1109,48 @@ L’article L’Institut national du cancer victime d’une cyberattaque avec fu
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 19 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login</h3>
-          <p>A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password…</p>
-          <a href="https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>New Inception extortion gang launches large-scale vishing campaign</h3>
+          <p>A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-29">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-30">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+      <article class="story sev-high" id="story-30">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</h3>
-          <p>OpenAI and Cisco have teamed up to launch Shirudo (meaning "shield" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.
-
-"It lets agents write…</p>
-          <a href="https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>GoTronic : 328 000 adresses email en fuite après une cyberattaque</h3>
+          <p>GoTronic, spécialiste français des composants électroniques et de la robotique, confirme une fuite de données personnelles après une...
+L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque est…</p>
+          <a href="https://www.cyberattaque.org/gotronic-328-000-adresses-email-en-fuite-apres-une-cyberattaque/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-30">Copier le lien</button>
         </div>
       </article>
 
-      <article class="story sev-critical" id="story-31">
-        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+      <article class="story sev-low" id="story-31">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
         <div>
           <div class="story-meta">
             <span class="sev-dot"></span>
-            <span class="story-label">Critique</span><span class="dot-sep">·</span>
-            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
-            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</h3>
-          <p>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active…</p>
-          <a href="https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <h3>California privacy agency director Kemp to leave after two-year tenure</h3>
+          <p>The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.</p>
+          <a href="https://therecord.media/california-privacy-agency-kemp" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
           <button class="copy-link-btn" data-copy-target="#story-31">Copier le lien</button>
         </div>
       </article>
@@ -1158,15 +1161,135 @@ L’article L’Institut national du cancer victime d’une cyberattaque avec fu
           <div class="story-meta">
             <span class="sev-dot"></span>
             <span class="story-label">Faible</span><span class="dot-sep">·</span>
-            <span class="story-source">Cyberattaque.org</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 20 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Turnitin discloses cyberattack affecting customer-facing systems</h3>
+          <p>Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-32">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-33">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Radware discloses breach exposing customer cloud access keys</h3>
+          <p>Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…</p>
+          <a href="https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-33">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-34">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 22 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Lawmakers warn ID verification companies to bolster security after September hack</h3>
+          <p>A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.</p>
+          <a href="https://therecord.media/idscan-data-breach-warning-congressional-letter" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-34">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-35">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Hacker News</span><span class="dot-sep">·</span>
             <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
             <span class="confidence conf-single">Source unique</span>
           </div>
-          <h3>Banque Delubac : des pirates échouent à voler de l’argent, mais dérobent des données clients</h3>
-          <p>La Banque Delubac &#038; Cie confirme avoir été victime d&#8217;une cyberattaque le 20 novembre 2026, au cours de...
-L’article Banque Delubac : des pirates échouent à voler de l’argent, mais dérobent des données clients…</p>
-          <a href="https://www.cyberattaque.org/banque-delubac-des-pirates-echouent-a-voler-de-largent-mais-derobent-des-donnees-clients/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
-          <button class="copy-link-btn" data-copy-target="#story-32">Copier le lien</button>
+          <h3>Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</h3>
+          <p>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
+
+Central to the group's operations is a…</p>
+          <a href="https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-35">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-36">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><rect x="8" y="18" width="32" height="14" rx="2"/><circle cx="15" cy="25" r="1.6"/><circle cx="21" cy="25" r="1.6"/><path d="M28 25h8"/><path d="M24 6l6 10h-12z"/><path d="M24 11v2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</h3>
+          <p>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-36">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-low" id="story-37">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Faible</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>European Commission confirms data theft in EU Academy breach</h3>
+          <p>The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-37">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-38">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M24 5l15 5v11c0 10-6.5 17-15 21-8.5-4-15-11-15-21V10z"/><circle cx="24" cy="24" r="5"/><path d="M24 16v3M24 29v3M17 24h3M28 24h3M19 19l2 2M27 19l-2 2M19 29l2-2M27 29l-2-2"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">BleepingComputer</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Hackers compromise Check Point Servers in 22 organizations</h3>
+          <p>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</p>
+          <a href="https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-38">Copier le lien</button>
+        </div>
+      </article>
+
+      <article class="story sev-high" id="story-39">
+        <div class="story-icon corner-frame"><svg viewBox="0 0 48 48"><path d="M6 16V11a2 2 0 012-2h10l4 4h18a2 2 0 012 2v3"/><path d="M6 16h36l-4 18a3 3 0 01-3 2.4H13a3 3 0 01-3-2.4z"/><path d="M24 24v6M22 33h4"/></svg></div>
+        <div>
+          <div class="story-meta">
+            <span class="sev-dot"></span>
+            <span class="story-label">Élevé</span><span class="dot-sep">·</span>
+            <span class="story-source">The Record</span><span class="dot-sep">·</span>
+            <span class="story-time">il y a 23 h</span><span class="dot-sep">·</span>
+            <span class="confidence conf-single">Source unique</span>
+          </div>
+          <h3>Carnegie Endowment for International Peace says third-party breach leaked donation info</h3>
+          <p>Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.</p>
+          <a href="https://therecord.media/carnegie-endowment-data-breach" class="read-link" target="_blank" rel="noopener">Lire la source d'origine</a>
+          <button class="copy-link-btn" data-copy-target="#story-39">Copier le lien</button>
         </div>
       </article>
 
@@ -1182,23 +1305,23 @@ L’article Banque Delubac : des pirates échouent à voler de l’argent, mais 
         <div class="side-title">CVE mentionnées récemment</div>
         
           
+        <div class="cve-line"><span class="cve-id">CVE-2026-103406</span><span class="cve-product">CVE-2026-103406 — Hewlett Packard…</span><span class="cve-score crit">Critique</span></div>
+          
+        <div class="cve-line"><span class="cve-id">CVE-2026-120705</span><span class="cve-product">Hackers Exploit Two GeoServer Flaws as…</span><span class="cve-score crit">Critique</span></div>
+          
+        <div class="cve-line"><span class="cve-id">CVE-2026-129243</span><span class="cve-product">Hackers Exploit Two GeoServer Flaws as…</span><span class="cve-score crit">Critique</span></div>
+          
         <div class="cve-line"><span class="cve-id">CVE-2026-132165</span><span class="cve-product">CVE-2026-132165 — Drupal Core Remote…</span><span class="cve-score crit">Critique</span></div>
-          
-        <div class="cve-line"><span class="cve-id">CVE-2026-131914</span><span class="cve-product">CVE-2026-131914 — Idunno AntiCsrf…</span><span class="cve-score crit">Critique</span></div>
-          
-        <div class="cve-line"><span class="cve-id">CVE-2026-132224</span><span class="cve-product">CVE-2026-132224 — Optimizely Web…</span><span class="cve-score crit">Critique</span></div>
-          
-        <div class="cve-line"><span class="cve-id">CVE-2026-134624</span><span class="cve-product">CVE-2026-134624 — N-able MailAssure…</span><span class="cve-score crit">Critique</span></div>
           
         
       </div>
 
       <div class="side-block">
         <div class="side-title">La semaine en chiffres</div>
-        <div class="stat-line"><span>Signaux traités</span><span class="num">233</span></div>
-        <div class="stat-line"><span>Alertes critiques</span><span class="num">61</span></div>
-        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">22</span></div>
-        <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1354 min</span></div>
+        <div class="stat-line"><span>Signaux traités</span><span class="num">239</span></div>
+        <div class="stat-line"><span>Alertes critiques</span><span class="num">66</span></div>
+        <div class="stat-line"><span>CVE nouvellement suivies</span><span class="num">24</span></div>
+        <div class="stat-line"><span>Délai moyen de détection</span><span class="num">1325 min</span></div>
       </div>
 
       <div class="side-block" id="sources" style="border-bottom:none;">
@@ -1223,6 +1346,66 @@ L’article Banque Delubac : des pirates échouent à voler de l’argent, mais 
       
         
         <div class="france-row">
+          <span class="fsev sev-critical">Critique</span>
+          <span class="ftitle">Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital</span>
+          <span class="fsource"><a href="https://therecord.media/guadeloupe-ransomware-hospital-cyber" target="_blank" rel="noopener">The Record →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">ARTEX : enquête sur l’intelligence artificielle qui automatise les cyberattaques</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/artex-enquete-sur-lintelligence-artificielle-qui-automatise-les-cyberattaques/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Banques françaises, paris sportifs et cryptomonnaies : un hacker utilise DeepSeek pour lancer ses cyberattaques</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/banques-francaises-paris-sportifs-et-cryptomonnaies-un-hacker-utilise-deepseek-pour-lancer-ses-cyberattaques/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-critical">Critique</span>
+          <span class="ftitle">Fail2Install : une faille critique de Drupal permet aux hackers de prendre le contrôle des sites web</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/fail2install-une-faille-critique-de-drupal-permet-aux-hackers-de-prendre-le-controle-des-sites-web/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Cyberattaque chez Septeo : l’éditeur français de logiciels professionnels victime d’un vol de données</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/cyberattaque-chez-septeo-lediteur-francais-de-logiciels-professionnels-victime-dun-vol-de-donnees/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">WP Connect : un hacker piège 6 extensions WordPress de l’éditeur français et menace 3 600 sites</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/wp-connect-un-hacker-piege-six-extensions-wordpress-de-lediteur-francais-et-menace-3-600-sites/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une notification de chantage aux supporters</span>
+          <span class="fsource"><a href="https://www.cyberattaque.org/ligue-nationale-de-basket-un-hacker-revendique-40-000-comptes-et-diffuse-une-notification-de-chantage-aux-supporters/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup</span>
+          <span class="fsource"><a href="https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Faux jeu Ducros sur TikTok, le piège du coffret de Noël</span>
+          <span class="fsource"><a href="https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
+          <span class="fsev sev-low">Faible</span>
+          <span class="ftitle">Skimming en Alsace, des cartes bancaires piégées à la pompe</span>
+          <span class="fsource"><a href="https://www.zataz.com/skimming-en-alsace-des-cartes-bancaires-piegees-a-la-pompe/" target="_blank" rel="noopener">ZATAZ →</a></span>
+        </div>
+        
+        <div class="france-row">
           <span class="fsev sev-low">Faible</span>
           <span class="ftitle">LocService confirme une cyberattaque : des liens vers les dossiers de location exposés</span>
           <span class="fsource"><a href="https://www.cyberattaque.org/locservice-confirme-une-cyberattaque-des-liens-vers-les-dossiers-de-location-exposes/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
@@ -1238,36 +1421,6 @@ L’article Banque Delubac : des pirates échouent à voler de l’argent, mais 
           <span class="fsev sev-high">Élevé</span>
           <span class="ftitle">GoTronic : 328 000 adresses email en fuite après une cyberattaque</span>
           <span class="fsource"><a href="https://www.cyberattaque.org/gotronic-328-000-adresses-email-en-fuite-apres-une-cyberattaque/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Banque Delubac : des pirates échouent à voler de l’argent, mais dérobent des données clients</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/banque-delubac-des-pirates-echouent-a-voler-de-largent-mais-derobent-des-donnees-clients/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-high">Élevé</span>
-          <span class="ftitle">L’Institut national du cancer victime d’une cyberattaque avec fuite de données</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/linstitut-national-du-cancer-victime-dune-cyberattaque-avec-fuite-de-donnees/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Quimper et son agglomération victimes d’une cyberattaque qui perturbe leurs systèmes informatiques</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/quimper-et-son-agglomeration-victimes-dune-cyberattaque-qui-perturbe-leurs-systemes-informatiques/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-low">Faible</span>
-          <span class="ftitle">Pix : les données de 44 000 élèves dans 55 établissements français en fuite</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/pix-les-donnees-de-44-000-eleves-dans-55-etablissements-francais-en-fuite/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
-        </div>
-        
-        <div class="france-row">
-          <span class="fsev sev-high">Élevé</span>
-          <span class="ftitle">L’Aviation civile (DGAC) piratée : des données bancaires volés sur un site de paiement de l’État</span>
-          <span class="fsource"><a href="https://www.cyberattaque.org/laviation-civile-dgac-piratee-des-donnees-bancaires-voles-sur-un-site-de-paiement-de-letat/" target="_blank" rel="noopener">Cyberattaque.org →</a></span>
         </div>
         
       
@@ -1586,7 +1739,7 @@ L’article Banque Delubac : des pirates échouent à voler de l’argent, mais 
       ctx.stroke();
     }
 
-    const points = [100, 19, 25, 100, 100, 100, 100, 100, 44, 30, 89, 100, 0];
+    const points = [100, 19, 25, 100, 100, 100, 100, 100, 44, 30, 89, 100, 100];
     const max = 100, min = 0;
     const coords = points.map((p,i)=>({
       x: (i/(points.length-1))*w,
