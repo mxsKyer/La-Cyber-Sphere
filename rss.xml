@@ -6,6 +6,62 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] La FIFA confirme une cyberattaque : plus de 12 Go de documents confidentiels revendiqués</title>
+    <link>https://www.cyberattaque.org/la-fifa-confirme-une-cyberattaque-plus-de-12-go-de-documents-confidentiels-revendiques/</link>
+    <description>La Fédération internationale de football association (FIFA) a confirmé, le 25 novembre 2026, avoir été victime d&amp;#8217;une cyberattaque...
+L’article La FIFA confirme une cyberattaque : plus de 12 Go de documents…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 08:26:45 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] 2 milliards d’identifiants exposés : un chercheur découvre une fuite de données sans précédent</title>
+    <link>https://www.cyberattaque.org/2-milliards-identifiants-exposes-un-chercheur-decouvre-une-fuite-de-donnees-sans-precedent/</link>
+    <description>Près de deux milliards d&amp;#8217;identifiants ont été découverts dans une gigantesque base de données accessible librement sur Internet,...
+L’article 2 milliards d’identifiants exposés : un chercheur découvre une fuite de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 07:08:55 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation</title>
+    <link>https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</link>
+    <description>Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild.
+
+The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 12:32:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products</title>
+    <link>https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 12:14:46 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite</title>
+    <link>https://www.cyberattaque.org/cyberattque-alexandre-de-paris-90-000-emails-et-21-000-mots-de-passe-en-fuite/</link>
+    <description>Alexandre de Paris, maison française d&amp;#8217;accessoires de luxe pour cheveux, est visée par une importante fuite de données...
+L’article Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite est apparu en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 04:59:22 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach</title>
+    <link>https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</link>
+    <description>Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 09:50:22 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps</title>
+    <link>https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html</link>
+    <description>Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.
+
+"Most of the packages pose as WinUI 3 and…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 09:18:52 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
     <description>Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]</description>
@@ -231,51 +287,6 @@ The flaw used in the attack had been in the…</description>
     <description>Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 25 Nov 2026 04:02:57 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers reportedly breached CIA intelligence analysis system</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/</link>
-    <description>Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 02:45:03 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] CHU de Bordeaux et SIG Sauer ciblés par ScarlettGroup</title>
-    <link>https://www.zataz.com/chu-de-bordeaux-et-sig-sauer-cibles-par-scarlettgroup/</link>
-    <description>Le CHU de Bordeaux confirme une intrusion. ScarlettGroup menace de publier des données et revendique aussi SIG Sauer.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 25 Nov 2026 07:40:26 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign</title>
-    <link>https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html</link>
-    <description>An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.
-
-The…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 12:20:19 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion</title>
-    <link>https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html</link>
-    <description>Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to "numerous waves of vishing attacks" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 12:07:06 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ARTEX : enquête sur l’intelligence artificielle qui automatise les cyberattaques</title>
-    <link>https://www.cyberattaque.org/artex-enquete-sur-lintelligence-artificielle-qui-automatise-les-cyberattaques/</link>
-    <description>ARTEX est un outil de cybersécurité reposant sur l&amp;#8217;intelligence artificielle, capable d&amp;#8217;automatiser une grande partie des étapes d&amp;#8217;une...
-L’article ARTEX : enquête sur l’intelligence artificielle qui…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 06:32:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live</title>
-    <link>https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html</link>
-    <description>WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 11:51:12 +0530</pubDate>
   </item>
 </channel>
 </rss>
