@@ -6,6 +6,78 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
+    <description>Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 25 Nov 2026 17:05:09 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] 1Password customer data stolen after employee GitHub account breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</link>
+    <description>1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 25 Nov 2026 16:33:33 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft: China’s Salt Typhoon hackers are using Artex</title>
+    <link>https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool</link>
+    <description>An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 25 Nov 2026 21:18:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] 1Password : un hacker infiltre ses systèmes internes et vole des données clients</title>
+    <link>https://www.cyberattaque.org/1password-un-hacker-infiltre-ses-systemes-internes-et-vole-des-donnees-clients/</link>
+    <description>1Password, l&amp;#8217;un des gestionnaires de mots de passe les plus connus au monde, confirme une cyberattaque ayant permis...
+L’article 1Password : un hacker infiltre ses systèmes internes et vole des données clients est…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 25 Nov 2026 20:50:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] FIFA says hackers accessed ‘limited set of personal and business information’</title>
+    <link>https://therecord.media/fifa-data-breach-limited</link>
+    <description>The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 25 Nov 2026 20:40:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Italy and Switzerland warn of autonomous AI-driven cyberattacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</link>
+    <description>Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 25 Nov 2026 14:39:31 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms</title>
+    <link>https://therecord.media/ransomware-doj-indictment-recovery</link>
+    <description>The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.</description>
+    <source>The Record</source>
+    <pubDate>Wed, 25 Nov 2026 17:30:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SNIPES victime d’une cyberattaque : les factures des clients en fuite</title>
+    <link>https://www.cyberattaque.org/snipes-victime-dune-cyberattaque-les-factures-des-clients-en-fuite/</link>
+    <description>SNIPES, l&amp;#8217;enseigne internationale spécialisée dans les baskets et le streetwear, confirme avoir subi une cyberattaque ayant exposé des...
+L’article SNIPES victime d’une cyberattaque : les factures des clients en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Wed, 25 Nov 2026 17:11:12 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Australia passes tough legislation requiring big tech to preempt foreseeable harms</title>
+    <link>https://therecord.media/australia-passes-online-safety-legislation-preempt-harms</link>
+    <description>The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause…</description>
+    <source>The Record</source>
+    <pubDate>Wed, 25 Nov 2026 17:07:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CISA warns of critical unpatched flaw in Danfoss refrigeration controllers</title>
+    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/</link>
+    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Wed, 25 Nov 2026 11:13:40 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une notification de chantage aux supporters</title>
     <link>https://www.cyberattaque.org/ligue-nationale-de-basket-un-hacker-revendique-40-000-comptes-et-diffuse-une-notification-de-chantage-aux-supporters/</link>
     <description>La Ligue nationale de basket (LNB) est visée par une nouvelle revendication de cyberattaque particulièrement inquiétante. Le 25...
@@ -204,107 +276,6 @@ L’article ARTEX : enquête sur l’intelligence artificielle qui…</descripti
     <description>WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise…</description>
     <source>The Hacker News</source>
     <pubDate>Wed, 25 Nov 2026 11:51:12 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CVE-2026-103406 — Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability</title>
-    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-103406</link>
-    <description>Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router contain an OS command injection vulnerability that could allow a remote attacker to execute arbitrary commands as root via a specially crafted salt minion ID.</description>
-    <source>CISA — Catalogue KEV</source>
-    <pubDate>2026-11-25</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Rackspace shuts down Spot cloud platform after security breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</link>
-    <description>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 16:37:30 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</title>
-    <link>https://therecord.media/mycolorado-app-down-data-breach</link>
-    <description>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 24 Nov 2026 20:52:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] New Inception extortion gang launches large-scale vishing campaign</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</link>
-    <description>A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 15:21:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] GoTronic : 328 000 adresses email en fuite après une cyberattaque</title>
-    <link>https://www.cyberattaque.org/gotronic-328-000-adresses-email-en-fuite-apres-une-cyberattaque/</link>
-    <description>GoTronic, spécialiste français des composants électroniques et de la robotique, confirme une fuite de données personnelles après une...
-L’article GoTronic : 328 000 adresses email en fuite après une cyberattaque est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Tue, 24 Nov 2026 19:36:29 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] California privacy agency director Kemp to leave after two-year tenure</title>
-    <link>https://therecord.media/california-privacy-agency-kemp</link>
-    <description>The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 24 Nov 2026 19:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Turnitin discloses cyberattack affecting customer-facing systems</title>
-    <link>https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</link>
-    <description>Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 13:59:52 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Radware discloses breach exposing customer cloud access keys</title>
-    <link>https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</link>
-    <description>Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 12:49:05 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Lawmakers warn ID verification companies to bolster security after September hack</title>
-    <link>https://therecord.media/idscan-data-breach-warning-congressional-letter</link>
-    <description>A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 24 Nov 2026 17:49:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</title>
-    <link>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</link>
-    <description>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.
-
-Central to the group's operations is a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Tue, 24 Nov 2026 22:24:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
-    <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
-    <description>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 11:30:19 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] European Commission confirms data theft in EU Academy breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</link>
-    <description>The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 11:22:44 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Hackers compromise Check Point Servers in 22 organizations</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</link>
-    <description>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Tue, 24 Nov 2026 11:15:23 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Carnegie Endowment for International Peace says third-party breach leaked donation info</title>
-    <link>https://therecord.media/carnegie-endowment-data-breach</link>
-    <description>Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.</description>
-    <source>The Record</source>
-    <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
   </item>
 </channel>
 </rss>
