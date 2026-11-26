@@ -6,6 +6,66 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] NordVPN Black Friday Deal: Get 78% off VPN plans in 2026</title>
+    <link>https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/</link>
+    <description>NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 26 Nov 2026 12:58:42 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Fake paid expert interviews impersonate brands to steal Google logins</title>
+    <link>https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/</link>
+    <description>An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 26 Nov 2026 12:15:27 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Remus malware steals Gmail messages via fake Google Sheets extension</title>
+    <link>https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/</link>
+    <description>The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 26 Nov 2026 10:23:28 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware</title>
+    <link>https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html</link>
+    <description>The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.
+
+"The loader…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 20:43:41 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque chez OPCO EP : l’organisme qui accompagne 442 700 entreprises françaises suspend ses services</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-opco-ep-lorganisme-qui-accompagne-442-700-entreprises-francaises-suspend-ses-services/</link>
+    <description>OPCO EP, l&amp;#8217;un des principaux acteurs du financement de la formation professionnelle et de l&amp;#8217;apprentissage en France, confirme...
+L’article Cyberattaque chez OPCO EP : l&amp;rsquo;organisme qui accompagne 442 700…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 12:43:37 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] SYS010 malware abuses browser management to spy on Gmail, Outlook</title>
+    <link>https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</link>
+    <description>A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 26 Nov 2026 06:50:17 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Todoist : une cyberattaque expose les données de milliers d’utilisateurs</title>
+    <link>https://www.cyberattaque.org/todoist-une-cyberattaque-expose-les-donnees-de-milliers-dutilisateurs/</link>
+    <description>Todoist confirme une cyberattaque ayant permis à un pirate de pénétrer dans ses infrastructures informatiques et de voler...
+L’article Todoist : une cyberattaque expose les données de milliers d’utilisateurs est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 11:14:01 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls</title>
+    <link>https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</link>
+    <description>Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Thu, 26 Nov 2026 16:27:55 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] La FIFA confirme une cyberattaque : plus de 12 Go de documents confidentiels revendiqués</title>
     <link>https://www.cyberattaque.org/la-fifa-confirme-une-cyberattaque-plus-de-12-go-de-documents-confidentiels-revendiques/</link>
     <description>La Fédération internationale de football association (FIFA) a confirmé, le 25 novembre 2026, avoir été victime d&amp;#8217;une cyberattaque...
@@ -62,6 +122,13 @@ L’article Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite 
     <pubDate>Thu, 26 Nov 2026 09:18:52 +0530</pubDate>
   </item>
   <item>
+    <title>[Faible] UK’s long-awaited National Cyber Action Plan delayed until December</title>
+    <link>https://therecord.media/britain-delays-national-cyber-action-plan-again</link>
+    <description>Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.</description>
+    <source>The Record</source>
+    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
     <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
     <description>Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]</description>
@@ -103,190 +170,6 @@ L’article 1Password : un hacker infiltre ses systèmes internes et vole des do
     <description>Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]</description>
     <source>BleepingComputer</source>
     <pubDate>Wed, 25 Nov 2026 14:39:31 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms</title>
-    <link>https://therecord.media/ransomware-doj-indictment-recovery</link>
-    <description>The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 17:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] SNIPES victime d’une cyberattaque : les factures des clients en fuite</title>
-    <link>https://www.cyberattaque.org/snipes-victime-dune-cyberattaque-les-factures-des-clients-en-fuite/</link>
-    <description>SNIPES, l&amp;#8217;enseigne internationale spécialisée dans les baskets et le streetwear, confirme avoir subi une cyberattaque ayant exposé des...
-L’article SNIPES victime d’une cyberattaque : les factures des clients en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 17:11:12 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Australia passes tough legislation requiring big tech to preempt foreseeable harms</title>
-    <link>https://therecord.media/australia-passes-online-safety-legislation-preempt-harms</link>
-    <description>The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 17:07:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] CISA warns of critical unpatched flaw in Danfoss refrigeration controllers</title>
-    <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 11:13:40 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une notification de chantage aux supporters</title>
-    <link>https://www.cyberattaque.org/ligue-nationale-de-basket-un-hacker-revendique-40-000-comptes-et-diffuse-une-notification-de-chantage-aux-supporters/</link>
-    <description>La Ligue nationale de basket (LNB) est visée par une nouvelle revendication de cyberattaque particulièrement inquiétante. Le 25...
-L’article Ligue nationale de basket : un hacker revendique 40 000 comptes et diffuse une…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 15:48:58 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] WP Connect : un hacker piège 6 extensions WordPress de l’éditeur français et menace 3 600 sites</title>
-    <link>https://www.cyberattaque.org/wp-connect-un-hacker-piege-six-extensions-wordpress-de-lediteur-francais-et-menace-3-600-sites/</link>
-    <description>Six extensions WordPress développées par l&amp;#8217;éditeur français WP Connect ont été piégées par un cybercriminel le 22 novembre...
-L’article WP Connect : un hacker piège 6 extensions WordPress de l’éditeur français et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 15:08:03 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] More Pentests Without More Pentesters: Where AI Safely Helps</title>
-    <link>https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/</link>
-    <description>Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] InfraTrust warns of exploited supply chain flaws in network appliances</title>
-    <link>https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/</link>
-    <description>Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 10:00:00 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque chez Septeo : l’éditeur français de logiciels professionnels victime d’un vol de données</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-septeo-lediteur-francais-de-logiciels-professionnels-victime-dun-vol-de-donnees/</link>
-    <description>Septeo, l&amp;#8217;un des principaux éditeurs français de logiciels professionnels, est touché par une cyberattaque visant sa filiale Septeo...
-L’article Cyberattaque chez Septeo : l&amp;rsquo;éditeur français de logiciels…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 14:06:41 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital</title>
-    <link>https://therecord.media/guadeloupe-ransomware-hospital-cyber</link>
-    <description>France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some…</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 13:30:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html</link>
-    <description>Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.
-
-The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -
-
-
- …</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 18:18:54 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion</title>
-    <link>https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html</link>
-    <description>The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in "unauthorized access to a limited subset of its systems," the bureau said on…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 18:00:08 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Fail2Install : une faille critique de Drupal permet aux hackers de prendre le contrôle des sites web</title>
-    <link>https://www.cyberattaque.org/fail2install-une-faille-critique-de-drupal-permet-aux-hackers-de-prendre-le-controle-des-sites-web/</link>
-    <description>Une vulnérabilité critique de Drupal, l&amp;#8217;un des systèmes de gestion de contenu les plus utilisés pour les sites...
-L’article Fail2Install : une faille critique de Drupal permet aux hackers de prendre le contrôle…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 12:17:51 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Credential Remediation Is Slow When You Don’t Know What Will Break</title>
-    <link>https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html</link>
-    <description>TL;DR
-
-
-  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 17:21:48 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Skimming en Alsace, des cartes bancaires piégées à la pompe</title>
-    <link>https://www.zataz.com/skimming-en-alsace-des-cartes-bancaires-piegees-a-la-pompe/</link>
-    <description>Skimming ? En Alsace, des retraits de 500 à 1 000 euros après un plein alertent les gendarmes. Comment réagir face à la fraude.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 25 Nov 2026 11:40:44 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Banques françaises, paris sportifs et cryptomonnaies : un hacker utilise DeepSeek pour lancer ses cyberattaques</title>
-    <link>https://www.cyberattaque.org/banques-francaises-paris-sportifs-et-cryptomonnaies-un-hacker-utilise-deepseek-pour-lancer-ses-cyberattaques/</link>
-    <description>Un hacker francophone a utilisé l’intelligence artificielle chinoise DeepSeek pour mener une vaste campagne de cyberattaques visant une...
-L’article Banques françaises, paris sportifs et cryptomonnaies : un hacker…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 11:26:25 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation</title>
-    <link>https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 16:53:26 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft fixes Microsoft 365 bug blocking access to Office apps</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/</link>
-    <description>Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 06:16:32 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Faux jeu Ducros sur TikTok, le piège du coffret de Noël</title>
-    <link>https://www.zataz.com/faux-jeu-ducros-sur-tiktok-le-piege-du-coffret-de-noel/</link>
-    <description>ZATAZ retrace le faux jeu Ducros sur TikTok, du coffret d’épices de Noël au formulaire de carte bancaire.</description>
-    <source>ZATAZ</source>
-    <pubDate>Wed, 25 Nov 2026 10:46:52 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail</title>
-    <link>https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html</link>
-    <description>A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 16:13:07 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Treasury's FinCEN takes systems offline after cybersecurity incident</title>
-    <link>https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident</link>
-    <description>The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.”</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 10:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers now exploit critical Drupal RCE flaw to hijack sites</title>
-    <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/</link>
-    <description>The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 05:10:20 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html</link>
-    <description>An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.
-
-The flaw used in the attack had been in the…</description>
-    <source>The Hacker News</source>
-    <pubDate>Wed, 25 Nov 2026 14:36:59 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Microsoft confirms authentication issues after November updates</title>
-    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/</link>
-    <description>Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 04:02:57 -0500</pubDate>
   </item>
 </channel>
 </rss>
