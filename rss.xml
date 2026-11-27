@@ -6,6 +6,83 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] How to Keep Your Security Picture Current When Attackers Move at AI Speed</title>
+    <link>https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html</link>
+    <description>Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 16:02:18 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Drupal warns of new site takeover flaw exploited in attacks</title>
+    <link>https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/</link>
+    <description>The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 05:10:15 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] SAP confirms security incident after suspicious GitHub activity</title>
+    <link>https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/</link>
+    <description>SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 04:56:36 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware</title>
+    <link>https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html</link>
+    <description>Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.
+
+"Evidence indicates that…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 14:59:30 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Moyen] Microsoft pushes emergency hotpatch to fix Windows Server crashes</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/</link>
+    <description>Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 04:08:16 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] New NFS2ROOT Linux flaw can let attackers gain root privileges</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/</link>
+    <description>​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 03:06:58 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Cyberattaque chez SAP : le code source du géant allemand des logiciels volé et modifié</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-sap-le-code-source-du-geant-allemand-des-logiciels-vole-et-modifie/</link>
+    <description>SAP, l&amp;#8217;un des plus importants éditeurs de logiciels professionnels au monde, est confronté à un incident majeur de...
+L’article Cyberattaque chez SAP : le code source du géant allemand des logiciels volé et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 27 Nov 2026 07:07:14 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators</title>
+    <link>https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html</link>
+    <description>Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.
+
+Three of the…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 11:34:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access</title>
+    <link>https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html</link>
+    <description>Details have emerged about a new zero-day vulnerability in Cacti, an open-source network monitoring tool, that could be exploited to achieve remote code execution.
+
+The proof-of-concept (PoC) exploit, which has yet to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 11:18:20 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] British government takes services offline following ‘cyber incident’</title>
+    <link>https://therecord.media/uk-department-work-pensions-cyber-incident</link>
+    <description>The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] L’AFP frappée par une cyberattaque : son portail d’information mis hors service</title>
     <link>https://www.cyberattaque.org/cyberattaque-afp-agence-france-presse/</link>
     <description>L&amp;#8217;Agence France-Presse (AFP), l&amp;#8217;une des trois plus grandes agences de presse au monde, confirme avoir été victime d&amp;#8217;une...
@@ -95,77 +172,6 @@ L’article Cyberattaque chez OPCO EP : l&amp;rsquo;organisme qui accompagne 442
     <description>A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…</description>
     <source>BleepingComputer</source>
     <pubDate>Thu, 26 Nov 2026 06:50:17 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Todoist : une cyberattaque expose les données de milliers d’utilisateurs</title>
-    <link>https://www.cyberattaque.org/todoist-une-cyberattaque-expose-les-donnees-de-milliers-dutilisateurs/</link>
-    <description>Todoist confirme une cyberattaque ayant permis à un pirate de pénétrer dans ses infrastructures informatiques et de voler...
-L’article Todoist : une cyberattaque expose les données de milliers d’utilisateurs est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 26 Nov 2026 11:14:01 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls</title>
-    <link>https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html</link>
-    <description>Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 16:27:55 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] La FIFA confirme une cyberattaque : plus de 12 Go de documents confidentiels revendiqués</title>
-    <link>https://www.cyberattaque.org/la-fifa-confirme-une-cyberattaque-plus-de-12-go-de-documents-confidentiels-revendiques/</link>
-    <description>La Fédération internationale de football association (FIFA) a confirmé, le 25 novembre 2026, avoir été victime d&amp;#8217;une cyberattaque...
-L’article La FIFA confirme une cyberattaque : plus de 12 Go de documents…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 26 Nov 2026 08:26:45 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 2 milliards d’identifiants exposés : un chercheur découvre une fuite de données sans précédent</title>
-    <link>https://www.cyberattaque.org/2-milliards-identifiants-exposes-un-chercheur-decouvre-une-fuite-de-donnees-sans-precedent/</link>
-    <description>Près de deux milliards d&amp;#8217;identifiants ont été découverts dans une gigantesque base de données accessible librement sur Internet,...
-L’article 2 milliards d’identifiants exposés : un chercheur découvre une fuite de…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 26 Nov 2026 07:08:55 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation</title>
-    <link>https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html</link>
-    <description>Drupal has warned of a new "highly critical" security flaw impacting Drupal core that it said has been exploited in the wild.
-
-The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 12:32:34 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Moyen] Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products</title>
-    <link>https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html</link>
-    <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 12:14:46 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite</title>
-    <link>https://www.cyberattaque.org/cyberattque-alexandre-de-paris-90-000-emails-et-21-000-mots-de-passe-en-fuite/</link>
-    <description>Alexandre de Paris, maison française d&amp;#8217;accessoires de luxe pour cheveux, est visée par une importante fuite de données...
-L’article Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite est apparu en…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 26 Nov 2026 04:59:22 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] 1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach</title>
-    <link>https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html</link>
-    <description>Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 09:50:22 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps</title>
-    <link>https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html</link>
-    <description>Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.
-
-"Most of the packages pose as WinUI 3 and…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 09:18:52 +0530</pubDate>
   </item>
 </channel>
 </rss>
