@@ -6,6 +6,52 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] L’AFP frappée par une cyberattaque : son portail d’information mis hors service</title>
+    <link>https://www.cyberattaque.org/cyberattaque-afp-agence-france-presse/</link>
+    <description>L&amp;#8217;Agence France-Presse (AFP), l&amp;#8217;une des trois plus grandes agences de presse au monde, confirme avoir été victime d&amp;#8217;une...
+L’article L’AFP frappée par une cyberattaque : son portail d’information mis…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 22:37:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Cyberattaque chez Interservices : des milliers de personnes touchées par une fuite de données</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-interservices-des-milliers-de-personnes-touchees-par-une-fuite-de-donnees/</link>
+    <description>Interservices, l&amp;#8217;une des principales coopératives françaises de services à la personne, confirme être victime d&amp;#8217;une cyberattaque ayant potentiellement...
+L’article Cyberattaque chez Interservices : des…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 21:29:19 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug</title>
+    <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/</link>
+    <description>OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Thu, 26 Nov 2026 16:06:22 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Pagès : une cyberattaque expose les données clients et menace les paiements en ligne</title>
+    <link>https://www.cyberattaque.org/pages-une-cyberattaque-expose-les-donnees-clients-et-menace-les-paiements-en-ligne/</link>
+    <description>Pagès, la célèbre maison française de thés et d&amp;#8217;infusions, confirme une cyberattaque ayant touché sa boutique en ligne...
+L’article Pagès : une cyberattaque expose les données clients et menace les paiements en…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 21:04:02 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Buffalo Grill : la cyberattaque chez Brevo pousse l’enseigne à alerter tous ses clients</title>
+    <link>https://www.cyberattaque.org/buffalo-grill-la-cyberattaque-chez-brevo-pousse-lenseigne-a-alerter-tous-ses-clients/</link>
+    <description>Buffalo Grill confirme un incident de sécurité ayant exposé des données personnelles de clients à la suite d&amp;#8217;un...
+L’article Buffalo Grill : la cyberattaque chez Brevo pousse l’enseigne à alerter tous ses clients…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Thu, 26 Nov 2026 20:30:10 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories</title>
+    <link>https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html</link>
+    <description>A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 01:09:57 +0530</pubDate>
+  </item>
+  <item>
     <title>[Faible] NordVPN Black Friday Deal: Get 78% off VPN plans in 2026</title>
     <link>https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/</link>
     <description>NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]</description>
@@ -120,56 +166,6 @@ L’article Alexandre de Paris : 90 000 emails et 21 000 mots de passe en fuite 
 "Most of the packages pose as WinUI 3 and…</description>
     <source>The Hacker News</source>
     <pubDate>Thu, 26 Nov 2026 09:18:52 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] UK’s long-awaited National Cyber Action Plan delayed until December</title>
-    <link>https://therecord.media/britain-delays-national-cyber-action-plan-again</link>
-    <description>Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.</description>
-    <source>The Record</source>
-    <pubDate>Thu, 26 Nov 2026 00:00:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
-    <description>Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 17:05:09 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] 1Password customer data stolen after employee GitHub account breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</link>
-    <description>1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 16:33:33 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft: China’s Salt Typhoon hackers are using Artex</title>
-    <link>https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool</link>
-    <description>An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 21:18:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] 1Password : un hacker infiltre ses systèmes internes et vole des données clients</title>
-    <link>https://www.cyberattaque.org/1password-un-hacker-infiltre-ses-systemes-internes-et-vole-des-donnees-clients/</link>
-    <description>1Password, l&amp;#8217;un des gestionnaires de mots de passe les plus connus au monde, confirme une cyberattaque ayant permis...
-L’article 1Password : un hacker infiltre ses systèmes internes et vole des données clients est…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Wed, 25 Nov 2026 20:50:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] FIFA says hackers accessed ‘limited set of personal and business information’</title>
-    <link>https://therecord.media/fifa-data-breach-limited</link>
-    <description>The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.</description>
-    <source>The Record</source>
-    <pubDate>Wed, 25 Nov 2026 20:40:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Italy and Switzerland warn of autonomous AI-driven cyberattacks</title>
-    <link>https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</link>
-    <description>Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Wed, 25 Nov 2026 14:39:31 -0500</pubDate>
   </item>
 </channel>
 </rss>
