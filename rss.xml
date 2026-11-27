@@ -6,6 +6,117 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Faible] pCloud confirms password manager hack after suspicious login alerts</title>
+    <link>https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/</link>
+    <description>The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 14:26:04 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] New Boston Scientific data breach exposes personal, medical info</title>
+    <link>https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/</link>
+    <description>Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 13:57:42 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Unpatched Cacti zero-day with public PoC gives remote code execution</title>
+    <link>https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/</link>
+    <description>A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 12:06:13 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign</title>
+    <link>https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html</link>
+    <description>A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 22:06:11 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Critique] US Air Force cloud platform reportedly hacked in latest federal breach</title>
+    <link>https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/</link>
+    <description>Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 10:09:40 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] pCloud confirme une cyberattaque contre son gestionnaire de mots de passe</title>
+    <link>https://www.cyberattaque.org/pcloud-confirme-une-cyberattaque-contre-son-gestionnaire-de-mots-de-passe/</link>
+    <description>pCloud, le spécialiste suisse du stockage en ligne qui revendique plus de 24 millions d&amp;#8217;utilisateurs dans le monde,...
+L’article pCloud confirme une cyberattaque contre son gestionnaire de mots de passe est apparu…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 27 Nov 2026 15:06:23 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs</title>
+    <link>https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/</link>
+    <description>Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls,…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 10:00:10 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Malwarebytes Antivirus: Get 50% off during Black Friday 2026</title>
+    <link>https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/</link>
+    <description>Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 09:22:06 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Japan’s education ministry discloses breach of government procurement system</title>
+    <link>https://therecord.media/japan-education-ministry-cyberattack</link>
+    <description>Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 27 Nov 2026 14:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Infflux : le géant français des logiciels de logistique visé par un ransomware</title>
+    <link>https://www.cyberattaque.org/cyberattaque-infflux-bext-ws-ransomware/</link>
+    <description>Infflux, l&amp;#8217;un des principaux éditeurs français de logiciels de gestion logistique, figure désormais parmi les victimes revendiquées par...
+L’article Infflux : le géant français des logiciels de logistique visé par…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 27 Nov 2026 14:04:46 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] ParuVendu : une cyberattaque expose les coordonnées et l’historique d’activité de ses utilisateurs</title>
+    <link>https://www.cyberattaque.org/paruvendu-une-cyberattaque-expose-les-coordonnees-et-lhistorique-dactivite-de-ses-utilisateurs/</link>
+    <description>ParuVendu.fr, l&amp;#8217;un des principaux sites de petites annonces en France, confirme une cyberattaque ayant exposé les données personnelles...
+L’article ParuVendu : une cyberattaque expose les coordonnées et…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 27 Nov 2026 13:20:00 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Critique] Software giant SAP confirms cyber incident amid reports of source code breach</title>
+    <link>https://therecord.media/sap-germany-cyberattack-github</link>
+    <description>German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 27 Nov 2026 13:15:00 GMT</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Store : une application pirate disponible pendant cinq mois malgré les contrôles de sécurité</title>
+    <link>https://www.cyberattaque.org/microsoft-store-une-application-pirate-disponible-pendant-cinq-mois-malgre-les-controles-de-securite/</link>
+    <description>Pendant au moins cinq mois, une application malveillante a pu être distribuée depuis le Microsoft Store, la boutique...
+L’article Microsoft Store : une application pirate disponible pendant cinq mois malgré les…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Fri, 27 Nov 2026 13:08:34 +0000</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control</title>
+    <link>https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html</link>
+    <description>Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.
+
+The intrusion, according to…</description>
+    <source>The Hacker News</source>
+    <pubDate>Fri, 27 Nov 2026 17:19:34 +0530</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Microsoft removes WSUS server role in Windows Server 2028</title>
+    <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/</link>
+    <description>Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Fri, 27 Nov 2026 06:18:36 -0500</pubDate>
+  </item>
+  <item>
     <title>[Faible] How to Keep Your Security Picture Current When Attackers Move at AI Speed</title>
     <link>https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html</link>
     <description>Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells…</description>
@@ -76,6 +187,34 @@ The proof-of-concept (PoC) exploit, which has yet to…</description>
     <pubDate>Fri, 27 Nov 2026 11:18:20 +0530</pubDate>
   </item>
   <item>
+    <title>[Critique] CVE-2026-136716 — Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-136716</link>
+    <description>Drupal Core contains an improper check for unusual or exceptional conditions vulnerability that allows an unauthenticated remote attacker to take over a site via the exposed Drupal installer when the site is in one of the affected unusual or incomplete installation states.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-27</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-129243 — OSGeo GeoServer Incorrect Authorization Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-129243</link>
+    <description>GeoServer contains an incorrect authorization vulnerability that allows an unauthenticated remote attacker to bypass service-level role checks and invoke operations protected solely by those checks via a request with a prefixed service parameter. This vulnerability can be chained with CVE-2026-129244, CVE-2026-120705, CVE-2026-129245, and CVE-2026-129242 to achieve unauthenticated remote code execution on an affected GeoServer instance.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-27</pubDate>
+  </item>
+  <item>
+    <title>[Critique] CVE-2026-120705 — OSGeo GeoServer XML Injection Vulnerability</title>
+    <link>https://www.cisa.gov/known-exploited-vulnerabilities-catalog?search_api_fulltext=CVE-2026-120705</link>
+    <description>OsGeo GeoServer contains an XML injection vulnerability that allows an unauthenticated remote attacker to cause the server to read local text files accessible to the GeoServer process or fetch attacker-specified HTTP or HTTPS URLs via a crafted ID parameter in the WFS 2.0 GetFeatureById stored query. This vulnerability can be chained with CVE-2026-129244, CVE-2026-129243, CVE-2026-129245, and CVE-2026-129242 to achieve unauthenticated remote code execution on an affected GeoServer instance.</description>
+    <source>CISA — Catalogue KEV</source>
+    <pubDate>2026-11-27</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattack disrupts global news distribution platform at France’s AFP</title>
+    <link>https://therecord.media/france-afp-hit-by-cyberattack</link>
+    <description>French international news agency Agence France-Presse was hit by a cyberattack Thursday, forcing it to take offline one of its main platforms for distributing news content to media organizations worldwide.</description>
+    <source>The Record</source>
+    <pubDate>Fri, 27 Nov 2026 00:00:00 GMT</pubDate>
+  </item>
+  <item>
     <title>[Faible] British government takes services offline following ‘cyber incident’</title>
     <link>https://therecord.media/uk-department-work-pensions-cyber-incident</link>
     <description>The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.</description>
@@ -120,58 +259,6 @@ L’article Pagès : une cyberattaque expose les données clients et menace les 
 L’article Buffalo Grill : la cyberattaque chez Brevo pousse l’enseigne à alerter tous ses clients…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Thu, 26 Nov 2026 20:30:10 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories</title>
-    <link>https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html</link>
-    <description>A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 27 Nov 2026 01:09:57 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] NordVPN Black Friday Deal: Get 78% off VPN plans in 2026</title>
-    <link>https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/</link>
-    <description>NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 26 Nov 2026 12:58:42 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Fake paid expert interviews impersonate brands to steal Google logins</title>
-    <link>https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/</link>
-    <description>An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 26 Nov 2026 12:15:27 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Remus malware steals Gmail messages via fake Google Sheets extension</title>
-    <link>https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/</link>
-    <description>The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 26 Nov 2026 10:23:28 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware</title>
-    <link>https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html</link>
-    <description>The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.
-
-"The loader…</description>
-    <source>The Hacker News</source>
-    <pubDate>Thu, 26 Nov 2026 20:43:41 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Cyberattaque chez OPCO EP : l’organisme qui accompagne 442 700 entreprises françaises suspend ses services</title>
-    <link>https://www.cyberattaque.org/cyberattaque-chez-opco-ep-lorganisme-qui-accompagne-442-700-entreprises-francaises-suspend-ses-services/</link>
-    <description>OPCO EP, l&amp;#8217;un des principaux acteurs du financement de la formation professionnelle et de l&amp;#8217;apprentissage en France, confirme...
-L’article Cyberattaque chez OPCO EP : l&amp;rsquo;organisme qui accompagne 442 700…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Thu, 26 Nov 2026 12:43:37 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] SYS010 malware abuses browser management to spy on Gmail, Outlook</title>
-    <link>https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</link>
-    <description>A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Thu, 26 Nov 2026 06:50:17 -0500</pubDate>
   </item>
 </channel>
 </rss>
