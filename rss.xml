@@ -6,6 +6,28 @@
   <description>Alertes critiques et élevées, résumées et sourcées.</description>
   <language>fr-fr</language>
   <item>
+    <title>[Élevé] College Board confirms data breach after unauthorized password changes</title>
+    <link>https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/</link>
+    <description>College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial…</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 28 Nov 2026 12:45:59 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Élevé] Q-Dir and DesktopOK Windows utilities compromised to push Python RAT</title>
+    <link>https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/</link>
+    <description>Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]</description>
+    <source>BleepingComputer</source>
+    <pubDate>Sat, 28 Nov 2026 10:32:49 -0500</pubDate>
+  </item>
+  <item>
+    <title>[Faible] Cyberattaque chez lePERMISLIBRE : les dossiers des candidats au permis de conduire aux mains des hackers</title>
+    <link>https://www.cyberattaque.org/cyberattaque-chez-lepermislibre-les-dossiers-des-candidats-au-permis-de-conduire-aux-mains-des-pirates/</link>
+    <description>lePERMISLIBRE, l&amp;#8217;un des principaux acteurs de l&amp;#8217;auto-école en ligne en France, annonce à ses clients avoir été victime...
+L’article Cyberattaque chez lePERMISLIBRE : les dossiers des candidats au permis de…</description>
+    <source>Cyberattaque.org</source>
+    <pubDate>Sat, 28 Nov 2026 12:28:45 +0000</pubDate>
+  </item>
+  <item>
     <title>[Faible] pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts</title>
     <link>https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html</link>
     <description>Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts.
@@ -37,110 +59,6 @@ L’article Have I Been Pwned alerte ses clients sur un risque de vol d’identi
 L’article Centre hospitalier de Cadillac : l’établissement psychiatrique frappé par une…</description>
     <source>Cyberattaque.org</source>
     <pubDate>Sat, 28 Nov 2026 06:38:56 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] pCloud confirms password manager hack after suspicious login alerts</title>
-    <link>https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/</link>
-    <description>The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 14:26:04 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Élevé] New Boston Scientific data breach exposes personal, medical info</title>
-    <link>https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/</link>
-    <description>Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 13:57:42 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Unpatched Cacti zero-day with public PoC gives remote code execution</title>
-    <link>https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/</link>
-    <description>A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 12:06:13 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign</title>
-    <link>https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html</link>
-    <description>A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 27 Nov 2026 22:06:11 +0530</pubDate>
-  </item>
-  <item>
-    <title>[Critique] US Air Force cloud platform reportedly hacked in latest federal breach</title>
-    <link>https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/</link>
-    <description>Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 10:09:40 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] pCloud confirme une cyberattaque contre son gestionnaire de mots de passe</title>
-    <link>https://www.cyberattaque.org/pcloud-confirme-une-cyberattaque-contre-son-gestionnaire-de-mots-de-passe/</link>
-    <description>pCloud, le spécialiste suisse du stockage en ligne qui revendique plus de 24 millions d&amp;#8217;utilisateurs dans le monde,...
-L’article pCloud confirme une cyberattaque contre son gestionnaire de mots de passe est apparu…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 27 Nov 2026 15:06:23 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs</title>
-    <link>https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/</link>
-    <description>Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls,…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 10:00:10 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Malwarebytes Antivirus: Get 50% off during Black Friday 2026</title>
-    <link>https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/</link>
-    <description>Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft…</description>
-    <source>BleepingComputer</source>
-    <pubDate>Fri, 27 Nov 2026 09:22:06 -0500</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Japan’s education ministry discloses breach of government procurement system</title>
-    <link>https://therecord.media/japan-education-ministry-cyberattack</link>
-    <description>Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 27 Nov 2026 14:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Infflux : le géant français des logiciels de logistique visé par un ransomware</title>
-    <link>https://www.cyberattaque.org/cyberattaque-infflux-bext-ws-ransomware/</link>
-    <description>Infflux, l&amp;#8217;un des principaux éditeurs français de logiciels de gestion logistique, figure désormais parmi les victimes revendiquées par...
-L’article Infflux : le géant français des logiciels de logistique visé par…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 27 Nov 2026 14:04:46 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] ParuVendu : une cyberattaque expose les coordonnées et l’historique d’activité de ses utilisateurs</title>
-    <link>https://www.cyberattaque.org/paruvendu-une-cyberattaque-expose-les-coordonnees-et-lhistorique-dactivite-de-ses-utilisateurs/</link>
-    <description>ParuVendu.fr, l&amp;#8217;un des principaux sites de petites annonces en France, confirme une cyberattaque ayant exposé les données personnelles...
-L’article ParuVendu : une cyberattaque expose les coordonnées et…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 27 Nov 2026 13:20:00 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Critique] Software giant SAP confirms cyber incident amid reports of source code breach</title>
-    <link>https://therecord.media/sap-germany-cyberattack-github</link>
-    <description>German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.</description>
-    <source>The Record</source>
-    <pubDate>Fri, 27 Nov 2026 13:15:00 GMT</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Store : une application pirate disponible pendant cinq mois malgré les contrôles de sécurité</title>
-    <link>https://www.cyberattaque.org/microsoft-store-une-application-pirate-disponible-pendant-cinq-mois-malgre-les-controles-de-securite/</link>
-    <description>Pendant au moins cinq mois, une application malveillante a pu être distribuée depuis le Microsoft Store, la boutique...
-L’article Microsoft Store : une application pirate disponible pendant cinq mois malgré les…</description>
-    <source>Cyberattaque.org</source>
-    <pubDate>Fri, 27 Nov 2026 13:08:34 +0000</pubDate>
-  </item>
-  <item>
-    <title>[Faible] Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control</title>
-    <link>https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html</link>
-    <description>Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.
-
-The intrusion, according to…</description>
-    <source>The Hacker News</source>
-    <pubDate>Fri, 27 Nov 2026 17:19:34 +0530</pubDate>
   </item>
 </channel>
 </rss>
